@@ -779,7 +779,7 @@ export const translations = {
     hero: {
       badge: "韩国值得信赖的外商投资伙伴",
       titleLine1: "外国人投资的成功伙伴",
-      titleLine2: "VISION行政士事务所",
+      titleLine2: "飞展行政士事务所",
       subtitle:
         "从外商投资法人设立到签证取得，提供多语言一站式综合咨询服务。",
       trustBadges: ["年处理200+件", "多语言支持", "一站式服务"],
@@ -791,7 +791,7 @@ export const translations = {
       slides: [
         {
           title: "外国人投资的成功伙伴",
-          subtitle: "从外商投资法人设立到营业登记，VISION行政士事务所为您的韩国市场进入全程护航。",
+          subtitle: "从外商投资法人设立到营业登记，飞展行政士事务所为您的韩国市场进入全程护航。",
           cta: "了解公司设立",
         },
         {
@@ -1081,7 +1081,7 @@ export const translations = {
       realEstate: "房地产投资移民",
       publicInterest: "公益移民",
       aboutUs: "关于我们",
-      copyright: "VISION行政士事务所。保留所有权利。",
+      copyright: "飞展行政士事务所。保留所有权利。",
       privacy: "隐私政策",
       terms: "服务条款",
       phone: "02-363-2251",
