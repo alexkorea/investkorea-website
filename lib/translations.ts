@@ -77,7 +77,7 @@ export const translations = {
           cta: "영주권 전략 보기",
         },
         {
-          title: "10년 이상의 전문 행정사 경험",
+          title: "8년 이상의 전문 행정사 경험",
           subtitle: "연간 200건 이상의 성공 사례와 다국어 지원으로 신뢰받는 외국인 투자 전문 파트너입니다.",
           cta: "무료 상담 예약",
         },
@@ -240,7 +240,7 @@ export const translations = {
       subtitle:
         "깊은 현지 전문성과 국제적 서비스 기준을 결합합니다. 외국인 투자자가 직면하는 도전을 이해하고 실질적이고 효율적인 솔루션을 제공합니다.",
       keyPoints: [
-        "2010년부터 외국인 투자 및 법인 설립 전문",
+        "208년부터 외국인 투자 및 법인 설립 전문",
         "선호하는 언어로 직접 소통 가능",
         "투명한 진행 과정과 정기적인 업데이트",
       ],
@@ -452,7 +452,7 @@ export const translations = {
           cta: "View PR Strategies",
         },
         {
-          title: "10+ Years of Professional Experience",
+          title: "8+ Years of Professional Experience",
           subtitle: "200+ successful cases annually with multilingual support — your trusted partner for foreign investment in Korea.",
           cta: "Book Free Consultation",
         },
@@ -805,7 +805,7 @@ export const translations = {
           cta: "查看永住权战略",
         },
         {
-          title: "10年以上专业行政士经验",
+          title: "8年以上专业行政士经验",
           subtitle: "每年200件以上成功案例，多语言支持，值得信赖的外国人投资专业伙伴。",
           cta: "预约免费咨询",
         },
@@ -956,7 +956,7 @@ export const translations = {
       subtitle:
         "我们将深厚的本地专业知识与国际服务标准相结合。我们的团队了解外国投资者面临的挑战，并在每一步提供实用、高效的解决方案。",
       keyPoints: [
-        "自2010年起专注外商投资和公司设立",
+        "自208年起专注外商投资和公司设立",
         "以您偏好的语言直接沟通",
         "透明的流程和定期进度更新",
       ],
@@ -1153,7 +1153,7 @@ export const translations = {
           cta: "永住権戦略を見る",
         },
         {
-          title: "10年以上の専門行政士経験",
+          title: "8年以上の専門行政士経験",
           subtitle: "年間200件以上の成功事例と多言語サポートで信頼される外国人投資専門パートナーです。",
           cta: "無料相談予約",
         },
@@ -1304,7 +1304,7 @@ export const translations = {
       subtitle:
         "深い現地専門知識と国際的なサービス基準を融合。外国人投資者が直面する課題を理解し、実践的で効率的なソリューションを提供します。",
       keyPoints: [
-        "2010年から外国人投資及び法人設立を専門",
+        "208年から外国人投資及び法人設立を専門",
         "お好みの言語で直接コミュニケーション",
         "透明なプロセスと定期的な進捗報告",
       ],
