@@ -156,21 +156,30 @@
   text-decoration: underline;
 }
 
-/* Ensure inline styles on divs/tables are not overridden by prose */
-.prose div[style],
-.prose table[style],
-.prose th[style],
-.prose td[style],
-.prose img[style],
-.prose a[style] {
-  all: revert;
+/* Ensure inline styles on design elements are not overridden by prose */
+.prose div[style] {
+  background: revert;
+  border: revert;
+  border-left: revert;
+  border-radius: revert;
+  padding: revert;
+  margin: revert;
+  color: revert;
+  text-align: revert;
 }
-.prose div[style] strong,
-.prose div[style] p,
-.prose div[style] h3,
-.prose div[style] a {
-  all: revert;
-}
+.prose table[style] { all: revert; }
+.prose th[style] { all: revert; }
+.prose td[style] { all: revert; }
+.prose img[style] { all: revert; }
+
+/* Internal links should be blue */
+.prose a { color: #2563eb !important; text-decoration: none; font-weight: 500; }
+.prose a:hover { text-decoration: underline; color: #1e40af !important; }
+.prose a[style] { color: #2563eb !important; }
+
+/* CTA div links should be white */
+.prose div[style*="gradient"] a { color: #fff !important; }
+.prose div[style*="gradient"] a:hover { color: #fff !important; text-decoration: none; }
 
 /* FAQ table spacing */
 .prose table[style*="border-spacing"] {

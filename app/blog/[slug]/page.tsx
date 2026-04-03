@@ -3,6 +3,7 @@ import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CTA } from "@/components/cta"
+import { Messenger } from "@/components/messenger"
 import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 
@@ -31,6 +32,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   return (
     <main className="min-h-screen">
       <Header locale="ko" />
+
+      {/* Messenger QR */}
+      <Messenger locale="ko" />
 
       {/* Hero Banner */}
       <section className="relative pt-16">

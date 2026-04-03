@@ -3,6 +3,7 @@ import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CTA } from "@/components/cta"
+import { Messenger } from "@/components/messenger"
 import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
 import { type Locale, locales } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
@@ -49,6 +50,9 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
   return (
     <main className="min-h-screen">
       <Header locale={locale} />
+
+      {/* Messenger QR */}
+      <Messenger locale={locale} />
 
       {/* Hero Banner */}
       <section className="relative pt-16">
