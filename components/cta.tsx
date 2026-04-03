@@ -17,10 +17,7 @@ export function CTA({ locale = "ko" }: { locale?: Locale }) {
           <Button className="bg-white text-primary hover:bg-blue-50 px-8 h-12 text-base rounded-lg font-semibold">
             {t.cta.bookConsultation}
           </Button>
-          <Button
-            variant="outline"
-            className="border-white/30 text-white hover:bg-white/10 px-8 h-12 text-base rounded-lg"
-          >
+          <Button className="bg-white text-primary hover:bg-blue-50 px-8 h-12 text-base rounded-lg font-semibold">
             {t.cta.messengerInquiry}
           </Button>
         </div>
