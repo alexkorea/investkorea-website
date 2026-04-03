@@ -385,7 +385,7 @@ export const translations = {
       terms: "이용약관",
       phone: "02-363-2251",
       email: "5000meter@gmail.com",
-      address: "서울특별시 중구 퇴계로 324, 3층 (성우빌딩)",
+      address: "서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터",
     },
   },
   en: {
