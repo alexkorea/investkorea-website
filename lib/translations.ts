@@ -385,7 +385,7 @@ export const translations = {
       terms: "이용약관",
       phone: "02-363-2251",
       email: "5000meter@gmail.com",
-      address: "서울 중구 퇴계로 324 광희동",
+      address: "서울특별시 중구 퇴계로 324, 3층 (성우빌딩)",
     },
   },
   en: {
