@@ -2,56 +2,49 @@ import Image from "next/image"
 import { type Locale, getTranslations } from "@/lib/translations"
 
 const messengerData = [
-  { qr: "/qr/kakao.jpg", color: "bg-yellow-400" },
-  { qr: "/qr/wechat.jpg", color: "bg-green-500" },
-  { qr: "/qr/line.jpg", color: "bg-green-400" },
-  { qr: "/qr/whatsapp.jpg", color: "bg-emerald-500" },
+  { qr: "/qr/kakao.jpg" },
+  { qr: "/qr/wechat.jpg" },
+  { qr: "/qr/line.jpg" },
+  { qr: "/qr/whatsapp.jpg" },
 ]
+
+const messengerNames = ["Kakao Talk", "WeChat", "LINE", "WhatsApp"]
 
 export function Messenger({ locale = "ko" }: { locale?: Locale }) {
   const t = getTranslations(locale)
 
   return (
-    <section className="py-20 bg-muted">
+    <section className="py-12 bg-muted">
       <div className="max-w-7xl mx-auto px-6">
         {/* Section Header */}
-        <div className="text-center mb-16">
-          <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-primary/10 text-primary text-base font-medium mb-4">
-            {t.messenger.badge}
-          </div>
-          <h2 className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-4">
+        <div className="text-center mb-8">
+          <h2 className="text-2xl md:text-3xl font-serif font-bold text-foreground mb-2">
             {t.messenger.title}
           </h2>
-          <p className="text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-muted-foreground">
             {t.messenger.subtitle}
           </p>
         </div>
 
-        {/* QR Cards */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
-          {t.messenger.items.map((item, i) => (
+        {/* QR Cards - compact */}
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
+          {messengerNames.map((name, i) => (
             <div
               key={i}
-              className="bg-white rounded-2xl p-6 text-center border border-border hover:shadow-md transition-shadow"
+              className="bg-white rounded-xl p-4 text-center border border-border hover:shadow-md transition-shadow"
             >
-              {/* QR Code */}
-              <div className="w-32 h-32 mx-auto mb-4 rounded-xl overflow-hidden bg-muted border border-border">
+              <div className="w-28 h-28 mx-auto mb-3 rounded-lg overflow-hidden bg-muted border border-border">
                 <Image
                   src={messengerData[i].qr}
-                  alt={`${item.name} QR Code`}
-                  width={128}
-                  height={128}
+                  alt={`${name} QR Code`}
+                  width={112}
+                  height={112}
                   className="w-full h-full object-cover"
                 />
               </div>
-              {/* Messenger Info */}
-              <div className={`inline-block w-2 h-2 rounded-full ${messengerData[i].color} mb-2`} />
-              <h3 className="text-sm font-semibold text-foreground mb-1">
-                {item.name}
+              <h3 className="text-sm font-semibold text-foreground">
+                {name}
               </h3>
-              <p className="text-base text-muted-foreground leading-relaxed">
-                {item.description}
-              </p>
             </div>
           ))}
         </div>
