@@ -424,8 +424,8 @@ export const pageTranslations = {
       sidebarRoutesTitle: "투자이민 경로",
       sidebarRoutes: [
         { href: "/visa/f5-strategies", label: "영주권전략" },
-        { href: "/immigration/real-estate", label: "부동산이민" },
-        { href: "/immigration/public-interest", label: "공익이민" },
+        { href: "/immigration/real-estate", label: "F-2 비자 부동산 투자이민" },
+        { href: "/immigration/public-interest", label: "F-2 비자 공익사업이민" },
       ],
       sidebarRelatedTitle: "관련 서비스",
       sidebarRelated: [
@@ -479,8 +479,8 @@ export const pageTranslations = {
       sidebarRoutesTitle: "투자이민 경로",
       sidebarRoutes: [
         { href: "/visa/f5", label: "F-5 영주권 개요" },
-        { href: "/immigration/real-estate", label: "부동산이민" },
-        { href: "/immigration/public-interest", label: "공익이민" },
+        { href: "/immigration/real-estate", label: "F-2 비자 부동산 투자이민" },
+        { href: "/immigration/public-interest", label: "F-2 비자 공익사업이민" },
       ],
       ctaTitle: "맞춤 전략 상담",
       ctaDesc: "개인 상황에 맞는 최적의 영주권 전략을 전문 행정사가 설계해 드립니다.",
@@ -488,7 +488,7 @@ export const pageTranslations = {
     },
     immigrationRealEstate: {
       badge: "투자이민",
-      title: "부동산이민",
+      title: "F-2 비자 부동산 투자이민",
       subtitle: "부동산 투자를 통한 한국 영주권(F-5) 취득 안내",
       whatIsTitle: "부동산 투자이민 제도",
       whatIsP1: "부동산 투자이민 제도는 법무부가 지정한 특정 지역의 부동산(휴양 콘도, 리조트, 펜션 등)에 일정 금액 이상을 투자한 외국인에게 한국 체류 자격을 부여하고, 투자 상태를 5년간 유지하면 영주자격(F-5)을 부여하는 제도입니다.",
@@ -529,7 +529,7 @@ export const pageTranslations = {
       sidebarRelated: [
         { href: "/visa/f5", label: "F-5 영주권 개요" },
         { href: "/visa/f5-strategies", label: "영주권전략" },
-        { href: "/immigration/public-interest", label: "공익이민" },
+        { href: "/immigration/public-interest", label: "F-2 비자 공익사업이민" },
       ],
       ctaTitle: "부동산이민 상담",
       ctaDesc: "투자 지역 선정부터 영주권 취득까지, 전문 행정사가 안내합니다.",
@@ -537,7 +537,7 @@ export const pageTranslations = {
     },
     immigrationPublicInterest: {
       badge: "투자이민",
-      title: "공익이민",
+      title: "F-2 비자 공익사업이민",
       subtitle: "공익사업 투자를 통한 한국 영주권(F-5) 취득 안내",
       whatIsTitle: "공익사업 투자이민이란?",
       whatIsP1: "공익사업 투자이민은 법무부장관이 지정한 공익사업(국가 또는 공공단체가 수행하는 사업)에 일정 금액 이상을 투자한 외국인에게 영주자격(F-5)을 부여하는 제도입니다.",
@@ -576,7 +576,7 @@ export const pageTranslations = {
       sidebarRelated: [
         { href: "/visa/f5", label: "F-5 영주권 개요" },
         { href: "/visa/f5-strategies", label: "영주권전략" },
-        { href: "/immigration/real-estate", label: "부동산이민" },
+        { href: "/immigration/real-estate", label: "F-2 비자 부동산 투자이민" },
       ],
       ctaTitle: "공익이민 상담",
       ctaDesc: "공익사업 투자이민에 관한 최신 정보와 맞춤 안내를 받아보세요.",
@@ -690,8 +690,8 @@ export const pageTranslations = {
         { value: "d8", label: "D-8 기업투자비자" },
         { value: "d7", label: "D-7 주재원비자" },
         { value: "f5", label: "F-5 영주권 / 고액투자" },
-        { value: "real-estate", label: "부동산이민" },
-        { value: "public-interest", label: "공익이민" },
+        { value: "real-estate", label: "F-2 비자 부동산 투자이민" },
+        { value: "public-interest", label: "F-2 비자 공익사업이민" },
         { value: "other", label: "기타" },
       ],
       formMessage: "상담 내용 *",
