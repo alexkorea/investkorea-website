@@ -587,13 +587,13 @@ export const pageTranslations = {
       title: "회사소개",
       subtitle: "외국인 투자의 성공 파트너, VISION 행정사사무소",
       introTitle: "VISION 행정사사무소",
-      introP1: "VISION 행정사사무소는 외국인 투자자와 해외 기업의 한국 시장 진출을 전문적으로 지원하는 행정사사무소입니다. 2010년부터 외국인 투자법인 설립, 비자 발급, 영주권 취득 등 외국인 관련 행정 업무를 전문으로 수행해 왔습니다.",
+      introP1: "VISION 행정사사무소는 외국인 투자자와 해외 기업의 한국 시장 진출을 전문적으로 지원하는 행정사사무소입니다. 2018년부터 외국인 투자법인 설립, 비자 발급, 영주권 취득 등 외국인 관련 행정 업무를 전문으로 수행해 왔습니다.",
       introP2: "영어, 중국어, 일본어를 구사하는 전문 행정사팀이 고객의 언어로 직접 소통하며, 초기 상담부터 최종 승인까지 모든 과정을 원스톱으로 처리합니다.",
       statsTitle: "핵심 역량",
       stats: [
         { value: "200+", label: "연간 처리 건수" },
         { value: "6명", label: "전문 행정사" },
-        { value: "3개", label: "지원 언어 (영/중/일)" },
+        { value: "4개", label: "지원 언어 (한/영/중/일)" },
         { value: "15년+", label: "업계 경험" },
       ],
       expertiseTitle: "전문 분야",
@@ -1290,7 +1290,7 @@ export const pageTranslations = {
       title: "About Us",
       subtitle: "Your Success Partner in Foreign Investment - VISION Administrative Agency",
       introTitle: "VISION Administrative Agency",
-      introP1: "VISION Administrative Agency is a professional immigration office specializing in supporting foreign investors and overseas companies entering the Korean market. Since 2010, we have been specializing in administrative services for foreigners, including FDI company establishment, visa issuance, and permanent residency acquisition.",
+      introP1: "VISION Administrative Agency is a professional immigration office specializing in supporting foreign investors and overseas companies entering the Korean market. Since 2018, we have been specializing in administrative services for foreigners, including FDI company establishment, visa issuance, and permanent residency acquisition.",
       introP2: "Our team of professional agents fluent in English, Chinese, and Japanese communicates directly in your language, handling everything from initial consultation to final approval in a one-stop process.",
       statsTitle: "Core Competencies",
       stats: [
@@ -1993,7 +1993,7 @@ export const pageTranslations = {
       title: "公司介绍",
       subtitle: "外国投资的成功伙伴，VISION行政士事务所",
       introTitle: "VISION行政士事务所",
-      introP1: "VISION行政士事务所是专门支持外国投资者和海外企业进入韩国市场的行政士事务所。自2010年以来，一直专注于外国人投资法人设立、签证发放、永住权取得等外国人相关行政业务。",
+      introP1: "VISION行政士事务所是专门支持外国投资者和海外企业进入韩国市场的行政士事务所。自2018年以来，一直专注于外国人投资法人设立、签证发放、永住权取得等外国人相关行政业务。",
       introP2: "能够使用英语、中文、日语的专业行政士团队以客户的语言直接沟通，从初次咨询到最终批准，一站式处理所有流程。",
       statsTitle: "核心能力",
       stats: [
@@ -2696,7 +2696,7 @@ export const pageTranslations = {
       title: "会社紹介",
       subtitle: "外国人投資の成功パートナー、VISION行政士事務所",
       introTitle: "VISION行政士事務所",
-      introP1: "VISION行政士事務所は、外国人投資家と海外企業の韓国市場進出を専門的に支援する行政士事務所です。2010年から外国人投資法人設立、ビザ発給、永住権取得等、外国人関連の行政業務を専門に遂行してまいりました。",
+      introP1: "VISION行政士事務所は、外国人投資家と海外企業の韓国市場進出を専門的に支援する行政士事務所です。2018年から外国人投資法人設立、ビザ発給、永住権取得等、外国人関連の行政業務を専門に遂行してまいりました。",
       introP2: "英語、中国語、日本語を使用できる専門行政士チームがお客様の言語で直接コミュニケーションし、初回相談から最終承認まですべての過程をワンストップで処理いたします。",
       statsTitle: "核心能力",
       stats: [
