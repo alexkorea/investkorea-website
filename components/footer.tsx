@@ -115,7 +115,7 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-base text-muted-foreground">
-            &copy; {new Date().getFullYear()} {t.footer.copyright}
+            &copy; 2018 {t.footer.copyright}
           </p>
           <div className="flex gap-6 text-base text-muted-foreground">
             <Link href={getLocalePath(locale, "/")} className="hover:text-gray-300 transition-colors">

@@ -117,6 +117,28 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
             {/* Sidebar */}
             <aside className="lg:w-80 shrink-0">
               <div className="sticky top-24 space-y-8">
+                {/* QR Codes 2x2 */}
+                <div className="bg-white rounded-2xl p-5 border border-gray-200">
+                  <h3 className="font-serif font-semibold text-gray-900 mb-3 text-center text-sm">
+                    {locale === "ko" ? "메신저 상담" : locale === "ja" ? "メッセンジャー相談" : locale === "zh" ? "即时通讯咨询" : "Messenger Inquiry"}
+                  </h3>
+                  <div className="grid grid-cols-2 gap-3">
+                    {[
+                      { name: "Kakao Talk", qr: "/qr/kakao.jpg" },
+                      { name: "WeChat", qr: "/qr/wechat.jpg" },
+                      { name: "LINE", qr: "/qr/line.jpg" },
+                      { name: "WhatsApp", qr: "/qr/whatsapp.jpg" },
+                    ].map((m) => (
+                      <div key={m.name} className="text-center">
+                        <div className="w-full aspect-square rounded-lg overflow-hidden border border-gray-100 mb-1">
+                          <img src={m.qr} alt={m.name} className="w-full h-full object-cover" />
+                        </div>
+                        <span className="text-xs text-gray-600">{m.name}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
                 {/* Related Posts */}
                 <div className="bg-gray-50 rounded-2xl p-6">
                   <h3 className="font-serif font-semibold text-gray-900 mb-4">{labels.relatedPosts}</h3>
