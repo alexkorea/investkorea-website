@@ -4,8 +4,6 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CTA } from "@/components/cta"
 import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
-import { remark } from "remark"
-import html from "remark-html"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 
 export function generateStaticParams() {
@@ -28,8 +26,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const allPosts = getAllPosts("ko")
   const relatedPosts = allPosts.filter((p) => p.slug !== slug).slice(0, 3)
 
-  const processedContent = await remark().use(html).process(post.content)
-  const contentHtml = processedContent.toString()
+  const contentHtml = post.content
 
   return (
     <main className="min-h-screen">

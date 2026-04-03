@@ -6,8 +6,6 @@ import { CTA } from "@/components/cta"
 import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
 import { type Locale, locales } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
-import { remark } from "remark"
-import html from "remark-html"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 
 const blogLabels: Record<string, { backToList: string; relatedPosts: string; ctaTitle: string; ctaDesc: string; ctaButton: string }> = {
@@ -46,8 +44,7 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
   const relatedPosts = allPosts.filter((p) => p.slug !== slug).slice(0, 3)
   const labels = blogLabels[locale] || blogLabels.ko
 
-  const processedContent = await remark().use(html).process(post.content)
-  const contentHtml = processedContent.toString()
+  const contentHtml = post.content
 
   return (
     <main className="min-h-screen">
