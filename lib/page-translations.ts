@@ -622,7 +622,7 @@ export const pageTranslations = {
         { name: "허경", role: "실장", lang: "한/영/중" },
       ],
       locationTitle: "오시는 길",
-      locationAddress: "서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터",
+      locationAddress: "(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터",
       locationPhone: "02-363-2251",
       locationEmail: "5000meter@gmail.com",
       locationHours: "월~금 09:00 - 18:00",
@@ -653,7 +653,7 @@ export const pageTranslations = {
       email: "5000meter@gmail.com",
       emailNote: "24시간 접수 가능",
       addressLabel: "주소",
-      address: "서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터",
+      address: "(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터",
       addressNote: "지하철 2·5호선 동대문역사문화공원역 인근",
       messengerTitle: "메신저 상담",
       messengers: [

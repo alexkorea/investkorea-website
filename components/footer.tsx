@@ -108,7 +108,7 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
         {/* Business Registration */}
         <div className="border-t border-gray-800 pt-8 mb-6">
           <p className="text-sm text-gray-500 text-center">
-            비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주
+            © 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주
           </p>
         </div>
 
