@@ -594,7 +594,7 @@ export const pageTranslations = {
         { value: "200+", label: "연간 처리 건수" },
         { value: "6명", label: "전문 행정사" },
         { value: "4개", label: "지원 언어 (한/영/중/일)" },
-        { value: "15년+", label: "업계 경험" },
+        { value: "8년+", label: "업계 경험" },
       ],
       expertiseTitle: "전문 분야",
       expertise: [
@@ -2000,7 +2000,7 @@ export const pageTranslations = {
         { value: "200+", label: "年处理件数" },
         { value: "6名", label: "专业行政士" },
         { value: "3种", label: "支持语言（英/中/日）" },
-        { value: "15年+", label: "行业经验" },
+        { value: "8年+", label: "行业经验" },
       ],
       expertiseTitle: "专业领域",
       expertise: [
@@ -2703,7 +2703,7 @@ export const pageTranslations = {
         { value: "200+", label: "年間処理件数" },
         { value: "6名", label: "専門行政士" },
         { value: "3ヶ国語", label: "対応言語（英/中/日）" },
-        { value: "15年+", label: "業界経験" },
+        { value: "8年+", label: "業界経験" },
       ],
       expertiseTitle: "専門分野",
       expertise: [
