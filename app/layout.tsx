@@ -1,12 +1,7 @@
 import type { Metadata } from 'next'
-import { Inter, Playfair_Display } from 'next/font/google'
+import { Playfair_Display } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
-
-const inter = Inter({
-  subsets: ["latin"],
-  variable: '--font-inter',
-});
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -80,7 +75,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className={`${inter.variable} ${playfair.variable} font-sans antialiased`}>
+      <head>
+        <link rel="stylesheet" as="style" crossOrigin="anonymous" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+      </head>
+      <body className={`${playfair.variable} antialiased`} style={{ fontFamily: '"Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif' }}>
         {children}
         <Analytics />
       </body>
