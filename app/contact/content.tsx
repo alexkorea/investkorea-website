@@ -1,3 +1,6 @@
+"use client"
+
+import { useState } from "react"
 import Link from "next/link"
 import { type Locale } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
@@ -5,6 +8,38 @@ import { getLocalePath } from "@/lib/locale-utils"
 type ContactTranslations = typeof import("@/lib/page-translations").pageTranslations.ko.contact
 
 export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; locale?: Locale }) {
+  const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
+
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault()
+    setStatus("sending")
+    const form = e.currentTarget
+    const data = {
+      name: (form.elements.namedItem("name") as HTMLInputElement).value,
+      email: (form.elements.namedItem("email") as HTMLInputElement).value,
+      phone: (form.elements.namedItem("phone") as HTMLInputElement).value,
+      nationality: (form.elements.namedItem("nationality") as HTMLInputElement).value,
+      service: (form.elements.namedItem("service") as HTMLSelectElement).value,
+      message: (form.elements.namedItem("message") as HTMLTextAreaElement).value,
+    }
+    try {
+      const webhookUrl = "https://guide-optimal-amy-hong.trycloudflare.com/webhook/investkorea-contact"
+      const res = await fetch(webhookUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+      })
+      if (res.ok) {
+        setStatus("sent")
+        form.reset()
+      } else {
+        setStatus("error")
+      }
+    } catch {
+      setStatus("error")
+    }
+  }
+
   return (
     <>
       <section className="relative pt-16">
@@ -55,54 +90,69 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                   ))}
                 </div>
               </div>
-              <div>
-                <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">{t.servicesTitle}</h2>
-                <ul className="space-y-2 text-gray-600">
-                  {t.services.map((item, i) => (
-                    <li key={i} className="flex items-center gap-2 text-sm">
-                      <div className="w-1.5 h-1.5 rounded-full bg-blue-600" />
-                      {item}
-                    </li>
-                  ))}
-                </ul>
-              </div>
             </div>
             <div>
               <div className="bg-white rounded-xl border border-gray-200 p-8 shadow-sm">
                 <h2 className="text-xl font-serif font-bold text-gray-900 mb-6">{t.formTitle}</h2>
-                <form className="space-y-5">
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">{t.formName}</label>
-                    <input type="text" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formNamePlaceholder} />
+
+                {status === "sent" ? (
+                  <div className="text-center py-12">
+                    <div className="text-4xl mb-4">✅</div>
+                    <h3 className="text-xl font-bold text-gray-900 mb-2">
+                      {locale === "ko" ? "상담 신청이 접수되었습니다!" : locale === "ja" ? "お問い合わせを受け付けました！" : locale === "zh" ? "咨询申请已提交！" : "Your inquiry has been submitted!"}
+                    </h3>
+                    <p className="text-gray-500">
+                      {locale === "ko" ? "빠른 시간 내에 연락드리겠습니다." : locale === "ja" ? "早急にご連絡いたします。" : locale === "zh" ? "我们会尽快与您联系。" : "We will contact you shortly."}
+                    </p>
                   </div>
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">{t.formEmail}</label>
-                    <input type="email" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formEmailPlaceholder} />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">{t.formPhone}</label>
-                    <input type="tel" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formPhonePlaceholder} />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">{t.formNationality}</label>
-                    <input type="text" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formNationalityPlaceholder} />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">{t.formService}</label>
-                    <select className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white">
-                      <option value="">{t.formServiceDefault}</option>
-                      {t.formServiceOptions.map((opt, i) => (
-                        <option key={i} value={opt.value}>{opt.label}</option>
-                      ))}
-                    </select>
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">{t.formMessage}</label>
-                    <textarea rows={4} className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none resize-none" placeholder={t.formMessagePlaceholder} />
-                  </div>
-                  <button type="submit" className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-lg transition-colors">{t.formSubmit}</button>
-                  <p className="text-xs text-gray-400 text-center">{t.formNote}</p>
-                </form>
+                ) : (
+                  <form onSubmit={handleSubmit} className="space-y-5">
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">{t.formName}</label>
+                      <input name="name" type="text" required className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formNamePlaceholder} />
+                    </div>
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">{t.formEmail}</label>
+                      <input name="email" type="email" required className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formEmailPlaceholder} />
+                    </div>
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">{t.formPhone}</label>
+                      <input name="phone" type="tel" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formPhonePlaceholder} />
+                    </div>
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">{t.formNationality}</label>
+                      <input name="nationality" type="text" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder={t.formNationalityPlaceholder} />
+                    </div>
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">{t.formService}</label>
+                      <select name="service" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white">
+                        <option value="">{t.formServiceDefault}</option>
+                        {t.formServiceOptions.map((opt, i) => (
+                          <option key={i} value={opt.value}>{opt.label}</option>
+                        ))}
+                      </select>
+                    </div>
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">{t.formMessage}</label>
+                      <textarea name="message" rows={4} required className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none resize-none" placeholder={t.formMessagePlaceholder} />
+                    </div>
+                    <button
+                      type="submit"
+                      disabled={status === "sending"}
+                      className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-blue-400 text-white font-semibold py-3 rounded-lg transition-colors"
+                    >
+                      {status === "sending"
+                        ? (locale === "ko" ? "전송 중..." : "Sending...")
+                        : t.formSubmit}
+                    </button>
+                    {status === "error" && (
+                      <p className="text-red-500 text-sm text-center">
+                        {locale === "ko" ? "전송에 실패했습니다. 직접 전화 또는 이메일로 문의해주세요." : "Failed to send. Please contact us by phone or email."}
+                      </p>
+                    )}
+                    <p className="text-xs text-gray-400 text-center">{t.formNote}</p>
+                  </form>
+                )}
               </div>
             </div>
           </div>

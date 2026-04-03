@@ -30,7 +30,7 @@ export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost {
   return {
     slug: data.slug || slug,
     title: data[`title${localeSuffix}`] || data.title,
-    date: data.date,
+    date: typeof data.date === 'string' ? data.date : new Date(data.date).toISOString().slice(0, 10),
     category: data[`category${localeSuffix}`] || data.category,
     excerpt: data[`excerpt${localeSuffix}`] || data.excerpt,
     image: data.image || '/slides/building.jpg',
