@@ -82,10 +82,17 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
               <div>
                 <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">{t.messengerTitle}</h2>
                 <div className="grid grid-cols-2 gap-3">
-                  {t.messengers.map((item, i) => (
-                    <div key={i} className={`rounded-lg p-4 border ${item.color}`}>
+                  {[
+                    { name: "Kakao Talk", qr: "/qr/kakao.jpg" },
+                    { name: "WeChat", qr: "/qr/wechat.jpg" },
+                    { name: "LINE", qr: "/qr/line.jpg" },
+                    { name: "WhatsApp", qr: "/qr/whatsapp.jpg" },
+                  ].map((item, i) => (
+                    <div key={i} className="rounded-lg p-4 border border-gray-200 bg-white text-center">
+                      <div className="w-24 h-24 mx-auto mb-2 rounded-lg overflow-hidden border border-gray-100">
+                        <img src={item.qr} alt={item.name + " QR"} className="w-full h-full object-cover" />
+                      </div>
                       <h3 className="font-semibold text-gray-900 text-sm">{item.name}</h3>
-                      <p className="text-xs text-gray-500 mt-1">{item.desc}</p>
                     </div>
                   ))}
                 </div>
