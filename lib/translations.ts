@@ -149,17 +149,17 @@ export const translations = {
             "장기 체류 및 F-5 비자 취득을 위한 전략적 계획 수립.",
         },
         {
-          title: "F-5 고액투자 이민",
+          title: "F-5 영주권 고액투자이민",
           description:
             "적격 투자자를 위한 고액 투자 이민 경로 안내.",
         },
         {
-          title: "부동산 투자 이민",
+          title: "F-2 비자 부동산 투자이민",
           description:
             "부동산 투자를 통한 이민 솔루션 및 비자 지원.",
         },
         {
-          title: "공익사업 이민",
+          title: "F-2 비자 공익사업이민",
           description:
             "공익 프로젝트 기여를 통한 투자 비자 취득 지원.",
         },
@@ -377,8 +377,8 @@ export const translations = {
       permanentResidency: "영주권 전략",
       f5Investment: "F-5 영주권 고액투자이민",
       investmentImmigration: "투자이민",
-      realEstate: "부동산 투자 이민",
-      publicInterest: "공익사업 이민",
+      realEstate: "F-2 비자 부동산 투자이민",
+      publicInterest: "F-2 비자 공익사업이민",
       aboutUs: "회사소개",
       copyright: "VISION 행정사사무소. All rights reserved.",
       privacy: "개인정보처리방침",
@@ -869,7 +869,7 @@ export const translations = {
           description: "为长期居留和F-5签证资格提供战略规划。",
         },
         {
-          title: "F-5高额投资移民",
+          title: "F-5永久居留 高额投资移民",
           description: "为合格投资者提供高价值投资移民途径指导。",
         },
         {
@@ -877,7 +877,7 @@ export const translations = {
           description: "基于房地产投资的移民解决方案及签证支持。",
         },
         {
-          title: "公益事业移民",
+          title: "F-2签证 公益事业移民",
           description: "通过公益项目贡献获取投资签证支持。",
         },
       ],
@@ -1079,7 +1079,7 @@ export const translations = {
       f5Investment: "F-5高额投资",
       investmentImmigration: "投资移民",
       realEstate: "F-2签证 房地产投资移民",
-      publicInterest: "公益事业移民",
+      publicInterest: "F-2签证 公益事业移民",
       aboutUs: "关于我们",
       copyright: "VISION行政士事务所。保留所有权利。",
       privacy: "隐私政策",
@@ -1217,15 +1217,15 @@ export const translations = {
           description: "長期滞在及びF-5ビザ取得のための戦略的計画立案。",
         },
         {
-          title: "F-5高額投資移民",
+          title: "F-5永住権 高額投資移民",
           description: "適格投資者のための高額投資移民経路のご案内。",
         },
         {
-          title: "不動産投資移民",
+          title: "F-2ビザ 不動産投資移民",
           description: "不動産投資を通じた移民ソリューション及びビザサポート。",
         },
         {
-          title: "公益事業移民",
+          title: "F-2ビザ 公益事業移民",
           description: "公益プロジェクトへの貢献を通じた投資ビザ取得サポート。",
         },
       ],
@@ -1426,8 +1426,8 @@ export const translations = {
       permanentResidency: "永住権戦略",
       f5Investment: "F-5高額投資",
       investmentImmigration: "投資移民",
-      realEstate: "不動産投資移民",
-      publicInterest: "公益事業移民",
+      realEstate: "F-2ビザ 不動産投資移民",
+      publicInterest: "F-2ビザ 公益事業移民",
       aboutUs: "会社案内",
       copyright: "VISION行政士事務所。All rights reserved.",
       privacy: "プライバシーポリシー",
