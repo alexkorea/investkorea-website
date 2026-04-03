@@ -3,10 +3,10 @@ import { MessageCircle, ArrowRight } from "lucide-react"
 import { type Locale, getTranslations } from "@/lib/translations"
 
 const messengerStyles = [
-  { color: "bg-[#FEE500]", textColor: "text-[#3C1E1E]", icon: "K" },
-  { color: "bg-[#07C160]", textColor: "text-white", icon: "W" },
-  { color: "bg-[#00B900]", textColor: "text-white", icon: "L" },
-  { color: "bg-[#25D366]", textColor: "text-white", icon: "W" },
+  { color: "bg-[#FEE500]", textColor: "text-[#3C1E1E]", icon: "K", qr: "/qr/kakao.jpg" },
+  { color: "bg-[#07C160]", textColor: "text-white", icon: "W", qr: "/qr/wechat.jpg" },
+  { color: "bg-[#00B900]", textColor: "text-white", icon: "L", qr: "/qr/line.jpg" },
+  { color: "bg-[#25D366]", textColor: "text-white", icon: "W", qr: "/qr/whatsapp.jpg" },
 ]
 
 export function MessengerSection({ locale = "ko" }: { locale?: Locale }) {
@@ -38,11 +38,9 @@ export function MessengerSection({ locale = "ko" }: { locale?: Locale }) {
                 key={messenger.name}
                 className="group bg-card rounded-xl border border-border p-6 hover:shadow-lg hover:border-accent/20 transition-all duration-300"
               >
-                {/* Icon */}
-                <div className={`w-14 h-14 ${style.color} rounded-xl flex items-center justify-center mb-5`}>
-                  <span className={`text-2xl font-bold ${style.textColor}`}>
-                    {style.icon}
-                  </span>
+                {/* QR Code */}
+                <div className="w-full aspect-square rounded-xl overflow-hidden mb-5 bg-white flex items-center justify-center border border-border">
+                  <img src={style.qr} alt={messenger.name + " QR"} className="w-full h-full object-contain p-2" />
                 </div>
 
                 {/* Content */}

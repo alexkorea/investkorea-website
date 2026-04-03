@@ -51,15 +51,38 @@ export function TeamSection({ locale = "ko" }: { locale?: Locale }) {
   )
 }
 
+const photoMap: Record<string, string> = {
+  "이원중": "/team/leewj.jpg",
+  "정유선": "/team/jungyus.jpg",
+  "한경택": "/team/hankt.jpg",
+  "김정은": "/team/kimje.jpg",
+  "이시정": "/team/leesj.jpg",
+  "정희정": "/team/junghj.jpg",
+  "백승수": "/team/baekss.jpg",
+  "김영주": "/team/kimyj.jpg",
+  "허경": "/team/hukyung.jpg",
+}
+
+function getPhoto(name: string): string | null {
+  for (const [key, val] of Object.entries(photoMap)) {
+    if (name.includes(key)) return val
+  }
+  return null
+}
+
 function TeamCard({ member, t }: { member: { name: string; role: string; languages: readonly string[]; specialties: readonly string[] }; t: ReturnType<typeof getTranslations> }) {
+  const photo = getPhoto(member.name)
   return (
     <div className="bg-card rounded-xl border border-border p-6 hover:shadow-md hover:border-accent/20 transition-all duration-300">
-      {/* Avatar placeholder */}
-      <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mb-4">
-        <span className="text-xl font-serif font-semibold text-primary">
-          {member.name.split(" ").map(n => n[0]).join("").slice(0, 2)}
-        </span>
-      </div>
+      {photo ? (
+        <img src={photo} alt={member.name} className="w-16 h-16 rounded-full object-cover mb-4" />
+      ) : (
+        <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mb-4">
+          <span className="text-xl font-serif font-semibold text-primary">
+            {member.name.split(" ").map(n => n[0]).join("").slice(0, 2)}
+          </span>
+        </div>
+      )}
 
       {/* Info */}
       <h4 className="text-lg font-semibold text-foreground mb-1">{member.name}</h4>

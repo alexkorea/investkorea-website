@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next"
+import { getPostSlugs } from "@/lib/blog"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://investkorea.co.kr"
@@ -6,18 +7,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const routes = [
     "",
-    "/company-establishment/fdi",
-    "/company-establishment/branch-office",
-    "/company-establishment/liaison-office",
-    "/d8-visa",
-    "/d8-visa/eligibility",
-    "/d7-visa",
-    "/d7-visa/eligibility",
-    "/f5-investment",
-    "/f5-investment/permanent-residency",
-    "/f5-investment/real-estate",
-    "/f5-investment/public-interest",
+    "/company/fdi",
+    "/company/branch",
+    "/company/liaison",
+    "/company/liaison-process",
+    "/visa/d8",
+    "/visa/d8-process",
+    "/visa/d7",
+    "/visa/d7-details",
+    "/visa/f5",
+    "/visa/f5-strategies",
+    "/immigration/real-estate",
+    "/immigration/public-interest",
     "/about",
+    "/blog",
+    "/contact",
   ]
 
   const sitemapEntries: MetadataRoute.Sitemap = []
@@ -29,6 +33,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: new Date(),
         changeFrequency: route === "" ? "weekly" : "monthly",
         priority: route === "" ? 1 : 0.8,
+      })
+    }
+  }
+
+  // Blog post pages
+  const slugs = getPostSlugs()
+  for (const slug of slugs) {
+    for (const locale of locales) {
+      sitemapEntries.push({
+        url: `${baseUrl}${locale}/blog/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.7,
       })
     }
   }

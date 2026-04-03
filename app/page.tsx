@@ -1,13 +1,11 @@
 import { Header } from "@/components/header"
-import { HeroSection } from "@/components/hero-section"
-import { TrustStatsSection } from "@/components/trust-stats-section"
-import { MessengerSection } from "@/components/messenger-section"
-import { ServicesSection } from "@/components/services-section"
-import { TeamSection } from "@/components/team-section"
-import { WhyChooseSection } from "@/components/why-choose-section"
-import { ProcessSection } from "@/components/process-section"
-import { TestimonialsSection } from "@/components/testimonials-section"
-import { CTASection } from "@/components/cta-section"
+import { Hero } from "@/components/hero"
+import { ServicesOverview } from "@/components/services-overview"
+import { Stats } from "@/components/stats"
+import { Team } from "@/components/team"
+import { Messenger } from "@/components/messenger"
+import { WhyUs } from "@/components/why-us"
+import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
 import { StructuredData } from "@/components/structured-data"
 
@@ -16,15 +14,13 @@ export default function HomePage() {
     <main className="min-h-screen">
       <StructuredData locale="ko" />
       <Header locale="ko" />
-      <HeroSection locale="ko" />
-      <TrustStatsSection locale="ko" />
-      <MessengerSection locale="ko" />
-      <ServicesSection locale="ko" />
-      <TeamSection locale="ko" />
-      <WhyChooseSection locale="ko" />
-      <ProcessSection locale="ko" />
-      <TestimonialsSection locale="ko" />
-      <CTASection locale="ko" />
+      <Hero locale="ko" />
+      <ServicesOverview locale="ko" />
+      <Stats locale="ko" />
+      <Team locale="ko" />
+      <Messenger locale="ko" />
+      <WhyUs locale="ko" />
+      <CTA locale="ko" />
       <Footer locale="ko" />
     </main>
   )

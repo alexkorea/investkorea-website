@@ -1,13 +1,11 @@
 import { Header } from "@/components/header"
-import { HeroSection } from "@/components/hero-section"
-import { TrustStatsSection } from "@/components/trust-stats-section"
-import { MessengerSection } from "@/components/messenger-section"
-import { ServicesSection } from "@/components/services-section"
-import { TeamSection } from "@/components/team-section"
-import { WhyChooseSection } from "@/components/why-choose-section"
-import { ProcessSection } from "@/components/process-section"
-import { TestimonialsSection } from "@/components/testimonials-section"
-import { CTASection } from "@/components/cta-section"
+import { Hero } from "@/components/hero"
+import { ServicesOverview } from "@/components/services-overview"
+import { Stats } from "@/components/stats"
+import { Team } from "@/components/team"
+import { Messenger } from "@/components/messenger"
+import { WhyUs } from "@/components/why-us"
+import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
 import { StructuredData } from "@/components/structured-data"
 import { type Locale, locales } from "@/lib/translations"
@@ -30,15 +28,13 @@ export default async function LocalePage({
     <main className="min-h-screen">
       <StructuredData locale={locale} />
       <Header locale={locale} />
-      <HeroSection locale={locale} />
-      <TrustStatsSection locale={locale} />
-      <MessengerSection locale={locale} />
-      <ServicesSection locale={locale} />
-      <TeamSection locale={locale} />
-      <WhyChooseSection locale={locale} />
-      <ProcessSection locale={locale} />
-      <TestimonialsSection locale={locale} />
-      <CTASection locale={locale} />
+      <Hero locale={locale} />
+      <ServicesOverview locale={locale} />
+      <Stats locale={locale} />
+      <Team locale={locale} />
+      <Messenger locale={locale} />
+      <WhyUs locale={locale} />
+      <CTA locale={locale} />
       <Footer locale={locale} />
     </main>
   )
