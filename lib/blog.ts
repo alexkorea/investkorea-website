@@ -1,6 +1,9 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { remark } from 'remark'
+import remarkGfm from 'remark-gfm'
+import html from 'remark-html'
 
 const postsDirectory = path.join(process.cwd(), 'content/blog')
 
@@ -16,15 +19,24 @@ export interface BlogPost {
 
 export function getPostSlugs(): string[] {
   const files = fs.readdirSync(postsDirectory)
-  return files.filter(f => f.endsWith('.md')).map(f => f.replace('.md', ''))
+  // Only get base slugs (Korean files without locale suffix)
+  return files
+    .filter(f => f.endsWith('.md') && !f.match(/\.(en|zh|ja)\.md$/))
+    .map(f => f.replace('.md', ''))
 }
 
 export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost {
-  const fullPath = path.join(postsDirectory, `${slug}.md`)
+  // Try locale-specific file first, then fall back to default
+  const localePath = path.join(postsDirectory, `${slug}.${locale}.md`)
+  const defaultPath = path.join(postsDirectory, `${slug}.md`)
+  const fullPath = locale !== 'ko' && fs.existsSync(localePath) ? localePath : defaultPath
+
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
-  // Get localized fields
+  const processedContent = remark().use(remarkGfm).use(html, { sanitize: false }).processSync(content)
+
+  // Get localized fields from frontmatter
   const localeSuffix = locale === 'ko' ? '' : locale.charAt(0).toUpperCase() + locale.slice(1)
 
   return {
@@ -34,7 +46,7 @@ export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost {
     category: data[`category${localeSuffix}`] || data.category,
     excerpt: data[`excerpt${localeSuffix}`] || data.excerpt,
     image: data.image || '/slides/building.jpg',
-    content: content,
+    content: processedContent.toString(),
   }
 }
 

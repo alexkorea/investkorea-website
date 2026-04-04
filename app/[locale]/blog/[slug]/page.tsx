@@ -126,15 +126,17 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
                 {labels.backToList}
               </Link>
               <div
-                className="prose prose-lg prose-gray max-w-none
-                  prose-headings:font-serif prose-headings:text-gray-900
-                  prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
-                  prose-p:text-gray-600 prose-p:leading-relaxed
-                  prose-li:text-gray-600
+                style={{ fontSize: '16px', lineHeight: '1.85' }}
+                className="prose prose-gray max-w-none
+                  prose-headings:text-gray-900 prose-headings:font-bold
+                  prose-h2:text-xl prose-h2:mt-14 prose-h2:mb-5 prose-h2:border-b-2 prose-h2:border-blue-500 prose-h2:pb-3 prose-h2:text-blue-900
+                  prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-h3:text-blue-800
+                  prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-5
+                  prose-li:text-gray-700 prose-li:leading-relaxed
                   prose-strong:text-gray-900
-                  prose-table:border prose-table:border-gray-200
-                  prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2
-                  prose-td:px-4 prose-td:py-2 prose-td:border prose-td:border-gray-200"
+                  prose-a:text-blue-600 prose-a:underline prose-a:underline-offset-2 prose-a:font-semibold
+                  prose-blockquote:border-l-4 prose-blockquote:border-amber-500 prose-blockquote:bg-amber-50 prose-blockquote:py-3 prose-blockquote:px-5 prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:text-gray-800 prose-blockquote:my-6 prose-blockquote:text-sm prose-blockquote:font-medium
+                  prose-img:rounded-lg prose-img:shadow-md prose-img:my-6 prose-img:max-h-[300px] prose-img:object-cover prose-img:w-full"
                 dangerouslySetInnerHTML={{ __html: contentHtml }}
               />
             </article>

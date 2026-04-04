@@ -127,3 +127,20 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Blog table styles */
+.prose table { width:100%; border-collapse:collapse; border:1px solid #e2e8f0; border-radius:8px; overflow:hidden; margin:1.5rem 0; font-size:14px; }
+.prose thead { background:#eff6ff; }
+.prose th { padding:10px 14px; text-align:left; font-weight:600; color:#1e3a5f; border-bottom:2px solid #bfdbfe; font-size:13px; }
+.prose td { padding:10px 14px; border-top:1px solid #e2e8f0; vertical-align:top; line-height:1.6; }
+.prose tbody tr:hover { background:#f8fafc; }
+.prose table { display:block; overflow-x:auto; }
+.prose thead,.prose tbody,.prose tr { display:table; width:100%; table-layout:fixed; }
+
+/* Blog TOC styling */
+.prose nav { background:#eff6ff; border:1px solid #bfdbfe; border-radius:12px; padding:20px 24px; margin-bottom:32px; }
+.prose nav h4 { color:#1e3a5f; margin-bottom:12px; }
+.prose nav ul { list-style:none; padding-left:0; }
+.prose nav ul li { margin-bottom:6px; }
+.prose nav ul li a { color:#2563eb; text-decoration:none; font-weight:500; font-size:14px; }
+.prose nav ul li a:hover { color:#1d4ed8; text-decoration:underline; }
