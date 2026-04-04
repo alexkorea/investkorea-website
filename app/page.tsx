@@ -1,3 +1,4 @@
+import { getPageMetadata } from "@/lib/seo-metadata"
 import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { ServicesOverview } from "@/components/services-overview"
@@ -8,6 +9,8 @@ import { WhyUs } from "@/components/why-us"
 import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
 import { StructuredData } from "@/components/structured-data"
+
+export const metadata = getPageMetadata("home", "ko")
 
 export default function HomePage() {
   return (

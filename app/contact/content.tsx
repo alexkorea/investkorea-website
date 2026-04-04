@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import Image from "next/image"
 import Link from "next/link"
 import { type Locale } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
@@ -45,7 +46,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
       <section className="relative pt-16">
         <div className="relative min-h-[300px] md:min-h-[400px] flex items-center">
           <div className="absolute inset-0">
-            <img src="/pages/contact.jpg" alt="" className="w-full h-full object-cover" />
+            <Image src="/pages/contact.jpg" alt="VISION 행정사사무소 문의하기" fill className="object-cover" priority sizes="100vw" />
             <div className="absolute inset-0 bg-black/50" />
           </div>
           <div className="relative max-w-7xl mx-auto px-6 py-16 text-center w-full">

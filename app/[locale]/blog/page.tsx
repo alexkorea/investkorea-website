@@ -6,13 +6,21 @@ import { CTA } from "@/components/cta"
 import { getAllPosts } from "@/lib/blog"
 import { type Locale, locales } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
+import { getPageMetadata, type PageKey } from "@/lib/seo-metadata"
 import { Calendar, Tag } from "lucide-react"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 
 const blogLabels: Record<string, { title: string; subtitle: string; badge: string; back?: string }> = {
   ko: { title: "블로그", subtitle: "외국인 투자, 비자, 법인설립 관련 최신 정보와 전문 가이드", badge: "VISION Blog" },
   en: { title: "Blog", subtitle: "Latest information and expert guides on foreign investment, visas, and company formation", badge: "VISION Blog" },
   zh: { title: "博客", subtitle: "外国人投资、签证、公司设立相关最新信息和专业指南", badge: "VISION Blog" },
   ja: { title: "ブログ", subtitle: "外国人投資、ビザ、法人設立に関する最新情報と専門ガイド", badge: "VISION Blog" },
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale: localeParam } = await params
+  const locale = (locales.includes(localeParam as Locale) ? localeParam : "ko") as Locale
+  return getPageMetadata("blog" as PageKey, locale)
 }
 
 export default async function LocaleBlogPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -24,6 +32,9 @@ export default async function LocaleBlogPage({ params }: { params: Promise<{ loc
   return (
     <main className="min-h-screen">
       <Header locale={locale} />
+      <PageBreadcrumb items={[
+        { label: labels.title, path: "/blog" },
+      ]} locale={locale} />
 
       {/* Hero Banner */}
       <section className="relative pt-16">

@@ -6,6 +6,8 @@ import { CTA } from "@/components/cta"
 import { Messenger } from "@/components/messenger"
 import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
+import { ArticleJsonLd } from "@/components/structured-data"
 
 export function generateStaticParams() {
   const slugs = getPostSlugs()
@@ -15,9 +17,26 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const post = getPostBySlug(slug, "ko")
+  const BASE_URL = "https://investkorea.co.kr"
   return {
     title: `${post.title} - VISION 행정사사무소`,
     description: post.excerpt,
+    alternates: {
+      canonical: `${BASE_URL}/blog/${slug}`,
+      languages: {
+        ko: `${BASE_URL}/blog/${slug}`,
+        en: `${BASE_URL}/en/blog/${slug}`,
+        zh: `${BASE_URL}/zh/blog/${slug}`,
+        ja: `${BASE_URL}/ja/blog/${slug}`,
+      },
+    },
+    openGraph: {
+      title: `${post.title} - VISION 행정사사무소`,
+      description: post.excerpt,
+      url: `${BASE_URL}/blog/${slug}`,
+      type: "article",
+      images: [{ url: post.image.startsWith("http") ? post.image : `${BASE_URL}${post.image}` }],
+    },
   }
 }
 
@@ -32,6 +51,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   return (
     <main className="min-h-screen">
       <Header locale="ko" />
+      <PageBreadcrumb items={[
+        { label: "블로그", path: "/blog" },
+        { label: post.title, path: `/blog/${slug}` },
+      ]} locale="ko" />
+      <ArticleJsonLd title={post.title} description={post.excerpt} slug={slug} datePublished={post.date} locale="ko" />
 
       {/* Messenger QR */}
       <Messenger locale="ko" />

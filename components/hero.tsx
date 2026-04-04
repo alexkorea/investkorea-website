@@ -1,6 +1,7 @@
 "use client"
 
 import * as React from "react"
+import Image from "next/image"
 import Link from "next/link"
 import { type Locale, getTranslations } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
@@ -72,10 +73,13 @@ export function Hero({ locale = "ko" }: { locale?: Locale }) {
       >
         {/* Background image */}
         <div className="absolute inset-0">
-          <img
+          <Image
             src={slideImages[current]}
-            alt=""
-            className="w-full h-full object-cover transition-opacity duration-500"
+            alt="VISION 행정사사무소 - 외국인 투자 전문 컨설팅"
+            fill
+            className="object-cover transition-opacity duration-500"
+            priority={current === 0}
+            sizes="100vw"
           />
           <div className="absolute inset-0 bg-black/50" />
         </div>

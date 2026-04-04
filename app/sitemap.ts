@@ -3,36 +3,47 @@ import { getPostSlugs } from "@/lib/blog"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://investkorea.co.kr"
-  const locales = ["", "/en", "/zh", "/ja"]
+  const localeMap = [
+    { prefix: "", hreflang: "ko" },
+    { prefix: "/en", hreflang: "en" },
+    { prefix: "/zh", hreflang: "zh" },
+    { prefix: "/ja", hreflang: "ja" },
+  ]
 
   const routes = [
-    "",
-    "/company/fdi",
-    "/company/branch",
-    "/company/liaison",
-    "/company/liaison-process",
-    "/visa/d8",
-    "/visa/d8-process",
-    "/visa/d7",
-    "/visa/d7-details",
-    "/visa/f5",
-    "/visa/f5-strategies",
-    "/immigration/real-estate",
-    "/immigration/public-interest",
-    "/about",
-    "/blog",
-    "/contact",
+    { path: "", priority: 1.0, changeFrequency: "weekly" as const },
+    { path: "/company/fdi", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/company/branch", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/company/liaison", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/company/liaison-process", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/visa/d8", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/visa/d8-process", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/visa/d7", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/visa/d7-details", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/visa/f5", priority: 0.9, changeFrequency: "monthly" as const },
+    { path: "/visa/f5-strategies", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/immigration/real-estate", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/immigration/public-interest", priority: 0.8, changeFrequency: "monthly" as const },
+    { path: "/about", priority: 0.7, changeFrequency: "monthly" as const },
+    { path: "/blog", priority: 0.8, changeFrequency: "weekly" as const },
+    { path: "/contact", priority: 0.7, changeFrequency: "monthly" as const },
   ]
 
   const sitemapEntries: MetadataRoute.Sitemap = []
 
   for (const route of routes) {
-    for (const locale of locales) {
+    for (const loc of localeMap) {
+      const alternates: Record<string, string> = {}
+      for (const alt of localeMap) {
+        alternates[alt.hreflang] = `${baseUrl}${alt.prefix}${route.path}`
+      }
+
       sitemapEntries.push({
-        url: `${baseUrl}${locale}${route}`,
+        url: `${baseUrl}${loc.prefix}${route.path}`,
         lastModified: new Date(),
-        changeFrequency: route === "" ? "weekly" : "monthly",
-        priority: route === "" ? 1 : 0.8,
+        changeFrequency: route.changeFrequency,
+        priority: route.priority,
+        alternates: { languages: alternates },
       })
     }
   }
@@ -40,12 +51,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Blog post pages
   const slugs = getPostSlugs()
   for (const slug of slugs) {
-    for (const locale of locales) {
+    for (const loc of localeMap) {
+      const alternates: Record<string, string> = {}
+      for (const alt of localeMap) {
+        alternates[alt.hreflang] = `${baseUrl}${alt.prefix}/blog/${slug}`
+      }
+
       sitemapEntries.push({
-        url: `${baseUrl}${locale}/blog/${slug}`,
+        url: `${baseUrl}${loc.prefix}/blog/${slug}`,
         lastModified: new Date(),
         changeFrequency: "monthly",
         priority: 0.7,
+        alternates: { languages: alternates },
       })
     }
   }

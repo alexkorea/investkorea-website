@@ -8,6 +8,8 @@ import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
 import { type Locale, locales } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
+import { ArticleJsonLd } from "@/components/structured-data"
 
 const blogLabels: Record<string, { backToList: string; relatedPosts: string; ctaTitle: string; ctaDesc: string; ctaButton: string }> = {
   ko: { backToList: "블로그 목록으로", relatedPosts: "관련 글", ctaTitle: "전문 상담이 필요하신가요?", ctaDesc: "VISION 행정사사무소의 전문 행정사가 맞춤 상담을 제공합니다.", ctaButton: "무료 상담 신청" },
@@ -27,6 +29,8 @@ export function generateStaticParams() {
   return params
 }
 
+const BASE_URL = "https://investkorea.co.kr"
+
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale: localeParam, slug } = await params
   const locale = (locales.includes(localeParam as Locale) ? localeParam : "ko") as Locale
@@ -34,6 +38,22 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     title: `${post.title} - VISION`,
     description: post.excerpt,
+    alternates: {
+      canonical: `${BASE_URL}${getLocalePath(locale, `/blog/${slug}`)}`,
+      languages: {
+        ko: `${BASE_URL}/blog/${slug}`,
+        en: `${BASE_URL}/en/blog/${slug}`,
+        zh: `${BASE_URL}/zh/blog/${slug}`,
+        ja: `${BASE_URL}/ja/blog/${slug}`,
+      },
+    },
+    openGraph: {
+      title: `${post.title} - VISION`,
+      description: post.excerpt,
+      url: `${BASE_URL}${getLocalePath(locale, `/blog/${slug}`)}`,
+      type: "article",
+      images: [{ url: post.image.startsWith("http") ? post.image : `${BASE_URL}${post.image}` }],
+    },
   }
 }
 
@@ -50,6 +70,11 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
   return (
     <main className="min-h-screen">
       <Header locale={locale} />
+      <PageBreadcrumb items={[
+        { label: { ko: "블로그", en: "Blog", zh: "博客", ja: "ブログ" }[locale] || "블로그", path: "/blog" },
+        { label: post.title, path: `/blog/${slug}` },
+      ]} locale={locale} />
+      <ArticleJsonLd title={post.title} description={post.excerpt} slug={slug} datePublished={post.date} locale={locale} />
 
       {/* Messenger QR */}
       <Messenger locale={locale} />

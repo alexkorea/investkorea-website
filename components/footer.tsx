@@ -34,17 +34,17 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
             </h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/company/fdi")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.fdi}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/company/branch")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.branchOffice}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/company/liaison")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.liaisonOffice}
                 </Link>
               </li>
@@ -58,22 +58,22 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
             </h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/visa/d8")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.d8Visa}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/visa/d7")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.d7Visa}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/visa/f5-strategies")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.permanentResidency}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/visa/f5")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.f5Investment}
                 </Link>
               </li>
@@ -87,17 +87,17 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
             </h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/immigration/real-estate")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.realEstate}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/immigration/public-interest")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.publicInterest}
                 </Link>
               </li>
               <li>
-                <Link href={getLocalePath(locale, "/")} className="text-muted-foreground hover:text-white transition-colors">
+                <Link href={getLocalePath(locale, "/about")} className="text-muted-foreground hover:text-white transition-colors">
                   {t.footer.aboutUs}
                 </Link>
               </li>
@@ -118,10 +118,10 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
             &copy; 2018 {t.footer.copyright}
           </p>
           <div className="flex gap-6 text-base text-muted-foreground">
-            <Link href={getLocalePath(locale, "/")} className="hover:text-gray-300 transition-colors">
+            <Link href={getLocalePath(locale, "/contact")} className="hover:text-gray-300 transition-colors">
               {t.footer.privacy}
             </Link>
-            <Link href={getLocalePath(locale, "/")} className="hover:text-gray-300 transition-colors">
+            <Link href={getLocalePath(locale, "/contact")} className="hover:text-gray-300 transition-colors">
               {t.footer.terms}
             </Link>
           </div>

@@ -1,15 +1,14 @@
 import Link from "next/link"
 import Image from "next/image"
+import { getPageMetadata } from "@/lib/seo-metadata"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CTA } from "@/components/cta"
 import { getAllPosts } from "@/lib/blog"
 import { Calendar, Tag } from "lucide-react"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 
-export const metadata = {
-  title: "블로그 - VISION 행정사사무소",
-  description: "외국인 투자, 비자, 법인설립 관련 최신 정보와 전문 가이드를 제공합니다.",
-}
+export const metadata = getPageMetadata("blog", "ko")
 
 export default function BlogPage() {
   const posts = getAllPosts("ko")
@@ -17,6 +16,9 @@ export default function BlogPage() {
   return (
     <main className="min-h-screen">
       <Header locale="ko" />
+      <PageBreadcrumb items={[
+        { label: "블로그", path: "/blog" },
+      ]} locale="ko" />
 
       {/* Hero Banner */}
       <section className="relative pt-16">

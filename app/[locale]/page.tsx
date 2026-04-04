@@ -9,6 +9,13 @@ import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
 import { StructuredData } from "@/components/structured-data"
 import { type Locale, locales } from "@/lib/translations"
+import { getPageMetadata, type PageKey } from "@/lib/seo-metadata"
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale: localeParam } = await params
+  const locale = (locales.includes(localeParam as Locale) ? localeParam : "ko") as Locale
+  return getPageMetadata("home" as PageKey, locale)
+}
 
 export function generateStaticParams() {
   return locales
