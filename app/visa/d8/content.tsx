@@ -90,6 +90,25 @@ export function D8Content({ t, locale = "ko" }: { t: D8Translations; locale?: Lo
           </div>
         </div>
       </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              { q: "D-8 비자의 유효기간은 얼마인가요?", a: "D-8 비자의 최초 체류기간은 일반적으로 1~2년이며, 사업 운영 상태에 따라 갱신이 가능합니다. 갱신 시 최대 3년까지 연장할 수 있습니다." },
+              { q: "D-8 비자로 가족 초청이 가능한가요?", a: "네, D-8 비자 소지자는 배우자와 미성년 자녀를 F-3(동반) 비자로 초청할 수 있습니다." },
+              { q: "D-8 비자 신청 시 사무실이 반드시 필요한가요?", a: "네, 실제 사업 운영이 가능한 국내 사무실 주소가 필요합니다. 공유오피스나 가상오피스는 인정되지 않을 수 있습니다." },
+            ].map((faq, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }

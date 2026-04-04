@@ -93,6 +93,25 @@ export function D7Content({ t, locale = "ko" }: { t: D7Translations; locale?: Lo
           </div>
         </div>
       </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              { q: "D-7 비자의 대상은 누구인가요?", a: "해외 본사에서 한국 지사, 자회사, 연락사무소 등으로 파견되는 필수전문인력(주재원)이 대상입니다. 1년 이상 해외 본사 근무 경력이 필요합니다." },
+              { q: "D-7 비자와 E-7 비자의 차이는 무엇인가요?", a: "D-7은 해외 본사에서 한국으로 파견되는 주재원 비자이고, E-7은 한국 기업이 직접 고용하는 외국인 전문인력 비자입니다." },
+              { q: "D-7 비자의 체류기간은 얼마인가요?", a: "최초 2년이 부여되며, 파견 기간에 따라 최대 5년까지 연장 가능합니다." },
+            ].map((faq, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }

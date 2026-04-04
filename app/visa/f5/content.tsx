@@ -93,6 +93,25 @@ export function F5Content({ t, locale = "ko" }: { t: F5Translations; locale?: Lo
           </div>
         </div>
       </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              { q: "F-5 영주권 취득에 필요한 투자금액은 얼마인가요?", a: "고액투자 이민의 경우 5억 원 이상 투자가 필요합니다. 부동산 투자이민은 지역에 따라 5억~7억 원입니다." },
+              { q: "F-5 영주권은 영구적인가요?", a: "F-5 영주권은 영구적이지만, 2년마다 체류지 변경신고를 해야 하며, 대한민국에 일정 기간 이상 거주해야 합니다. 장기간 출국 시 재입국 허가가 필요합니다." },
+              { q: "투자 후 영주권 취득까지 얼마나 걸리나요?", a: "투자 완료 후 심사 기간은 약 3~6개월입니다. 다만 투자금 유지, 범죄 기록 조회 등 추가 확인이 필요할 수 있습니다." },
+            ].map((faq, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }

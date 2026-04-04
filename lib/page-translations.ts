@@ -485,6 +485,12 @@ export const pageTranslations = {
       ctaTitle: "맞춤 전략 상담",
       ctaDesc: "개인 상황에 맞는 최적의 영주권 전략을 전문 행정사가 설계해 드립니다.",
       ctaButton: "상담 신청하기",
+      relatedServicesTitle: "관련 서비스",
+      relatedServices: [
+        { href: "/company/fdi", title: "외국인투자법인 설립", desc: "1억 원 이상 투자로 한국 법인 설립 및 D-8 비자 취득" },
+        { href: "/visa/d8", title: "D-8 기업투자비자", desc: "법인 설립 후 투자자 체류자격 취득 절차" },
+        { href: "/company/branch", title: "국내 지사 설치", desc: "외국 기업의 한국 지사 설치 및 운영 안내" },
+      ],
     },
     immigrationRealEstate: {
       badge: "투자이민",
@@ -1188,6 +1194,12 @@ export const pageTranslations = {
       ctaTitle: "Custom Strategy Consultation",
       ctaDesc: "Our professional agents design the optimal PR strategy tailored to your individual situation.",
       ctaButton: "Request Consultation",
+      relatedServicesTitle: "Related Services",
+      relatedServices: [
+        { href: "/company/fdi", title: "FDI Company Setup", desc: "Establish a Korean corporation with 100M+ KRW investment and obtain D-8 visa" },
+        { href: "/visa/d8", title: "D-8 Investment Visa", desc: "Obtain investor residency status after company establishment" },
+        { href: "/company/branch", title: "Branch Office Setup", desc: "Establishing and operating a Korean branch of a foreign company" },
+      ],
     },
     immigrationRealEstate: {
       badge: "Investment Immigration",
@@ -1891,6 +1903,12 @@ export const pageTranslations = {
       ctaTitle: "定制战略咨询",
       ctaDesc: "专业行政士根据您的个人情况设计最佳永住权战略。",
       ctaButton: "申请咨询",
+      relatedServicesTitle: "相关服务",
+      relatedServices: [
+        { href: "/company/fdi", title: "外商投资法人设立", desc: "投资1亿韩元以上设立韩国法人并取得D-8签证" },
+        { href: "/visa/d8", title: "D-8企业投资签证", desc: "设立法人后取得投资者居留资格的程序" },
+        { href: "/company/branch", title: "国内分公司设立", desc: "外国企业在韩国设立分公司及运营指南" },
+      ],
     },
     immigrationRealEstate: {
       badge: "投资移民",
@@ -2594,6 +2612,12 @@ export const pageTranslations = {
       ctaTitle: "カスタム戦略相談",
       ctaDesc: "個人の状況に合った最適な永住権戦略を専門行政士が設計いたします。",
       ctaButton: "相談を申し込む",
+      relatedServicesTitle: "関連サービス",
+      relatedServices: [
+        { href: "/company/fdi", title: "外国人投資法人設立", desc: "1億ウォン以上の投資で韓国法人設立およびD-8ビザ取得" },
+        { href: "/visa/d8", title: "D-8企業投資ビザ", desc: "法人設立後の投資家在留資格取得手続き" },
+        { href: "/company/branch", title: "国内支社設置", desc: "外国企業の韓国支社設置および運営案内" },
+      ],
     },
     immigrationRealEstate: {
       badge: "投資移民",

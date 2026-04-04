@@ -92,6 +92,25 @@ export function RealEstateContent({ t, locale = "ko" }: { t: RETranslations; loc
           </div>
         </div>
       </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              { q: "어떤 지역의 부동산이 투자이민 대상인가요?", a: "제주도, 평창 알펜시아, 여수 경도, 인천 영종도, 부산 해운대 등 정부가 지정한 투자이민 특구의 부동산이 대상입니다." },
+              { q: "투자 금액 기준은 얼마인가요?", a: "5억 원 이상(제주도 기준)의 휴양 콘도미니엄 등 지정 부동산에 투자해야 합니다. 지역에 따라 금액 기준이 다를 수 있습니다." },
+              { q: "부동산 매각 시 영주권은 유지되나요?", a: "F-2 거주비자 단계에서 부동산을 매각하면 비자가 취소될 수 있습니다. F-5 영주권 취득 후에는 투자 유지 의무가 완화됩니다." },
+            ].map((faq, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }

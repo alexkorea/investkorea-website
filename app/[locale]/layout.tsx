@@ -1,4 +1,5 @@
 import { type Locale, locales } from "@/lib/translations"
+import { LangSetter } from "@/components/lang-setter"
 
 export function generateStaticParams() {
   return locales
@@ -6,12 +7,18 @@ export function generateStaticParams() {
     .map((locale) => ({ locale }))
 }
 
-export default function LocaleLayout({
+export default async function LocaleLayout({
   children,
   params,
 }: {
   children: React.ReactNode
   params: Promise<{ locale: string }>
 }) {
-  return <>{children}</>
+  const { locale } = await params
+  return (
+    <>
+      <LangSetter locale={locale} />
+      {children}
+    </>
+  )
 }

@@ -114,6 +114,21 @@ export function F5StrategiesContent({ t, locale = "ko" }: { t: F5STranslations; 
           </div>
         </div>
       </section>
+
+      {/* Related Services */}
+      <section className="py-12 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">{t.relatedServicesTitle}</h2>
+          <div className="grid md:grid-cols-3 gap-6">
+            {t.relatedServices.map((item) => (
+              <Link key={item.href} href={getLocalePath(locale, item.href)} className="bg-white rounded-xl p-6 border border-gray-200 hover:border-blue-300 hover:shadow-md transition-all group">
+                <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors mb-2">{item.title}</h3>
+                <p className="text-sm text-gray-500">{item.desc}</p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }

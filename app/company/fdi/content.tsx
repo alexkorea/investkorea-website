@@ -96,6 +96,25 @@ export function FdiContent({ t, locale = "ko" }: { t: FdiTranslations; locale?: 
           </div>
         </div>
       </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              { q: "외국인투자법인 설립에 최소 얼마가 필요한가요?", a: "외국인 투자 촉진법에 따라 최소 1억 원(약 USD 80,000) 이상의 투자가 필요합니다. 외국인 투자자는 의결권 있는 주식의 10% 이상을 보유해야 합니다." },
+              { q: "외국인투자법인과 지사의 차이점은 무엇인가요?", a: "외국인투자법인은 독립된 법인격을 가지며 세금 감면 혜택과 D-8 비자 신청 자격이 주어집니다. 반면 지사는 해외 본사의 일부로 운영되며 별도 자본금 요건이 없지만 투자 인센티브가 제한적입니다." },
+              { q: "법인 설립까지 얼마나 걸리나요?", a: "일반적으로 서류 준비부터 법인 등기까지 약 2~4주가 소요됩니다. 외국인투자 신고, 투자금 송금, 등기, 사업자등록 순으로 진행됩니다." },
+            ].map((faq, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }

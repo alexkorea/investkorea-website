@@ -176,6 +176,46 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
           </div>
         </div>
       </section>
+
+      {/* Related Services */}
+      <section className="py-12 bg-white">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">
+            {locale === "ko" ? "주요 서비스 안내" : locale === "en" ? "Our Key Services" : locale === "zh" ? "主要服务介绍" : "主要サービス案内"}
+          </h2>
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              { href: "/company/fdi", title: locale === "ko" ? "외국인투자법인 설립" : locale === "en" ? "FDI Company Setup" : locale === "zh" ? "外商投资法人设立" : "外国人投資法人設立", desc: locale === "ko" ? "1억 원 이상 투자로 한국 법인 설립" : locale === "en" ? "Establish a Korean corporation with 100M+ KRW investment" : locale === "zh" ? "投资1亿韩元以上设立韩国法人" : "1億ウォン以上の投資で韓国法人設立" },
+              { href: "/visa/d8", title: locale === "ko" ? "D-8 기업투자비자" : locale === "en" ? "D-8 Investment Visa" : locale === "zh" ? "D-8企业投资签证" : "D-8企業投資ビザ", desc: locale === "ko" ? "법인 설립 후 투자자 체류자격 취득" : locale === "en" ? "Obtain investor residency after company setup" : locale === "zh" ? "设立法人后取得投资者居留资格" : "法人設立後の投資家在留資格取得" },
+              { href: "/visa/f5", title: locale === "ko" ? "F-5 영주권 안내" : locale === "en" ? "F-5 Permanent Residency" : locale === "zh" ? "F-5永住权指南" : "F-5永住権案内", desc: locale === "ko" ? "투자이민을 통한 영주권 취득 경로" : locale === "en" ? "Permanent residency via investment immigration" : locale === "zh" ? "通过投资移民取得永住权" : "投資移民による永住権取得ルート" },
+            ].map((item) => (
+              <Link key={item.href} href={getLocalePath(locale, item.href)} className="bg-gray-50 rounded-xl p-6 border border-gray-200 hover:border-blue-300 hover:shadow-md transition-all group">
+                <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors mb-2">{item.title}</h3>
+                <p className="text-sm text-gray-500">{item.desc}</p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              { q: "상담 비용이 있나요?", a: "초기 전화 및 이메일 상담은 무료입니다. 구체적인 서류 검토나 심층 상담은 사안에 따라 비용이 발생할 수 있습니다." },
+              { q: "상담 가능 언어는 무엇인가요?", a: "한국어, 영어, 중국어, 일본어로 상담이 가능합니다." },
+              { q: "방문 상담도 가능한가요?", a: "네, 서울 중구 퇴계로 324 성우빌딩 3층 사무실로 방문 상담 가능합니다. 사전 예약을 권장드립니다." },
+            ].map((faq, i) => (
+              <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }
