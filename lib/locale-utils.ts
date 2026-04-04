@@ -1,4 +1,4 @@
-import { type Locale, defaultLocale } from "./translations";
+import { type Locale, defaultLocale, locales } from "./translations";
 
 export function getLocalePath(locale: Locale, path: string = "/"): string {
   if (locale === defaultLocale) {
@@ -14,4 +14,18 @@ export function getLocaleFromPath(pathname: string): Locale {
     return firstSegment;
   }
   return defaultLocale;
+}
+
+export function stripLocaleFromPath(pathname: string): string {
+  const segments = pathname.split("/").filter(Boolean);
+  if (segments.length > 0 && locales.includes(segments[0] as Locale)) {
+    const rest = segments.slice(1).join("/");
+    return rest ? `/${rest}` : "/";
+  }
+  return pathname || "/";
+}
+
+export function switchLocalePath(pathname: string, newLocale: Locale): string {
+  const basePath = stripLocaleFromPath(pathname);
+  return getLocalePath(newLocale, basePath);
 }

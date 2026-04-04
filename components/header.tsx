@@ -3,8 +3,9 @@
 import * as React from "react"
 import Link from "next/link"
 import { Globe, Menu, X, ChevronDown } from "lucide-react"
+import { usePathname } from "next/navigation"
 import { type Locale, localeNames, getTranslations } from "@/lib/translations"
-import { getLocalePath } from "@/lib/locale-utils"
+import { getLocalePath, switchLocalePath } from "@/lib/locale-utils"
 
 const localeOptions: { code: Locale; label: string }[] = [
   { code: "ko", label: "한국어" },
@@ -62,12 +63,20 @@ function getNavItems(t: ReturnType<typeof getTranslations>, locale: Locale): Nav
   ]
 }
 
+const localeShortLabels: Record<Locale, string> = {
+  ko: "KR",
+  en: "EN",
+  zh: "CN",
+  ja: "JP",
+}
+
 export function Header({ locale = "ko" }: { locale?: Locale }) {
   const [isScrolled, setIsScrolled] = React.useState(false)
   const [isMobileOpen, setIsMobileOpen] = React.useState(false)
   const [isLangOpen, setIsLangOpen] = React.useState(false)
   const [openDropdown, setOpenDropdown] = React.useState<string | null>(null)
   const [mobileExpanded, setMobileExpanded] = React.useState<string | null>(null)
+  const pathname = usePathname()
   const t = getTranslations(locale)
   const navigation = getNavItems(t, locale)
   const dropdownTimeout = React.useRef<ReturnType<typeof setTimeout> | null>(null)
@@ -159,37 +168,24 @@ export function Header({ locale = "ko" }: { locale?: Locale }) {
 
           {/* Right side */}
           <div className="flex items-center gap-3">
-            {/* Language Switcher */}
-            <div className="relative">
-              <button
-                onClick={(e) => {
-                  e.stopPropagation()
-                  setIsLangOpen(!isLangOpen)
-                }}
-                className="hidden md:flex items-center gap-1.5 text-sm text-gray-500 hover:text-gray-900 transition-colors px-2 py-1 rounded-md hover:bg-gray-100"
-              >
-                <Globe className="h-4 w-4" />
-                <span>{localeNames[locale]}</span>
-              </button>
-              {isLangOpen && (
-                <div
-                  className="absolute right-0 top-full mt-2 bg-white rounded-lg shadow-lg border border-gray-200 py-1 min-w-[120px] z-50"
-                  onClick={(e) => e.stopPropagation()}
-                >
-                  {localeOptions.map((lang) => (
-                    <Link
-                      key={lang.code}
-                      href={getLocalePath(lang.code, "/")}
-                      className={`block px-4 py-2 text-sm hover:bg-blue-50 hover:text-blue-600 transition-colors ${
-                        lang.code === locale ? "text-blue-600 font-medium" : "text-gray-600"
-                      }`}
-                      onClick={() => setIsLangOpen(false)}
-                    >
-                      {lang.label}
-                    </Link>
-                  ))}
-                </div>
-              )}
+            {/* Language Switcher - Always Visible */}
+            <div className="hidden md:flex items-center gap-1 text-xs">
+              <Globe className="h-3.5 w-3.5 text-gray-400 mr-1" />
+              {localeOptions.map((lang, idx) => (
+                <React.Fragment key={lang.code}>
+                  {idx > 0 && <span className="text-gray-300">|</span>}
+                  <Link
+                    href={switchLocalePath(pathname, lang.code)}
+                    className={`px-1 py-0.5 rounded transition-colors ${
+                      lang.code === locale
+                        ? "text-blue-600 font-bold"
+                        : "text-gray-400 hover:text-gray-900"
+                    }`}
+                  >
+                    {localeShortLabels[lang.code]}
+                  </Link>
+                </React.Fragment>
+              ))}
             </div>
 
             {/* CTA Button */}
@@ -264,12 +260,13 @@ export function Header({ locale = "ko" }: { locale?: Locale }) {
                 {localeOptions.map((lang) => (
                   <Link
                     key={lang.code}
-                    href={getLocalePath(lang.code, "/")}
+                    href={switchLocalePath(pathname, lang.code)}
                     className={`text-xs px-3 py-1.5 border rounded-md transition-colors ${
                       lang.code === locale
                         ? "border-blue-600 text-blue-600 bg-blue-50"
                         : "border-gray-200 text-gray-500 hover:bg-gray-50"
                     }`}
+                    onClick={() => setIsMobileOpen(false)}
                   >
                     {lang.label}
                   </Link>
