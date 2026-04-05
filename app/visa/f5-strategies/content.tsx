@@ -89,9 +89,20 @@ export function F5StrategiesContent({ t, locale = "ko" }: { t: F5STranslations; 
                 <div className="bg-purple-50 rounded-lg p-6 border border-purple-200">
                   <p className="text-gray-700 mb-3">{t.strategy4Text}</p>
                   <ul className="text-sm text-gray-600 space-y-1">
-                    <li><strong>{t.routeLabel}</strong> {t.strategy4Route}</li>
                     <li><strong>{t.prosLabel}</strong> {t.strategy4Pros}</li>
                     <li><strong>{t.consLabel}</strong> {t.strategy4Cons}</li>
+                    <li><strong>{t.forLabel}</strong> {(t as Record<string, string>).strategy4For}</li>
+                  </ul>
+                </div>
+              </div>
+              <div>
+                <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">{(t as Record<string, string>).strategy5Title}</h2>
+                <div className="bg-amber-50 rounded-lg p-6 border border-amber-200">
+                  <p className="text-gray-700 mb-3">{(t as Record<string, string>).strategy5Text}</p>
+                  <ul className="text-sm text-gray-600 space-y-1">
+                    <li><strong>{t.prosLabel}</strong> {(t as Record<string, string>).strategy5Pros}</li>
+                    <li><strong>{t.consLabel}</strong> {(t as Record<string, string>).strategy5Cons}</li>
+                    <li><strong>{t.forLabel}</strong> {(t as Record<string, string>).strategy5For}</li>
                   </ul>
                 </div>
               </div>

@@ -7,114 +7,162 @@ image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
 
-<h2 style="color:#1e3a5f;">E-7 전문직 취업비자 vs D-8 투자비자 비교</h2>
+<nav>
+  <ul>
+    <li><a href="#e7-vs-d8-overview">E-7 vs D-8 비자 개요</a></li>
+    <li><a href="#e7-visa">E-7 전문직 취업비자란?</a></li>
+    <li><a href="#d8-visa">D-8 투자비자란?</a></li>
+    <li><a href="#e7-pros-cons">E-7 비자의 장단점</a></li>
+    <li><a href="#d8-pros-cons">D-8 비자의 장단점</a></li>
+    <li><a href="#comparison-table">E-7 vs D-8 비자 비교표</a></li>
+    <li><a href="#application-process">비자 신청 절차</a></li>
+    <li><a href="#which-visa">어떤 비자를 선택해야 할까?</a></li>
+    <li><a href="#faq">자주 묻는 질문 (FAQ)</a></li>
+    <li><a href="#related-services">관련 서비스</a></li>
+  </ul>
+</nav>
 
-<p style="line-height:1.6;">한국에서 외국인이 비즈니스를 하거나 전문직으로 취업하기 위해서는 다양한 비자 옵션이 존재합니다. 그 중에서도 E-7 전문직 취업비자와 D-8 투자비자는 외국인이 한국에 거주하며 경제 활동을 할 수 있도록 허용하는 중요한 비자입니다. 이 두 비자의 차이점과 장단점을 이해하는 것은 성공적인 비즈니스와 취업을 위한 첫 걸음이 될 것입니다.</p>
+## E-7 vs D-8 비자 개요 {#e7-vs-d8-overview}
 
-<div style="text-align:center;margin:32px 0;"><img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="description" style="width:80%;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.1);" loading="lazy"/></div>
+한국에서 외국인이 비즈니스를 하거나 전문직으로 취업하기 위해서는 다양한 비자 옵션이 존재합니다. 그 중에서도 **E-7 전문직 취업비자**와 **D-8 투자비자**는 외국인이 한국에 거주하며 경제 활동을 할 수 있도록 허용하는 중요한 비자입니다. 이 두 비자의 차이점과 장단점을 이해하는 것은 성공적인 비즈니스와 취업을 위한 첫 걸음이 될 것입니다.
 
-<h2 style="color:#1e3a5f;">E-7 전문직 취업비자란?</h2>
-<p style="line-height:1.6;">E-7 비자는 특정 전문직 종사자를 위한 비자로, 한국 내 기업에서 특정 기술이나 전문지식을 필요로 할 때 발급됩니다. 이 비자는 외국인이 한국에서 일하기 위한 기본적인 방법 중 하나로, 해당 직종의 자격 요건을 충족해야 합니다.</p>
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="한국 비즈니스 환경" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
-<div style="background:linear-gradient(135deg,#eff6ff,#dbeafe);border-left:5px solid #2563eb;border-radius:0 12px 12px 0;padding:20px 24px;margin:28px 0;"><strong style="color:#1e40af;">핵심:</strong> E-7 비자는 전문직 종사자를 위한 것이며, 기술 및 자격 요건이 필요합니다.</div>
+## E-7 전문직 취업비자란? {#e7-visa}
 
-<h2 style="color:#1e3a5f;">D-8 투자비자란?</h2>
-<p style="line-height:1.6;">D-8 비자는 외국인이 한국에 투자하여 사업을 운영할 수 있도록 하는 비자입니다. 이 비자를 통해 외국인은 자신이 투자한 기업의 경영에 참여할 수 있으며, 한국에서 사업을 시작할 수 있는 기회를 제공합니다.</p>
+E-7 비자는 특정 전문직 종사자를 위한 비자로, 한국 내 기업에서 특정 기술이나 전문지식을 필요로 할 때 발급됩니다. 이 비자는 외국인이 한국에서 일하기 위한 기본적인 방법 중 하나로, 해당 직종의 자격 요건을 충족해야 합니다.
 
-<div style="background:linear-gradient(135deg,#eff6ff,#dbeafe);border-left:5px solid #2563eb;border-radius:0 12px 12px 0;padding:20px 24px;margin:28px 0;"><strong style="color:#1e40af;">핵심:</strong> D-8 비자는 외국인 투자자가 한국에서 사업을 운영할 수 있도록 하는 비자입니다.</div>
+E-7 비자의 주요 특징은 다음과 같습니다:
 
-<h2 style="color:#1e3a5f;">E-7 비자의 장단점</h2>
-<ul style="line-height:1.6;">
-    <li><strong>장점:</strong> 전문직 종사자로서 고용을 통해 안정적인 소득을 얻을 수 있습니다.</li>
-    <li><strong>단점:</strong> 자격 요건이 까다롭고, 특정 분야의 전문 지식이 요구됩니다.</li>
-</ul>
+- **대상:** IT, 엔지니어링, 교육, 연구 등 전문 분야 종사자
+- **발급 조건:** 고용주의 추천서 + 관련 자격증 또는 학위
+- **유효 기간:** 최대 2년 (갱신 가능)
+- **활동 범위:** 지정된 고용주 아래에서만 근무 가능
 
-<h2 style="color:#1e3a5f;">D-8 비자의 장단점</h2>
-<ul style="line-height:1.6;">
-    <li><strong>장점:</strong> 사업주로서 한국에서 직접 사업을 운영할 수 있는 기회를 제공합니다.</li>
-    <li><strong>단점:</strong> 초기 투자 비용이 필요하며, 사업 운영에 따른 리스크가 존재합니다.</li>
-</ul>
+<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>참고:</strong> E-7 비자는 전문직 종사자를 위한 것이며, 기술 및 자격 요건이 필요합니다. 고용주 변경 시 출입국관리사무소에 신고해야 합니다.</div>
 
-<h2 style="color:#1e3a5f;">E-7 vs D-8 비자 비교표</h2>
-<table style="width:100%;border-collapse:separate;border-spacing:0;margin:28px 0;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-    <thead>
-        <tr>
-            <th style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:14px 18px;">비자 종류</th>
-            <th style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:14px 18px;">목적</th>
-            <th style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:14px 18px;">요건</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">E-7</td>
-            <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">전문직으로 취업</td>
-            <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">전문 자격증 및 경험 필요</td>
-        </tr>
-        <tr>
-            <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">D-8</td>
-            <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">사업 운영</td>
-            <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">최소 투자 금액 필요</td>
-        </tr>
-    </tbody>
-</table>
+## D-8 투자비자란? {#d8-visa}
 
-<h2 style="color:#1e3a5f;">비자 신청 절차</h2>
-<p style="line-height:1.6;">각 비자의 신청 절차는 다르며, 필요한 서류와 요건을 충족해야 합니다. E-7 비자의 경우, 고용주로부터의 추천서와 자격증이 필요하며, D-8 비자의 경우, 사업 계획서와 투자 증명이 필요합니다.</p>
+[D-8 비자](/visa/d8)는 외국인이 한국에 투자하여 사업을 운영할 수 있도록 하는 비자입니다. 이 비자를 통해 외국인은 자신이 투자한 기업의 경영에 참여할 수 있으며, 한국에서 사업을 시작할 수 있는 기회를 제공합니다.
 
-<div style="background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-left:5px solid #22c55e;border-radius:0 12px 12px 0;padding:20px 24px;margin:28px 0;"><strong style="color:#166534;">팁:</strong> 비자 신청 전에 필요한 서류를 미리 준비하고, 관련 법률 및 규정을 잘 확인하는 것이 중요합니다.</div>
+D-8 비자의 주요 특징은 다음과 같습니다:
 
-<h2 style="color:#1e3a5f;">FAQ</h2>
+- **대상:** 한국에 투자하여 사업을 운영하려는 외국인
+- **발급 조건:** [외국인투자법인](/company/fdi) 설립 + 최소 1억 원 이상 투자
+- **유효 기간:** 1년~3년 (갱신 가능)
+- **활동 범위:** 투자 기업의 경영 활동 전반
 
-<table style="width:100%;border-collapse:separate;border-spacing:0 8px;margin:20px 0;">
-    <tr>
-        <td style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:16px 20px;font-weight:600;border-radius:8px 8px 0 0;"><strong>Q.</strong> E-7 비자와 D-8 비자의 유효 기간은 어떻게 되나요?</td>
-    </tr>
-    <tr>
-        <td style="background:#eff6ff;padding:16px 20px;border-radius:0 0 8px 8px;border:1px solid #bfdbfe;">A. E-7 비자는 최대 2년까지, D-8 비자는 보통 1년에서 3년까지 발급됩니다.</td>
-    </tr>
-</table>
+<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>참고:</strong> D-8 비자는 외국인 투자자가 한국에서 사업을 운영할 수 있도록 하는 비자입니다. 투자금은 반드시 외국환은행을 통해 송금해야 합니다.</div>
 
-<table style="width:100%;border-collapse:separate;border-spacing:0 8px;margin:20px 0;">
-    <tr>
-        <td style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:16px 20px;font-weight:600;border-radius:8px 8px 0 0;"><strong>Q.</strong> E-7 비자로 한국에서 어떤 직업을 가질 수 있나요?</td>
-    </tr>
-    <tr>
-        <td style="background:#eff6ff;padding:16px 20px;border-radius:0 0 8px 8px;border:1px solid #bfdbfe;">A. E-7 비자는 IT, 엔지니어링, 교육 등 다양한 전문직에 적용될 수 있습니다.</td>
-    </tr>
-</table>
+## E-7 비자의 장단점 {#e7-pros-cons}
 
-<table style="width:100%;border-collapse:separate;border-spacing:0 8px;margin:20px 0;">
-    <tr>
-        <td style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:16px 20px;font-weight:600;border-radius:8px 8px 0 0;"><strong>Q.</strong> D-8 비자를 받기 위해 필요한 최소 투자 금액은 얼마인가요?</td>
-    </tr>
-    <tr>
-        <td style="background:#eff6ff;padding:16px 20px;border-radius:0 0 8px 8px;border:1px solid #bfdbfe;">A. 최소 투자 금액은 사업 종류에 따라 다르지만, 일반적으로 100만 원 이상이 필요합니다.</td>
-    </tr>
-</table>
+### 장점
 
-<table style="width:100%;border-collapse:separate;border-spacing:0 8px;margin:20px 0;">
-    <tr>
-        <td style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:16px 20px;font-weight:600;border-radius:8px 8px 0 0;"><strong>Q.</strong> 비자 연장 절차는 어떻게 되나요?</td>
-    </tr>
-    <tr>
-        <td style="background:#eff6ff;padding:16px 20px;border-radius:0 0 8px 8px;border:1px solid #bfdbfe;">A. 비자 연장은 출입국 관리사무소에서 신청하며, 필요한 서류를 제출해야 합니다.</td>
-    </tr>
-</table>
+- **안정적 소득:** 전문직 종사자로서 고용을 통해 안정적인 소득을 얻을 수 있습니다
+- **경력 개발:** 한국 기업에서의 전문 경험을 쌓을 수 있습니다
+- **초기 비용 없음:** 투자 자금 없이도 한국에서 일할 수 있습니다
+- **4대 보험 혜택:** 고용주를 통한 건강보험, 국민연금 등의 혜택을 받을 수 있습니다
 
-<table style="width:100%;border-collapse:separate;border-spacing:0 8px;margin:20px 0;">
-    <tr>
-        <td style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:16px 20px;font-weight:600;border-radius:8px 8px 0 0;"><strong>Q.</strong> E-7 비자와 D-8 비자 중 어떤 비자를 선택해야 할까요?</td>
-    </tr>
-    <tr>
-        <td style="background:#eff6ff;padding:16px 20px;border-radius:0 0 8px 8px;border:1px solid #bfdbfe;">A. 개인의 경력과 목표에 따라 선택해야 하며, 전문직에 취업하고 싶다면 E-7, 사업을 운영하고 싶다면 D-8이 적합합니다.</td>
-    </tr>
-</table>
+### 단점
 
-<h2 style="color:#1e3a5f;">결론</h2>
-<p style="line-height:1.6;">E-7 전문직 취업비자와 D-8 투자비자는 각각의 목적과 필요에 따라 선택할 수 있는 비자입니다. 자신의 상황과 목표에 맞는 비자를 선택하여 한국에서 성공적인 경력을 쌓거나 사업을 운영하시길 바랍니다.</p>
+- **자격 요건이 까다로움:** 특정 분야의 전문 지식과 자격증이 요구됩니다
+- **고용주 종속:** 지정된 고용주 아래에서만 근무 가능하며, 이직 시 절차가 복잡합니다
+- **업종 제한:** 허용된 직종 목록(NCS 코드)에 해당해야 합니다
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb);border-radius:16px;padding:44px 36px;margin:48px 0;text-align:center;">
-    <h3 style="color:#fff;font-size:1.3rem;margin:0 0 12px;">무료 상담 신청</h3>
-    <p style="color:#bfdbfe;margin:0 0 24px;">전문 행정사가 상담해드립니다. Tel. 02-363-2251</p>
-    <a href="/contact" style="display:inline-block;background:#fff;color:#1e3a5f;padding:14px 36px;border-radius:8px;font-weight:700;text-decoration:none;">상담 신청하기</a>
-</div>
+## D-8 비자의 장단점 {#d8-pros-cons}
+
+### 장점
+
+- **사업 자율성:** 사업주로서 한국에서 직접 사업을 운영할 수 있습니다
+- **가족 동반:** 배우자 및 미성년 자녀의 동반 비자(F-3) 신청 가능
+- **영주권 전환:** 일정 조건 충족 시 [F-5 영주권](/visa/f5) 전환이 가능합니다
+- **사업 범위 확장:** 다양한 업종에서의 사업 활동이 가능합니다
+
+### 단점
+
+- **초기 투자 비용:** 최소 1억 원 이상의 투자금이 필요합니다
+- **사업 리스크:** 사업 운영에 따른 재정적 리스크가 존재합니다
+- **법인 운영 의무:** 세무, 회계, 4대 보험 등 법인 운영에 대한 의무가 있습니다
+
+## E-7 vs D-8 비자 비교표 {#comparison-table}
+
+| 구분 | E-7 전문직 취업비자 | D-8 투자비자 |
+|---|---|---|
+| **목적** | 전문직으로 취업 | 사업 운영 및 투자 |
+| **대상** | 전문 기술 보유 외국인 | 외국인 투자자 |
+| **요건** | 전문 자격증 및 경력 필요 | 최소 투자 금액 (1억 원) 필요 |
+| **유효 기간** | 최대 2년 | 1년~3년 |
+| **활동 범위** | 지정 고용주 아래 근무 | 투자 기업 경영 전반 |
+| **가족 동반** | 제한적 | F-3 동반 비자 가능 |
+| **영주권 전환** | F-2 경유 가능 | [F-5 직접 전환](/visa/f5) 가능 |
+| **초기 비용** | 없음 | 1억 원 이상 |
+
+## 비자 신청 절차 {#application-process}
+
+### E-7 비자 신청 절차
+
+1. 한국 기업으로부터 고용 제안 수령
+2. 고용주가 고용 허가 신청 (출입국관리사무소)
+3. 추천서, 자격증, 학위증명서 등 서류 준비
+4. 재외공관 또는 출입국관리사무소에 비자 신청
+5. 심사 후 비자 발급 (약 2~4주 소요)
+
+### D-8 비자 신청 절차
+
+1. [외국인투자법인 설립](/company/fdi) (투자 신고 및 법인 등기)
+2. 외국환은행을 통한 투자금 송금
+3. 사업자등록증 발급
+4. 사업계획서 및 투자 증명 서류 준비
+5. 재외공관 또는 출입국관리사무소에 비자 신청
+6. 심사 후 비자 발급 (약 3~6주 소요)
+
+<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>주의:</strong> 비자 신청 전에 필요한 서류를 미리 준비하고, 관련 법률 및 규정을 잘 확인하는 것이 중요합니다. 서류 미비 시 심사가 지연되거나 거절될 수 있습니다.</div>
+
+## 어떤 비자를 선택해야 할까? {#which-visa}
+
+비자 선택은 개인의 상황과 목표에 따라 달라집니다:
+
+- **전문 기술이 있고 한국 기업에 취업하고 싶다면** → E-7 비자 추천
+- **자본을 가지고 직접 사업을 운영하고 싶다면** → [D-8 비자](/visa/d8) 추천
+- **장기적으로 한국에 정착하고 싶다면** → D-8 비자 취득 후 [F-5 영주권](/visa/f5) 전환 검토
+- **기업 내 전근으로 한국에 파견된다면** → [D-7 비자](/visa/d7) 검토도 필요
+
+<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>참고:</strong> 비자 유형별 상세한 요건은 출입국관리사무소 또는 전문 행정사에게 상담받으시는 것을 권장합니다.</div>
+
+## 자주 묻는 질문 (FAQ) {#faq}
+
+**Q: E-7 비자와 D-8 비자의 유효 기간은 어떻게 되나요?**
+
+E-7 비자는 최대 2년까지, D-8 비자는 보통 1년에서 3년까지 발급됩니다. 두 비자 모두 갱신이 가능하며, 갱신 시 해당 요건을 지속적으로 충족해야 합니다.
+
+**Q: E-7 비자로 한국에서 어떤 직업을 가질 수 있나요?**
+
+E-7 비자는 IT, 엔지니어링, 교육, 자연과학, 회계, 법률 등 다양한 전문직에 적용될 수 있습니다. 구체적인 직종 목록은 법무부 고시를 통해 확인 가능합니다.
+
+**Q: D-8 비자를 받기 위해 필요한 최소 투자 금액은 얼마인가요?**
+
+외국인투자촉진법에 따라 최소 1억 원 이상의 투자가 필요합니다. 다만, 기술 기반 스타트업 등 특정 업종의 경우 투자 금액 기준이 다를 수 있으므로 전문가 상담을 권장합니다.
+
+**Q: 비자 연장 절차는 어떻게 되나요?**
+
+비자 연장은 만료 4개월~2개월 전 출입국관리사무소에서 신청합니다. E-7의 경우 고용 지속 증명, D-8의 경우 사업 운영 및 재무 상태 증빙 서류를 제출해야 합니다.
+
+**Q: E-7 비자와 D-8 비자 중 어떤 비자를 선택해야 할까요?**
+
+개인의 경력과 목표에 따라 선택해야 합니다. 전문직에 취업하고 싶다면 E-7, 사업을 운영하고 싶다면 [D-8](/visa/d8)이 적합합니다. 장기 정착이 목표라면 D-8 후 [F-5 영주권](/visa/f5) 전환 경로도 고려하세요.
+
+## 관련 서비스 {#related-services}
+
+- [D-8 투자비자 신청 대행](/visa/d8)
+- [D-7 주재원비자 안내](/visa/d7)
+- [F-5 영주권 취득 컨설팅](/visa/f5)
+- [외국인투자법인 설립](/company/fdi)
+- [지사 설치 대행](/company/branch)
+- [연락사무소 설치](/company/liaison)
+- [무료 상담 신청](/contact)
+
+## 결론
+
+E-7 전문직 취업비자와 D-8 투자비자는 각각의 목적과 필요에 따라 선택할 수 있는 비자입니다. 자신의 상황과 목표에 맞는 비자를 선택하여 한국에서 성공적인 경력을 쌓거나 사업을 운영하시길 바랍니다. 비자 관련 궁금한 점이 있으시면 전문 행정사에게 상담받으시는 것을 추천드립니다.
+
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">무료 상담 신청</h3><p style="color:#bfdbfe; margin:0 0 16px;">전문 행정사가 상담해드립니다. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">상담 신청하기</a></div>

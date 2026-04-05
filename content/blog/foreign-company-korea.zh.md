@@ -16,132 +16,194 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav style="margin: 24px 0;">
-    <ul>
-        <li><a href="#introduction" style="color:#2563eb;">1. 前言</a></li>
-        <li><a href="#types" style="color:#2563eb;">2. 韩国市场进入形式</a></li>
-        <li><a href="#subsidiary" style="color:#2563eb;">3. 子公司（当地法人）</a></li>
-        <li><a href="#branch" style="color:#2563eb;">4. 分公司</a></li>
-        <li><a href="#liaison" style="color:#2563eb;">5. 联络处</a></li>
-        <li><a href="#comparison" style="color:#2563eb;">6. 对比分析</a></li>
-        <li><a href="#regulations" style="color:#2563eb;">7. 法律法规</a></li>
-        <li><a href="#benefits" style="color:#2563eb;">8. 各形式的优势</a></li>
-        <li><a href="#challenges" style="color:#2563eb;">9. 各形式的挑战</a></li>
-        <li><a href="#conclusion" style="color:#2563eb;">10. 结论</a></li>
-        <li><a href="#faq" style="color:#2563eb;">11. 常见问题</a></li>
-    </ul>
+<nav>
+  <ul>
+    <li><a href="#introduction">前言</a></li>
+    <li><a href="#three-types">三种进入方式</a></li>
+    <li><a href="#subsidiary">子公司（当地法人）</a></li>
+    <li><a href="#branch">分公司</a></li>
+    <li><a href="#liaison">联络处</a></li>
+    <li><a href="#comparison">对比分析</a></li>
+    <li><a href="#legal">法律法规框架</a></li>
+    <li><a href="#choosing">如何选择合适的架构</a></li>
+    <li><a href="#faq">常见问题</a></li>
+  </ul>
 </nav>
 
-<h2 id="introduction">1. 前言</h2>
-韩国对外国企业而言是一个极具吸引力的市场。然而，要实现成功进入，选择合适的法人形式至关重要。外国法人进入韩国市场的方式有多种，每种方式各有优缺点。因此，明确了解和比较子公司、分公司、联络处各自的特点是必不可少的。
+## 前言
 
-<h2 id="types">2. 韩国市场进入形式</h2>
-外国企业进入韩国的方式主要分为三种：子公司（当地法人）、分公司和联络处。各种形式在法律地位、税务负担和运营方式上存在差异。了解这些差异是在韩国市场取得成功的第一步。
+韩国是亚洲最具活力的经济体之一，拥有世界一流的基础设施、高素质劳动力和深度融入全球供应链的产业体系。对于考虑进入韩国市场的外国企业而言，**选择正确的法律架构**是最为关键的早期决策之一。
 
-<h2 id="subsidiary">3. 子公司（当地法人）</h2>
-子公司是指外国企业在韩国境内设立独立法人实体。该法人依据韩国法律运营，拥有在韩国市场直接开展业务的权限。设立子公司需要满足最低注册资本要求，并需缴纳法人税等税费。
+韩国提供三种主要选择：**子公司**（当地法人）、**分公司**和**联络处**。每种形式各有优势、局限和法规要求。本指南将进行全面对比，帮助您选择最契合业务目标的架构。
 
-<div style="text-align:center;margin:32px 0;"><img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国办公室" style="width:80%;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.1);" loading="lazy"/></div>
+<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国现代办公楼" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
-<h2 id="branch">4. 分公司</h2>
-分公司是允许母公司在韩国直接开展业务活动的一种形式。分公司不被视为独立法人，而是作为母公司的附属机构运营。分公司无需单独进行法人注册，直接沿用母公司的会计体系。但分公司需要就在韩国产生的收入缴纳税款。
+## 三种进入方式
 
-<h2 id="liaison">5. 联络处</h2>
-联络处旨在为外国企业进入韩国市场进行前期调研和信息收集。联络处不能从事直接的营利活动，主要负责为总部收集资料和管理客户关系等工作。联络处的设立和运营相对简便。
+外国企业进入韩国通常从以下三种架构中选择：
 
-<h2 id="comparison">6. 对比分析</h2>
-各种法人形式在设立和运营方式上存在显著差异。以下是简要对比表：
+| 架构 | 法律地位 | 营收活动 | 纳税义务 |
+|---|---|---|---|
+| **子公司** | 独立的韩国法人 | 可开展全面业务 | 对全部收入缴纳法人税 |
+| **分公司** | 母公司的延伸 | 可从事营收活动 | 对韩国来源收入纳税 |
+| **联络处** | 非商业性存在 | 不得从事营收活动 | 通常免税 |
 
-<table style="width:100%;border-collapse:separate;border-spacing:0;margin:28px 0;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-<thead>
-    <tr>
-        <th style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:14px 18px;">法人形式</th>
-        <th style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:14px 18px;">特点</th>
-        <th style="background:linear-gradient(135deg,#1e40af,#2563eb);color:#fff;padding:14px 18px;">税务</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">子公司</td>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">独立运营，业务范围广泛</td>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">适用法人税</td>
-    </tr>
-    <tr>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">分公司</td>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">母公司的一部分，运营灵活</td>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">就归属于母公司的收入征税</td>
-    </tr>
-    <tr>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">联络处</td>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">业务活动受限，主要进行信息收集和管理</td>
-        <td style="padding:12px 18px;border-bottom:1px solid #e2e8f0;">无需纳税</td>
-    </tr>
-</tbody>
-</table>
+最终选择取决于您的业务目标、风险承受能力、投资时间线和运营需求。
 
-<h2 id="regulations">7. 法律法规</h2>
-各种法人形式需要遵守不同的法律法规。子公司必须依据韩国商法进行企业注册，并满足各项要求。分公司也需要特定的注册程序，联络处虽然受到的监管相对较少，但仍需完成部分注册手续。
+## 子公司（当地法人）
 
-<h2 id="benefits">8. 各形式的优势</h2>
-各种法人形式具有各自独特的优势。子公司可以充分把握市场机遇，分公司则能获得母公司的支持。联络处可以以较低的成本通过市场调研和客户管理来降低风险。
+子公司是依据韩国法律注册的**独立法人实体**。虽然由外国母公司全资或部分持股，但作为独立的韩国法人运营，拥有独立的法律权利和义务。
 
-<div style="background:linear-gradient(135deg,#eff6ff,#dbeafe);border-left:5px solid #2563eb;border-radius:0 12px 12px 0;padding:20px 24px;margin:28px 0;"><strong style="color:#1e40af;">要点：</strong> 外国企业要成功进入韩国市场，必须根据自身的商业模式和战略选择合适的法人形式。</div>
+### 优势
 
-<h2 id="challenges">9. 各形式的挑战</h2>
-每种法人形式都存在各自的挑战。子公司的设立和运营成本较高，分公司需要与母公司进行协调，联络处因运营范围有限可能错失商业机会。这些都是每个企业需要认真考虑的因素。
+- **完全的经营自主权**——可从事任何合法商业活动
+- **有限责任**——母公司的风险敞口仅限于其投资额
+- **市场信誉**——韩国客户和合作伙伴通常更倾向与当地法人合作
+- **政府优惠**——可享受针对外商投资企业的激励政策
+- **D-8签证资格**——外国高管和投资者可申请D-8签证
 
-<h2 id="conclusion">10. 结论</h2>
-外国企业进入韩国市场的方式多种多样，但深入了解每种方式的优缺点至关重要。选择与自身商业模式和战略相匹配的形式，才能实现成功的韩国市场进入。
+### 劣势
 
-<h2 id="faq">11. 常见问题</h2>
-<table style="width:100%;border-collapse:collapse;margin:28px 0;border-radius:12px;overflow:hidden;">
-    <thead>
-        <tr>
-            <th style="background:#2563eb;color:white;padding:14px 18px;">问题</th>
-            <th style="background:#2563eb;color:white;padding:14px 18px;">回答</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">进入韩国市场选择哪种形式最好？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">取决于您的商业模式和战略。子公司能提供最大的自主权。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">设立子公司需要什么条件？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">需要最低注册资本、商业计划书及其他相关文件。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">分公司和联络处有什么区别？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">分公司可以开展业务活动，而联络处仅限于信息收集。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">会产生哪些费用？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">子公司需缴纳法人税和运营费用，分公司的费用取决于母公司的税务政策。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">联络处需要纳税吗？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">联络处因不产生直接收入，无需纳税。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">在韩国需要注册吗？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">所有形式的机构都需要进行法律注册。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">费用大约是多少？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">因形式和规模而异，子公司通常需要最大的投入。</td>
-        </tr>
-        <tr>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">在哪里可以获得咨询？</td>
-            <td style="border-bottom:1px solid #e2e8f0;padding:12px 18px;">请联系VISION行政士事务所获取免费咨询。</td>
-        </tr>
-    </tbody>
-</table>
+- **设立成本较高**——最低注册资本、注册费、法律费用
+- **持续合规负担**——年度审计、法人税申报、董事会治理
+- **退出流程复杂**——如决定退出市场，清算程序繁琐
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb);border-radius:16px;padding:44px 36px;margin:48px 0;text-align:center;">
-    <h3 style="color:#fff;font-size:1.3rem;margin:0 0 12px;">VISION行政士事务所 免费咨询</h3>
-    <p style="color:#bfdbfe;margin:0 0 24px;">外国法人韩国进入专业行政士为您提供咨询服务。</p>
-    <p style="color:#fff;font-size:1.1rem;margin:0 0 8px;"><strong>Tel. 02-363-2251</strong></p>
-    <a href="/contact" style="display:inline-block;background:#fff;color:#1e3a5f;padding:14px 36px;border-radius:8px;font-weight:700;text-decoration:none;margin-top:16px;">预约咨询 →</a>
+### 设立要求
+
+1. 最低注册资本（D-8签证要求1亿韩元）
+2. 公司章程和股东决议
+3. 在管辖法院登记注册
+4. 在国税厅办理营业登记
+5. 通过指定银行完成外商投资申报
+
+## 分公司
+
+分公司**不是独立法人**——它是母公司在韩国的运营延伸。分公司可以从事营收业务，但在法律和财务上与总部紧密相连。
+
+### 优势
+
+- **设立程序更简便**
+- 母公司可进行**直接管控**
+- **无最低注册资本**要求（但需要运营资金）
+- 利润可**直接汇回**母公司
+
+### 劣势
+
+- **无限责任**——母公司承担全部法律责任
+- 部分韩国客户对非本地法人**信任度较低**
+- 韩国来源收入须纳税，利润汇出可能产生**预扣税**
+- **会计核算复杂**——须为韩国业务单独建账
+
+### 注册流程
+
+1. 向法院提交分公司设立报告
+2. 在国税厅办理税务登记
+3. 开设韩国银行账户
+4. 通知相关外汇银行
+
+## 联络处
+
+联络处是外国企业在韩国可以维持的**最轻量化存在**。它严格限定于**非商业活动**，如市场调研、人脉拓展和信息收集。
+
+### 优势
+
+- **设立最简单、成本最低**——注册要求最少
+- **无纳税义务**——因为不产生营收
+- **运营成本低**——适合在正式投入前进行市场试水
+- **灵活升级**——日后可转型为分公司或子公司
+
+### 劣势
+
+- **不得产生营收**或签署商业合同
+- **不得向客户开具发票**或从事销售活动
+- **业务范围有限**——可能制约业务拓展
+- **无签证资格**——外派人员需另行安排签证
+
+<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 如果联络处被发现从事营收活动，韩国税务机关有权将其重新认定为分公司，并追征税款及罚款。</div>
+
+## 对比分析
+
+| 因素 | 子公司 | 分公司 | 联络处 |
+|---|---|---|---|
+| **法律独立性** | 是 | 否 | 否 |
+| **营收活动** | 不受限制 | 允许 | 禁止 |
+| **责任承担** | 以投资额为限 | 母公司承担全部责任 | 责任极小 |
+| **税务** | 法人税（全部收入） | 韩国来源收入纳税 | 无 |
+| **设立时间** | 4至8周 | 2至4周 | 1至2周 |
+| **设立成本** | 高 | 中等 | 低 |
+| **签证资格** | 可申请D-8 | 可申请D-7/D-8 | 不可 |
+| **政府优惠** | 可享受 | 有限 | 不可 |
+| **市场信誉** | 最高 | 中等 | 最低 |
+| **最适合** | 长期市场进入 | 母公司主导的运营 | 市场探索阶段 |
+
+## 法律法规框架
+
+### 子公司法规
+
+子公司须遵守**韩国商法**，包括董事会会议、股东治理、年度财务审计（达到一定规模的企业）和详细税务申报等要求。
+
+### 分公司法规
+
+分公司受**外国人投资促进法**管辖，须每年向法院登记处提交报告。分公司利润汇出给母公司时可能需缴纳**利润汇出税**（按双边税收协定税率计算）。
+
+### 联络处法规
+
+联络处的法规要求最少，但仍须在相关机构完成注册。核心原则：**不得从事商业活动**。任何违规行为都将面临被重新认定的风险。
+
+<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 韩国已与90多个国家签订了《避免双重征税协定》。建议查询您所在国家与韩国是否签有此类协定，因为它会显著影响分公司和子公司的税务负担。</div>
+
+## 如何选择合适的架构
+
+在做决定时，请考虑以下问题：
+
+- **您是否准备好立即在韩国产生营收？** 如果是，选择子公司或分公司。
+- **您愿意投入多少资金？** 子公司要求最多，联络处最少。
+- **您是否需要为高管办理D-8签证？** 只有子公司能可靠地提供此资格。
+- **有限责任保护对您重要吗？** 子公司提供有限责任，分公司则不具备。
+- **您还在评估韩国市场吗？** 先设立联络处，确认商机后再升级。
+
+许多企业采用**分步策略**：先设联络处试水，待业务模式得到验证后再转为分公司或子公司。
+
+## 常见问题
+
+**Q. 进入韩国市场选择哪种架构最好？**
+
+取决于您的商业模式和时间规划。子公司拥有最大的自主权和市场信誉，分公司设立更快且由母公司直接管控，联络处则适合初步的市场探索。
+
+**Q. 设立子公司需要什么条件？**
+
+最低注册资本（D-8签证要求1亿韩元）、公司章程、股东决议，以及通过指定银行完成外商投资申报。
+
+**Q. 分公司和联络处有什么区别？**
+
+分公司可以从事商业活动并产生营收，联络处仅限于市场调研和客户关系管理等非商业工作。
+
+**Q. 各种架构会产生哪些费用？**
+
+子公司费用最高（注册费、资本金、审计费、法人税）。分公司费用中等（注册费、韩国来源收入税）。联络处费用最低（基本注册和运营支出）。
+
+**Q. 联络处需要在韩国纳税吗？**
+
+不需要，因为联络处被禁止产生营收。但如果被发现从事了商业活动，可能会被重新认定并追缴税款。
+
+**Q. 三种架构都需要注册吗？**
+
+是的。三种类型都须在韩国相关机构完成法律注册，但复杂程度和材料要求差异很大。
+
+**Q. 各种架构的设立需要多长时间？**
+
+子公司通常需要4至8周，分公司需要2至4周，联络处1至2周即可完成。
+
+**Q. 在哪里可以获得专业指导？**
+
+请联系VISION行政士事务所获取免费咨询。我们的团队专注于帮助外国企业顺利进入韩国市场。
+
+---
+
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:40px 36px; margin:48px 0; text-align:center;">
+  <h3 style="color:#fff; font-size:1.3rem; margin:0 0 12px;">免费咨询</h3>
+  <p style="color:#bfdbfe; margin:0 0 24px;">专业行政士为您提供咨询服务。电话：02-363-2251</p>
+  <a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:14px 36px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a>
 </div>
 
 <script type="application/ld+json">
@@ -151,10 +213,10 @@ slug: "foreign-company-korea"
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "进入韩国市场选择哪种形式最好？",
+      "name": "进入韩国市场选择哪种架构最好？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "取决于您的商业模式和战略。子公司能提供最大的自主权。"
+        "text": "取决于您的商业模式和时间规划。子公司拥有最大的自主权和市场信誉。"
       }
     },
     {
@@ -162,7 +224,7 @@ slug: "foreign-company-korea"
       "name": "设立子公司需要什么条件？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "需要最低注册资本、商业计划书及其他相关文件。"
+        "text": "最低注册资本、公司章程、股东决议，以及通过指定银行完成外商投资申报。"
       }
     },
     {
@@ -170,44 +232,20 @@ slug: "foreign-company-korea"
       "name": "分公司和联络处有什么区别？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "分公司可以开展业务活动，而联络处仅限于信息收集。"
+        "text": "分公司可以从事商业活动并产生营收，联络处仅限于市场调研等非商业工作。"
       }
     },
     {
       "@type": "Question",
-      "name": "会产生哪些费用？",
+      "name": "联络处需要在韩国纳税吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "子公司需缴纳法人税和运营费用，分公司的费用取决于母公司的税务政策。"
+        "text": "不需要，因为联络处被禁止产生营收。但如果被发现从事了商业活动，可能会被重新认定并追缴税款。"
       }
     },
     {
       "@type": "Question",
-      "name": "联络处需要纳税吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "联络处因不产生直接收入，无需纳税。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "在韩国需要注册吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "所有形式的机构都需要进行法律注册。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "费用大约是多少？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "因形式和规模而异，子公司通常需要最大的投入。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "在哪里可以获得咨询？",
+      "name": "在哪里可以获得专业指导？",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "请联系VISION行政士事务所获取免费咨询。"
