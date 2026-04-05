@@ -1,8 +1,8 @@
 ---
-title: "E-7 전문직 취업비자 vs D-8 투자비자 비교"
+title: "E-7専門職就労ビザ vs D-8投資ビザ比較"
 date: "2026-04-03"
-category: "비자"
-excerpt: "E-7 전문직 취업비자 vs D-8 투자비자 비교"
+category: "ビザ"
+excerpt: "E-7専門職就労ビザとD-8企業投資ビザの特徴と長所短所を詳しく比較します。"
 image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---

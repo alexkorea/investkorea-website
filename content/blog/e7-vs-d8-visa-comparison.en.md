@@ -1,8 +1,8 @@
 ---
-title: "E-7 전문직 취업비자 vs D-8 투자비자 비교"
+title: "E-7 Work Visa vs D-8 Investment Visa Comparison"
 date: "2026-04-03"
-category: "비자"
-excerpt: "E-7 전문직 취업비자 vs D-8 투자비자 비교"
+category: "Visa"
+excerpt: "A comprehensive comparison of E-7 professional work visa and D-8 corporate investment visa for foreigners in Korea."
 image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
