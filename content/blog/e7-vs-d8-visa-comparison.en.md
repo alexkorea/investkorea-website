@@ -4,7 +4,7 @@ date: "2026-04-03"
 category: "비자"
 excerpt: "E-7 전문직 취업비자 vs D-8 투자비자 비교"
 image: "/slides/building.jpg"
-slug: "2026-04-03-e-7-vs-d-8"
+slug: "e7-vs-d8-visa-comparison"
 ---
 
 <nav>
