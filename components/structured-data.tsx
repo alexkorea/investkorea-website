@@ -20,7 +20,7 @@ const orgData = {
   address: {
     "@type": "PostalAddress",
     streetAddress: "퇴계로 324, 3층 (성우빌딩)",
-    addressLocality: "중구 광희동",
+    addressLocality: "중구",
     addressRegion: "서울특별시",
     postalCode: "04620",
     addressCountry: "KR",

@@ -738,7 +738,7 @@ export const translations = {
       terms: "Terms of Service",
       phone: "02-363-2251",
       email: "5000meter@gmail.com",
-      address: "324 Toegyero, Gwanghui-dong, Jung-gu, Seoul",
+      address: "(04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul | Dongdaemun History & Culture Park Stn. Exit 4, 10m",
     },
   },
   zh: {
@@ -1086,7 +1086,7 @@ export const translations = {
       terms: "服务条款",
       phone: "02-363-2251",
       email: "5000meter@gmail.com",
-      address: "首尔市中区退溪路324 光熙洞",
+      address: "(04614) 首尔市中区退溪路324, 3层 (成友大厦) | 东大门历史文化公园站4号出口10米",
     },
   },
   ja: {
@@ -1434,7 +1434,7 @@ export const translations = {
       terms: "利用規約",
       phone: "02-363-2251",
       email: "5000meter@gmail.com",
-      address: "ソウル市中区退渓路324 光熙洞",
+      address: "(04614) ソウル市中区退渓路324, 三階 (ソンウビル) | 東大門歴史文化公園駅4番出口10m",
     },
   },
 } as const;
