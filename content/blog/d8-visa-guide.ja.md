@@ -186,11 +186,7 @@ D-8ビザを目指す際は、以下の点にご注意ください：
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:40px 36px; margin:48px 0; text-align:center;">
-  <h3 style="color:#fff; font-size:1.3rem; margin:0 0 12px;">無料相談</h3>
-  <p style="color:#bfdbfe; margin:0 0 24px;">専門行政士がご相談いたします。Tel. 02-363-2251</p>
-  <a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:14px 36px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a>
-</div>
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">無料相談</h3><p style="color:#bfdbfe; margin:0 0 16px;">専門行政士がご相談いたします。Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a></div>
 
 <script type="application/ld+json">
 {

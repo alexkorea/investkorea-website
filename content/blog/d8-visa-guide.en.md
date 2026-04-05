@@ -186,11 +186,7 @@ In some cases, immigration may request an interview to verify the legitimacy of 
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:40px 36px; margin:48px 0; text-align:center;">
-  <h3 style="color:#fff; font-size:1.3rem; margin:0 0 12px;">Free Consultation</h3>
-  <p style="color:#bfdbfe; margin:0 0 24px;">Our expert consultants will guide you. Tel. 02-363-2251</p>
-  <a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:14px 36px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a>
-</div>
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
 
 <script type="application/ld+json">
 {

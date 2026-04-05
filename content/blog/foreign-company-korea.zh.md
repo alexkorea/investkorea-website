@@ -200,11 +200,7 @@ slug: "foreign-company-korea"
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:40px 36px; margin:48px 0; text-align:center;">
-  <h3 style="color:#fff; font-size:1.3rem; margin:0 0 12px;">免费咨询</h3>
-  <p style="color:#bfdbfe; margin:0 0 24px;">专业行政士为您提供咨询服务。电话：02-363-2251</p>
-  <a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:14px 36px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a>
-</div>
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">免费咨询</h3><p style="color:#bfdbfe; margin:0 0 16px;">专业行政士为您提供咨询服务。电话：02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a></div>
 
 <script type="application/ld+json">
 {

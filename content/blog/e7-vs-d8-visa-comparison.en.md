@@ -156,8 +156,53 @@ Both can lead to F-5 permanent residency. The E-7 path typically goes through F-
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:40px 36px; margin:48px 0; text-align:center;">
-  <h3 style="color:#fff; font-size:1.3rem; margin:0 0 12px;">Free Consultation</h3>
-  <p style="color:#bfdbfe; margin:0 0 24px;">Our expert consultants will guide you. Tel. 02-363-2251</p>
-  <a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:14px 36px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a>
-</div>
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long are E-7 and D-8 visas valid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The E-7 visa is typically valid for 1 to 3 years. The D-8 visa is usually issued for 1 to 2 years. Both can be renewed if conditions are met."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What jobs qualify for the E-7 visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The E-7 covers a broad range of professional fields including IT, engineering, natural sciences, education, arts, and management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum investment for a D-8 visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, KRW 100 million (approximately USD 75,000) is required. However, government-recognized startup programs may allow lower thresholds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I switch from E-7 to D-8?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If you establish a qualifying business while on an E-7 visa, you can apply to change your status to D-8 through the immigration office."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which visa offers a better path to permanent residency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both can lead to F-5 permanent residency. The E-7 path typically goes through F-2 (points-based), while D-8 holders can apply after 5+ years of sustained investment."
+      }
+    }
+  ]
+}
+</script>
