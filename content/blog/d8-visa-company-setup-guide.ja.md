@@ -4,7 +4,7 @@ date: "2026-04-05"
 category: "法人設立"
 excerpt: "D-8投資ビザのための韓国法人設立の全過程をステップ別にご案内します。"
 image: "/slides/building.jpg"
-slug: "2026-04-05-d8-visa-company-setup"
+slug: "d8-visa-company-setup-guide"
 ---
 
 <nav>

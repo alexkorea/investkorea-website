@@ -4,7 +4,7 @@ date: "2026-04-05"
 category: "Company Formation"
 excerpt: "A step-by-step guide to establishing a company in Korea for D-8 investment visa."
 image: "/slides/building.jpg"
-slug: "2026-04-05-d8-visa-company-setup"
+slug: "d8-visa-company-setup-guide"
 ---
 
 <nav>

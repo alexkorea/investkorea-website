@@ -4,7 +4,7 @@ date: "2026-04-05"
 category: "公司设立"
 excerpt: "分步介绍为获取D-8投资签证在韩国设立法人的全过程。"
 image: "/slides/building.jpg"
-slug: "2026-04-05-d8-visa-company-setup"
+slug: "d8-visa-company-setup-guide"
 ---
 
 <nav>

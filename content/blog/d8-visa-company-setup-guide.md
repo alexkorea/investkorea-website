@@ -13,7 +13,7 @@ excerptEn: "A step-by-step guide to establishing a company in Korea for D-8 inve
 excerptZh: "分步介绍为获取D-8投资签证在韩国设立法人的全过程。"
 excerptJa: "D-8投資ビザのための韓国法人設立の全過程をステップ別にご案内します。"
 image: "/slides/building.jpg"
-slug: "2026-04-05-d8-visa-company-setup"
+slug: "d8-visa-company-setup-guide"
 ---
 
 <nav>
