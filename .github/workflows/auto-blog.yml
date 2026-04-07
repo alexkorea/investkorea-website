@@ -2,8 +2,11 @@ name: Auto Blog Post
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # 08:00 KST (UTC+9)
-  workflow_dispatch:       # 수동 실행 가능
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-blog:
@@ -13,12 +16,10 @@ jobs:
 
       - name: Generate blog post
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: '5533847195'
         run: |
-          # Topics rotation
           TOPICS=(
             "외국인 투자법인 설립 절차 완벽 가이드"
             "D-8 기업투자비자 신청 방법과 필요서류"
@@ -32,16 +33,15 @@ jobs:
             "한국 창업비자 D-10 신청 조건과 절차"
           )
 
-          DAY=$(date +%j)
+          DAY=$(date +%-j)
           INDEX=$((DAY % ${#TOPICS[@]}))
           TOPIC="${TOPICS[$INDEX]}"
           DATE=$(date +%Y-%m-%d)
-          SLUG="post-$(date +%s | base64 | tr -d '=' | head -c 8)"
+          SLUG="post-$(date +%s | tail -c 9)"
 
           echo "Topic: $TOPIC"
           echo "Slug: $SLUG"
 
-          # Generate content with GitHub Models API
           RESPONSE=$(curl -s "https://models.inference.ai.azure.com/chat/completions" \
             -H "Authorization: Bearer $GH_MODELS_TOKEN" \
             -H "Content-Type: application/json" \
@@ -61,42 +61,34 @@ jobs:
 
           if [ -z "$CONTENT" ]; then
             echo "Failed to generate content"
-            # Notify failure
             curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
               -d "chat_id=${TELEGRAM_CHAT_ID}" \
               -d "text=❌ InvestKorea 블로그 생성 실패: ${TOPIC}"
             exit 1
           fi
 
-          # Create frontmatter + content
+          mkdir -p content/blog
           cat > "content/blog/${SLUG}.md" << BLOGEOF
-          ---
-          title: "${TOPIC}"
-          date: "${DATE}"
-          category: "visa"
-          excerpt: "${TOPIC}"
-          image: "/slides/documents.jpg"
-          slug: "${SLUG}"
-          ---
+---
+title: "${TOPIC}"
+date: "${DATE}"
+category: "visa"
+excerpt: "${TOPIC}"
+image: "/slides/documents.jpg"
+slug: "${SLUG}"
+---
 
-          ${CONTENT}
-          BLOGEOF
+${CONTENT}
+BLOGEOF
 
-          # Fix indentation
-          sed -i 's/^          //' "content/blog/${SLUG}.md"
-
-          # Commit and push
           git config user.name "Blog Bot"
           git config user.email "bot@investkorea.co.kr"
           git add "content/blog/${SLUG}.md"
           git commit -m "blog: ${TOPIC}"
           git push
 
-          # Notify success
           curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d "chat_id=${TELEGRAM_CHAT_ID}" \
-            -d "text=✅ InvestKorea 블로그 발행 완료!
-
-          제목: ${TOPIC}
-          파일: ${SLUG}.md
-          날짜: ${DATE}"
+            -d "text=✅ InvestKorea 블로그 발행!
+제목: ${TOPIC}
+파일: ${SLUG}.md"
