@@ -1,7 +1,19 @@
 import type { Metadata } from 'next'
+import { headers } from 'next/headers'
 import { Playfair_Display } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
+
+const supportedLocales = ['ko', 'en', 'zh', 'ja'] as const
+
+async function getLocaleFromHeaders(): Promise<string> {
+  const headersList = await headers()
+  const locale = headersList.get('x-locale')
+  if (locale && supportedLocales.includes(locale as any)) {
+    return locale
+  }
+  return 'ko'
+}
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -68,14 +80,16 @@ export const metadata: Metadata = {
   },
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  const lang = await getLocaleFromHeaders()
   return (
-    <html lang="ko">
+    <html lang={lang}>
       <head>
+        <meta name="robots" content="index, follow" />
         <link rel="stylesheet" as="style" crossOrigin="anonymous" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
       </head>
       <body className={`${playfair.variable} antialiased`} style={{ fontFamily: '"Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif' }}>

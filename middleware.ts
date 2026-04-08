@@ -23,11 +23,18 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathnameHasLocale) {
-    return NextResponse.next();
+    const locale = locales.find(
+      (l) => pathname.startsWith(`/${l}/`) || pathname === `/${l}`
+    ) || defaultLocale;
+    const response = NextResponse.next();
+    response.headers.set("x-locale", locale);
+    return response;
   }
 
   // For the root and non-locale paths, serve as default locale (ko) without redirect
-  return NextResponse.next();
+  const response = NextResponse.next();
+  response.headers.set("x-locale", defaultLocale);
+  return response;
 }
 
 export const config = {
