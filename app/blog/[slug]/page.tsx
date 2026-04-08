@@ -56,6 +56,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         { label: post.title, path: `/blog/${slug}` },
       ]} locale="ko" />
       <ArticleJsonLd title={post.title} description={post.excerpt} slug={slug} datePublished={post.date} locale="ko" />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": post.title,
+        "datePublished": post.date,
+        "author": { "@type": "Organization", "name": "비전행정사사무소" },
+        "publisher": { "@type": "Organization", "name": "비전행정사사무소" },
+        "description": post.excerpt,
+        "mainEntityOfPage": { "@type": "WebPage", "@id": `https://investkorea.co.kr/blog/${slug}` }
+      }) }} />
 
       {/* Messenger QR */}
       <Messenger locale="ko" />
