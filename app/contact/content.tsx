@@ -24,8 +24,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
       message: (form.elements.namedItem("message") as HTMLTextAreaElement).value,
     }
     try {
-      const webhookUrl = "https://guide-optimal-amy-hong.trycloudflare.com/webhook/investkorea-contact"
-      const res = await fetch(webhookUrl, {
+      const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
