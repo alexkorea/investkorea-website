@@ -77,7 +77,7 @@ export async function POST(request: Request) {
       "국적": nationality,
       "서비스": service,
       "메시지": message,
-    }), name, email).catch((err) => console.error("Email send error:", err))
+    }, name, email).catch((err) => console.error("Email send error:", err))
 
     await Promise.all([telegramPromise, emailPromise])
 
