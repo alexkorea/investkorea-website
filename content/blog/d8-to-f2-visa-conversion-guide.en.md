@@ -516,6 +516,6 @@ The first step toward a stable future in Korea—VISION Administrative Scrivener
 <div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
   <h3 style="color:white;margin-top:0;text-align:center">VISION Administrative Office</h3>
   <p style="margin:12px 0;text-align:center"><strong>Phone:</strong> +82-2-363-2251　|　<strong>Email:</strong> 5000meter@gmail.com</p>
-  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>Office Visit:</strong> (04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul | Dongdaemun History & Culture Park Stn. Exit 4, 10m</p>
+  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>Office Visit:</strong> (04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul  Dongdaemun History & Culture Park Stn. Exit 4, 10m | Dongdaemun History & Culture Park Stn. Exit 4, 10m</p>
 </div>
 
