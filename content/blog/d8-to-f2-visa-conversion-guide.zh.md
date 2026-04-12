@@ -512,3 +512,10 @@ VISION行政士事务所作为外国人投资及签证专业机构,支持包括D
 - 提供至F-5永居权的长期路线图
 
 迈向在韩国稳定未来的第一步,VISION行政士事务所将与您同行。现在就申请咨询,确认F-2签证转换的可能性。
+
+<div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
+  <h3 style="color:white;margin-top:0;text-align:center">VISION 行政士事务所</h3>
+  <p style="margin:12px 0;text-align:center"><strong>电话:</strong> +82-2-363-2251　|　<strong>邮箱:</strong> 5000meter@gmail.com</p>
+  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>到访咨询:</strong> (04614) 首尔市中区退溪路324, 3层 (成友大厦) | 东大门历史文化公园站4号出口10米</p>
+</div>
+
