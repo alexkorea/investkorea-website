@@ -17,9 +17,7 @@ slug: "foreign-investment-report-vs-registration"
 ---
 # 外国人投资促进法下申报与登记的区别操作指南
 
----
-
-## <h2 id="section-1">1. 外国人投资促进法基础概述</h2>
+<h2 id="section-1">1. 外国人投资促进法基础概述</h2>
 
 ### 法律背景与目的
 
@@ -36,11 +34,9 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#92400e">⚠️ 注意:</strong> 申报与登记环节不可跳步或混淆，否则后续资金注入、企业注册、签证办理均无法推进。
 </div>
 
----
+<h2 id="section-2">2. “申报”与“登记”的定义与法律依据</h2>
 
-## <h2 id="section-2">2. “申报”与“登记”的定义与法律依据</h2>
-
-### <h3>申报（Report）</h3>
+<h3>申报（Report）</h3>
 
 <ul>
   <li><strong>含义：</strong> 投资前向主管机构申报，核查投资条件及合法性。</li>
@@ -49,7 +45,7 @@ slug: "foreign-investment-report-vs-registration"
   <li><strong>目的：</strong> 阻断不合规投资，获取后续优惠资格</li>
 </ul>
 
-### <h3>登记（Registration）</h3>
+<h3>登记（Registration）</h3>
 
 <ul>
   <li><strong>含义：</strong> 投资完成后申请登记，获得官方认证。</li>
@@ -62,11 +58,9 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#1e40af">💡 实务提示:</strong> 申报是投资的前置条件，登记是完成后的官方证明。双方流程不可逆或省略，建议根据时间节点严格分步操作。
 </div>
 
----
+<h2 id="section-3">3. 外国人投资申报流程与主要材料</h2>
 
-## <h2 id="section-3">3. 外国人投资申报流程与主要材料</h2>
-
-### <h3>申报流程分步详解</h3>
+<h3>申报流程分步详解</h3>
 
 <strong>申报环节旨在提前审核投资者资格，确保合规：</strong>
 
@@ -102,7 +96,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
-### <h3>申报所需主要材料</h3>
+<h3>申报所需主要材料</h3>
 
 <ul>
   <li><strong>外国人投资申报书</strong></li>
@@ -123,11 +117,9 @@ slug: "foreign-investment-report-vs-registration"
   </ul>
 </div>
 
----
+<h2 id="section-4">4. 外国人投资登记流程及必备材料</h2>
 
-## <h2 id="section-4">4. 外国人投资登记流程及必备材料</h2>
-
-### <h3>登记流程分步详解</h3>
+<h3>登记流程分步详解</h3>
 
 <strong>登记是申报之后，由投资者实际资金到位，并获得官方认证：</strong>
 
@@ -163,7 +155,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
-### <h3>登记所需核心材料</h3>
+<h3>登记所需核心材料</h3>
 
 <ul>
   <li><strong>投资申报证明</strong></li>
@@ -173,9 +165,7 @@ slug: "foreign-investment-report-vs-registration"
   <li>银行要求的其它材料</li>
 </ul>
 
----
-
-## <h2 id="section-5">5. 申报与登记实务差异对比表</h2>
+<h2 id="section-5">5. 申报与登记实务差异对比表</h2>
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -247,11 +237,9 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
----
+<h2 id="section-6">6. 常见失误及注意事项</h2>
 
-## <h2 id="section-6">6. 常见失误及注意事项</h2>
-
-### <h3>常见失误类型</h3>
+<h3>常见失误类型</h3>
 
 <ul>
   <li>投资前未办申报就汇款或设立公司</li>
@@ -266,37 +254,33 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#92400e">⚠️ 注意:</strong> 未申报就进行资金入账或设立企业，将无法办理签证及申请政策支持；登记遗漏则影响税收减免、政府补贴、签证资格。建议全程由专业行政事务所把关。
 </div>
 
-### <h3>注意事项与合规建议</h3>
+<h3>注意事项与合规建议</h3>
 
 <ul>
   <li>法规、表格随主管部门及年度变动，投资前务必查阅最新要求</li>
   <li>投资型企业设立与后续签证、优惠申请环环相扣，流程、材料需严格合规</li>
 </ul>
 
----
+<h2 id="section-7">7. FAQ：关于外国人投资申报与登记常见问题</h2>
 
-## <h2 id="section-7">7. FAQ：关于外国人投资申报与登记常见问题</h2>
-
-### <h3>申报与登记是否可同时办理？</h3>
+<h3>申报与登记是否可同时办理？</h3>
 <strong>A：</strong>不可以。申报必须在投资前完成，登记需等资金到位后再办，两步不可混合。
 
-### <h3>遗漏申报会有什么后果？</h3>
+<h3>遗漏申报会有什么后果？</h3>
 <strong>A：</strong>未申报就汇款或设立公司，无法办理签证和获得政府优惠。申报是必须环节。
 
-### <h3>申报和登记分别在哪办理？</h3>
+<h3>申报和登记分别在哪办理？</h3>
 <strong>A：</strong>申报可在KOTRA、地方政府、外汇银行办理；登记一般由外汇银行执行，不同机构材料略有差异。
 
-### <h3>申报后资金汇入需注意什么？</h3>
+<h3>申报后资金汇入需注意什么？</h3>
 <strong>A：</strong>取得申报证明后，应通过外汇银行完成汇款，并用“投资用途”明示。资本金缴纳、收款流程要严格对照材料。
 
-### <h3>没有外国人投资登记证能办签证吗？</h3>
+<h3>没有外国人投资登记证能办签证吗？</h3>
 <strong>A：</strong>不能。登记证是办理D-8等相关签证及后续行政手续的必需文件。
 
----
+<h2 id="section-8">8. 咨询服务：Vision行政事务所联系方式</h2>
 
-## <h2 id="section-8">8. 咨询服务：Vision行政事务所联系方式</h2>
-
-### <h3>联系方式一览表</h3>
+<h3>联系方式一览表</h3>
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
     <tr>
@@ -320,7 +304,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
-### <h3>服务内容</h3>
+<h3>服务内容</h3>
 <strong>Vision行政事务所</strong>为投资者提供申报、登记、企业设立、签证申请等全流程一站式服务。  
 我们的专家将配合材料审核、政策解读与实时咨询，助力外国投资者合规进驻韩国市场。
 
@@ -334,7 +318,5 @@ slug: "foreign-investment-report-vs-registration"
     <li>资金来源说明</li>
   </ul>
 </div>
-
----
 
 *本指南依据外国人投资促进法第5~8条整理，因政策可能随时更新，建议投资前查阅主管部门最新通知，并全程留存材料。*

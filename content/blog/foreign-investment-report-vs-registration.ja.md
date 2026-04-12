@@ -17,9 +17,7 @@ slug: "foreign-investment-report-vs-registration"
 ---
 # 外国人投資促進法における「届出」と「登録」の違い 実務ガイド
 
----
-
-## <h2 id="section-1">1. 外国人投資促進法の基本概要</h2>
+<h2 id="section-1">1. 外国人投資促進法の基本概要</h2>
 
 ### 法律の目的と適用範囲
 
@@ -59,9 +57,7 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#92400e">⚠️ 주의:</strong> 法令や管轄機関の要件は随時更新される場合があります。必ず最新の公式案内を確認してください。
 </div>
 
----
-
-## <h2 id="section-2">2. 「届出」と「登録」の定義と法的根拠</h2>
+<h2 id="section-2">2. 「届出」と「登録」の定義と法的根拠</h2>
 
 ### 届出（Report）の詳細
 
@@ -104,9 +100,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
----
-
-## <h2 id="section-3">3. 外国人投資届出の流れと主な書類</h2>
+<h2 id="section-3">3. 外国人投資届出の流れと主な書類</h2>
 
 ### 届出プロセスのステップ
 
@@ -162,9 +156,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
----
-
-## <h2 id="section-4">4. 外国人投資登録の流れと必要書類</h2>
+<h2 id="section-4">4. 外国人投資登録の流れと必要書類</h2>
 
 ### 登録プロセスのステップ
 
@@ -208,9 +200,7 @@ slug: "foreign-investment-report-vs-registration"
 </table>
 ※ごく一部のケースでは書類認証等費用が追加発生
 
----
-
-## <h2 id="section-5">5. 届出と登録の実務的な違い比較表</h2>
+<h2 id="section-5">5. 届出と登録の実務的な違い比較表</h2>
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -254,9 +244,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
----
-
-## <h2 id="section-6">6. よくあるミスと注意点</h2>
+<h2 id="section-6">6. よくあるミスと注意点</h2>
 
 ### ミスの種類と影響
 
@@ -279,9 +267,7 @@ slug: "foreign-investment-report-vs-registration"
 - 法令や書式は機関やタイミングによって変更される為、<strong>管轄機関の最新案内</strong>を事前確認
 - 法人設立／ビザ申請等、<strong>各段階での書類管理</strong>を徹底
 
----
-
-## <h2 id="section-7">7. FAQ：外国人投資届出・登録に関するよくある質問</h2>
+<h2 id="section-7">7. FAQ：外国人投資届出・登録に関するよくある質問</h2>
 
 ### <strong>Q1:</strong> 届出と登録を同時に進めることはできますか？
 <strong>A1:</strong> できません。届出は投資前、登録は投資完了後にそれぞれ段階ごとの手続きが必要です。
@@ -298,9 +284,7 @@ slug: "foreign-investment-report-vs-registration"
 ### <strong>Q5:</strong> 外国人投資登録証がないとビザ申請（D-8など）はできませんか？
 <strong>A5:</strong> はい。登録証の提出がビザ申請など後続行政手続きの要件となります。
 
----
-
-## <h2 id="section-8">8. コンサルティング案内：ビジョン行政士事務所連絡先</h2>
+<h2 id="section-8">8. コンサルティング案内：ビジョン行政士事務所連絡先</h2>
 
 ### 専門コンサルティングのご案内
 
@@ -315,7 +299,5 @@ slug: "foreign-investment-report-vs-registration"
 </div>
 
 <strong>ビジョン行政士事務所</strong>では、投資届出／登録／法人設立／ビザ申請までカスタマイズサポートを展開。外国人投資家の韓国進出を全面支援しています。
-
----
 
 *本ガイドは外国人投資促進法（第5～8条）に基づいて作成していますが、法令や管轄機関案内は変更される可能性があるため、必ず最新情報をご確認ください。*

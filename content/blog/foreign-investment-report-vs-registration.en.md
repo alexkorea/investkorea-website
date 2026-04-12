@@ -35,9 +35,7 @@ In practice:
 
 Below, procedures, distinctions, and practical advice are outlined with essential tables and checklists.
 
----
-
-## <h2 id="section-1">1. Overview of the Foreign Investment Promotion Act</h2>
+<h2 id="section-1">1. Overview of the Foreign Investment Promotion Act</h2>
 
 ### Purpose and Scope
 
@@ -58,18 +56,16 @@ Foreign investors must:
   <strong style="color:#92400e">⚠️ 주의:</strong> Agencies may have their own rules and document lists. Always double-check the requirements with KOTRA, local government, or your bank.
 </div>
 
----
+<h2 id="section-2">2. Definitions & Legal Basis: Reporting vs Registration</h2>
 
-## <h2 id="section-2">2. Definitions & Legal Basis: Reporting vs Registration</h2>
-
-### <h3>2.1 Reporting</h3>
+<h3>2.1 Reporting</h3>
 
 - <strong>Definition:</strong> Submission of a report to the relevant authority prior to investment, ensuring legal compliance.
 - <strong>Legal basis:</strong> FIPA Articles 5 and 6
 - <strong>Responsible agencies:</strong> KOTRA, local governments, banks handling foreign exchange
 - <strong>Purpose:</strong> To verify eligibility and provide access to further incentives/support
 
-### <h3>2.2 Registration</h3>
+<h3>2.2 Registration</h3>
 
 - <strong>Definition:</strong> The official government registration and certification of the completed investment (capital remittance, share acquisition, etc.) after reporting.
 - <strong>Legal basis:</strong> FIPA Article 7
@@ -103,11 +99,9 @@ Foreign investors must:
   </tbody>
 </table>
 
----
+<h2 id="section-3">3. Foreign Investment Reporting Procedure & Main Documents</h2>
 
-## <h2 id="section-3">3. Foreign Investment Reporting Procedure & Main Documents</h2>
-
-### <h3>3.1 Reporting Steps Overview</h3>
+<h3>3.1 Reporting Steps Overview</h3>
 
 Reporting verifies the investor’s eligibility **before the investment is made** through a preliminary legal check.
 
@@ -117,7 +111,7 @@ Reporting verifies the investor’s eligibility **before the investment is made*
 3. Submit documents to the agency (bank/KOTRA/local government)
 4. Agency reviews and issues the investment report certificate
 
-### <h3>3.2 Main Documents Required for Reporting</h3>
+<h3>3.2 Main Documents Required for Reporting</h3>
 
 - Foreign Investment Report Form
 - Passport copy of investor
@@ -126,7 +120,7 @@ Reporting verifies the investor’s eligibility **before the investment is made*
 - Proof of investor’s identity/status
 - Any additional documents requested by agency
 
-### <h3>3.3 Reporting Process Checklist</h3>
+<h3>3.3 Reporting Process Checklist</h3>
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ Checklist for Reporting</strong>
@@ -139,11 +133,9 @@ Reporting verifies the investor’s eligibility **before the investment is made*
   </ul>
 </div>
 
----
+<h2 id="section-4">4. Foreign Investment Registration Procedure & Required Documents</h2>
 
-## <h2 id="section-4">4. Foreign Investment Registration Procedure & Required Documents</h2>
-
-### <h3>4.1 Registration Steps Overview</h3>
+<h3>4.1 Registration Steps Overview</h3>
 
 Registration evidences **actual investment completion** (e.g., funds received, shares transferred) after reporting.
 
@@ -153,7 +145,7 @@ Registration evidences **actual investment completion** (e.g., funds received, s
 3. File investment completion notice and registration application with the foreign exchange bank
 4. Obtain a Foreign Investment Registration Certificate
 
-### <h3>4.2 Main Documents for Registration</h3>
+<h3>4.2 Main Documents for Registration</h3>
 
 - Investment report certificate (from the reporting step)
 - Proof of fund remittance (bank transfer slip, deposit receipt, etc.)
@@ -161,7 +153,7 @@ Registration evidences **actual investment completion** (e.g., funds received, s
 - Foreign Investment Registration application form
 - Any other documents requested by the bank
 
-### <h3>4.3 Registration – Supporting Table</h3>
+<h3>4.3 Registration – Supporting Table</h3>
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -190,9 +182,7 @@ Registration evidences **actual investment completion** (e.g., funds received, s
   </tbody>
 </table>
 
----
-
-## <h2 id="section-5">5. Comparison Chart: Reporting vs Registration in Practice</h2>
+<h2 id="section-5">5. Comparison Chart: Reporting vs Registration in Practice</h2>
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -236,11 +226,9 @@ Registration evidences **actual investment completion** (e.g., funds received, s
   </tbody>
 </table>
 
----
+<h2 id="section-6">6. Common Mistakes & Precautions</h2>
 
-## <h2 id="section-6">6. Common Mistakes & Precautions</h2>
-
-### <h3>6.1 Typical Mistakes</h3>
+<h3>6.1 Typical Mistakes</h3>
 - Sending funds or registering the company without completing reporting
 - Applying for a business (D-8) visa without a report certificate
 - Overlooking registration after remitting funds
@@ -248,7 +236,7 @@ Registration evidences **actual investment completion** (e.g., funds received, s
 - Submitting duplicate documents by mixing up reporting and registration
 - Failing to confirm investor or target company eligibility
 
-### <h3>6.2 Key Precautions before You Invest</h3>
+<h3>6.2 Key Precautions before You Invest</h3>
 - <strong>Check with the right agency</strong> (forms and laws may update unpredictably)
 - <strong>Keep documents organized</strong> — losing certificates can delay the entire process
 - <strong>Confirm investment amounts and eligible sectors</strong> under the current FIPA
@@ -288,33 +276,29 @@ Registration evidences **actual investment completion** (e.g., funds received, s
   <strong style="color:#92400e">⚠️ 주의:</strong> Laws and document lists can change anytime—before any action, check directly with your chosen agency to confirm current requirements.
 </div>
 
----
+<h2 id="section-7">7. FAQ: Frequently Asked Questions about FIPA Reporting & Registration</h2>
 
-## <h2 id="section-7">7. FAQ: Frequently Asked Questions about FIPA Reporting & Registration</h2>
-
-### <h3>7.1 Sequential Order</h3>
+<h3>7.1 Sequential Order</h3>
 <strong>Q:</strong> Can reporting and registration be done at the same time?<br>
 <strong>A:</strong> No. Reporting must be completed first, before investment; registration follows post-investment.
 
-### <h3>7.2 Consequences of Missing Steps</h3>
+<h3>7.2 Consequences of Missing Steps</h3>
 <strong>Q:</strong> What happens if I skip reporting?<br>
 <strong>A:</strong> You cannot remit funds, register the company, or obtain a visa. Skipping registration blocks access to government support and incentives.
 
-### <h3>7.3 Agency Jurisdiction</h3>
+<h3>7.3 Agency Jurisdiction</h3>
 <strong>Q:</strong> Which agencies handle each step?<br>
 <strong>A:</strong> Reporting: KOTRA, local governments, foreign exchange banks. Registration: Generally handled by the bank.
 
-### <h3>7.4 Fund Remittance</h3>
+<h3>7.4 Fund Remittance</h3>
 <strong>Q:</strong> Anything special when sending funds?<br>
 <strong>A:</strong> After obtaining the report certificate, remit funds via the selected foreign exchange bank, clearly indicating foreign investment as the purpose.
 
-### <h3>7.5 Visa Applications</h3>
+<h3>7.5 Visa Applications</h3>
 <strong>Q:</strong> Can I apply for a D-8 business visa without a registration certificate?<br>
 <strong>A:</strong> No. Registration is essential for visa and post-investment administrative procedures.
 
----
-
-## <h2 id="section-8">8. Consultation: Vision Administrative Office Contact Information</h2>
+<h2 id="section-8">8. Consultation: Vision Administrative Office Contact Information</h2>
 
 When in doubt, or for help with foreign investment reporting, registration, company establishment, or visa applications, contact:
 
@@ -326,7 +310,5 @@ When in doubt, or for help with foreign investment reporting, registration, comp
 We offer:
 - Real-time consulting for application review, document preparation, and visa process
 - Support for smooth market entry and official incentives
-
----
 
 *This guide follows Articles 5–8 of the Foreign Investment Promotion Act. Requirements may change; always confirm the latest requirements with authorities before taking action.*
