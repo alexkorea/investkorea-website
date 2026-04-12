@@ -35,6 +35,20 @@ In practice:
 
 Below, procedures, distinctions, and practical advice are outlined with essential tables and checklists.
 
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 1. Overview of the Foreign Investment Promotion Act</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2. Definitions & Legal Basis: Reporting vs Registration</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 3. Foreign Investment Reporting Procedure & Main Documents</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 4. Foreign Investment Registration Procedure & Required Documents</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 5. Comparison Chart: Reporting vs Registration in Practice</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 6. Common Mistakes & Precautions</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 7. FAQ: Frequently Asked Questions about FIPA Reporting & Registration</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 8. Consultation: Vision Administrative Office Contact Information</a></li>
+  </ul>
+</nav>
+
 <h2 id="section-1">1. Overview of the Foreign Investment Promotion Act</h2>
 
 ### Purpose and Scope

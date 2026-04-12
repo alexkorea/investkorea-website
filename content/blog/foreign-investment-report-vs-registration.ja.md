@@ -17,6 +17,20 @@ slug: "foreign-investment-report-vs-registration"
 ---
 # 外国人投資促進法における「届出」と「登録」の違い 実務ガイド
 
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 1. 外国人投資促進法の基本概要</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2. 「届出」と「登録」の定義と法的根拠</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 3. 外国人投資届出の流れと主な書類</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 4. 外国人投資登録の流れと必要書類</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 5. 届出と登録の実務的な違い比較表</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 6. よくあるミスと注意点</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 7. FAQ：外国人投資届出・登録に関するよくある質問</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 8. コンサルティング案内：ビジョン行政士事務所連絡先</a></li>
+  </ul>
+</nav>
+
 <h2 id="section-1">1. 外国人投資促進法の基本概要</h2>
 
 ### 法律の目的と適用範囲

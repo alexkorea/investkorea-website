@@ -17,6 +17,20 @@ slug: "foreign-investment-report-vs-registration"
 ---
 # 外国人投资促进法下申报与登记的区别操作指南
 
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 1. 外国人投资促进法基础概述</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2. “申报”与“登记”的定义与法律依据</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 3. 外国人投资申报流程与主要材料</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 4. 外国人投资登记流程及必备材料</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 5. 申报与登记实务差异对比表</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 6. 常见失误及注意事项</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 7. FAQ：关于外国人投资申报与登记常见问题</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 8. 咨询服务：Vision行政事务所联系方式</a></li>
+  </ul>
+</nav>
+
 <h2 id="section-1">1. 外国人投资促进法基础概述</h2>
 
 ### 法律背景与目的
