@@ -213,6 +213,7 @@ Here is a breakdown of estimated costs from company formation to D-8 visa acquis
 | Judicial Scrivener Fees | Approx. KRW 500,000–1,000,000 | Company registration handling |
 | Office Lease Deposit/Rent | Calculated separately | Varies greatly by location and size |
 | Administrative Agent/Consulting Fees | Approx. KRW 1,500,000–7,000,000 | Tiered by complexity: simple cases 1.5M–3M, standard 3M–5M, complex 5M–7M |
+| Listed-Company Korea Entry (incl. licensing) | Quoted separately | KOSDAQ/KOSPI-listed firms entering Korea with industry licensing, JV, or M&A bundled |
 | D-8 Visa Fee | Approx. KRW 130,000 | Based on change of status |
 | Tax Accountant Monthly Fee | Approx. KRW 100,000–300,000 | Recurring monthly fixed cost |
 | Corporate Seal Production | Approx. KRW 30,000–50,000 | Corporate seal, operational seal |
