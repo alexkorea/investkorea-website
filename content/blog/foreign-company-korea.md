@@ -16,8 +16,9 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">서론</a></li>
     <li><a href="#entry-types">한국 진출 형태</a></li>
     <li><a href="#subsidiary">현지법인 (외국인투자법인)</a></li>

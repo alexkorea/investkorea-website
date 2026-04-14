@@ -16,8 +16,9 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">はじめに</a></li>
     <li><a href="#three-types">3つの進出形態</a></li>
     <li><a href="#subsidiary">現地法人（子会社）</a></li>

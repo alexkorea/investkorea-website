@@ -212,7 +212,7 @@ Here is a breakdown of estimated costs from company formation to D-8 visa acquis
 | Registration & License Tax + Education Tax | Approx. KRW 400,000–1,200,000 | Varies by capital size |
 | Judicial Scrivener Fees | Approx. KRW 500,000–1,000,000 | Company registration handling |
 | Office Lease Deposit/Rent | Calculated separately | Varies greatly by location and size |
-| Administrative Agent/Consulting Fees | Approx. KRW 1,000,000–3,000,000 | For full process outsourcing |
+| Administrative Agent/Consulting Fees | Approx. KRW 1,500,000–7,000,000 | Tiered by complexity: simple cases 1.5M–3M, standard 3M–5M, complex 5M–7M |
 | D-8 Visa Fee | Approx. KRW 130,000 | Based on change of status |
 | Tax Accountant Monthly Fee | Approx. KRW 100,000–300,000 | Recurring monthly fixed cost |
 | Corporate Seal Production | Approx. KRW 30,000–50,000 | Corporate seal, operational seal |

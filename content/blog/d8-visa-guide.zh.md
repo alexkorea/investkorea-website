@@ -16,8 +16,9 @@ image: "/slides/building.jpg"
 slug: "d8-visa-guide"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">简介</a></li>
     <li><a href="#d8-overview">D-8签证概述</a></li>
     <li><a href="#company-setup">法人设立流程</a></li>

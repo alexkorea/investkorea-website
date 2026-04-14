@@ -16,8 +16,9 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#three-types">Three Types of Market Entry</a></li>
     <li><a href="#subsidiary">Subsidiary (Local Corporation)</a></li>

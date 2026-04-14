@@ -16,8 +16,9 @@ image: "/slides/building.jpg"
 slug: "d8-visa-guide"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#d8-overview">D-8 Visa Overview</a></li>
     <li><a href="#company-setup">Company Establishment Process</a></li>

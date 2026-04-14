@@ -7,8 +7,9 @@ image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#e7-vs-d8-overview">E-7 vs D-8 비자 개요</a></li>
     <li><a href="#e7-visa">E-7 전문직 취업비자란?</a></li>
     <li><a href="#d8-visa">D-8 투자비자란?</a></li>

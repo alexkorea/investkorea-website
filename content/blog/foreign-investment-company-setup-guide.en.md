@@ -88,7 +88,7 @@ Common mistakes that occur when establishing a foreign investment corporation ar
 
 <h2 id="faq">Frequently Asked Questions</h2>
 <h3>Q: How much does it cost to establish a foreign investment corporation?</h3>
-A: Generally, it costs about 1 million to 3 million won, including corporation registration and tax reporting fees.
+A: Generally, it costs about KRW 1.5 million to 7 million, including corporation registration and tax reporting fees. The fee is tiered by case complexity (investment structure, regulated industries, source-of-funds verification): simple cases 1.5M–3M, standard 3M–5M, complex (multinational equity, regulated sectors, on-site due diligence) 5M–7M.
 
 <h3>Q: How do I write an investment plan?</h3>
 A: The investment plan should include business goals, investment amount, expected profits, etc.

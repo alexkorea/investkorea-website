@@ -7,8 +7,9 @@ image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#overview">Overview</a></li>
     <li><a href="#what-is-e7">What Is the E-7 Visa?</a></li>
     <li><a href="#what-is-d8">What Is the D-8 Visa?</a></li>

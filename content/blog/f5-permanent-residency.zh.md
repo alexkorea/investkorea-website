@@ -16,8 +16,9 @@ image: "/pages/f5.jpg"
 slug: "f5-permanent-residency"
 ---
 
-<nav>
-  <ul>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">F-5永久居留权简介</a></li>
     <li><a href="#strategy1">策略一：专家邀请制度</a></li>
     <li><a href="#strategy2">策略二：F-2签证转换</a></li>
