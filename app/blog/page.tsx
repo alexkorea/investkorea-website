@@ -9,9 +9,10 @@ import { Calendar, Tag } from "lucide-react"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 
 export const metadata = getPageMetadata("blog", "ko")
+export const revalidate = 60
 
-export default function BlogPage() {
-  const posts = getAllPosts("ko")
+export default async function BlogPage() {
+  const posts = await getAllPosts("ko")
 
   return (
     <main className="min-h-screen">

@@ -1,7 +1,9 @@
 import type { MetadataRoute } from "next"
 import { getPostSlugs } from "@/lib/blog"
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export const revalidate = 3600
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://investkorea.co.kr"
   const localeMap = [
     { prefix: "", hreflang: "ko" },
@@ -49,7 +51,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // Blog post pages
-  const slugs = getPostSlugs()
+  const slugs = await getPostSlugs()
   for (const slug of slugs) {
     for (const loc of localeMap) {
       const alternates: Record<string, string> = {}

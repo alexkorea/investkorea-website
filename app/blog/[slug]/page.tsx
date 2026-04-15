@@ -4,19 +4,19 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CTA } from "@/components/cta"
 import { Messenger } from "@/components/messenger"
-import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
+import { getPostBySlug, getAllPosts } from "@/lib/blog"
+import { notFound } from "next/navigation"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { ArticleJsonLd } from "@/components/structured-data"
 
-export function generateStaticParams() {
-  const slugs = getPostSlugs()
-  return slugs.map((slug) => ({ slug }))
-}
+export const revalidate = 60
+export const dynamicParams = true
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = getPostBySlug(slug, "ko")
+  const post = await getPostBySlug(slug, "ko")
+  if (!post) return { title: "Not found" }
   const BASE_URL = "https://investkorea.co.kr"
   return {
     title: `${post.title} - VISION 행정사사무소`,
@@ -42,8 +42,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = getPostBySlug(slug, "ko")
-  const allPosts = getAllPosts("ko")
+  const post = await getPostBySlug(slug, "ko")
+  if (!post) notFound()
+  const allPosts = await getAllPosts("ko")
   const relatedPosts = allPosts.filter((p) => p.slug !== slug).slice(0, 3)
 
   const contentHtml = post.content

@@ -4,12 +4,16 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CTA } from "@/components/cta"
 import { Messenger } from "@/components/messenger"
-import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog"
+import { getPostBySlug, getAllPosts } from "@/lib/blog"
+import { notFound } from "next/navigation"
 import { type Locale, locales } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { ArticleJsonLd } from "@/components/structured-data"
+
+export const revalidate = 60
+export const dynamicParams = true
 
 const blogLabels: Record<string, { backToList: string; relatedPosts: string; ctaTitle: string; ctaDesc: string; ctaButton: string }> = {
   ko: { backToList: "블로그 목록으로", relatedPosts: "관련 글", ctaTitle: "전문 상담이 필요하신가요?", ctaDesc: "VISION 행정사사무소의 전문 행정사가 맞춤 상담을 제공합니다.", ctaButton: "무료 상담 신청" },
@@ -18,23 +22,13 @@ const blogLabels: Record<string, { backToList: string; relatedPosts: string; cta
   ja: { backToList: "ブログ一覧へ", relatedPosts: "関連記事", ctaTitle: "専門相談が必要ですか？", ctaDesc: "VISION行政士事務所の専門行政士がオーダーメイドの相談を提供します。", ctaButton: "無料相談申請" },
 }
 
-export function generateStaticParams() {
-  const slugs = getPostSlugs()
-  const params: { locale: string; slug: string }[] = []
-  for (const locale of locales.filter((l) => l !== "ko")) {
-    for (const slug of slugs) {
-      params.push({ locale, slug })
-    }
-  }
-  return params
-}
-
 const BASE_URL = "https://investkorea.co.kr"
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale: localeParam, slug } = await params
   const locale = (locales.includes(localeParam as Locale) ? localeParam : "ko") as Locale
-  const post = getPostBySlug(slug, locale)
+  const post = await getPostBySlug(slug, locale)
+  if (!post) return { title: "Not found" }
   return {
     title: `${post.title} - VISION`,
     description: post.excerpt,
@@ -60,8 +54,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function LocaleBlogPostPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale: localeParam, slug } = await params
   const locale = (locales.includes(localeParam as Locale) ? localeParam : "ko") as Locale
-  const post = getPostBySlug(slug, locale)
-  const allPosts = getAllPosts(locale)
+  const post = await getPostBySlug(slug, locale)
+  if (!post) notFound()
+  const allPosts = await getAllPosts(locale)
   const relatedPosts = allPosts.filter((p) => p.slug !== slug).slice(0, 3)
   const labels = blogLabels[locale] || blogLabels.ko
 

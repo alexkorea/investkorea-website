@@ -23,10 +23,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return getPageMetadata("blog" as PageKey, locale)
 }
 
+export const revalidate = 60
+
 export default async function LocaleBlogPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale: localeParam } = await params
   const locale = (locales.includes(localeParam as Locale) ? localeParam : "ko") as Locale
-  const posts = getAllPosts(locale)
+  const posts = await getAllPosts(locale)
   const labels = blogLabels[locale] || blogLabels.ko
 
   return (
