@@ -24,7 +24,7 @@ const blogLabels: Record<string, { backToList: string; relatedPosts: string; cta
 
 const LANG_HIGHLIGHT: Record<string, string> = {
   en: "🌐 Fluent English communication and professional immigration services available at VISION Administrative Office.",
-  zh: "🌐 可用流利中文沟通及处理所有行政业务的专业行政士事务所 — VISION行政士。",
+  zh: "🌐 可用流利中文沟通及处理所有行政业务的专业行政士事务所 — 飞展行政士事务所。",
   ja: "🌐 日本語での円滑なコミュニケーションと業務処理が可能な行政書士事務所 — VISION行政書士事務所。",
 }
 
