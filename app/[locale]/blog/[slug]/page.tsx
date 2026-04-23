@@ -22,6 +22,12 @@ const blogLabels: Record<string, { backToList: string; relatedPosts: string; cta
   ja: { backToList: "ブログ一覧へ", relatedPosts: "関連記事", ctaTitle: "専門相談が必要ですか？", ctaDesc: "VISION行政士事務所の専門行政士がオーダーメイドの相談を提供します。", ctaButton: "無料相談申請" },
 }
 
+const LANG_HIGHLIGHT: Record<string, string> = {
+  en: "🌐 Fluent English communication and professional immigration services available at VISION Administrative Office.",
+  zh: "🌐 可用流利中文沟通及处理所有行政业务的专业行政士事务所 — VISION行政士。",
+  ja: "🌐 日本語での円滑なコミュニケーションと業務処理が可能な行政書士事務所 — VISION行政書士。",
+}
+
 const BASE_URL = "https://investkorea.co.kr"
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }) {
@@ -57,7 +63,8 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
   const post = await getPostBySlug(slug, locale)
   if (!post) notFound()
   const allPosts = await getAllPosts(locale)
-  const relatedPosts = allPosts.filter((p) => p.slug !== slug).slice(0, 3)
+  // For related posts, only show same-locale posts (no Korean fallback on non-ko pages)
+  const relatedPosts = allPosts.filter((p) => p.slug !== slug && (p.locale === locale || locale === 'ko')).slice(0, 3)
   const labels = blogLabels[locale] || blogLabels.ko
 
   const contentHtml = post.content
@@ -106,6 +113,15 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
           </div>
         </div>
       </section>
+
+      {/* Language Highlight Banner */}
+      {LANG_HIGHLIGHT[locale] && (
+        <div className="bg-blue-50 border-l-4 border-blue-500">
+          <div className="max-w-7xl mx-auto px-6 py-4">
+            <p className="text-blue-800 font-semibold text-sm md:text-base">{LANG_HIGHLIGHT[locale]}</p>
+          </div>
+        </div>
+      )}
 
       {/* Content */}
       <section className="py-12 md:py-20">

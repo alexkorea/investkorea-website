@@ -12,6 +12,7 @@ export interface BlogPost {
   excerpt: string
   image: string
   content: string
+  locale?: string
 }
 
 const TABLE = 'investkorea_blog_posts'
@@ -37,6 +38,7 @@ function toPost(row: Row): BlogPost {
     excerpt: row.excerpt || '',
     image: row.image || FALLBACK_IMAGE,
     content: row.content,
+    locale: row.locale,
   }
 }
 
