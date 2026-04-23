@@ -714,6 +714,12 @@ export const pageTranslations = {
       ctaSectionDesc: "법인 설립, 사업 비자 신청, 장기 체류 계획 등 무엇이든 저희 팀이 모든 단계를 안내해 드립니다.",
       ctaSectionButton1: "서비스 둘러보기",
       ctaSectionButton2: "회사소개 보기",
+      faqTitle: "자주 묻는 질문",
+      faqs: [
+        { q: "상담 비용이 있나요?", a: "초기 전화 및 이메일 상담은 무료입니다. 구체적인 서류 검토나 심층 상담은 사안에 따라 비용이 발생할 수 있습니다." },
+        { q: "상담 가능 언어는 무엇인가요?", a: "한국어, 영어, 중국어, 일본어로 상담이 가능합니다." },
+        { q: "방문 상담도 가능한가요?", a: "네, 서울 중구 퇴계로 324 성우빌딩 3층 사무실로 방문 상담 가능합니다. 사전 예약을 권장드립니다." },
+      ],
     },
   },
 
@@ -1429,6 +1435,12 @@ export const pageTranslations = {
       ctaSectionDesc: "Whether it's company establishment, business visa application, or long-term stay planning, our team will guide you through every step.",
       ctaSectionButton1: "Explore Services",
       ctaSectionButton2: "About Us",
+      faqTitle: "Frequently Asked Questions",
+      faqs: [
+        { q: "Is there a consultation fee?", a: "Initial phone and email consultations are free. Detailed document review or in-depth consultations may incur fees depending on the case." },
+        { q: "What languages are available for consultation?", a: "Consultations are available in Korean, English, Chinese, and Japanese." },
+        { q: "Is in-person consultation available?", a: "Yes, you can visit our office at 3F Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul. We recommend making an appointment in advance." },
+      ],
     },
   },
 
@@ -2144,6 +2156,12 @@ export const pageTranslations = {
       ctaSectionDesc: "无论是法人设立、商务签证申请还是长期居留计划，我们的团队将在每一步为您提供指导。",
       ctaSectionButton1: "浏览服务",
       ctaSectionButton2: "公司介绍",
+      faqTitle: "常见问题",
+      faqs: [
+        { q: "咨询需要费用吗？", a: "初次电话及邮件咨询免费。具体的文件审查或深度咨询可能根据情况产生费用。" },
+        { q: "可以用什么语言咨询？", a: "可以使用韩语、英语、中文、日语进行咨询。" },
+        { q: "可以上门咨询吗？", a: "可以，请前往首尔中区退溪路324号成友大厦3楼办公室。建议提前预约。" },
+      ],
     },
   },
 
@@ -2859,6 +2877,12 @@ export const pageTranslations = {
       ctaSectionDesc: "法人設立、事業ビザ申請、長期滞在計画など、何でも私たちのチームがすべてのステップをご案内いたします。",
       ctaSectionButton1: "サービスを見る",
       ctaSectionButton2: "会社紹介を見る",
+      faqTitle: "よくある質問",
+      faqs: [
+        { q: "相談費用はかかりますか？", a: "初回の電話・メール相談は無料です。具体的な書類検討や詳細相談は、案件により費用が発生する場合があります。" },
+        { q: "相談可能な言語は何ですか？", a: "韓国語、英語、中国語、日本語でご相談いただけます。" },
+        { q: "訪問相談は可能ですか？", a: "はい、ソウル中区退渓路324 成友ビル3階の事務所にお越しいただけます。事前予約をお勧めいたします。" },
+      ],
     },
   },
 } as const;

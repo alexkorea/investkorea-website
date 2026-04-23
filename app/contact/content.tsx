@@ -200,13 +200,11 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
       {/* FAQ */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-7xl mx-auto px-6">
-          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">자주 묻는 질문</h2>
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">{(t as any).faqTitle || "자주 묻는 질문"}</h2>
           <div className="max-w-3xl mx-auto space-y-6">
-            {[
-              { q: "상담 비용이 있나요?", a: "초기 전화 및 이메일 상담은 무료입니다. 구체적인 서류 검토나 심층 상담은 사안에 따라 비용이 발생할 수 있습니다." },
-              { q: "상담 가능 언어는 무엇인가요?", a: "한국어, 영어, 중국어, 일본어로 상담이 가능합니다." },
-              { q: "방문 상담도 가능한가요?", a: "네, 서울 중구 퇴계로 324 성우빌딩 3층 사무실로 방문 상담 가능합니다. 사전 예약을 권장드립니다." },
-            ].map((faq, i) => (
+            {((t as any).faqs || [
+              { q: "상담 비용이 있나요?", a: "초기 전화 및 이메일 상담은 무료입니다." },
+            ]).map((faq: any, i: number) => (
               <div key={i} className="bg-white rounded-xl p-6 border border-gray-200">
                 <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
