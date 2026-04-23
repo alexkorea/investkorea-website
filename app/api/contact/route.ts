@@ -108,10 +108,20 @@ export async function POST(request: Request) {
       "메시지": message,
     }, name, email).catch((err) => console.error("Email send error:", err))
 
-    // Notion save
+    // Notion save (legacy)
     const notionPromise = saveToNotion(body).catch((err) => console.error("Notion error:", err))
 
-    await Promise.all([telegramPromise, emailPromise, notionPromise])
+    // Notion CRM (new unified system)
+    const { saveToCRM } = await import("@/lib/notion-crm")
+    const crmPromise = saveToCRM({
+      brand: 'investkorea', formType: 'contact',
+      siteUrl: 'https://www.investkorea.co.kr/contact',
+      name, email, phone, nationality,
+      serviceRaw: service, message,
+      rawPayload: body,
+    }).catch((err) => console.error("CRM error:", err))
+
+    await Promise.all([telegramPromise, emailPromise, notionPromise, crmPromise])
 
     return NextResponse.json({ success: true })
   } catch (error) {
