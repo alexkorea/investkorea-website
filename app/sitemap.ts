@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next"
 import { getPostSlugs } from "@/lib/blog"
+import { countries, visaTypes } from "@/lib/programmatic-data"
 
 export const revalidate = 3600
 
@@ -65,6 +66,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         changeFrequency: "monthly",
         priority: 0.7,
         alternates: { languages: alternates },
+      })
+    }
+  }
+
+  // Programmatic SEO: visa type × country pages
+  for (const visa of visaTypes) {
+    for (const country of countries) {
+      sitemapEntries.push({
+        url: `${baseUrl}/visa/${visa.slug}/${country.slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.7,
       })
     }
   }
