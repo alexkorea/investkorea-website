@@ -1,0 +1,411 @@
+---
+title: "외국인 1인 법인 설립, 가능 여부와 실제 요건 정리"
+titleEn: "Foreign Single-Member Company in Korea: Eligibility and Requirements"
+titleZh: "外国人单人法人设立可行性与要求"
+titleJa: "外国人1人法人設立の可否と実際の要件"
+date: "2026-04-25"
+category: "법인설립"
+categoryEn: "Company Setup"
+categoryZh: "法人设立"
+categoryJa: "法人設立"
+excerpt: "외국인이 단독으로 한국에서 1인 법인을 세울 수 있는지, 자본금·비자·등기 실무까지 한 번에 정리합니다."
+excerptEn: "Whether a foreigner can incorporate a single-member company in Korea, with capital, visa, and registration details."
+excerptZh: "外国人能否在韩国独自设立1人法人，资本金、签证、登记实务一次梳理。"
+excerptJa: "外国人が韓国で単独1人法人を設立できるか、資本金・ビザ・登記実務までまとめます。"
+image: "/slides/building.jpg"
+slug: "foreign-single-member-company"
+---
+# 外国人独资法人设立的可行性与实际要件梳理
+
+外国人在韩国成为**唯一股东兼代表理事**的独资法人是可行的。商法修订之后,股份有限公司和有限公司都可以以发起人 1 人、理事 1 人的结构设立,仅凭外国人身份并不会被某个环节卡住。但"是否可行"和"实际能否运转起来"是两回事。资本金规模、签证衔接、汇款路径,以及登记所、税务所、银行所要求的文件格式,会同时交织在一起。
+
+实务中,独资法人需要分成两条线来看。第一种是**瞄准 D-8 投资签证的独资法人**(资本金 1 亿韩元以上,需办理外国人投资企业登记)。第二种是**不挂签证、单纯只设立法人**的情形(资本金没有限制,但外汇申报和税务、银行流程依然要走)。两者从资本金标准、汇款路径,到事业场所租赁的时机,全都不一样。如果不清楚这点,只是觉得"反正一个人办,简单",通常会在银行开户那一步首次卡住。
+
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人独资法人在法律上是否可行</a></li>
+    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 独资股份公司 vs 独资有限公司,哪种更合适</a></li>
+    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 资本金要件——1 亿韩元 vs 以下金额</a></li>
+    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 没有签证能否设立独资法人</a></li>
+    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 设立流程的分步走向</a></li>
+    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 所需文件与本国侧准备资料</a></li>
+    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 独资代表在实务中常碰到的问题</a></li>
+    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见的失误</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题 (FAQ)</a></li>
+    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询说明</a></li>
+  </ul>
+</nav>
+
+## <span id="section-1">1. 外国人独资法人在法律上是否可行</span>
+
+### 发起人 1 人、理事 1 人结构的法律依据
+
+韩国商法在设立股份有限公司时,要求**发起人 1 人以上**,理事**1 人以上**(资本金不足 10 亿韩元时,1 名理事即可)。也就是说,一个人同时担任发起人、股东以及理事兼代表理事,在法律上没有障碍。商法中也没有任何条款仅凭外国人身份就限制其担任发起人或理事的资格。
+
+关键在于这一点:"外国人独资法人是否可行"并不是商法层面的问题,而是**出入境、外汇、税法和银行实务**层面的问题。通常正是在这一关被卡住。
+
+### 外国人身份会产生影响的环节
+
+虽然法人本身可以设立,但在以下环节,外国人身份就会成为变量。
+
+- **外汇交易法**:汇入资本金时需要办理外国人投资申报或非居民资本交易申报
+- **出入境**:如果为运营法人需要在韩居留,就要衔接 D-8 等签证
+- **银行**:以外国人代表名义开立法人账户时,会被要求追加文件并本人到场
+- **税务**:向外国股东派息时要做预扣税处理
+
+法人是可以设立的,但**设立之后能否运转**,才是真正分水岭。
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong>仅凭"外国人独资法人是可行的"这一句话就先把资本金汇过去,常常会因外汇申报遗漏而被卡。汇款之前,必须先把申报路径(外国人投资申报/资本交易申报)确定下来。
+</div>
+
+## <span id="section-2">2. 独资股份公司 vs 独资有限公司,哪种更合适</span>
+
+### 两种形态的实务差异
+
+外国人最常选择的形态是**股份有限公司**。但在独资法人这一结构下,**有限公司**有时反而更简单。一表对比如下。
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">独资股份公司</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">独资有限公司</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">出资人称谓</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">股东</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">社员</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">最少理事人数</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1 人(资本金 10 亿以下)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1 人</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">监事义务</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">资本金 10 亿以下可豁免</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">非义务</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">股权转让</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">自由(章程可限制)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">需社员同意(封闭性强)</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资登记</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">可(股权型)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">可(份额型)</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证衔接</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">实务中最常见</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">可行,但案例较少</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">外部投资引入</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">有利</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">不利</td>
+    </tr>
+  </tbody>
+</table>
+
+### 哪种情况下选择有限公司更合适
+
+如果没有引入外部投资的计划,而且希望**总公司 100% 持股保持原状**——比如外国企业在韩国的子公司——那么有限公司更简单。反之,如果想在韩国市场把业务做大,后续还要考虑增发新股、股权转让、员工股票期权,那就要选股份有限公司。瞄准 D-8 签证的一人创业者几乎都会选股份有限公司,因为领事馆审查、外国人投资企业登记流程上,案例积累最多。
+
+## <span id="section-3">3. 资本金要件——1 亿韩元 vs 以下金额</span>
+
+### 资本金标准分两条线
+
+商法对股份有限公司并未单独规定最低资本金。即便是 100 韩元面值股票 1 股(也就是资本金 100 韩元)的法人,登记本身也是可行的。然而,如果是**"外国人为在韩开展事业"为目的的独资法人**,实际上会被绑定在以下两条线之一。
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">类型</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">最低资本金</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">依据</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">结果</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">衔接 D-8 投资签证的独资法人</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资促进法施行令</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">可办外国人投资企业登记 + D-8 申请</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">与签证无关的普通独资法人</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">实务上 100 万~1,000 万韩元</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">商法(无最低资本金)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">法人可设立,但不符 D-8 资格</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国法人韩国子公司</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">自由(投资登记时 1 亿韩元)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">商法 + 外国人投资促进法</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">视目的而定</td>
+    </tr>
+  </tbody>
+</table>
+
+### 资本金 1 亿韩元的含义
+
+要衔接 D-8 签证,外国人必须以**本人名义将 1 亿韩元以上汇入韩国**,并完成外国人投资申报。并不是账户里"有"1 亿就可以。**从本国到韩国、以外国人本人名义汇入外币**这条路径必须清晰可查。在韩国境内借入的款项、向韩国居民借的钱,以及早已留在韩国境内的韩元,都不会被认定为外国人投资。
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong>"分批汇入"1 亿韩元时,如果汇款用途没有明确标注为"外国人直接投资",外国人投资企业登记会被拒。汇款前应先把外国人投资申报书副本提交给经办银行,并在汇外币时准确指定汇款代码。
+</div>
+
+## <span id="section-4">4. 没有签证能否设立独资法人</span>
+
+### 在外居住的状态下也可办理
+
+即使外国人不在韩国居留、留在本国,独资法人也是可以设立的。在章程、发起人会议记录、就任承诺书等文件上,**对本人签名进行公证**,经过本国公证后,再通过该国韩国领事馆认证或附加海牙认证(Apostille)即可。
+
+不过这条路径有两大限制。
+
+1. **法人印鉴登记和登记申请**必须在韩国境内办理。本人无法到场时需要委托书。
+2. **法人账户开立**几乎所有商业银行都要求外国人代表理事本人到韩国境内进行面签,无法通过电子邮件、邮寄来办理。
+
+也就是说,**法人可以远程设立,但运营起步终究需要本人来一次韩国**。
+
+### 无签证设立法人的局限
+
+如果以低于 D-8 资本金标准(1 亿韩元)的金额设立独资法人,会出现以下情形。
+
+- 法人登记可以完成,营业执照也能办下来
+- 无法办理外国人投资企业登记 → 不具备 D-8 签证申请资格
+- 外国人本人若想常驻韩国并工作,需另办其他签证(如 F 系列、E-7 等)
+- 最终很容易变成接近"纸面公司"的形态
+
+首先要看清楚的是——"设立这家法人之后,本人是否真的会进入韩国实际工作"。如果会进来工作,资本金就要定在 1 亿韩元以上,这样才能打开 D-8 这条线。
+
+## <span id="section-5">5. 设立流程的分步走向</span>
+
+### 独资法人设立的标准顺序
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">步骤</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">耗时</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">主管机构</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">商号检索及章程拟订</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1~2 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">大法院网络登记所</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报(适用时)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1~3 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">受托银行/KOTRA</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">资本金汇入</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1~2 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">本国→韩国商业银行</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">资本金保管证明出具</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">当天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">商业银行</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">发起人会议·董事会·就任承诺</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">按章程程序办理</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">法人设立登记</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">3~5 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">辖区登记所</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">法人印鉴登记·登记簿誊本出具</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">当天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">辖区登记所</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">8</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">营业执照办理</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2~5 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">辖区税务所</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">9</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业登记(适用时)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">3~7 天</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">受托银行</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">10</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">法人账户开立</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">至少到场 1 次</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">商业银行</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">11</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证申请(适用时)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2~4 周</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">出入境·驻外领事馆</td>
+    </tr>
+  </tbody>
+</table>
+
+### 步骤之间"会断"的节点
+
+表面看流程顺畅,但**第 3↔4 步、第 7↔8 步、第 9↔10 步**之间经常会断。比如资本金汇入后拿到的保管证明上代码标错;申请营业执照时租赁合同没有以外国人本人名义签订;开法人账户时仅因为"独资代表是外国人"就被加入总行二次审查——这类情况都很常见。这些点经常卡壳,日程必须留出余地。
+
+<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#1e40af">💡 实务小贴士:</strong>独资法人常会先以"设立前发起人本人名义"签订事业场所租赁合同。在租赁合同中加入"法人设立后变更名义"的条款,办理营业执照时就不必重新签合同。
+</div>
+
+
+
+<figure style="margin:32px auto;text-align:center">
+  <img src="https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="High-angle view of a contract document with pens and a case on a wooden table." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  
+</figure>
+
+
+## <span id="section-6">6. 所需文件与本国侧准备资料</span>
+
+### 在韩国侧准备的文件
+
+- 章程、发起人决议书、理事·代表理事就任承诺书,以及替代印鉴证明的签名公证
+- 证明本店所在地的租赁合同(或使用允诺书)
+- 资本金保管证明书(发起设立的情形)
+- 外国人投资申报书副本(适用时)
+
+### 在本国侧准备的文件
+
+如果外国人本人在本国,以下文件需要在本国公证 → 加附海牙认证或经韩国领事馆认证后,寄送到韩国。
+
+<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
+  <strong style="color:#166534">✅ 本国侧准备清单</strong>
+  <ul style="margin-top:12px">
+    <li>护照复印件(个人信息页)</li>
+    <li>居住证明或地址证明(英文)</li>
+    <li>本人签名公证书(Signature Certificate / Notary)</li>
+    <li>海牙认证或领事确认(海牙公约成员国用 Apostille,非成员国用领事确认)</li>
+    <li>本国身份证或驾照复印件(用于银行 KYC)</li>
+    <li>海外职业·收入证明(用于说明资本金来源)</li>
+    <li>本国银行最近 6 个月至 1 年的收支明细(用于说明资金流向)</li>
+    <li>韩国境内代理人委托书(本人不亲自到场时)</li>
+  </ul>
+</div>
+
+文件再多,资金来源说明若不充分,外国人投资登记阶段就会被要求补正。账户里就算有钱,流向说明不到位,马上就会出问题。
+
+## <span id="section-7">7. 独资代表在实务中常碰到的问题</span>
+
+### 自我交易、董事会决议会因"一人结构"而被严格审视
+
+独资法人里,股东、理事、代表理事都是同一个人。在这种结构下,如果外国人代表与本人或本国母公司之间发生交易(例如从总公司借入资金、向总公司提供服务),**自我交易规定**和**转让定价规定**会同时启动。
+
+- 商法第 398 条自我交易 → 需董事会批准(独资法人以股东大会议事录代之)
+- 国际税收调整法 → 与总公司·境外关联公司的交易属于公平定价审查对象
+
+文件上是一个人,似乎办得快,但实际审查时会更严格地审视"这笔交易是否合理"。说明不充分的话,在税务调查阶段就会暴露差距。
+
+### 独资代表不在韩国时
+
+独资法人的代表常驻本国、仅在韩国留有员工的形式也是可行的。但需要事先理清以下问题。
+
+- 韩国境内送达地址(与营业所·登记地址分开的、用于收发通知的地址)
+- 用于开具增值税发票·电子税票认证书的本人身份认证手段
+- 法人账户网银所需的安全卡/OTP 接收路径
+
+代表不在韩国本身合法,但**韩国行政系统并不是按"独资外国人代表缺席"来设计的**——这才是真正的负担。
+
+### 签证与居留交织时
+
+通过 D-8 签证成为独资法人代表后,该法人**必须持续维持外国人投资企业资格**,签证才能延期。也就是说,擅自抽走资本金,或将本人股权转让给非投资型外国人,都会动摇签证资格。比"能否通过"更先要明白的是,**法人运营和签证资格是绑在一起的**。
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong>衔接 D-8 签证的独资法人,在出现资本金回收(减资)、本人股权部分出让、本店歇业·停业时,需要向出入境部门提交变更申报。漏掉这一申报,下次延期审查时就会被作为问题抓出来。
+</div>
+
+## <span id="section-8">8. 常见的失误</span>
+
+### ① 以为只要"凑够"1 亿韩元资本金就行
+
+汇款链路必须**从外国人本人→韩国法人账户(或资本金保管账户)**清晰直达。先汇给韩国居民、再由其转入法人——这种迂回汇款不会被认定为外国人投资。
+
+### ② 章程里只写本人,议长·监事栏空缺
+
+即使是商法上的一人公司,章程里也必须明确议长选任方式以及替代股东大会的程序,这样发生争议时决策的效力才会被认可。如果觉得"反正一个人也没人能争",章程随便写,日后在出售、引资、继承环节就会动摇。
+
+### ③ 用居家地址签订租赁合同
+
+把家庭住址或短租地址作为本店地址,在外国人投资企业登记时会以"实体不明"为由被要求补正。需要选用通常被认可为办公空间的租赁形式(包括共享办公室,但"非常驻型"形式有限制)。
+
+### ④ 营业执照上的业种范围过窄
+
+独资法人在创业初期常把业种范围定得很窄,等实际营业额来自其他业种时,又忘了去申报追加业种。业种应当从一开始就反映未来 1~2 年计划进行登记。
+
+### ⑤ "先不带签证开起来",再以韩国居留运营
+
+不带签证设立的独资法人,如果本人以短期签证(B-2/C-3)状态在韩国直接经营,有可能构成超出居留资格活动。从事经营活动的居留需要 D-8 等单独资格。
+
+## <span id="section-9">9. 常见问题 (FAQ)</span>
+
+### Q1. 外国人能否同时担任独资股东、独资理事兼代表理事?
+
+可以。资本金不足 10 亿韩元的股份有限公司,1 名理事即可,即便发起人只有 1 人,设立也会被认可。外国人这一身份并不会阻挡其担任理事。但**法人印鉴登记和登记申请时,需要本人或受托代理人在韩国境内办理**。
+
+### Q2. 资本金不足 1 亿韩元,就完全申请不到 D-8 签证吗?
+
+原则上,认定为外国人投资的最低金额是 1 亿韩元,低于此数则无法登记为外国人投资企业,也就没有 D-8 申请资格。可以采用分摊出资(例如本人 5,000 万 + 外国人合伙人 5,000 万)凑足外国人投资总额 1 亿韩元的方式,但这会与**独资法人的定义(单一股东)冲突**,届时就不再是独资,而是 2 人法人结构了。
+
+### Q3. 因为是独资法人,可以不设监事吗?
+
+资本金不足 10 亿韩元的股份有限公司可以豁免监事选任(商法第 409 条)。独资有限公司本身就没有监事义务。需要在章程中明确监事豁免的依据条款,并反映到登记上。
+
+### Q4. 本人一次都不来韩国,能设立独资法人吗?
+
+到法人设立这一步是可行的。通过本国公证 + 海牙认证 + 委托书的组合,登记和营业执照办理都能完成。但**法人账户开立**和**D-8 签证申请**需要外国人本人到韩国或本国领事馆现场办理。最终现实情况就是"设立可以远程,运营起步必须现场"。
+
+### Q5. 独资法人后期能加入外国人合伙人或韩国合伙人吗?
+
+可以。通过新股发行或现有股权转让来追加股东即可。但需要维持外国人投资企业资格的独资法人,如果将部分股权转让给韩国人,**外国人投资比例发生变动**就要向受托银行提交变更申报。如果外国人投资比例跌破一定水平,外国人投资企业资格会丧失,D-8 签证资格也会随之动摇。
+
+## <span id="section-10">10. 咨询说明</span>
+
+外国人独资法人的关键不在于"可行/不可行",而在于**资本金流向、签证、登记、税务能否串成一条直线**。1 亿韩元汇款的一个代码、本店租赁合同上的一行名义、章程中议长选任条款的一行字,都会左右下一阶段能否通过。
+
+VISION 行政士事务所将外国人独资法人的设立、外国人投资企业登记、D-8 签证衔接、营业执照办理及法人账户开立视为一条主线整体推进。本国公证文件格式的审阅、汇款代码的事前确认、租赁合同名义的整理,以及登记所、税务所日程的协调,都会一并处理。
+
+**VISION 行政士事务所 (VISION Administrative Office)**
+
+- 电话:02-363-2251
+- 邮箱:5000meter@gmail.com
+- 地址:(04614) 首尔特别市中区退溪路 324 号 3 层(圣宇大厦)
+
+请提前告知资本金规模、经营业种以及您在韩居留的计划,我们将根据您的情况,为您梳理独资法人的可行性与具体要件。
+
+---
+
+## 需要专家咨询？
+
+复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
+
+**[申请免费咨询](https://www.investkorea.co.kr/zh/contact)**
+
