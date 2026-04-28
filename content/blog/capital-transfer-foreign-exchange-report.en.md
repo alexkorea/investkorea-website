@@ -12,7 +12,7 @@ slug: "capital-transfer-foreign-exchange-report"
 To establish a corporation in Korea, the procedures for capital transfer and foreign exchange reporting are necessary. Generally, when a foreigner establishes a corporation in Korea, the capital must be transferred in accordance with certain conditions and procedures under the Foreign Exchange Management Act, and the reporting process is also essential. This process is intended to ensure the transparency of foreign exchange transactions and clarify the source of capital.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px">
-<h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+<h3 style="color:#1e40af;margin-top:0">Table of Contents
 <ul style="list-style:none;padding:0">
 <li><a href="#section-1" style="color:#2563eb;text-decoration:none">Capital Transfer Procedure for Corporation Establishment</a></li>
 <li><a href="#section-2" style="color:#2563eb;text-decoration:none">Necessity of Foreign Exchange Reporting</a></li>
@@ -24,7 +24,7 @@ To establish a corporation in Korea, the procedures for capital transfer and for
 </nav>
 
 <div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
-<h3 style="color:#15803d;margin-top:0">Key Summary</h3>
+<h3 style="color:#15803d;margin-top:0">Key Summary
 <ul>
 <li>The minimum capital for establishing a corporation must be at least 10 million won.</li>
 <li>Capital transfer must be conducted through a foreign exchange bank in accordance with the Foreign Exchange Management Act.</li>
@@ -32,7 +32,7 @@ To establish a corporation in Korea, the procedures for capital transfer and for
 </ul>
 </div>
 
-<h2 id="section-1">Capital Transfer Procedure for Corporation Establishment</h2>
+<h2 id="section-1">Capital Transfer Procedure for Corporation Establishment
 The capital transfer during corporation establishment is conducted through a foreign exchange bank. Generally, the capital transfer follows these procedures:
 
 1. Submit a capital transfer request to the foreign exchange bank.
@@ -41,19 +41,19 @@ The capital transfer during corporation establishment is conducted through a for
 
 The capital transfer must be completed before finalizing the corporation establishment procedures in Korea, and a transfer confirmation certificate issued by the foreign exchange bank is required after the transfer.
 
-<h2 id="section-2">Necessity of Foreign Exchange Reporting</h2>
+<h2 id="section-2">Necessity of Foreign Exchange Reporting
 Foreign exchange reporting is essential to verify the source of the capital that arrives in Korea after the capital transfer. Failure to report may delay the establishment of the corporation or lead to legal issues. Foreign exchange reporting is conducted at the Bank of Korea, and the documents required for reporting are as follows:
 
 - Capital transfer confirmation certificate
 - Corporation establishment documents
 - A copy of the transferor's ID
 
-<h2 id="section-3">Precautions When Transferring Capital</h2>
+<h2 id="section-3">Precautions When Transferring Capital
 When transferring capital, pay attention to the following:
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>Warning:</strong> Ensure that the transfer amount meets the minimum capital requirement (at least 10 million won). Additionally, it is important to directly consult with the foreign exchange bank to confirm the necessary documents for capital transfer.</div>
 
-<h2 id="section-4">How to Fill Out and Submit the Report</h2>
+<h2 id="section-4">How to Fill Out and Submit the Report
 To fill out the foreign exchange reporting form, the following information must be included:
 
 - Name and address of the transferor
@@ -62,7 +62,7 @@ To fill out the foreign exchange reporting form, the following information must 
 
 The report should be submitted to the foreign exchange department of the Bank of Korea, and the processing time is generally around 2-3 days.
 
-<h2 id="section-5">Common Mistakes and Warnings</h2>
+<h2 id="section-5">Common Mistakes and Warnings
 Common mistakes that occur during the foreign exchange reporting and capital transfer process include:
 
 1. Missing required documents

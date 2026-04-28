@@ -22,7 +22,7 @@ The first decision a foreign investor has to make when setting up a *jusik hoesa
 In practice, this one choice determines both the cost and the timeline. A foreign-invested corporation moves through **foreign exchange bank notification → investment remittance → capital deposit → incorporation registration → FIE registration → business registration**, and the whole process takes 2 to 4 weeks. Government fees, registration license tax, notarization, and certified translation costs add up to roughly **KRW 1 million to 1.8 million in hard costs** on a KRW 100 million capital basis. Including administrative scrivener or judicial scrivener fees, the total usually falls between KRW 1.5 million and 4 million. It looks simple on the surface, but in the actual review, the common bottlenecks are the source of investment funds, the business plan, and the notarization and apostille of the representative's documents.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Deciding the Entity Structure First</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Capital Thresholds and FIE Registration Conditions</a></li>
@@ -573,7 +573,7 @@ Business registration and FIE registration can be done using a shared office add
 Setting up a foreign-owned stock corporation is not just a corporate registration task — it's **one bundled workflow across remittance, notification, visa, and tax**. A snag at any step delays everything downstream. Vision Administrative Affairs Office connects the whole chain — foreign investment notification → incorporation registration → FIE registration → D-8 visa — through a single point of contact.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Affairs Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Affairs Office
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 <strong>Phone</strong>: 02-363-2251</li>
     <li>📧 <strong>Email</strong>: 5000meter@gmail.com</li>

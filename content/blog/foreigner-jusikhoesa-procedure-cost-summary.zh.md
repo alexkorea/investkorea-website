@@ -22,7 +22,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 实务中要顺利完成设立,必须按**①外国人投资申报 → ②注册资本汇款(投资资金名义) → ③设立登记 → ④营业执照申请 → ⑤外商投资企业登记**这五个步骤依序进行。注册资本最低为1亿韩元(与D-8签证挂钩时),加上公证、登记许可税、登记手续费及行政士代办费,整体实际支出通常在150万~350万韩元之间。下面按步骤详细说明实际审查标准和隐藏费用。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份有限公司(株式会社)是什么</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须确认的3件事</a></li>
@@ -37,7 +37,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 外国人股份有限公司(株式会社)是什么</h2>
+<h2 id="section-1">1. 外国人股份有限公司(株式会社)是什么
 
 ### 先从股份有限公司与有限公司的区别说起
 
@@ -88,7 +88,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 只有拥有这一身份,才能衔接**D-8签证、外商投资企业税收减免、土地取得特例**等后续程序。
 
-<h2 id="section-2">2. 设立前必须确认的3件事</h2>
+<h2 id="section-2">2. 设立前必须确认的3件事
 
 ### 第一,行业是否受限
 
@@ -110,7 +110,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#1e40af">💡 实务提示:</strong> 若承租压力较大,可先以共享办公(非常驻办公室)起步,但营业执照和D-8签证审查会考察"实际经营可能性",地址处至少需要有招牌、邮件签收、经营空间等可核实要素。仅仅租借地址,在D-8环节经常被卡。
 </div>
 
-<h2 id="section-3">3. 设立流程5个步骤详解</h2>
+<h2 id="section-3">3. 设立流程5个步骤详解
 
 ### 整体流程
 
@@ -177,7 +177,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 拿到营业执照后,回到最初申报的外汇银行(或KOTRA),领取**外商投资企业登记证**。这份证明是D-8签证、税收减免、外汇汇出(股利汇出境外)等后续优惠的依据。
 
-<h2 id="section-4">4. 注册资本标准与汇款实务</h2>
+<h2 id="section-4">4. 注册资本标准与汇款实务
 
 ### 为什么是1亿韩元
 
@@ -230,7 +230,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 注意:</strong> 注册资本必须从投资者本人名义的海外账户汇出。若经由家人或熟人账户周转,资金来源将变得不清晰,审查时会被要求"资金流向说明",说明若不充分会立即被退回。
 </div>
 
-<h2 id="section-5">5. 所需材料汇总</h2>
+<h2 id="section-5">5. 所需材料汇总
 
 ### 投资者(外国个人)
 
@@ -280,7 +280,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 </figure>
 
 
-<h2 id="section-6">6. 设立费用明细</h2>
+<h2 id="section-6">6. 设立费用明细
 
 ### 法定费用
 
@@ -339,7 +339,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 注意:</strong> 登记许可税重税的适用标准取决于法人本店是否位于首都圈过密抑制区域。首尔、仁川大部分地区,以及京畿道部分地区(城南、水原、富川、安养等)属于此范围。同为京畿道,华城、平泽、抱川属于非过密抑制区域,不适用重税。本店地址选在哪里,税负可能相差三倍。
 </div>
 
-<h2 id="section-7">7. 设立后必须办理的行政手续</h2>
+<h2 id="section-7">7. 设立后必须办理的行政手续
 
 ### 开立法人账户
 
@@ -360,7 +360,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 作为法人代表董事的投资者本人要在韩国居留时,需申请**D-8企业投资签证**。备齐外商投资企业登记证、汇款证、营业场所租赁合同、经营计划书,到所辖出入境提交。
 
-<h2 id="section-8">8. 常见失误与审查中容易受阻的环节</h2>
+<h2 id="section-8">8. 常见失误与审查中容易受阻的环节
 
 ### 失误1 — 抢先汇款
 
@@ -386,7 +386,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 注意:</strong> 实务中,卡壳更多出现在D-8签证衔接环节,而非法人设立本身。1亿韩元是否标注为"投资资金"、营业场所实体是否可核实、经营计划书是否具体——这三点若薄弱,就会出现法人设立成功但签证下不来的尴尬局面。
 </div>
 
-<h2 id="section-9">9. 常见问题(FAQ)</h2>
+<h2 id="section-9">9. 常见问题(FAQ)
 
 ### Q1. 未入境韩国的状态下能否设立法人?
 
@@ -408,12 +408,12 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 材料齐备的情况下,**纯官厅处理时间约为10个工作日**。现实中,加上Apostille、海外汇款延迟、租赁合同准备等,**3~4周**为标配。代表人签名认证或总部投资决议书从海外抵韩延迟,是最常见的延误原因。
 
-<h2 id="section-10">10. 咨询方式</h2>
+<h2 id="section-10">10. 咨询方式
 
 外国人股份有限公司设立,单看法人登记似乎是一道简单流程。但从**FDI申报时机 → 汇款用途代码 → 注册资本缴纳 → 登记 → 营业执照 → 外商投资企业登记 → D-8签证**这一整条链条中,只要有一环错位,后续所有步骤都会连带出问题。VISION行政士事务所为您一次性完成整体流程设计。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">VISION行政士事务所 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION行政士事务所 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 电话:<strong>02-363-2251</strong></li>
     <li>✉️ 邮箱:<strong>5000meter@gmail.com</strong></li>

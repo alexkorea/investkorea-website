@@ -17,7 +17,7 @@ slug: "f5-permanent-residency"
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#intro">F-5 영주권 소개</a></li>
     <li><a href="#overview">영주권 취득 경로 한눈에 보기</a></li>

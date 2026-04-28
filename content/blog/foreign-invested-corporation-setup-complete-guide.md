@@ -22,7 +22,7 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 핵심은 순서입니다. 신고 없이 송금이 먼저 들어오면 자금 출처 소명이 꼬이고, 등기 전에 송금이 늦으면 자본금 납입증명이 나오지 않아 등기가 지연됩니다. 실무에서는 신고 → 송금 → 등기 → 사업자등록 → FIC 등록을 평균 3~5주 안에 끝내는 것을 목표로 잡고, 이 일정이 한 단계라도 어긋나면 비자 신청 일정 전체가 밀립니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 투자법인이란 — 일반 외국자본 회사와 무엇이 다른가</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 설립 전 결정해야 할 5가지 — 업종·자본금·지분율·법인형태·소재지</a></li>

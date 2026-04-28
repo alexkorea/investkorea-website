@@ -22,7 +22,7 @@ When a foreigner sets up a corporation in Korea, **the biggest stumbling block i
 For costs, a realistic range is **roughly KRW 2.5–4 million in total government fees plus professional fees (administrative attorney or judicial scrivener), based on KRW 100 million capital**. This includes registration license tax (with the 3x heavy taxation in over-concentrated areas), education tax, articles-of-incorporation notarization fees, registration application fees, notary fees, and translation/apostille costs. If capital is under KRW 100 million, or if the investor is a foreign corporation, the structure shifts. Below, we walk through the procedures, documents, and costs in the order they actually happen.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Difference Between a Foreign-Owned Corporation and a Foreign-Invested Company</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Three Prerequisites to Check Before Incorporation</a></li>
@@ -37,7 +37,7 @@ For costs, a realistic range is **roughly KRW 2.5–4 million in total governmen
   </ul>
 </nav>
 
-## <h2 id="section-1">1. Difference Between a Foreign-Owned Corporation and a Foreign-Invested Company</h2>
+## 1. Difference Between a Foreign-Owned Corporation and a Foreign-Invested Company
 
 ### Same Corporate Form, Different Status
 
@@ -93,7 +93,7 @@ The first thing to look at is the **minimum investment of KRW 100 million and a 
 
 In practice, any individual investor who needs a visa has to go the **FDI route** — there is no alternative. If you already have resident status in Korea or are simply taking a passive capital position, a regular foreign-shareholder corporation is enough. The bottom line is this: **if a D-8 visa is on your radar, KRW 99.99 million does not buy you anything.** The 100-million threshold needs to be cleared with a comfortable cushion, since exchange rate fluctuations can push you under.
 
-## <h2 id="section-2">2. Three Prerequisites to Check Before Incorporation</h2>
+## 2. Three Prerequisites to Check Before Incorporation
 
 ### Why You Must Pin Down the Business Address First
 
@@ -111,7 +111,7 @@ The documents you need to submit vary significantly depending on whether the inv
   <strong style="color:#92400e">⚠️ Caution:</strong> When a foreign corporation comes in as a shareholder, be aware that many countries have no equivalent of a "corporate seal certificate." You will need a full set: the home-country corporate registration extract, a board resolution, a Certificate of Incumbency, and either an apostille or consular authentication. If any one of these documents is missing, the registry office will reject the filing on the spot.
 </div>
 
-## <h2 id="section-3">3. The Full Incorporation Process — A 7-Step Roadmap</h2>
+## 3. The Full Incorporation Process — A 7-Step Roadmap
 
 ### Skip the Order and Your Money Gets Stuck
 
@@ -204,7 +204,7 @@ Once the corporate registration extract is issued, apply for business registrati
 
 Finally, apply for the **Foreign-Invested Company Certificate** at KOTRA or your local government. This certificate is the key that unlocks D-8 visa sponsorship, tax reduction applications, and access to support programs reserved for foreign-invested companies.
 
-## <h2 id="section-4">4. Required Documents at Each Stage</h2>
+## 4. Required Documents at Each Stage
 
 ### Documents from the Investor (Individual Foreigner)
 
@@ -253,7 +253,7 @@ Countries that are parties to the Apostille Convention (US, Japan, UK, and most 
   <strong style="color:#1e40af">💡 Practical Tip:</strong> When preparing documents in the home country, get both the proof of address and the signature specimen notarized in a single trip. The same documents get requested again at the provisional bank account opening, the business registration, and the visa invitation submission. Obtaining 2–3 originals of each saves a round-trip later.
 </div>
 
-## <h2 id="section-5">5. Actual Cost Structure and Budget by Capital Bracket</h2>
+## 5. Actual Cost Structure and Budget by Capital Bracket
 
 ### Fixed Expenses — Government and Public Fees
 
@@ -373,7 +373,7 @@ The over-concentrated area covers all of Seoul, parts of Incheon, and 14 cities 
 </figure>
 
 
-## <h2 id="section-6">6. Key Points by Capital and Investment Type</h2>
+## 6. Key Points by Capital and Investment Type
 
 ### Cash Contributions vs. In-Kind Contributions
 
@@ -395,7 +395,7 @@ A common attempt in the field is "send the money through a Korean friend's accou
 
 When a foreigner comes in as a later participant in an already-established Korean corporation, **third-party allocation through a paid-in capital increase** is more common than forming a new company. A foreign investment notification is required even before the increase, and after it, you need to register changes to the shareholder register and articles, plus file foreign-invested company registration (or amend an existing one).
 
-## <h2 id="section-7">7. Post-Incorporation Administrative Steps You Must Not Skip</h2>
+## 7. Post-Incorporation Administrative Steps You Must Not Skip
 
 ### Corporate Bank Account Opening — The Biggest Time Sink
 
@@ -456,7 +456,7 @@ If the representative is a Korean resident, enrollment in the four major insuran
   </tbody>
 </table>
 
-## <h2 id="section-8">8. Common Mistakes and Rejection Cases</h2>
+## 8. Common Mistakes and Rejection Cases
 
 ### Mistake 1 — Remitting First, Filing Later
 
@@ -486,7 +486,7 @@ The corporate registration extract and the business registration both carry the 
   <strong style="color:#1e40af">💡 Practical Tip:</strong> If the representative is only in Korea on a short-term stay or has not yet entered the country, it is safer to list a Korean office landline and a Korean address (the same lease address works) as a backup during the early stage. Designating a mail-receiving agent is another option worth using.
 </div>
 
-## <h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+## 9. Frequently Asked Questions (FAQ)
 
 **Q1. Can a foreigner set up a corporation alone?**
 
@@ -508,7 +508,7 @@ Yes. You can remit the investment funds from your home country and submit docume
 
 Legally, change registrations are allowed immediately after incorporation. However, in the review for the foreign-invested company certificate and the D-8 visa invitation, a "change of address or representative right after incorporation" can be flagged as **a possible sign of a substanceless paper company**. Keeping the original incorporation details in place for at least 6 months to a year is the safer play.
 
-## <h2 id="section-10">10. How to Get in Touch</h2>
+## 10. How to Get in Touch
 
 Setting up a foreign-owned Korean corporation is not a simple registration job — it is **a single chain that runs through remittance, notification, registration, visa, and tax**. A single broken link freezes funds or cuts the thread on visa eligibility. VISION Administrative Office handles the whole chain in one go, from investment remittance through foreign-invested company registration and D-8 visa invitation.
 

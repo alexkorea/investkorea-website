@@ -22,7 +22,7 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 비용은 자본금을 제외하고 실제 설립 실비만 따지면 **등록면허세·지방교육세·공증료·등기수수료·행정사 수수료**를 합쳐 보통 120만 원~250만 원 선에서 결정됩니다. 자본금은 외국인투자로 인정받으려면 최소 1억 원, D-8 비자를 노린다면 1억 원 이상을 본인 명의 해외 계좌에서 송금해야 하며, 이 흐름을 설명하지 못하면 바로 이 부분에서 심사가 걸립니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사 설립, 핵심만 먼저</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 외국인투자기업 vs 일반 주식회사 차이</a></li>
@@ -533,7 +533,7 @@ D-8 심사에서는 단순 주소만이 아니라 실제로 사업을 할 수 �
 비전 행정사사무소는 외국인 법인설립·외국인투자신고·D-8 비자까지 단일 창구에서 처리합니다. 설립 단계에서 이미 비자 심사 기준을 고려해 자본금·업종·사무실을 맞춰 설계하기 때문에, 설립 후 "비자가 안 나오는" 상황을 미리 차단할 수 있습니다.
 
 <div style="background:#f0f7ff;border:1px solid #93c5fd;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;margin:0">
     <li style="padding:4px 0"><strong>전화:</strong> 02-363-2251</li>
     <li style="padding:4px 0"><strong>이메일:</strong> 5000meter@gmail.com</li>

@@ -22,7 +22,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 비용은 **자본금(최소 1억 원 권장) + 등록면허세·지방교육세(자본금의 0.48%, 수도권 과밀억제권역은 3배 중과) + 공증·등기 수수료 + 행정사 대행료**로 구성됩니다. 서울에 본점을 두면 자본금 1억 원 기준 등록세만 약 144만 원, 공증·법무비까지 더해 실제 지출은 200~400만 원 선입니다. 자본금과 별개로 움직이는 실비이므로 미리 분리해서 잡아야 자금 계획이 꼬이지 않습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사 설립, 먼저 정해야 할 3가지</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 유한회사와 주식회사 중 무엇을 고를 것인가</a></li>
@@ -37,7 +37,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   </ul>
 </nav>
 
-## <h2 id="section-1">1. 외국인 주식회사 설립, 먼저 정해야 할 3가지</h2>
+## 1. 외국인 주식회사 설립, 먼저 정해야 할 3가지
 
 실무에서 의뢰가 들어오면 가장 먼저 묻는 세 가지가 있습니다. **자본금 규모, 본점 소재지, 외국인 지분 비율**. 이 세 가지가 정해지지 않으면 신고서조차 접수할 수 없습니다.
 
@@ -61,7 +61,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#92400e">⚠️ 주의:</strong> "외국인투자 허용업종"에 해당하는지 반드시 산업통상자원부 외국인투자통계시스템(INSC) 또는 KOTRA에서 먼저 확인해야 합니다. 허용되지 않는 업종으로 신고하면 외국환은행에서 수리 자체가 안 됩니다.
 </div>
 
-## <h2 id="section-2">2. 유한회사와 주식회사 중 무엇을 고를 것인가</h2>
+## 2. 유한회사와 주식회사 중 무엇을 고를 것인가
 
 외국인 의뢰인들이 가장 많이 묻는 질문입니다. 결론부터 말하면 **향후 투자 유치·IPO·지분 양도 계획이 있으면 주식회사, 단일 오너가 단순 운영할 거면 유한회사**가 낫습니다.
 
@@ -120,7 +120,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 또 **추가 투자자를 받을 계획**이 있으면 주식회사가 편합니다. 유한회사는 사원총회 동의가 필요해 지분 변경이 번거롭습니다.
 
-## <h2 id="section-3">3. 설립 절차 6단계 상세 정리</h2>
+## 3. 설립 절차 6단계 상세 정리
 
 전체 흐름은 아래 표와 같습니다. 각 단계가 순서대로 이어지기 때문에 하나가 막히면 뒤가 다 멈춥니다.
 
@@ -205,7 +205,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 전체 일정은 서류가 완벽하면 2~3주, 본국 서류 재발급이 필요하면 4~6주까지 걸립니다. D-8 비자 일정과 맞물리면 본국 서류 준비를 먼저 시작하는 게 전체 시간을 가장 많이 줄입니다.
 </div>
 
-## <h2 id="section-4">4. 자본금 기준과 FDI 등록 요건</h2>
+## 4. 자본금 기준과 FDI 등록 요건
 
 ### 최저 자본금 — 법정 최저와 실무 최저는 다르다
 
@@ -229,7 +229,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 투자자가 여럿일 때 흔히 놓치는 부분입니다. **총액 1억 원이 아니라 1인당 1억 원**입니다. 2명이 5천만 원씩 나눠 넣으면 FDI 등록이 안 됩니다. 이 부분이 약하면 외국환은행에서 바로 반려됩니다.
 
-## <h2 id="section-5">5. 필요 서류 및 본국 공증 실무</h2>
+## 5. 필요 서류 및 본국 공증 실무
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ 외국인투자자(개인) 제출 서류 체크리스트</strong>
@@ -272,7 +272,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 </figure>
 
 
-## <h2 id="section-6">6. 총비용 구조와 항목별 금액</h2>
+## 6. 총비용 구조와 항목별 금액
 
 자본금 1억 원, 서울 본점, 발기인 1인 기준 실제 지출을 정리하면 다음과 같습니다.
 
@@ -371,7 +371,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#92400e">⚠️ 주의:</strong> 자본금을 10억 원으로 올리면 외부감사 대상 판단 기준에 가까워지고, 감사 선임 의무도 생깁니다. 단순히 큰 숫자로 잡기보다 실제 운영 규모와 비자 요건에 맞춰 잡는 게 맞습니다. 세부 기준은 관할 기관 확인이 필요합니다.
 </div>
 
-## <h2 id="section-7">7. 설립 후 해야 하는 사후 절차</h2>
+## 7. 설립 후 해야 하는 사후 절차
 
 등기와 사업자등록이 끝났다고 회사가 실제로 돌아가는 건 아닙니다. 법인 계좌 개설·4대보험 가입·D-8 비자 전환까지 이어져야 합니다.
 
@@ -393,7 +393,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 외국인투자촉진법상 **첨단기술·서비스업** 등 일부 업종은 법인세·소득세 감면이 가능합니다. 감면은 자동 적용이 아니라 **별도 신청**이 필요하고, 사업 개시 전에 신청해야 합니다. 실무에서는 설립 직후 바로 KOTRA와 협의를 시작합니다.
 
-## <h2 id="section-8">8. 자주 하는 실수와 반려 사유</h2>
+## 8. 자주 하는 실수와 반려 사유
 
 실제로 반려되거나 일정이 밀리는 사례를 모아보면 패턴이 거의 동일합니다.
 
@@ -425,7 +425,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 반려된 케이스의 70% 이상은 서류 문제가 아니라 "서류 간 정보 불일치"입니다. 이름 철자 한 글자, 주소 번지 한 숫자가 서류마다 다르면 바로 걸립니다. 설립 전 모든 서류 사본을 한 번에 펼쳐놓고 대조하는 작업이 가장 효과 있습니다.
 </div>
 
-## <h2 id="section-9">9. 자주 묻는 질문(FAQ)</h2>
+## 9. 자주 묻는 질문(FAQ)
 
 ### Q1. 한국에 오지 않고 원격으로 주식회사를 설립할 수 있나요?
 
@@ -447,7 +447,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 단순 송금이 아니라 **증자(신주발행) 또는 차입** 중 선택해야 합니다. 증자는 이사회 결의·주주총회 결의·변경등기가 필요하고, 자본금 증가분에 대한 등록세도 다시 냅니다. 차입은 **대외차입 신고**가 별도로 필요하고, 이자 지급 시 원천세 문제가 붙습니다. 어느 쪽이든 단순히 모회사 계좌에서 바로 보내면 "투자금 아닌 자금"으로 분류돼 FDI 지분 확대로 인정받지 못합니다.
 
-## <h2 id="section-10">10. 상담 안내</h2>
+## 10. 상담 안내
 
 외국인 주식회사 설립은 법무·외국환·세무·출입국이 한꺼번에 얽힙니다. 한 단계라도 서류 간 정보가 어긋나면 전체 일정이 2~3주 밀립니다. 비전 행정사사무소는 외국인투자신고부터 법인등기, 사업자등록, 외국인투자기업 등록, D-8 비자 연계까지 한 창구에서 진행합니다.
 

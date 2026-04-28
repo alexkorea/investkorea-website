@@ -12,7 +12,7 @@ slug: "capital-transfer-foreign-exchange-report"
 한국에서 법인을 설립하기 위해서는 자본금의 송금과 외국환 신고 절차가 필요합니다. 일반적으로 외국인이 한국에서 법인을 설립할 경우, 자본금은 외환관리법에 따라 일정 조건과 절차를 준수하여 송금해야 하며, 이를 신고하는 과정도 필수적입니다. 이 과정은 외환 거래의 투명성을 확보하고, 자본의 출처를 명확히 하기 위한 것입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px">
-<h3 style="color:#1e40af;margin-top:0">목차</h3>
+<h3 style="color:#1e40af;margin-top:0">목차
 <ul style="list-style:none;padding:0">
 <li><a href="#section-1" style="color:#2563eb;text-decoration:none">법인 설립을 위한 자본금 송금 절차</a></li>
 <li><a href="#section-2" style="color:#2563eb;text-decoration:none">외국환 신고의 필요성</a></li>
@@ -24,7 +24,7 @@ slug: "capital-transfer-foreign-exchange-report"
 </nav>
 
 <div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
-<h3 style="color:#15803d;margin-top:0">핵심 요약</h3>
+<h3 style="color:#15803d;margin-top:0">핵심 요약
 <ul>
 <li>법인 설립을 위해 자본금은 최소 1천만 원 이상이어야 함.</li>
 <li>자본금 송금은 외환관리법에 따라 외환은행을 통해 이루어져야 함.</li>
@@ -32,7 +32,7 @@ slug: "capital-transfer-foreign-exchange-report"
 </ul>
 </div>
 
-<h2 id="section-1">법인 설립을 위한 자본금 송금 절차</h2>
+<h2 id="section-1">법인 설립을 위한 자본금 송금 절차
 법인 설립 시 자본금 송금은 외환은행을 통해 진행됩니다. 일반적으로 자본금 송금은 다음과 같은 절차를 따릅니다:
 
 1. 외환은행에 자본금 송금 요청서 제출
@@ -41,19 +41,19 @@ slug: "capital-transfer-foreign-exchange-report"
 
 자본금 송금은 한국 내 법인 설립 절차를 완료하기 전에 완료되어야 하며, 송금 후에는 외환은행에서 발급하는 송금 확인서가 필요합니다.
 
-<h2 id="section-2">외국환 신고의 필요성</h2>
+<h2 id="section-2">외국환 신고의 필요성
 외국환 신고는 자본금 송금 후 한국에 도착한 자본금의 출처를 확인하기 위해 필수적입니다. 신고를 하지 않을 경우 법인 설립이 지연되거나 법적 문제가 발생할 수 있습니다. 외국환 신고는 한국은행에 진행하며, 신고 시 제출해야 하는 서류는 다음과 같습니다:
 
 - 자본금 송금 확인서
 - 법인 설립 관련 서류
 - 송금자의 신분증 사본
 
-<h2 id="section-3">자본금 송금 시 유의사항</h2>
+<h2 id="section-3">자본금 송금 시 유의사항
 자본금 송금 시 다음 사항에 주의해야 합니다:
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>주의:</strong> 송금 금액이 자본금의 최소 요건(1천만 원 이상)을 충족하는지 확인해야 합니다. 또한, 자본금 송금 시 외환은행에 직접 문의하여 필요한 서류를 확인하는 것이 중요합니다.</div>
 
-<h2 id="section-4">신고서 작성 및 제출 방법</h2>
+<h2 id="section-4">신고서 작성 및 제출 방법
 외국환 신고서를 작성하기 위해서는 다음과 같은 정보를 포함해야 합니다:
 
 - 송금인의 이름 및 주소
@@ -62,7 +62,7 @@ slug: "capital-transfer-foreign-exchange-report"
 
 신고서는 한국은행의 외환부서에 제출하며, 일반적으로 처리 기간은 2-3일 정도 소요됩니다.
 
-<h2 id="section-5">자주 하는 실수 및 경고사항</h2>
+<h2 id="section-5">자주 하는 실수 및 경고사항
 외국환 신고 및 자본금 송금 과정에서 흔히 발생하는 실수는 다음과 같습니다:
 
 1. 필요한 서류 누락

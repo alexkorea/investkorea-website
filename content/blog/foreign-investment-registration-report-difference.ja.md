@@ -22,7 +22,7 @@ slug: "foreign-investment-registration-report-difference"
 実際の事務手続きでは、投資企業設立やビザ申請（企業投資D-8等）、後々の資金送金などで「申告」と「登録」を混同すると仮営業やビザ審査の遅延につながる恐れがあります。それぞれの条件や準備書類を明確に整理しておく必要があります。このガイドでは、投資促進法における申告と登録の違い、実務上の主要ポイント、よくある間違いとその解決策まで具体的に紹介します。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人投資促進法の根拠と目的</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投資申告：定義と実務</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-1">1. 外国人投資促進法の根拠と目的</h2>
+## 1. 外国人投資促進法の根拠と目的
 
 外国人投資促進法は、韓国国内への外国資本誘致や産業競争力アップ、経済成長を目的に1998年に制定された法律です。この法では、外国人が韓国で資本投資や法人設立を行う際の基本的な手続きや行政要件を明確に規定しています。投資促進法における「申告」と「登録」は、次の通り定義されています。
 
@@ -48,7 +48,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-2">2. 外国人投資申告：定義と実務</h2>
+## 2. 外国人投資申告：定義と実務
 
 ### 申告とは
 
@@ -71,7 +71,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-3">3. 外国人投資登録：定義と実務</h2>
+## 3. 外国人投資登録：定義と実務
 
 ### 登録とは
 
@@ -92,7 +92,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-4">4. 申告と登録の比較表</h2>
+## 4. 申告と登録の比較表
 
 <table border="1" style="border-collapse:collapse;width:100%">
   <thead style="background:#e0ebff">
@@ -143,7 +143,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-5">5. 各段階のチェックリストと注意点</h2>
+## 5. 各段階のチェックリストと注意点
 
 **投資促進法の主要な各段階チェックポイント**
 
@@ -172,7 +172,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-6">6. よくあるミスと回避策</h2>
+## 6. よくあるミスと回避策
 
 ### 実務でよく起こるミス
 
@@ -191,7 +191,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-7">7. FAQ（よくある質問）</h2>
+## 7. FAQ（よくある質問）
 
 **Q1. 外国人投資の申告と登録はどちらを先に行うべきでしょうか？**  
 A: 投資促進法上「申告」が先行します。申告後に資金入金など関連手続きをしてから「登録」を行います。
@@ -210,7 +210,7 @@ A: 申告証交付前の資金送金は認められない場合や投資促進�
 
 ---
 
-## <h2 id="section-8">8. 実務相談・お問い合わせ案内</h2>
+## 8. 実務相談・お問い合わせ案内
 
 投資促進法の申告や登録、投資企業の設立、ビザ申請など実務的な疑問がありましたら、以下の窓口までご相談ください。迅速・正確な行政サポートをご提供します。
 

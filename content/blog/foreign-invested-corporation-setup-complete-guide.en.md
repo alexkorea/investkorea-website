@@ -22,7 +22,7 @@ Establishing a foreign-invested corporation in Korea follows five stages: ① Fo
 The order matters. If remittance arrives before notification, proving the source of funds becomes tangled; if remittance is delayed before registration, the capital payment certificate cannot be issued and registration stalls. In practice, the goal is to complete notification → remittance → registration → business registration → FIC registration within 3–5 weeks, and a slip at any single step pushes the entire visa schedule back.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is a Foreign-Invested Corporation — How It Differs from a General Foreign-Capital Company</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Five Decisions Before Incorporation — Industry, Capital, Equity Ratio, Entity Type, Location</a></li>

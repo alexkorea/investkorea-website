@@ -22,7 +22,7 @@ slug: "foreign-single-member-company"
 实务中,独资法人需要分成两条线来看。第一种是**瞄准 D-8 投资签证的独资法人**(资本金 1 亿韩元以上,需办理外国人投资企业登记)。第二种是**不挂签证、单纯只设立法人**的情形(资本金没有限制,但外汇申报和税务、银行流程依然要走)。两者从资本金标准、汇款路径,到事业场所租赁的时机,全都不一样。如果不清楚这点,只是觉得"反正一个人办,简单",通常会在银行开户那一步首次卡住。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人独资法人在法律上是否可行</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 独资股份公司 vs 独资有限公司,哪种更合适</a></li>

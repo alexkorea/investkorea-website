@@ -22,7 +22,7 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 費用は資本金を除いた実際の設立実費だけを見ると、**登録免許税・地方教育税・公証料・登記手数料・行政士報酬**を合わせて通常120万〜250万ウォン程度で収まります。資本金は外国人投資として認められるには最低1億ウォン、D-8ビザを視野に入れるなら1億ウォン以上をご本人名義の海外口座から送金する必要があり、この流れを説明できないと、まさにこの部分で審査が止まります。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人株式会社設立、まず要点から</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投資企業と一般株式会社の違い</a></li>
@@ -533,7 +533,7 @@ D-8審査では、単なる住所だけでなく、実際に事業が行える�
 ビジョン行政士事務所は、外国人法人設立・外国人投資申告・D-8ビザまでを単一窓口で対応しています。設立の段階ですでにビザ審査の基準を踏まえて資本金・業種・事務所を設計するため、設立後に「ビザが下りない」という事態を事前に防ぐことができます。
 
 <div style="background:#f0f7ff;border:1px solid #93c5fd;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;margin:0">
     <li style="padding:4px 0"><strong>電話:</strong> 02-363-2251</li>
     <li style="padding:4px 0"><strong>メール:</strong> 5000meter@gmail.com</li>

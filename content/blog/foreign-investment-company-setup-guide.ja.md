@@ -19,7 +19,7 @@ slug: "foreign-investment-company-setup-guide"
 <li>正確な書類準備と手続きの進行が重要です。</li>
 </ul></div>
 
-<h2 id="process">設立手続き</h2>
+<h2 id="process">設立手続き
 外国人投資法人設立の主要な手続きは以下の通りです。各ステップで必要な事項を必ず確認する必要があります。
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -45,7 +45,7 @@ slug: "foreign-investment-company-setup-guide"
 </tr>
 </table>
 
-<h2 id="requirements">必要書類</h2>
+<h2 id="requirements">必要書類
 法人設立のために準備する必要がある書類は以下の通りです。
 
 <ul>
@@ -59,7 +59,7 @@ slug: "foreign-investment-company-setup-guide"
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>参考:</strong> 書類は管轄機関の要求に応じて追加される可能性があるため、確認が必要です。</div>
 
-<h2 id="timeline">所要時間</h2>
+<h2 id="timeline">所要時間
 外国人投資法人を設立するのに一般的に1-3ヶ月の時間がかかります。各ステップごとの所要時間は以下の通りです。
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -81,31 +81,31 @@ slug: "foreign-investment-company-setup-guide"
 </tr>
 </table>
 
-<h2 id="common-mistakes">一般的なミス</h2>
+<h2 id="common-mistakes">一般的なミス
 外国人投資法人設立時に一般的に発生するミスは以下の通りです。
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意:</strong> 書類不備や手続きの漏れにより承認が遅れる可能性があります。各ステップで必要な書類を徹底的に準備する必要があります。</div>
 
-<h2 id="faq">よくある質問</h2>
-<h3>Q: 外国人投資法人を設立するのにかかる費用はどのくらいですか？</h3>
+<h2 id="faq">よくある質問
+<h3>Q: 外国人投資法人を設立するのにかかる費用はどのくらいですか？
 A: 一般的に法人登録費用と税務申告費用を含めて約150万ウォンから700万ウォン程度かかります。案件の難易度（投資形態、業種規制、資本金出所検証など）によって段階的に異なり、簡易案件は150〜300万、標準案件は300〜500万、複雑な案件（多国籍出資、規制業種、現地調査が必要なケース）は500〜700万ウォン程度になります。
 
-<h3>Q: 投資計画書はどうやって作成しますか？</h3>
+<h3>Q: 投資計画書はどうやって作成しますか？
 A: 投資計画書は事業目標、投資金額、予想収益などを含めて作成する必要があります。
 
-<h3>Q: 外国人投資法人設立に特別な制限はありますか？</h3>
+<h3>Q: 外国人投資法人設立に特別な制限はありますか？
 A: 特定の業種によって制限がある場合があり、管轄機関との相談が必要です。
 
-<h3>Q: 法人設立に必要な最低資本金はいくらですか？</h3>
+<h3>Q: 法人設立に必要な最低資本金はいくらですか？
 A: 最低資本金は業種によって異なりますが、一般的に1000万ウォン以上が要求されます。
 
-<h3>Q: 法人設立後に必要な追加書類は何ですか？</h3>
+<h3>Q: 法人設立後に必要な追加書類は何ですか？
 A: 事業者登録証発行後、税務申告や事業関連の許可証が必要になる場合があります。
 
-<h3>Q: 外国人株主が法人設立に参加できますか？</h3>
+<h3>Q: 外国人株主が法人設立に参加できますか？
 A: はい、外国人株主も法人設立に参加できます。
 
-<h3>Q: 法人設立後の運営に必要な手続きは何ですか？</h3>
-A: 運営時には税務申告、会計帳簿作成などの手続きが必要です。</h3>
+<h3>Q: 法人設立後の運営に必要な手続きは何ですか？
+A: 運営時には税務申告、会計帳簿作成などの手続きが必要です。
 
 <p>追加の情報や相談が必要な場合は、<a href="/contact" style="color:#2563eb;text-decoration:none">こちら</a>からお問い合わせください。さらに多くの情報は<a href="/blog" style="color:#2563eb;text-decoration:none">ブログ</a>で確認できます。</p>

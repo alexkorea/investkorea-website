@@ -22,7 +22,7 @@ slug: "foreign-stock-company-setup"
 费用方面，主要取决于注册资本规模。以<strong>注册资本1亿韩元为例，登记许可税、教育税、法院手续费、公证费等实际支出约为70万至90万韩元</strong>。如果再加上行政士和法务士的代办服务费，整体设立费用大约在200万至400万韩元之间。下面将逐步详细解析每个阶段的实务要点和费用明细。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人设立股份公司——先看整体流程</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外商投资申报——首先要做的事</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-stock-company-setup"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 外国人设立股份公司——先看整体流程</h2>
+<h2 id="section-1">1. 外国人设立股份公司——先看整体流程
 
 ### 与韩国本国人设立有何不同
 
@@ -92,7 +92,7 @@ slug: "foreign-stock-company-setup"
 
 如果材料齐全，**两周内即可完成。** 实务中导致周期延长的最常见原因包括：海外文件的公证及海牙认证延迟、汇款时银行审核流程、以及经营范围代码不匹配。尤其是需要从本国获取文件的情况，光邮寄时间就可能多出1至2周。
 
-<h2 id="section-2">2. 外商投资申报——首先要做的事</h2>
+<h2 id="section-2">2. 外商投资申报——首先要做的事
 
 ### 为什么投资申报必须在前
 
@@ -126,7 +126,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#92400e">⚠️ 注意：</strong> 投资金额低于1亿韩元将无法注册为外商投资企业。如果目标是申请D-8签证，投资额必须达到1亿韩元以上。若不涉及签证需求，以较少的注册资本设立法人本身是可行的，因此应根据实际目的来确定注册资本规模。
 </div>
 
-<h2 id="section-3">3. 投资资金汇款与注册资本缴纳</h2>
+<h2 id="section-3">3. 投资资金汇款与注册资本缴纳
 
 ### 汇款流程
 
@@ -146,7 +146,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#1e40af">💡 实务提示：</strong> 在韩居留的外国人可以使用本人名下的韩国账户接收汇款，而海外居住者有时会通过法务士或行政士名下的监管账户来完成资金接收。各银行对外商投资资金的接收流程不尽相同，因此<strong>汇款前先与收款银行确认</strong>是实务中最稳妥的做法。
 </div>
 
-<h2 id="section-4">4. 法人设立登记流程</h2>
+<h2 id="section-4">4. 法人设立登记流程
 
 ### 章程拟定
 
@@ -213,7 +213,7 @@ slug: "foreign-stock-company-setup"
 
 向管辖登记所提交申请后，通常在**3至5个工作日**内完成登记。如需补正材料，则会额外多出几天时间。
 
-<h2 id="section-5">5. 税务登记与外商投资企业注册</h2>
+<h2 id="section-5">5. 税务登记与外商投资企业注册
 
 ### 税务登记（税务署）
 
@@ -244,7 +244,7 @@ slug: "foreign-stock-company-setup"
 </figure>
 
 
-<h2 id="section-6">6. 设立费用——各项实际金额</h2>
+<h2 id="section-6">6. 设立费用——各项实际金额
 
 实际费用取决于注册资本规模和是否委托代办。以下是**注册资本1亿韩元**的股份公司设立的大致实际支出。
 
@@ -332,7 +332,7 @@ slug: "foreign-stock-company-setup"
 </tbody>
 </table>
 
-<h2 id="section-7">7. 注册资本定多少合适</h2>
+<h2 id="section-7">7. 注册资本定多少合适
 
 ### 法律上没有最低注册资本要求
 
@@ -355,7 +355,7 @@ slug: "foreign-stock-company-setup"
 
 注册资本定得过低，会在银行开户、投标参与、信用评估等方面处于不利地位。将初始注册资本设定在合理水平，反而有助于后续业务运营更加顺畅。
 
-<h2 id="section-8">8. 常见的5个误区</h2>
+<h2 id="section-8">8. 常见的5个误区
 
 ### 误区1：未完成投资申报就先汇款
 
@@ -381,7 +381,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#1e40af">💡 实务提示：</strong> 在设立法人之前，请先确定好<strong>行业代码、营业场所地址、投资资金来源证明</strong>这三项。实际操作中，这三项未落实就急于推进，往往会导致流程反复中断。材料虽多，只要安排好顺序，就能高效完成。
 </div>
 
-<h2 id="section-9">9. 常见问题解答（FAQ）</h2>
+<h2 id="section-9">9. 常见问题解答（FAQ）
 
 ### 问题1：外国人可以独自设立股份公司吗？
 
@@ -411,14 +411,14 @@ slug: "foreign-stock-company-setup"
 
 即使没有营业收入，税务申报义务仍然存在，因此法人维护的最低成本应预估为**每月10万至20万韩元左右**。
 
-<h2 id="section-10">10. 远景行政士事务所咨询指南</h2>
+<h2 id="section-10">10. 远景行政士事务所咨询指南
 
 外国人设立股份公司，并非只要备齐材料就万事大吉。**投资申报时机、注册资本设定、行业代码选择、签证衔接**等环节必须环环相扣，后续流程才不会出差错。
 
 远景行政士事务所是专注于外商投资法人设立及D-8签证一体化办理的专业机构。从投资申报到外商投资企业注册、签证申请，全程一站式服务。
 
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">远景行政士事务所（VISION Administrative Office）</h3>
+  <h3 style="color:#1e40af;margin-top:0">远景行政士事务所（VISION Administrative Office）
   <p><strong>📞 电话：</strong> 02-363-2251</p>
   <p><strong>📧 邮箱：</strong> 5000meter@gmail.com</p>
   <p><strong>📍 地址：</strong> （04614）首尔特别市中区退溪路324号3楼（成宇大厦）</p>

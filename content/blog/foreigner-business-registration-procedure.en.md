@@ -19,7 +19,7 @@ The process for a foreigner to apply for business registration in Korea can be c
 <li>Common mistakes include incomplete documents and failure to meet submission deadlines.</li>
 </ul></div>
 
-<h2 id="application-process">Application Process</h2>
+<h2 id="application-process">Application Process
 The application process for foreign business registration is as follows:
 
 1. **Fill out the business registration application form**: Prepare the business registration application form to be submitted to the relevant tax office.
@@ -27,7 +27,7 @@ The application process for foreign business registration is as follows:
 3. **Visit the relevant tax office**: Bring the prepared documents to the relevant tax office for submission.
 4. **Issuance of registration number**: After document review, a business registration number will be issued. This process typically takes 2 to 4 weeks.
 
-<h2 id="required-documents">Required Documents</h2>
+<h2 id="required-documents">Required Documents
 The documents you need to prepare for business registration are as follows:
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -39,32 +39,32 @@ The documents you need to prepare for business registration are as follows:
 <tr><td style="padding:12px;border:1px solid #e5e7eb">5. Other necessary documents (may vary by relevant tax office)</td></tr>
 </table>
 
-<h2 id="common-mistakes">Common Mistakes</h2>
+<h2 id="common-mistakes">Common Mistakes
 Common errors that occur during the application process include:
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>Note:</strong> If all required documents are not prepared when submitting, the application may be rejected. Additionally, issues may arise if the information on the application form is incorrectly entered.</div>
 
-<h2 id="faq">Frequently Asked Questions</h2>
+<h2 id="faq">Frequently Asked Questions
 
-<h3>Q: Where can I apply for foreign business registration?</h3>
+<h3>Q: Where can I apply for foreign business registration?
 A: You can apply at the relevant tax office.
 
-<h3>Q: How long does registration take?</h3>
+<h3>Q: How long does registration take?
 A: It generally takes 2 to 4 weeks.
 
-<h3>Q: What obligations do I have after business registration?</h3>
+<h3>Q: What obligations do I have after business registration?
 A: You must regularly file tax returns and comply with relevant laws.
 
-<h3>Q: What is the cost of business registration?</h3>
+<h3>Q: What is the cost of business registration?
 A: Business registration itself is free, but there may be costs associated with obtaining other necessary documents.
 
-<h3>Q: Can foreigners register a business?</h3>
+<h3>Q: Can foreigners register a business?
 A: Yes, foreigners residing in Korea can register a business.
 
-<h3>Q: Can I get help when applying for business registration?</h3>
+<h3>Q: Can I get help when applying for business registration?
 A: You can receive assistance through professional administrative service providers.
 
-<h3>Q: What should I do if there are changes after business registration?</h3>
+<h3>Q: What should I do if there are changes after business registration?
 A: If there are changes, you must report them to the relevant tax office immediately.
 
 <p>If you have further questions or need assistance, please click <a href="/contact" style="color:#2563eb;text-decoration:none">here</a> to contact us.</p> 

@@ -22,7 +22,7 @@ slug: "foreign-jusikhoesa-full-establishment-guide"
 ポイントはこうです。1人が100%出資する株式会社であっても、**資本金1億ウォン以上+適法な外国人投資申告**を備えて初めてD-8ビザへつながります。順序は**外国人投資申告 → 資本金送金(投資金入金) → 法人登記 → 事業者登録 → 外国人投資企業登録 → ビザ申請・変更**です。この順序が入れ替わると後から修正するのが非常に厄介で、資本金の性格が「投資金」ではなく「一般送金」として記録されてしまい、FDIとして認められないというのが実務で最もよく見るトラブルです。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人が株式会社を最も多く選ぶ理由</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立前にまず決めておくべき3つのこと</a></li>

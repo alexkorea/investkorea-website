@@ -22,7 +22,7 @@ slug: "foreigner-joint-stock-co-setup-complete"
 실무에서 막히는 지점은 절차 자체보다 **"자본금 출처·송금 경로 증빙"** 과 **"본국 발급 서류의 아포스티유·영사확인"** 입니다. 서류 수보다 이 두 가지 설명이 약하면 은행 송금 단계에서부터 꼬이고, D-8 비자와 연계할 때 출입국 심사에서 바로 걸립니다. 이 글은 설립 형태 결정부터 송금·등기·세무·비자까지, 돈과 시간이 새지 않게 순서를 잡는 데 초점을 둡니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사, 어떤 형태로 세울 것인가</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 설립 전 먼저 정해야 할 6가지</a></li>
@@ -498,7 +498,7 @@ A. 외국인투자기업 등록증 발급 후 본국 대사관에서 사증 신�
 외국인 주식회사 설립은 서류 수가 많아서 어려운 것이 아니라, **신고→송금→등기→외투등록→비자** 다섯 축이 톱니처럼 맞물려 있어서 한 군데만 어긋나도 전체가 지연됩니다. 비전 행정사사무소는 외국인 투자·법인설립·비자 연계를 한 창구에서 처리하고, 본국 서류 아포스티유 코디네이션부터 D-8 신청까지 설립 이후 3개월 후속 신고까지 함께 관리합니다.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)
   <p style="margin:8px 0"><strong>전화</strong> 02-363-2251</p>
   <p style="margin:8px 0"><strong>이메일</strong> 5000meter@gmail.com</p>
   <p style="margin:8px 0"><strong>주소</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</p>

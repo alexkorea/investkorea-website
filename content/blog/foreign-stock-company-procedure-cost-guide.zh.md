@@ -22,7 +22,7 @@ slug: "foreign-stock-company-procedure-cost-guide"
 在实务中，这一选择直接决定了费用和办理周期。外商投资股份公司的流程依次为**外汇银行申报 → 投资款汇入 → 资本金缴纳 → 设立登记 → 外商投资企业登记 → 营业执照办理**，全程需2～4周。以资本金1亿韩元计算，政府手续费、注册许可税、公证费和翻译公证费合计产生**约100万～180万韩元的实际支出**；若加上行政师、司法书士的代办费用，总费用通常在150万～400万韩元之间。表面看似简单，但在实际审查中，投资款来源、事业计划书以及代表人文件的公证与海牙认证往往是卡壳环节。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份公司：先确定以何种形式设立</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 资本金标准与外商投资企业登记条件</a></li>
@@ -573,7 +573,7 @@ D-8（企业投资）签证是为**已登记为外商投资企业的法人中的
 外国人股份公司设立**不仅仅是法人登记问题，而是汇款、申报、签证、税务串联成一体**的工作。只要有一步出错，后续流程全都会被拖延。Vision行政师事务所可通过统一窗口，将外商投资申报 → 设立登记 → 外商投资企业登记 → D-8签证衔接起来，一站式代办。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">Vision行政师事务所</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision行政师事务所
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 <strong>电话</strong>：02-363-2251</li>
     <li>📧 <strong>邮箱</strong>：5000meter@gmail.com</li>

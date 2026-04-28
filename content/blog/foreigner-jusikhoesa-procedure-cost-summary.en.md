@@ -22,7 +22,7 @@ When foreigners try to incorporate a stock company (jusik hoesa) in Korea, the b
 To get this done cleanly in practice, you need to follow these five steps in exact order: **① FDI notification → ② capital remittance (labeled as investment funds) → ③ incorporation registration → ④ business registration → ⑤ foreign-invested enterprise registration**. The minimum capital is KRW 100 million (when tied to a D-8 visa), and total out-of-pocket costs — including notarization, registration license tax, registration fees, and administrative agent fees — typically range from KRW 1.5 million to KRW 3.5 million. Below, we break down each step along with the actual review criteria and hidden costs.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is a Foreign-Owned Stock Company (Jusik Hoesa)?</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Three Things to Check Before Incorporation</a></li>
@@ -37,7 +37,7 @@ To get this done cleanly in practice, you need to follow these five steps in exa
   </ul>
 </nav>
 
-<h2 id="section-1">1. What Is a Foreign-Owned Stock Company (Jusik Hoesa)?</h2>
+<h2 id="section-1">1. What Is a Foreign-Owned Stock Company (Jusik Hoesa)?
 
 ### Start by Understanding the Difference Between a Stock Company and a Limited Company
 
@@ -88,7 +88,7 @@ Setting up a stock company doesn't automatically make it a "foreign-invested ent
 
 This status is the prerequisite that unlocks follow-on benefits such as the **D-8 visa, tax reductions for foreign-invested enterprises, and special provisions for land acquisition**.
 
-<h2 id="section-2">2. Three Things to Check Before Incorporation</h2>
+<h2 id="section-2">2. Three Things to Check Before Incorporation
 
 ### First, Industry Restrictions
 
@@ -110,7 +110,7 @@ The representative director does not have to be a Korean resident — a foreigne
   <strong style="color:#1e40af">💡 Practical Tip:</strong> If leasing a full office is too much, a shared office (non-resident office) can work — but since the business registration and D-8 visa review will both assess "real operational feasibility," at minimum the address should show a sign, accept mail, and provide a workspace. A simple address-only rental often gets blocked at the D-8 stage.
 </div>
 
-<h2 id="section-3">3. The Five-Step Incorporation Procedure in Detail</h2>
+<h2 id="section-3">3. The Five-Step Incorporation Procedure in Detail
 
 ### Overall Flow
 
@@ -177,7 +177,7 @@ Once the corporate registry extract is issued, file for business registration at
 
 Once you have the business registration certificate, return to the foreign exchange bank (or KOTRA) where you originally filed the notification and receive your **Foreign-Invested Enterprise Registration Certificate**. This certificate serves as the basis for subsequent benefits such as the D-8 visa, tax reductions, and overseas remittance of dividends.
 
-<h2 id="section-4">4. Capital Requirements and Remittance in Practice</h2>
+<h2 id="section-4">4. Capital Requirements and Remittance in Practice
 
 ### Why KRW 100 Million?
 
@@ -230,7 +230,7 @@ The most common hang-up in practice is the **remittance purpose code**. If the o
   <strong style="color:#92400e">⚠️ Caution:</strong> Capital must be remitted from an overseas account held in the investor's own name. Routing through a family member's or acquaintance's account blurs the source of funds, and reviewers will demand a "funds flow explanation" — if that explanation is weak, the application is rejected on the spot.
 </div>
 
-<h2 id="section-5">5. Complete Document Checklist</h2>
+<h2 id="section-5">5. Complete Document Checklist
 
 ### Investor (Foreign Individual)
 
@@ -280,7 +280,7 @@ The most common hang-up in practice is the **remittance purpose code**. If the o
 </figure>
 
 
-<h2 id="section-6">6. Detailed Breakdown of Incorporation Costs</h2>
+<h2 id="section-6">6. Detailed Breakdown of Incorporation Costs
 
 ### Statutory Costs
 
@@ -339,7 +339,7 @@ The registration license tax is a flat percentage (0.4% / 1.2% with Seoul surcha
   <strong style="color:#92400e">⚠️ Caution:</strong> Whether the surcharge applies depends on whether your head office is located in a Seoul metropolitan overconcentration zone. Most of Seoul and Incheon, and parts of Gyeonggi Province (Seongnam, Suwon, Bucheon, Anyang, etc.) are included. But even within Gyeonggi, areas like Hwaseong, Pyeongtaek, and Pocheon are outside the overconcentration zone and are not subject to the surcharge. Where you register the head office can make a 3× difference.
 </div>
 
-<h2 id="section-7">7. Administrative Tasks You Must Handle After Incorporation</h2>
+<h2 id="section-7">7. Administrative Tasks You Must Handle After Incorporation
 
 ### Opening a Corporate Bank Account
 
@@ -360,7 +360,7 @@ If you plan to hire employees, you must register the workplace for **National Pe
 
 If the investor (who serves as representative director) wishes to reside in Korea, they apply for a **D-8 corporate investment visa**. Prepare the foreign-invested enterprise registration certificate, remittance certificate, workplace lease, and business plan, and submit them to the local immigration office.
 
-<h2 id="section-8">8. Common Mistakes and Review Pitfalls</h2>
+<h2 id="section-8">8. Common Mistakes and Review Pitfalls
 
 ### Mistake 1 — Remitting Before Filing the FDI Notification
 
@@ -386,7 +386,7 @@ Shared offices themselves are not the problem. The problem is when **proof of ac
   <strong style="color:#92400e">⚠️ Caution:</strong> In practice, more applications get stuck at the D-8 visa linkage stage than at incorporation itself. Was the KRW 100 million remittance tagged as "investment funds"? Does the workplace have verifiable substance? Is the business plan specific? If any of these three are weak, you end up with a registered corporation but no visa.
 </div>
 
-<h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-9">9. Frequently Asked Questions (FAQ)
 
 ### Q1. Can I set up the corporation without entering Korea?
 
@@ -408,12 +408,12 @@ A stock company **must have at least one representative director**. If capital i
 
 Assuming all documents are in order, **pure government processing time is about 10 business days**. In reality, once you factor in apostilles, overseas remittance delays, and lease preparation, **3 to 4 weeks** is standard. The most common delay is late arrival of the representative's signature verification or the parent company's investment resolution from overseas.
 
-<h2 id="section-10">10. Consultation</h2>
+<h2 id="section-10">10. Consultation
 
 Looking at incorporation registration in isolation, setting up a foreign-owned stock company may seem straightforward. But in the full chain — **FDI notification timing → remittance purpose code → capital payment → registration → business registration → foreign-invested enterprise registration → D-8 visa** — one misaligned step throws everything downstream out of sync. VISION Administrative Office designs this entire flow for you in one go.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 Phone: <strong>02-363-2251</strong></li>
     <li>✉️ Email: <strong>5000meter@gmail.com</strong></li>

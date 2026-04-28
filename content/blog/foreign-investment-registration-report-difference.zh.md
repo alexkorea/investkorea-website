@@ -22,7 +22,7 @@ slug: "foreign-investment-registration-report-difference"
 具体操作中，在设立外商投资企业、申请签证（如企业投资D-8签证）、后续资金汇入等环节，如果将“申报”和“登记”混淆，可能导致临时经营受阻或签证办理延误。所以要严格区分各阶段的要求和准备材料。本指南将为您详细解读投资促进法下申报与登记的区别、实务重点、常见失误及修正办法。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人投资促进法的基础与宗旨</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投资申报：定义与实操</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-1">1. 外国人投资促进法的基础与宗旨</h2>
+## 1. 外国人投资促进法的基础与宗旨
 
 《外国人投资促进法》制定于1998年，旨在吸引外资、提升产业竞争力、推动韩国经济发展。该法律明确规定了外资在韩设立公司、投资资金流入等行为所需的基本流程与行政要求。在投资促进法下，“申报”和“登记”具体含义如下：
 
@@ -48,7 +48,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-2">2. 外国人投资申报：定义与实操</h2>
+## 2. 外国人投资申报：定义与实操
 
 ### 申报是什么？
 
@@ -71,7 +71,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-3">3. 外国人投资登记：定义与实操</h2>
+## 3. 外国人投资登记：定义与实操
 
 ### 登记是什么？
 
@@ -92,7 +92,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-4">4. 申报与登记核心对比表</h2>
+## 4. 申报与登记核心对比表
 
 <table border="1" style="border-collapse:collapse;width:100%">
   <thead style="background:#e0ebff">
@@ -143,7 +143,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-5">5. 各阶段操作清单与注意事项</h2>
+## 5. 各阶段操作清单与注意事项
 
 **投资促进法操作关键阶段清单**
 
@@ -172,7 +172,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-6">6. 常见失误及预防方法</h2>
+## 6. 常见失误及预防方法
 
 ### 实操中常见问题
 
@@ -191,7 +191,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-7">7. 常见问题解答（FAQ）</h2>
+## 7. 常见问题解答（FAQ）
 
 **Q1. 外国人投资申报与登记哪个步骤要先做？**  
 A: 应先完成投资申报手续，资金到账及相关流程后方可办理登记。
@@ -210,7 +210,7 @@ A: 未取得申报凭证前汇款，可能无法享受相关政策优惠，甚�
 
 ---
 
-## <h2 id="section-8">8. 实务咨询与联系方式</h2>
+## 8. 实务咨询与联系方式
 
 如您对外国人投资促进法相关申报、登记、企业设立、签证申请等实际操作有疑问，欢迎通过以下方式联系我们，我们将为您提供及时且专业的行政服务。
 

@@ -22,7 +22,7 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 关键在于顺序。如果未申报先汇款,资金来源说明将变得复杂;如果登记前汇款延迟,资本金缴纳证明无法出具,登记也会随之延误。实务中通常将申报 → 汇款 → 登记 → 营业执照登记 → FIC 登记的全流程目标设定在 3~5 周内完成,任何一个环节出问题,整个签证申请的时间表都会被推迟。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 什么是外国人投资法人 — 与一般外资公司有何不同</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须确定的 5 件事 — 行业、资本金、持股比例、法人形态、所在地</a></li>

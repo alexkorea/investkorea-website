@@ -19,7 +19,7 @@ slug: "foreigner-business-registration-procedure"
 <li>常见错误包括文件不全、未遵守提交期限等。</li>
 </ul></div>
 
-<h2 id="application-process">申请流程</h2>
+<h2 id="application-process">申请流程
 外国人商家注册申请流程如下：
 
 1. **填写商家注册申请书**：填写需提交至主管税务局的商家注册申请书。
@@ -27,7 +27,7 @@ slug: "foreigner-business-registration-procedure"
 3. **访问主管税务局**：携带准备好的文件前往主管税务局提交。
 4. **发放注册号码**：文件审核后，将发放商家注册号码。此过程通常需要2至4周。
 
-<h2 id="required-documents">所需文件</h2>
+<h2 id="required-documents">所需文件
 申请商家注册需准备的文件如下：
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -39,32 +39,32 @@ slug: "foreigner-business-registration-procedure"
 <tr><td style="padding:12px;border:1px solid #e5e7eb">5. 其他必要文件（可能因主管税务局而异）</td></tr>
 </table>
 
-<h2 id="common-mistakes">常见错误</h2>
+<h2 id="common-mistakes">常见错误
 申请过程中常见的错误如下：
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意：</strong> 提交文件时，如果所有必要文件未准备齐全，申请可能会被拒绝。此外，如果申请书中的信息输入错误，也可能会出现问题。</div>
 
-<h2 id="faq">常见问题</h2>
+<h2 id="faq">常见问题
 
-<h3>问：外国人商家注册申请在哪里进行？</h3>
+<h3>问：外国人商家注册申请在哪里进行？
 答：可以在主管税务局申请。
 
-<h3>问：注册需要多长时间？</h3>
+<h3>问：注册需要多长时间？
 答：一般需要2至4周。
 
-<h3>问：商家注册后有什么义务？</h3>
+<h3>问：商家注册后有什么义务？
 答：需要定期进行税务申报，并遵守相关法律。
 
-<h3>问：商家注册费用是多少？</h3>
+<h3>问：商家注册费用是多少？
 答：商家注册本身是免费的，但可能会产生其他必要文件的发放费用。
 
-<h3>问：外国人也可以进行商家注册吗？</h3>
+<h3>问：外国人也可以进行商家注册吗？
 答：是的，居住在韩国的外国人也可以进行商家注册。
 
-<h3>问：申请商家注册时可以获得帮助吗？</h3>
+<h3>问：申请商家注册时可以获得帮助吗？
 答：可以通过专业行政服务公司获得帮助。
 
-<h3>问：商家注册后如果有变更该怎么办？</h3>
+<h3>问：商家注册后如果有变更该怎么办？
 答：如有变更，应立即向主管税务局报告。
 
 <p>如有更多疑问或需要帮助，请点击<a href="/contact" style="color:#2563eb;text-decoration:none">这里</a>与我们联系。</p> 

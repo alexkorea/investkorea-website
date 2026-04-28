@@ -22,7 +22,7 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 除注册资本外,仅看设立实际开支,**登录许可税、地方教育税、公证费、登记手续费、行政士手续费**加在一起,通常在120万~250万韩元之间。注册资本方面,要被认定为外国人投资,最低需1亿韩元;若以D-8签证为目标,则需1亿韩元以上,并且必须从本人名下的海外账户汇款完成。如果无法清楚说明这一资金流向,审查就会在这一环节卡住。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份公司设立,先看核心要点</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投资企业 vs 普通股份公司的差异</a></li>
@@ -533,7 +533,7 @@ D-8审查不止看地址,还会核查是否真的具备经营条件。使用共�
 Vision 行政士事务所将外国人法人设立、外国人投资申报、D-8签证统一在单一窗口处理。在设立阶段就按签证审查标准匹配注册资本、业务类型、办公室,能提前规避设立之后"签证下不来"的困境。
 
 <div style="background:#f0f7ff;border:1px solid #93c5fd;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Vision 行政士事务所(VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision 行政士事务所(VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;margin:0">
     <li style="padding:4px 0"><strong>电话:</strong> 02-363-2251</li>
     <li style="padding:4px 0"><strong>邮箱:</strong> 5000meter@gmail.com</li>

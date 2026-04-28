@@ -22,7 +22,7 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 重要なのは順序です。申告なしに送金が先に入ると資金源の説明が複雑になり、登記前に送金が遅れると資本金払込証明が出ず登記が遅延します。実務では、申告→送金→登記→事業者登録→FIC登録を平均3〜5週間で完了することを目標にし、この日程が一段階でもずれるとビザ申請日程全体が後ろ倒しになります。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人投資法人とは — 一般の外資系会社と何が違うのか</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立前に決めるべき5つのこと — 業種・資本金・持株比率・法人形態・所在地</a></li>

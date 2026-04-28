@@ -12,7 +12,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 The process for foreigners to acquire real estate in Korea can be complex, involving various legal requirements and taxes. Generally, foreigners can acquire real estate in Korea, but they must meet certain conditions and consider the associated tax burdens.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px">
-<h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+<h3 style="color:#1e40af;margin-top:0">Table of Contents
 <ul style="list-style:none;padding:0">
 <li><a href="#id1" style="color:#2563eb;text-decoration:none">1. Eligibility for Foreigners to Acquire Real Estate</a></li>
 <li><a href="#id2" style="color:#2563eb;text-decoration:none">2. Real Estate Acquisition Process</a></li>
@@ -24,7 +24,7 @@ The process for foreigners to acquire real estate in Korea can be complex, invol
 </nav>
 
 <div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
-<h3 style="color:#15803d;margin-top:0">Key Summary</h3>
+<h3 style="color:#15803d;margin-top:0">Key Summary
 <ul>
 <li>Foreigners can acquire real estate in Korea, but specific eligibility requirements must be met.</li>
 <li>The real estate acquisition process consists of identity verification, contract signing, and registration.</li>
@@ -32,7 +32,7 @@ The process for foreigners to acquire real estate in Korea can be complex, invol
 </ul>
 </div>
 
-<h2 id="id1">1. Eligibility for Foreigners to Acquire Real Estate</h2>
+<h2 id="id1">1. Eligibility for Foreigners to Acquire Real Estate
 To acquire real estate in Korea, foreigners must meet the following conditions. A foreigner refers to an individual or foreign corporation that is not a Korean national. Generally, foreigners must satisfy the following conditions:
 
 1. **Residence Requirement**: Foreigners who have resided in Korea for a certain period (e.g., visa holders)
@@ -40,7 +40,7 @@ To acquire real estate in Korea, foreigners must meet the following conditions. 
 
 Verification with the relevant authority is necessary.
 
-<h2 id="id2">2. Real Estate Acquisition Process</h2>
+<h2 id="id2">2. Real Estate Acquisition Process
 The process of acquiring real estate generally includes the following steps:
 
 1. **Identity Verification and Document Preparation**: Prepare documents proving the foreigner's identity and residence.
@@ -66,7 +66,7 @@ The process of acquiring real estate generally includes the following steps:
 </tr>
 </table>
 
-<h2 id="id3">3. Related Tax Information</h2>
+<h2 id="id3">3. Related Tax Information
 The main taxes imposed during real estate acquisition are as follows:
 
 - **Acquisition Tax**: Determined at 1% to 3% of the real estate transaction price.
@@ -77,7 +77,7 @@ The main taxes imposed during real estate acquisition are as follows:
 ⚠️ <strong>Note:</strong> Taxes may vary depending on the type of real estate and location, so it is advisable to consult the tax authorities for detailed information.
 </div>
 
-<h2 id="id4">4. Required Document List</h2>
+<h2 id="id4">4. Required Document List
 The documents required for real estate acquisition are as follows:
 
 - Copy of passport
@@ -86,33 +86,33 @@ The documents required for real estate acquisition are as follows:
 - Real estate contract
 - Tax declaration form
 
-<h2 id="id5">5. Common Mistakes and Precautions</h2>
+<h2 id="id5">5. Common Mistakes and Precautions
 Common mistakes made by foreigners during the real estate acquisition process include:
 
 - **Incomplete Legal Requirements**: Not verifying the principle of reciprocity
 - **Tax Non-Payment**: Neglecting to report acquisition tax and property tax
 - **Ambiguity in Real Estate Contracts**: Not clearly stating details in the contract
 
-<h2 id="id6">6. FAQ</h2>
-<h3>Q: Can foreigners acquire real estate in Korea?</h3>
+<h2 id="id6">6. FAQ
+<h3>Q: Can foreigners acquire real estate in Korea?
 A: Yes, foreigners can acquire real estate in Korea. Specific requirements must be met.
 
-<h3>Q: How much tax is there when acquiring real estate?</h3>
+<h3>Q: How much tax is there when acquiring real estate?
 A: The acquisition tax is determined at 1% to 3% of the real estate price.
 
-<h3>Q: What documents are needed?</h3>
+<h3>Q: What documents are needed?
 A: Passport, visa, proof of residence, contract, etc., are required.
 
-<h3>Q: Are there cases where foreigners can be exempt from acquisition tax?</h3>
+<h3>Q: Are there cases where foreigners can be exempt from acquisition tax?
 A: Generally, acquisition tax exemptions do not apply to foreigners.
 
-<h3>Q: How do I register real estate?</h3>
+<h3>Q: How do I register real estate?
 A: Register with the real estate registry office to secure ownership.
 
-<h3>Q: Is the process for foreigners to acquire real estate in Korea complicated?</h3>
+<h3>Q: Is the process for foreigners to acquire real estate in Korea complicated?
 A: The process can be complex, so it is advisable to seek professional assistance.
 
-<h3>Q: When should tax declarations be made?</h3>
+<h3>Q: When should tax declarations be made?
 A: The acquisition tax must be reported within a certain period after the real estate transaction.
 
 Internal links: [Real Estate Services](https://example.com/real-estate), [Tax Services](https://example.com/tax), [Contact Us](https://example.com/contact)

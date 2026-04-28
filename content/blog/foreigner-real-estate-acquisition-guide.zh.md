@@ -12,7 +12,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 外国人在韩国获取房地产的过程可能会很复杂，并且有各种法律要求和税务负担。一般来说，外国人可以在韩国获取房地产，但需要满足一些条件，并考虑相应的税务负担。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px">
-<h3 style="color:#1e40af;margin-top:0">目录</h3>
+<h3 style="color:#1e40af;margin-top:0">目录
 <ul style="list-style:none;padding:0">
 <li><a href="#id1" style="color:#2563eb;text-decoration:none">1. 外国人房地产获取资格</a></li>
 <li><a href="#id2" style="color:#2563eb;text-decoration:none">2. 房地产获取程序</a></li>
@@ -24,7 +24,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 </nav>
 
 <div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
-<h3 style="color:#15803d;margin-top:0">核心摘要</h3>
+<h3 style="color:#15803d;margin-top:0">核心摘要
 <ul>
 <li>外国人可以在韩国获取房地产，但需要特定的资格要求。</li>
 <li>房地产获取程序包括身份确认、合同签署、登记等步骤。</li>
@@ -32,7 +32,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 </ul>
 </div>
 
-<h2 id="id1">1. 外国人房地产获取资格</h2>
+<h2 id="id1">1. 外国人房地产获取资格
 外国人在韩国获取房地产必须满足以下条件。外国人指的是非韩国国籍的个人或外国法人。一般来说，外国人需要满足以下条件：
 
 1. **居住要求**：在韩国居住了一定时间的外国人（例如：持有签证者）
@@ -40,7 +40,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 
 需要确认相关机构。
 
-<h2 id="id2">2. 房地产获取程序</h2>
+<h2 id="id2">2. 房地产获取程序
 获取房地产的过程大致如下：
 
 1. **身份确认及文件准备**：准备证明外国人身份及居住地的文件。
@@ -66,7 +66,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 </tr>
 </table>
 
-<h2 id="id3">3. 相关税务指南</h2>
+<h2 id="id3">3. 相关税务指南
 获取房地产时征收的主要税务如下：
 
 - **取得税**：根据房地产交易价格的1%~3%确定。
@@ -77,7 +77,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 ⚠️ <strong>注意：</strong>税务可能因房地产种类和地区而异，详细信息请咨询税务机关。
 </div>
 
-<h2 id="id4">4. 所需文件清单</h2>
+<h2 id="id4">4. 所需文件清单
 获取房地产时所需的文件如下：
 
 - 护照复印件
@@ -86,33 +86,33 @@ slug: "foreigner-real-estate-acquisition-guide"
 - 房地产合同
 - 税务申报表
 
-<h2 id="id5">5. 常见错误及注意事项</h2>
+<h2 id="id5">5. 常见错误及注意事项
 外国人在获取房地产过程中常见的错误如下：
 
 - **法律要求不全**：未确认互惠原则
 - **税务未缴**：忽视取得税和财产税的申报
 - **房地产合同的不明确性**：合同中未明确详细内容
 
-<h2 id="id6">6. FAQ</h2>
-<h3>Q: 外国人可以在韩国获取房地产吗？</h3>
+<h2 id="id6">6. FAQ
+<h3>Q: 外国人可以在韩国获取房地产吗？
 A: 是的，外国人也可以在韩国获取房地产。需要特定的要求。
 
-<h3>Q: 获取房地产时税务是多少？</h3>
+<h3>Q: 获取房地产时税务是多少？
 A: 取得税根据房地产价格的1%~3%确定。
 
-<h3>Q: 需要哪些文件？</h3>
+<h3>Q: 需要哪些文件？
 A: 需要护照、签证、居住证明、合同等。
 
-<h3>Q: 外国人是否有可能免除取得税？</h3>
+<h3>Q: 外国人是否有可能免除取得税？
 A: 一般来说，外国人不适用取得税的免除。
 
-<h3>Q: 如何进行房地产登记？</h3>
+<h3>Q: 如何进行房地产登记？
 A: 在房地产登记所登记以确保所有权。
 
-<h3>Q: 在韩国的外国人房地产获取程序复杂吗？</h3>
+<h3>Q: 在韩国的外国人房地产获取程序复杂吗？
 A: 由于程序可能复杂，建议寻求专业人士的帮助。
 
-<h3>Q: 税务申报什么时候进行？</h3>
+<h3>Q: 税务申报什么时候进行？
 A: 取得税需在房地产交易后的一定时间内申报。
 
 内部链接: [房地产服务](https://example.com/real-estate), [税务服务](https://example.com/tax), [联系我们](https://example.com/contact)

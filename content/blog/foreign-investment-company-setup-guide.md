@@ -19,7 +19,7 @@ slug: "foreign-investment-company-setup-guide"
 <li>정확한 서류 준비와 절차 진행이 중요합니다.</li>
 </ul></div>
 
-<h2 id="process">설립 절차</h2>
+<h2 id="process">설립 절차
 외국인 투자법인 설립의 주요 절차는 다음과 같습니다. 각 단계에서 필요한 사항을 꼭 확인해야 합니다.
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -45,7 +45,7 @@ slug: "foreign-investment-company-setup-guide"
 </tr>
 </table>
 
-<h2 id="requirements">필요 서류</h2>
+<h2 id="requirements">필요 서류
 법인 설립을 위해 준비해야 하는 서류는 다음과 같습니다.
 
 <ul>
@@ -59,7 +59,7 @@ slug: "foreign-investment-company-setup-guide"
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>참고:</strong> 서류는 관할 기관의 요구사항에 따라 추가될 수 있으니 확인이 필요합니다.</div>
 
-<h2 id="timeline">소요 시간</h2>
+<h2 id="timeline">소요 시간
 외국인 투자법인을 설립하는 데는 일반적으로 1-3개월의 시간이 소요됩니다. 각 단계별 소요 시간은 다음과 같습니다.
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -81,31 +81,31 @@ slug: "foreign-investment-company-setup-guide"
 </tr>
 </table>
 
-<h2 id="common-mistakes">일반적인 실수</h2>
+<h2 id="common-mistakes">일반적인 실수
 외국인 투자법인 설립 시 흔히 발생하는 실수는 다음과 같습니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>주의:</strong> 서류 미비나 절차 누락으로 인해 승인 지연이 발생할 수 있습니다. 각 단계에서 필요한 서류를 철저히 준비해야 합니다.</div>
 
-<h2 id="faq">자주 묻는 질문</h2>
-<h3>Q: 외국인 투자법인을 설립하는 데 드는 비용은 얼마인가요?</h3>
+<h2 id="faq">자주 묻는 질문
+<h3>Q: 외국인 투자법인을 설립하는 데 드는 비용은 얼마인가요?
 A: 일반적으로 법인 등록비와 세무 신고 비용을 포함하여 약 150만 원에서 700만 원 정도 소요됩니다. 사안의 난이도(투자 형태, 업종 규제, 자본금 출처 검증 등)에 따라 차등 적용되며, 단순 사안은 150~300만 원, 일반 사안은 300~500만 원, 복잡 사안(다국적 출자·규제 업종·실사 필요)은 500~700만 원 수준입니다.
 
-<h3>Q: 투자 계획서는 어떻게 작성하나요?</h3>
+<h3>Q: 투자 계획서는 어떻게 작성하나요?
 A: 투자 계획서는 사업 목표, 투자 금액, 예상 수익 등을 포함하여 작성해야 합니다.
 
-<h3>Q: 외국인 투자법인 설립에 특별한 제한이 있나요?</h3>
+<h3>Q: 외국인 투자법인 설립에 특별한 제한이 있나요?
 A: 특정 업종에 따라 제한이 있을 수 있으며, 관할 기관과의 상담이 필요합니다.
 
-<h3>Q: 법인 설립에 필요한 최소 자본금은 얼마인가요?</h3>
+<h3>Q: 법인 설립에 필요한 최소 자본금은 얼마인가요?
 A: 최소 자본금은 업종에 따라 다르지만, 일반적으로 1000만 원 이상이 요구됩니다.
 
-<h3>Q: 법인 설립 후 필요한 추가 서류는 무엇인가요?</h3>
+<h3>Q: 법인 설립 후 필요한 추가 서류는 무엇인가요?
 A: 사업자 등록증 발급 후 세무 신고 및 사업 관련 허가증이 필요할 수 있습니다.
 
-<h3>Q: 외국인 주주가 법인 설립에 참여할 수 있나요?</h3>
+<h3>Q: 외국인 주주가 법인 설립에 참여할 수 있나요?
 A: 네, 외국인 주주도 법인 설립에 참여할 수 있습니다.
 
-<h3>Q: 법인 설립 후 운영에 필요한 절차는 무엇인가요?</h3>
-A: 운영 시에는 세무 신고, 회계 장부 작성 등의 절차가 필요합니다.</h3>
+<h3>Q: 법인 설립 후 운영에 필요한 절차는 무엇인가요?
+A: 운영 시에는 세무 신고, 회계 장부 작성 등의 절차가 필요합니다.
 
 <p>추가적인 정보나 상담이 필요하신 경우, <a href="/contact" style="color:#2563eb;text-decoration:none">여기</a>에서 문의해 주시기 바랍니다. 더 많은 정보는 <a href="/blog" style="color:#2563eb;text-decoration:none">블로그</a>에서 확인하실 수 있습니다.</p>

@@ -22,7 +22,7 @@ slug: "foreign-stock-company-procedure-cost-guide"
 実務ではこの選択が費用と期間を大きく左右します。外国人投資の株式会社は **外国為替銀行への申告 → 投資金の送金 → 資本金の払込 → 設立登記 → 外国人投資企業登録 → 事業者登録** の順で進み、合計で2〜4週間ほどかかります。政府手数料・登録免許税・公証費・翻訳公証費を合計すると、資本金1億ウォン基準で **実費およそ100万〜180万ウォン** が発生し、行政士・法務士の代行手数料を含めると150万〜400万ウォン程度に収まります。見た目は単純でも、実際の審査では投資金の出どころ、事業計画、代表者書類の公証・アポスティーユでつまずくケースが多いのです。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人の株式会社、どの形態で設立するかを先に決める</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 資本金の基準と外国人投資企業の登録条件</a></li>
@@ -573,7 +573,7 @@ D-8を目標にするのであれば、設立段階から **① 事業計画の�
 外国人の株式会社設立は **法人登記だけの話ではなく、送金・申告・ビザ・税務がひとまとまりで動く** 業務です。どこか1段階でつまずくと、以降すべての手続きが遅れます。ビジョン行政士事務所では、外国人投資申告 → 設立登記 → 外国人投資企業登録 → D-8ビザまで、1つの窓口で一貫してつなげてサポートいたします。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 <strong>電話</strong>: 02-363-2251</li>
     <li>📧 <strong>メール</strong>: 5000meter@gmail.com</li>

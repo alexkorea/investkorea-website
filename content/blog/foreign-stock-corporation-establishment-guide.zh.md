@@ -22,7 +22,7 @@ slug: "foreign-stock-corporation-establishment-guide"
 费用大致可以分成三块：**注册资本（实际投资金额）+ 税金和登记费用（法定费用）+ 行政代办、翻译和公证费**。除去 1 亿韩元的注册资本之外，纯粹的设立费用一般在 250 万至 600 万韩元之间浮动，具体金额取决于法务、行政书士、翻译和公证各项工作外包的范围。下文将按步骤整理流程、所需文件和费用明细。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 设立外国人株式会社前必看的 3 件事</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 株式会社 vs 有限会社：外国人该如何选择</a></li>
@@ -506,7 +506,7 @@ A. 如果本国文件全部准备好、注册资本也已汇出，**工作日大
 外国人株式会社设立，文件数量其实不算多，关键就卡在**资金流向说明、外商投资申报、本国文件认证**这三处。只要从一开始就把这三处串成同一条故事线，设立、营业执照、D-8 签证就能一脉相承地衔接起来。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">VISION 行政书士事务所（VISION Administrative Office）</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION 行政书士事务所（VISION Administrative Office）
   <p>专注外国人法人设立、外商投资申报以及 D-8 / E-7 / F-2 签证实务办理</p>
   <ul style="list-style:none;padding-left:0">
     <li><strong>电话</strong>：02-363-2251</li>

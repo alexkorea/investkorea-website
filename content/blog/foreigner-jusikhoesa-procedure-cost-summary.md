@@ -22,7 +22,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 실무에서 깔끔하게 끝내려면 **①외국인투자신고 → ②자본금 송금(투자자금 명목) → ③설립등기 → ④사업자등록 → ⑤외국인투자기업 등록**의 다섯 단계를 이 순서대로 밟아야 합니다. 자본금은 최소 1억 원(D-8 비자 연계 시)이며, 공증·등록면허세·등기 수수료·행정사 대행료를 합쳐 전체 실비는 보통 150만~350만 원 선에서 움직입니다. 아래에서 단계별로 실제 심사 기준과 숨어 있는 비용까지 풀어 씁니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사(주식회사)란 무엇인가</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 설립 전 먼저 확인해야 할 3가지</a></li>
@@ -37,7 +37,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 외국인 주식회사(주식회사)란 무엇인가</h2>
+<h2 id="section-1">1. 외국인 주식회사(주식회사)란 무엇인가
 
 ### 주식회사와 유한회사의 차이부터
 
@@ -88,7 +88,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 이 지위가 있어야 **D-8 비자, 외국인투자기업에 대한 조세감면, 토지 취득 특례** 같은 후속 절차가 연결됩니다.
 
-<h2 id="section-2">2. 설립 전 먼저 확인해야 할 3가지</h2>
+<h2 id="section-2">2. 설립 전 먼저 확인해야 할 3가지
 
 ### 첫째, 업종 제한 여부
 
@@ -110,7 +110,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 임차가 부담되면 공유오피스(비상주 사무실)로 시작하되, 사업자등록과 D-8 비자 심사에서 "실제 영업 가능성"을 따지므로 주소지에 간판·우편 수령·사업 공간이 최소한 확인되어야 합니다. 단순 주소 임대만으로는 D-8 단계에서 막히는 경우가 흔합니다.
 </div>
 
-<h2 id="section-3">3. 설립 절차 5단계 상세</h2>
+<h2 id="section-3">3. 설립 절차 5단계 상세
 
 ### 전체 흐름
 
@@ -177,7 +177,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 사업자등록증까지 확보되면, 처음 신고한 외국환은행(또는 KOTRA)으로 돌아가 **외국인투자기업 등록증**을 발급받습니다. 이 증명서가 D-8 비자, 조세감면, 외환송금(배당금 해외송금) 등의 후속 혜택의 근거가 됩니다.
 
-<h2 id="section-4">4. 자본금 기준과 송금 실무</h2>
+<h2 id="section-4">4. 자본금 기준과 송금 실무
 
 ### 왜 1억 원인가
 
@@ -230,7 +230,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 주의:</strong> 자본금은 반드시 투자자 본인 명의 해외 계좌에서 송금해야 합니다. 가족·지인 계좌를 경유하면 자금 출처가 흐려져 심사 단계에서 "자금 흐름 설명"을 요구받고, 흐름 설명이 약하면 바로 반려됩니다.
 </div>
 
-<h2 id="section-5">5. 필요 서류 총정리</h2>
+<h2 id="section-5">5. 필요 서류 총정리
 
 ### 투자자(외국인 개인)
 
@@ -280,7 +280,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 </figure>
 
 
-<h2 id="section-6">6. 설립 비용 상세 내역</h2>
+<h2 id="section-6">6. 설립 비용 상세 내역
 
 ### 법정 비용
 
@@ -339,7 +339,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 주의:</strong> 등록면허세 중과 기준은 법인 본점이 수도권 과밀억제권역에 있는지로 결정됩니다. 서울·인천 대부분, 경기도 일부(성남·수원·부천·안양 등)가 해당됩니다. 같은 경기도라도 화성·평택·포천은 비과밀억제권역이라 중과가 붙지 않습니다. 본점 주소를 어디로 정하느냐에 따라 세 배 차이가 납니다.
 </div>
 
-<h2 id="section-7">7. 설립 후 반드시 챙길 행정 절차</h2>
+<h2 id="section-7">7. 설립 후 반드시 챙길 행정 절차
 
 ### 법인통장 개설
 
@@ -360,7 +360,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 법인 대표이사인 투자자 본인이 한국에 체류하려면 **D-8 기업투자 비자**를 신청합니다. 외국인투자기업 등록증·송금증·사업장 임대차계약·사업계획서를 준비해 관할 출입국에 접수합니다.
 
-<h2 id="section-8">8. 자주 하는 실수와 심사에서 걸리는 지점</h2>
+<h2 id="section-8">8. 자주 하는 실수와 심사에서 걸리는 지점
 
 ### 실수 1 — 송금을 먼저 해 버린다
 
@@ -386,7 +386,7 @@ FDI 신고를 하지 않은 상태에서 해외 계좌에서 한국으로 1억 �
   <strong style="color:#92400e">⚠️ 주의:</strong> 실무에서는 법인 설립 자체보다 D-8 비자 연결 단계에서 더 많이 걸립니다. 1억 원 송금이 "투자금"으로 찍혔는지, 사업장의 실체가 확인되는지, 사업계획서가 구체적인지 — 이 세 가지가 약하면 법인은 만들어졌는데 비자는 안 나오는 상황이 생깁니다.
 </div>
 
-<h2 id="section-9">9. 자주 묻는 질문(FAQ)</h2>
+<h2 id="section-9">9. 자주 묻는 질문(FAQ)
 
 ### Q1. 한국에 입국하지 않은 상태에서 법인 설립이 가능한가요?
 
@@ -408,12 +408,12 @@ FDI 신고를 하지 않은 상태에서 해외 계좌에서 한국으로 1억 �
 
 서류가 완비된 상태에서 **순수 관청 처리 기간은 약 10영업일**입니다. 현실에서는 아포스티유·해외 송금 지연·임대차 계약 준비까지 합쳐 **3~4주**가 표준입니다. 대표자 서명 인증이나 본사 투자결의서가 해외에서 늦게 도착하는 경우가 가장 흔한 지연 원인입니다.
 
-<h2 id="section-10">10. 상담 안내</h2>
+<h2 id="section-10">10. 상담 안내
 
 외국인 주식회사 설립은 법인 등기 하나만 놓고 보면 단순한 절차로 보입니다. 하지만 **FDI 신고 타이밍 → 송금 목적 코드 → 자본금 납입 → 등기 → 사업자등록 → 외국인투자기업 등록 → D-8 비자**로 이어지는 전체 체인 중 한 칸만 어긋나도 뒤 단계가 다 꼬입니다. 비전 행정사사무소는 이 전체 흐름을 한 번에 설계해 드립니다.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 전화: <strong>02-363-2251</strong></li>
     <li>✉️ 이메일: <strong>5000meter@gmail.com</strong></li>

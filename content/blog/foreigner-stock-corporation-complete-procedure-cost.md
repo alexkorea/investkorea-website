@@ -22,7 +22,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 드러나는 문제는 바로 '투자자금의 해외 송금이 꼬이고', '법인 대표의 비자 요건이 빠지고', '실무 서류가 부족하거나 증명력이 약하다'라는 점이다. 이 글에서 외국인 주식회사 설립의 절차, 비용, 단계별 실무 핵심, 가장 자주 막히는 부분까지 모두 표와 체크리스트로 한눈에 보여준다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사 설립 주요 단계 비교</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국내인과 외국인 설립 절차 차이</a></li>
@@ -38,9 +38,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-1">외국인 주식회사 설립 주요 단계 비교</h2>
+## 외국인 주식회사 설립 주요 단계 비교
 
-<h3>1. 외국인 vs 내국인 설립 절차 비교표</h3>
+<h3>1. 외국인 vs 내국인 설립 절차 비교표
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -86,7 +86,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-<h3>2. 설립 단계 요약</h3>
+<h3>2. 설립 단계 요약
 
 - 투자금 해외 송금 ↔ 외국인투자 신고(사전/사후)
 - 법인등기 신청(법원)
@@ -96,9 +96,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-2">국내인과 외국인 설립 절차 차이</h2>
+## 국내인과 외국인 설립 절차 차이
 
-<h3>내국인과 외국인 설립 4가지 핵심 차이</h3>
+<h3>내국인과 외국인 설립 4가지 핵심 차이
 
 1. <strong>투자금 송금</strong>: 외국인은 반드시 <strong>해외에서 송금한 자금</strong>만 인정받음  
 2. <strong>외국인투자 신고/등록</strong>: 국내 설립에는 없는 절차, 미신고 시 법적 불이익
@@ -109,7 +109,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 송금은 '본인명의 외국 통장→한국 통장' 방식이 핵심입니다. 가족 명의, 대리 송금, 현지 현금 등은 <strong>투자금 인정이 약해질 수 있습니다. 실제 심사에서 출처 설명이 빈약하면 꼬입니다.</strong>
 </div>
 
-<h3>투자 자금 인정 조건</h3>
+<h3>투자 자금 인정 조건
 
 - 해외통장 송금 내역 + 거래증명서 제출  
 - 투자자 본인 명의 송금이 가장 명확  
@@ -118,11 +118,11 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-3">외국인투자 신고 절차와 실제 심사</h2>
+## 외국인투자 신고 절차와 실제 심사
 
 실제 외국인 주식회사 설립에서 가장 많이 막히는 부분은 '외국인투자 신고'와 '은행의 투자금 인정' 단계다.
 
-<h3>외국인 투자 신고 절차 (전체 흐름표)</h3>
+<h3>외국인 투자 신고 절차 (전체 흐름표)
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -177,7 +177,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   <strong style="color:#92400e">⚠️ 주의:</strong> 외국인투자 신고가 누락되면 추후 사업자 등록, 비자 심사 모두 꼬일 수 있습니다. 특히 법인 대표가 비자를 받아야 하는 경우, 투자 인정을 받지 못하면 D-8 비자 발급이 불가합니다.
 </div>
 
-<h3>실제 심사에서 갈리는 서류</h3>
+<h3>실제 심사에서 갈리는 서류
 
 - 투자자의 국적 증명
 - 송금내역이 본인 명의인 점
@@ -186,9 +186,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-4">설립 비용·기간·서류 실무표</h2>
+## 설립 비용·기간·서류 실무표
 
-<h3>설립 과정별 비용·기간·주요 요건 표</h3>
+<h3>설립 과정별 비용·기간·주요 요건 표
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -253,9 +253,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 </figure>
 
 
-## <h2 id="section-5">서류 준비 체크리스트</h2>
+## 서류 준비 체크리스트
 
-<h3>설립시 꼭 챙겨야 할 서류</h3>
+<h3>설립시 꼭 챙겨야 할 서류
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ 체크리스트</strong>
@@ -273,7 +273,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   </ul>
 </div>
 
-<h3>중복 제출 막기 위한 서류 정리법</h3>
+<h3>중복 제출 막기 위한 서류 정리법
 
 - 각 기관 제출 용도로 2~3부씩 복사해두는 것이 실제 필요  
 - 원본 인증 필요 서류는 <strong>공증/아포스티유</strong> 필수  
@@ -281,9 +281,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-6">실제에서 막히는 포인트와 주의사항</h2>
+## 실제에서 막히는 포인트와 주의사항
 
-<h3>가장 자주 막히는 5가지 핵심</h3>
+<h3>가장 자주 막히는 5가지 핵심
 
 1. 투자금 송금의 출처 설명이 약하다  
 2. 주주 구성, 경력, 자격증 증명이 부족하다  
@@ -295,7 +295,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 사업계획서는 길이보다 <strong>'실제 사업 진행 가능성'</strong>을 강조해야 심사에서 통과됩니다. 가짜 사업, 추상적 설명, 영업의지 설명만으로는 오히려 비자 심사에서 탈락합니다.
 </div>
 
-<h3>현장 실무 팁</h3>
+<h3>현장 실무 팁
 
 - 원본서류, 공증서류, 아포스티유 순서 그대로 챙길 것  
 - 입금액이 사업자등록 요건(최소 투자금)과 일치해야 함  
@@ -304,9 +304,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-7">자주하는 실수 총정리</h2>
+## 자주하는 실수 총정리
 
-<h3>외국인 투자주식회사 설립에서 흔히 걸리는 실수</h3>
+<h3>외국인 투자주식회사 설립에서 흔히 걸리는 실수
 
 1. 투자금 송금이 대리인 혹은 친척 명의로 되어 있음  
 2. 외국인 투자 신고를 설립 후에 했으나 자본금 입금이 설립 전에 발생함  
@@ -321,28 +321,28 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-8">FAQ</h2>
+## FAQ
 
-<h3>Q1. 외국인이 한국에서 법인 설립시 투자금 최소 기준은 얼마인가요?</h3>
+<h3>Q1. 외국인이 한국에서 법인 설립시 투자금 최소 기준은 얼마인가요?
 A. 외국인투자촉진법상 일반적으로 1억원(약 USD 80,000) 이상 투자 시 외국인투자기업 인정 및 D-8 비자 신청이 가능합니다. 업종/지역별 변동 가능성 있으니 KOTRA 또는 관할 기관 확인 필요.
 
-<h3>Q2. 외국에서 현금 반입하면 투자금으로 인정받을 수 있나요?</h3>
+<h3>Q2. 외국에서 현금 반입하면 투자금으로 인정받을 수 있나요?
 A. 원칙적으로 인정받을 수 있지만 송금내역, 거래영수증, 출처 증명이 명확해야 합니다. 실무에서는 본인 명의 해외계좌 송금을 가장 확실하게 인정합니다.
 
-<h3>Q3. 외국인 투자 신고를 나중에 해도 문제 없나요?</h3>
+<h3>Q3. 외국인 투자 신고를 나중에 해도 문제 없나요?
 A. 투자금 송금 전·후 모두 가능하나, 신고 누락 시 법인설립이나 사업자등록 심사에서 탈락 우려가 큽니다. 반드시 송금과 신고 연계를 맞추는 것이 핵심입니다.
 
-<h3>Q4. 대표자가 D-8 비자를 신청하려면 꼭 경력이나 관련 자격증이 필요합니까?</h3>
+<h3>Q4. 대표자가 D-8 비자를 신청하려면 꼭 경력이나 관련 자격증이 필요합니까?
 A. D-8 심사에서는 사업계획서 설득력·대표자 경력·자격증 등이 모두 중요합니다. 경력이나 자격증 부족하면 심사에서 탈락할 수 있습니다.
 
-<h3>Q5. 설립 대행 비용은 왜 이렇게 다르나요?</h3>
+<h3>Q5. 설립 대행 비용은 왜 이렇게 다르나요?
 A. 설립 대행 비용은 투자금 규모, 법인 종류, 필요서류 복잡도, 비자 연계 여부에 따라 달라집니다. 실제로는 투자금 증빙이 약하거나, 비자 어려운 경우 대행비용이 높아질 수 있습니다.
 
 ---
 
-## <h2 id="section-9">상담 안내</h2>
+## 상담 안내
 
-<h3>외국인 주식회사 설립, 투자 신고, 비자 심사 모두 직접 해보기는 쉽지 않습니다. 실제 심사에서 막히는 부분을 명확하게 짚고, 아래 연락처로 문의하면 구체적 절차와 서류 안내가 가능합니다.</h3>
+<h3>외국인 주식회사 설립, 투자 신고, 비자 심사 모두 직접 해보기는 쉽지 않습니다. 실제 심사에서 막히는 부분을 명확하게 짚고, 아래 연락처로 문의하면 구체적 절차와 서류 안내가 가능합니다.
 
 문의:  
 - 전화 02-363-2251  

@@ -22,7 +22,7 @@ slug: "foreign-investment-registration-report-difference"
 실무적으로 외국인투자기업 설립, 비자(기업투자 D-8 등) 신청, 향후 투자 자금 송금 등에 있어 ‘신고’와 ‘등록’의 혼동은 임시사업 운영, 비자 승인을 방해할 수 있으므로, 각 단계별 요건과 준비서류를 반드시 구분해야 합니다. 이 가이드에서는 투자촉진법의 신고와 등록의 차이, 실무상 주요 체크포인트, 자주하는 실수와 정정 방안을 구체적으로 소개합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인투자촉진법의 기반과 목적</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 외국인투자 신고: 정의와 실무</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-1">1. 외국인투자촉진법의 기반과 목적</h2>
+## 1. 외국인투자촉진법의 기반과 목적
 
 외국인투자촉진법은 외국인의 국내 투자 활성화, 산업 경쟁력 강화, 경제 발전을 목적으로 1998년 제정된 법률입니다. 이 법은 외국인이 우리나라에 자본을 투자하거나 법인을 설립할 때 필요한 기본 절차와 행정적 요건을 명확하게 정하고 있습니다. 투자촉진법에서 ‘신고’와 ‘등록’이라는 두 개념은 각각 다음과 같은 의미를 갖고 있습니다:
 
@@ -48,7 +48,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-2">2. 외국인투자 신고: 정의와 실무</h2>
+## 2. 외국인투자 신고: 정의와 실무
 
 ### 신고란 무엇인가?
 
@@ -71,7 +71,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-3">3. 외국인투자 등록: 정의와 실무</h2>
+## 3. 외국인투자 등록: 정의와 실무
 
 ### 등록이란 무엇인가?
 
@@ -92,7 +92,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-4">4. 신고와 등록의 핵심 비교표</h2>
+## 4. 신고와 등록의 핵심 비교표
 
 <table border="1" style="border-collapse:collapse;width:100%">
   <thead style="background:#e0ebff">
@@ -143,7 +143,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-5">5. 단계별 체크리스트 및 주의사항</h2>
+## 5. 단계별 체크리스트 및 주의사항
 
 **투자 촉진법 주요 단계별 체크리스트**
 
@@ -172,7 +172,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-6">6. 자주하는 실수와 피해 예방 방법</h2>
+## 6. 자주하는 실수와 피해 예방 방법
 
 ### 실무에서 자주 발생하는 오류
 
@@ -191,7 +191,7 @@ slug: "foreign-investment-registration-report-difference"
 
 ---
 
-## <h2 id="section-7">7. 자주 묻는 질문(FAQ)</h2>
+## 7. 자주 묻는 질문(FAQ)
 
 **Q1. 외국인투자 신고와 등록 중 어느 쪽을 먼저 해야 하나요?**  
 A: 투자 촉진법상 ‘신고’가 먼저이며, 신고 후 투자금 입금과 관련 절차를 진행한 뒤 ‘등록’을 합니다.
@@ -210,7 +210,7 @@ A: 신고증 발급 전 투자금 송금은 인정되지 않거나 투자촉진�
 
 ---
 
-## <h2 id="section-8">8. 실무 상담 및 문의 안내</h2>
+## 8. 실무 상담 및 문의 안내
 
 외국인투자촉진법상 신고와 등록, 투자기업 설립, 비자 신청 등 실무적 궁금함이 있으시면 아래 연락처로 문의해 주세요. 신속하고 정확한 행정 서비스를 제공합니다.
 

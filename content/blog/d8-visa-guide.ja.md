@@ -17,7 +17,7 @@ slug: "d8-visa-guide"
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">はじめに</a></li>
     <li><a href="#d8-overview">D-8ビザの概要</a></li>

@@ -22,7 +22,7 @@ At first glance, it might look straightforward for a foreigner to set up a joint
 The key point is this. Even a single-shareholder, 100%-owned corporation must have **paid-in capital of at least KRW 100 million plus a proper foreign investment notification** to link to a D-8 visa. The correct sequence is **FDI notification → capital remittance (inbound investment funds) → corporate registration → business registration → foreign-invested company registration → visa application/change of status**. Reversing this order makes problems extremely hard to fix later, and the single most common mistake in practice is having the capital flagged as a "general remittance" rather than "investment funds," which disqualifies it from FDI recognition.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Why Foreigners Overwhelmingly Choose the Joint-Stock Corporation</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Three Decisions to Make Before Incorporation</a></li>

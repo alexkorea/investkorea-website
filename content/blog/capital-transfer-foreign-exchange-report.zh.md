@@ -12,7 +12,7 @@ slug: "capital-transfer-foreign-exchange-report"
 在韩国设立法人需要进行资本金的汇款和外汇申报程序。一般来说，外国人在韩国设立法人时，资本金必须遵循外汇管理法的特定条件和程序进行汇款，并且申报过程也是必不可少的。此过程旨在确保外汇交易的透明性，并明确资本的来源。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px">
-<h3 style="color:#1e40af;margin-top:0">目录</h3>
+<h3 style="color:#1e40af;margin-top:0">目录
 <ul style="list-style:none;padding:0">
 <li><a href="#section-1" style="color:#2563eb;text-decoration:none">法人设立的资本金汇款程序</a></li>
 <li><a href="#section-2" style="color:#2563eb;text-decoration:none">外汇申报的必要性</a></li>
@@ -24,7 +24,7 @@ slug: "capital-transfer-foreign-exchange-report"
 </nav>
 
 <div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
-<h3 style="color:#15803d;margin-top:0">核心摘要</h3>
+<h3 style="color:#15803d;margin-top:0">核心摘要
 <ul>
 <li>为设立法人，资本金必须至少为1000万韩元以上。</li>
 <li>资本金汇款必须通过外汇银行进行。</li>
@@ -32,7 +32,7 @@ slug: "capital-transfer-foreign-exchange-report"
 </ul>
 </div>
 
-<h2 id="section-1">法人设立的资本金汇款程序</h2>
+<h2 id="section-1">法人设立的资本金汇款程序
 法人设立时的资本金汇款通过外汇银行进行。一般来说，资本金汇款遵循以下程序：
 
 1. 向外汇银行提交资本金汇款申请书
@@ -41,19 +41,19 @@ slug: "capital-transfer-foreign-exchange-report"
 
 资本金汇款必须在完成韩国法人设立程序之前完成，汇款后需要外汇银行出具的汇款确认书。
 
-<h2 id="section-2">外汇申报的必要性</h2>
+<h2 id="section-2">外汇申报的必要性
 外汇申报是确认汇款到达韩国的资本金来源的必要步骤。如果不进行申报，法人设立可能会延迟或出现法律问题。外汇申报由韩国银行进行，申报时需提交的文件如下：
 
 - 资本金汇款确认书
 - 法人设立相关文件
 - 汇款人身份证复印件
 
-<h2 id="section-3">资本金汇款时的注意事项</h2>
+<h2 id="section-3">资本金汇款时的注意事项
 在进行资本金汇款时应注意以下事项：
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意:</strong> 必须确认汇款金额是否满足资本金的最低要求（1000万韩元以上）。此外，进行资本金汇款时，直接向外汇银行咨询所需文件也非常重要。</div>
 
-<h2 id="section-4">申报表的填写和提交方法</h2>
+<h2 id="section-4">申报表的填写和提交方法
 填写外汇申报表时需包含以下信息：
 
 - 汇款人的姓名和地址
@@ -62,7 +62,7 @@ slug: "capital-transfer-foreign-exchange-report"
 
 申报表需提交至韩国银行的外汇部门，通常处理时间为2-3天。
 
-<h2 id="section-5">常见错误及警告事项</h2>
+<h2 id="section-5">常见错误及警告事项
 在外汇申报和资本金汇款过程中常见的错误包括：
 
 1. 缺少必要文件

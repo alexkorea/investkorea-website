@@ -22,7 +22,7 @@ The first fork in the road for any foreigner setting up a stock company in Korea
 Where things actually get stuck in practice isn't the procedure itself but **"proof of capital origin and remittance path"** and **"apostille or consular certification of home-country documents."** Weak explanations on these two points — regardless of how many documents you gather — will trip you up at the bank remittance stage, and again at immigration review when you link this to a D-8 visa. This guide is built around sequencing the entire process — from choosing an entity type to remittance, registration, tax, and visa — so that neither time nor money leaks out.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Which Type of Foreign-Owned Corporation Should You Set Up?</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Six Things to Decide Before Incorporation</a></li>
@@ -498,7 +498,7 @@ A. After the FDI enterprise registration certificate is issued, applying at the 
 Setting up a foreign-owned stock company is not hard because of document volume — it is hard because **notification → remittance → registration → FDI registration → visa** mesh together like gears, and one misalignment stalls the whole process. Vision Administrative Office handles foreign investment, corporate setup, and visa linkage through a single channel — coordinating home-country document apostille through D-8 application through the three months of post-setup filings that follow.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Office (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Office (VISION Administrative Office)
   <p style="margin:8px 0"><strong>Phone</strong> 02-363-2251</p>
   <p style="margin:8px 0"><strong>Email</strong> 5000meter@gmail.com</p>
   <p style="margin:8px 0"><strong>Address</strong> (04614) 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul</p>

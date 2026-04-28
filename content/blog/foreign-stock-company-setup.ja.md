@@ -22,7 +22,7 @@ slug: "foreign-stock-company-setup"
 費用は資本金の規模によって異なりますが、**資本金1億ウォン基準で登録免許税・教育税・裁判所手数料・公証料などの実費だけで約70〜90万ウォン**程度です。これに行政士・司法書士への代行手数料を加えると、設立費用の総額は200〜400万ウォン前後となります。以下では、各ステップごとに実務上のポイントと費用の内訳を詳しく解説していきます。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人の株式会社設立 — 全体の流れ</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投資届出 — 最初にやるべきこと</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-stock-company-setup"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 外国人の株式会社設立 — 全体の流れ</h2>
+<h2 id="section-1">1. 外国人の株式会社設立 — 全体の流れ
 
 ### 韓国人の設立と何が違うのか
 
@@ -92,7 +92,7 @@ slug: "foreign-stock-company-setup"
 
 書類がすべて揃っていれば**2週間以内に完了します。**実務で期間が延びる最も多い原因は、海外書類の公証・アポスティーユの遅延、送金時の銀行確認手続き、そして事業目的コードの不一致です。特に本国から書類を取り寄せる必要がある場合、郵送期間だけで1〜2週間追加されることもあります。
 
-<h2 id="section-2">2. 外国人投資届出 — 最初にやるべきこと</h2>
+<h2 id="section-2">2. 外国人投資届出 — 最初にやるべきこと
 
 ### なぜ投資届出が先なのか
 
@@ -126,7 +126,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#92400e">⚠️ 注意：</strong> 1億ウォン未満で投資届出を行うと、外国人投資企業として登録できません。D-8ビザが目的であれば、必ず1億ウォン以上を確保する必要があります。ビザが目的でなければ少額の資本金でも法人設立自体は可能ですので、目的に合わせて資本金の規模を決めましょう。
 </div>
 
-<h2 id="section-3">3. 投資資金の送金と資本金の払込</h2>
+<h2 id="section-3">3. 投資資金の送金と資本金の払込
 
 ### 送金の流れ
 
@@ -146,7 +146,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#1e40af">💡 実務のヒント：</strong> 韓国に滞在中の外国人は、本人名義の国内口座で送金を受け取ることができますが、海外在住者の場合は司法書士や行政士名義のエスクロー口座を利用するケースもあります。銀行ごとに外国人投資資金の受入手続きが異なるため、<strong>送金前に受取銀行に事前確認しておく</strong>のが実務上最も安全な方法です。
 </div>
 
-<h2 id="section-4">4. 法人設立登記の手続き</h2>
+<h2 id="section-4">4. 法人設立登記の手続き
 
 ### 定款の作成
 
@@ -213,7 +213,7 @@ slug: "foreign-stock-company-setup"
 
 管轄登記所に提出すると、通常**3〜5営業日**で登記が完了します。書類の補正が必要な場合は、さらに数日かかります。
 
-<h2 id="section-5">5. 事業者登録と外国人投資企業登録</h2>
+<h2 id="section-5">5. 事業者登録と外国人投資企業登録
 
 ### 事業者登録（税務署）
 
@@ -244,7 +244,7 @@ slug: "foreign-stock-company-setup"
 </figure>
 
 
-<h2 id="section-6">6. 設立費用 — 項目別の実際の金額</h2>
+<h2 id="section-6">6. 設立費用 — 項目別の実際の金額
 
 実際の費用は資本金の規模と代行の有無によって異なります。以下は**資本金1億ウォン基準**の株式会社設立における概算の実費です。
 
@@ -332,7 +332,7 @@ slug: "foreign-stock-company-setup"
 </tbody>
 </table>
 
-<h2 id="section-7">7. 資本金はいくらが適正か</h2>
+<h2 id="section-7">7. 資本金はいくらが適正か
 
 ### 法定最低資本金はない
 
@@ -355,7 +355,7 @@ slug: "foreign-stock-company-setup"
 
 資本金を最低限に抑えると、銀行取引、入札参加、信用評価で不利になります。むしろ初期の資本金を適正な水準に設定しておく方が、その後の事業運営がはるかにスムーズです。
 
-<h2 id="section-8">8. よくある失敗5選</h2>
+<h2 id="section-8">8. よくある失敗5選
 
 ### 失敗1：投資届出の前に送金してしまう
 
@@ -381,7 +381,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#1e40af">💡 実務のヒント：</strong> 法人設立前に<strong>事業者業種コード、事業所住所、投資資金の出所証明</strong>の3つを先に確定させましょう。実際にこの3つが確定しないまま進めると、途中で何度も手続きが止まることになります。書類が多くても順序を整理すればスムーズに完了します。
 </div>
 
-<h2 id="section-9">9. よくある質問（FAQ）</h2>
+<h2 id="section-9">9. よくある質問（FAQ）
 
 ### Q1. 外国人1人でも株式会社を設立できますか？
 
@@ -411,14 +411,14 @@ slug: "foreign-stock-company-setup"
 
 売上がなくても税務申告の義務は継続するため、法人維持の最低費用として**月10〜20万ウォン程度**は見込んでおく必要があります。
 
-<h2 id="section-10">10. ビジョン行政士事務所のご相談案内</h2>
+<h2 id="section-10">10. ビジョン行政士事務所のご相談案内
 
 外国人の株式会社設立は、書類を揃えるだけでは終わりません。**投資届出のタイミング、資本金の設定、業種コードの選択、ビザとの連携**まで、すべてが一体的にかみ合っていなければ、その後の手続きに支障が出ます。
 
 ビジョン行政士事務所は、外国人投資による法人設立とD-8ビザを一括で取り扱う専門事務所です。投資届出から外国人投資企業登録、ビザ申請までワンストップで対応しています。
 
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所（VISION Administrative Office）</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所（VISION Administrative Office）
   <p><strong>📞 電話：</strong> 02-363-2251</p>
   <p><strong>📧 メール：</strong> 5000meter@gmail.com</p>
   <p><strong>📍 住所：</strong> （04614）ソウル特別市中区退渓路324、3階（ソンウビル）</p>

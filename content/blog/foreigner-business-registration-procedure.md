@@ -19,7 +19,7 @@ slug: "foreigner-business-registration-procedure"
 <li>주요 실수로는 서류 미비, 제출 기한 준수 실패 등이 있습니다.</li>
 </ul></div>
 
-<h2 id="application-process">신청 절차</h2>
+<h2 id="application-process">신청 절차
 외국인 사업자등록 신청 절차는 다음과 같습니다:
 
 1. **사업자등록 신청서 작성**: 관할 세무서에 제출할 사업자등록 신청서를 작성합니다.
@@ -27,7 +27,7 @@ slug: "foreigner-business-registration-procedure"
 3. **관할 세무서 방문**: 준비한 서류를 갖고 관할 세무서를 방문하여 제출합니다.
 4. **등록번호 발급**: 서류 검토 후, 사업자등록번호가 발급됩니다. 이 과정은 일반적으로 2~4주 소요될 수 있습니다.
 
-<h2 id="required-documents">필요 서류</h2>
+<h2 id="required-documents">필요 서류
 사업자등록을 위해 준비해야 할 서류는 다음과 같습니다:
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -39,32 +39,32 @@ slug: "foreigner-business-registration-procedure"
 <tr><td style="padding:12px;border:1px solid #e5e7eb">5. 기타 필요한 서류 (관할 세무서에 따라 다를 수 있음)</td></tr>
 </table>
 
-<h2 id="common-mistakes">주요 실수</h2>
+<h2 id="common-mistakes">주요 실수
 신청 과정에서 자주 발생하는 오류는 다음과 같습니다:
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>주의:</strong> 서류를 제출할 때, 필요한 모든 서류가 준비되어 있지 않으면 신청이 거부될 수 있습니다. 또한, 신청서의 정보가 잘못 입력될 경우에도 문제가 발생할 수 있습니다.</div>
 
-<h2 id="faq">자주 묻는 질문</h2>
+<h2 id="faq">자주 묻는 질문
 
-<h3>Q: 외국인 사업자등록 신청은 어디에서 하나요?</h3>
+<h3>Q: 외국인 사업자등록 신청은 어디에서 하나요?
 A: 관할 세무서에서 신청할 수 있습니다.
 
-<h3>Q: 등록까지 얼마나 걸리나요?</h3>
+<h3>Q: 등록까지 얼마나 걸리나요?
 A: 일반적으로 2~4주 소요됩니다.
 
-<h3>Q: 사업자등록 후 어떤 의무가 있나요?</h3>
+<h3>Q: 사업자등록 후 어떤 의무가 있나요?
 A: 정기적으로 세무 신고를 해야 하며, 관련 법률을 준수해야 합니다.
 
-<h3>Q: 사업자등록 비용은 얼마인가요?</h3>
+<h3>Q: 사업자등록 비용은 얼마인가요?
 A: 사업자등록 자체는 무료지만, 기타 필요한 서류의 발급 비용이 발생할 수 있습니다.
 
-<h3>Q: 외국인도 사업자등록을 할 수 있나요?</h3>
+<h3>Q: 외국인도 사업자등록을 할 수 있나요?
 A: 네, 한국에 거주하는 외국인도 사업자등록이 가능합니다.
 
-<h3>Q: 사업자등록 신청 시 도움을 받을 수 있나요?</h3>
+<h3>Q: 사업자등록 신청 시 도움을 받을 수 있나요?
 A: 전문 행정 서비스 업체를 통해 도움을 받을 수 있습니다.
 
-<h3>Q: 사업자등록 후 변경 사항이 생기면 어떻게 하나요?</h3>
+<h3>Q: 사업자등록 후 변경 사항이 생기면 어떻게 하나요?
 A: 변경 사항이 있을 경우, 관할 세무서에 즉시 신고해야 합니다.
 
 <p>더 궁금한 사항이나 도움이 필요하신 경우, <a href="/contact" style="color:#2563eb;text-decoration:none">여기</a>를 클릭하여 연락 주시기 바랍니다.</p> 

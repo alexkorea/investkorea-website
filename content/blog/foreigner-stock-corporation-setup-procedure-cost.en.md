@@ -22,7 +22,7 @@ Setting up a corporation in Korea as a foreign national involves six sequential 
 Costs break down as follows: **capital (minimum KRW 100 million recommended) + registration & license tax and local education tax (0.48% of capital, tripled in Seoul Metropolitan Overcrowding Control Zones) + notarization & registration fees + administrative agent fees**. With headquarters in Seoul and KRW 100 million in capital, registration tax alone runs roughly KRW 1.44 million, and once you add notarization and legal fees, actual out-of-pocket expenses land in the KRW 2–4 million range. These costs are separate from the capital itself, so you need to budget for them independently to avoid throwing off your financial plan.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Three Things to Decide Before Incorporating</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. LLC vs. Corporation: Which One to Choose</a></li>
@@ -37,7 +37,7 @@ Costs break down as follows: **capital (minimum KRW 100 million recommended) + r
   </ul>
 </nav>
 
-## <h2 id="section-1">1. Three Things to Decide Before Incorporating</h2>
+## 1. Three Things to Decide Before Incorporating
 
 In practice, the first three questions we ask every client are always the same: **how much capital, where will the headquarters be, and what percentage will the foreign investor hold?** Until these three are settled, you can't even submit the initial report.
 
@@ -61,7 +61,7 @@ A corporation can be 100% foreign-owned. However, **certain industries have rest
   <strong style="color:#92400e">⚠️ Warning:</strong> You must verify whether your business type qualifies as a "permitted foreign investment sector" through the Ministry of Trade, Industry and Energy's foreign investment system (INSC) or KOTRA before filing. If you submit a report for a restricted sector, the foreign exchange bank will reject it outright.
 </div>
 
-## <h2 id="section-2">2. LLC vs. Corporation: Which One to Choose</h2>
+## 2. LLC vs. Corporation: Which One to Choose
 
 This is the most common question from foreign clients. The short answer: **if you plan to attract investors, pursue an IPO, or transfer shares in the future, go with a corporation. If a single owner will run the business with no complex ownership changes, an LLC works better**.
 
@@ -120,7 +120,7 @@ In practice, when setting up a **parent company → Korean subsidiary structure*
 
 Also, if there's any plan to **bring in additional investors** down the road, a corporation is far more practical. With an LLC, transferring ownership requires the consent of all members, making equity changes cumbersome.
 
-## <h2 id="section-3">3. The 6-Step Incorporation Process in Detail</h2>
+## 3. The 6-Step Incorporation Process in Detail
 
 The entire process flows as shown in the table below. Each step must be completed in order — if one gets stuck, everything after it stops.
 
@@ -205,7 +205,7 @@ Once you have your business registration certificate, you return to the foreign 
   <strong style="color:#1e40af">💡 Practical Tip:</strong> If all documents are in order, the entire process takes 2–3 weeks. If home-country documents need to be reissued, expect 4–6 weeks. When timing overlaps with a D-8 visa application, starting home-country document preparation first does the most to shorten the overall timeline.
 </div>
 
-## <h2 id="section-4">4. Capital Requirements and FDI Registration Criteria</h2>
+## 4. Capital Requirements and FDI Registration Criteria
 
 ### Minimum Capital — The Legal Minimum and Practical Minimum Are Different
 
@@ -229,7 +229,7 @@ Capital must be **contributed in cash as a general rule**. In-kind contributions
 
 This is a detail that joint investors frequently overlook. **The threshold is KRW 100 million per individual investor, not KRW 100 million in total.** If two investors each put in KRW 50 million, FDI registration will be denied. The foreign exchange bank will reject the application immediately if this requirement isn't met.
 
-## <h2 id="section-5">5. Required Documents and Home-Country Notarization</h2>
+## 5. Required Documents and Home-Country Notarization
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ Document Checklist for Individual Foreign Investors</strong>
@@ -272,7 +272,7 @@ Home-country documents are generally only accepted if they were **issued within 
 </figure>
 
 
-## <h2 id="section-6">6. Full Cost Breakdown by Category</h2>
+## 6. Full Cost Breakdown by Category
 
 Here's the actual cost breakdown for a typical case: KRW 100 million in capital, headquarters in Seoul, single incorporator.
 
@@ -371,7 +371,7 @@ Here's the actual cost breakdown for a typical case: KRW 100 million in capital,
   <strong style="color:#92400e">⚠️ Warning:</strong> If you raise the capital to KRW 1 billion, you approach the threshold for mandatory external audit requirements, and the obligation to appoint an auditor kicks in. Rather than simply picking a large round number, it's better to size the capital based on actual operating needs and visa requirements. Consult the relevant authorities for specific thresholds.
 </div>
 
-## <h2 id="section-7">7. Post-Incorporation Steps You Must Complete</h2>
+## 7. Post-Incorporation Steps You Must Complete
 
 Completing the court registration and business registration doesn't mean your company is actually operational. You still need to open a corporate bank account, enroll in social insurance, and secure the D-8 visa conversion.
 
@@ -393,7 +393,7 @@ As soon as you hire even one employee, **enrollment in all four social insurance
 
 Under the Foreign Investment Promotion Act, certain sectors — **high-tech industries and qualifying service businesses** — are eligible for corporate and income tax reductions. These incentives are **not applied automatically; you must file a separate application**, and it must be submitted before commencing business operations. In practice, companies typically start coordinating with KOTRA immediately after incorporation.
 
-## <h2 id="section-8">8. Common Mistakes and Reasons for Rejection</h2>
+## 8. Common Mistakes and Reasons for Rejection
 
 When we look at cases that were rejected or delayed, the patterns are remarkably consistent.
 
@@ -425,7 +425,7 @@ Whether foreign investment is permitted and whether tax incentives apply depends
   <strong style="color:#1e40af">💡 Practical Tip:</strong> Over 70% of rejected cases aren't caused by missing documents — they're caused by "inconsistencies across documents." A single letter difference in a name or one digit off in an address across different documents will trigger a rejection. The most effective thing you can do before filing is spread out copies of every document side by side and cross-check them all at once.
 </div>
 
-## <h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+## 9. Frequently Asked Questions (FAQ)
 
 ### Q1. Can I incorporate a company in Korea without physically being in the country?
 
@@ -447,7 +447,7 @@ Looking at registration tax alone for KRW 100 million in capital: **Seoul is KRW
 
 This isn't as simple as a regular wire transfer — you need to choose between **a capital increase (new share issuance) or a loan**. A capital increase requires a board resolution, shareholders' meeting resolution, and amendment registration, and you'll owe registration tax again on the increased capital. A loan requires a separate **foreign borrowing report**, and withholding tax applies when interest is paid. Either way, simply wiring money from the parent company's account without proper classification means the funds won't be recognized as investment capital and won't count toward expanding your FDI stake.
 
-## <h2 id="section-10">10. Consultation Information</h2>
+## 10. Consultation Information
 
 Incorporating a company as a foreign national in Korea involves the intersection of legal affairs, foreign exchange regulations, taxation, and immigration — all at once. If even one document has inconsistent information across these areas, the entire timeline can slip by 2–3 weeks. VISION Administrative Office handles the full process under one roof: from the foreign investment report through corporate registration, business registration, Foreign-Invested Enterprise registration, and D-8 visa coordination.
 

@@ -22,7 +22,7 @@ Setting up a stock corporation (jusik hoesa, 株式會社) in Korea as a foreign
 Setting capital aside, the actual out-of-pocket cost to establish the company — **registration license tax, local education tax, notary fees, registration filing fees, and administrative agent fees combined** — typically lands somewhere between KRW 1.2 million and KRW 2.5 million. To qualify as a foreign investment, the capital must be at least KRW 100 million; if you are also targeting a D-8 visa, that amount must be wired from an overseas account held in your own name. If you cannot account for that money trail clearly, your application will stall right at this stage.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foreign-Owned Corporation Setup: The Essentials First</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Foreign-Invested Company vs. Regular Stock Corporation</a></li>
@@ -533,7 +533,7 @@ Setting up a foreign-owned stock corporation in Korea is a single, continuous fl
 Vision Administrative Office handles foreign corporate setup, foreign investment notifications, and D-8 visas through a single point of contact. Because we design the capital structure, business scope, and office choice with the visa criteria already in mind from the setup stage, we can prevent the all-too-common situation where the company gets formed but the visa never comes through.
 
 <div style="background:#f0f7ff;border:1px solid #93c5fd;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Office (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Office (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;margin:0">
     <li style="padding:4px 0"><strong>Phone:</strong> 02-363-2251</li>
     <li style="padding:4px 0"><strong>Email:</strong> 5000meter@gmail.com</li>

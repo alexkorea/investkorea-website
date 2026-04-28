@@ -22,7 +22,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 费用方面，**以资本金 1 亿韩元为基准，实际开销通常在 250 万~400 万韩元 + 行政士·法务士手续费**之间较为现实。其中包含登记执照税（过密抑制圈域加征 3 倍）、教育税、章程认证费、登记申请费、公证费、翻译与海牙认证费用等。若资本金不足 1 亿韩元，或投资方为外国法人，结构会有所不同。下面按照实际顺序梳理流程、材料与费用。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份有限公司与外商投资企业的区别</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须确认的 3 项前提</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   </ul>
 </nav>
 
-## <h2 id="section-1">1. 外国人股份有限公司与外商投资企业的区别</h2>
+## 1. 外国人股份有限公司与外商投资企业的区别
 
 ### 同样是股份有限公司，身份却不同
 
@@ -93,7 +93,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 实务中，需要签证的个人投资者必须走 **FDI 结构**。如果已经拥有国内居留资格，或仅仅是单纯的资本参与，选择普通外国人股东法人也足够。关键点在于——**如果考虑 D-8，那 9,999 万韩元没有任何意义**。1 亿韩元这一门槛必须考虑到汇率波动，汇款金额要留有余地才能被认可。
 
-## <h2 id="section-2">2. 设立前必须确认的 3 项前提</h2>
+## 2. 设立前必须确认的 3 项前提
 
 ### 为什么要先定下营业场所地址
 
@@ -111,7 +111,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   <strong style="color:#92400e">⚠️ 注意：</strong>若外国法人作为股东加入，要知道许多国家并没有"法人印鉴证明书"这一概念。本国的法人登记簿誊本 + 董事会决议 + 签字权人证明书（Certificate of Incumbency）+ 海牙认证或领事认证，必须成套提交。任何一项缺失，登记所都会当场驳回。
 </div>
 
-## <h2 id="section-3">3. 全套设立流程 — 七步路线图</h2>
+## 3. 全套设立流程 — 七步路线图
 
 ### 一旦顺序颠倒，资金就会被冻住
 
@@ -204,7 +204,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 最后一步，在 KOTRA 或地方政府申请**外商投资企业登记证**。有了这份登记证，才能办理 D-8 签证邀请、税收减免申请以及外商投资企业专属扶持项目的申请。
 
-## <h2 id="section-4">4. 各阶段所需材料汇总</h2>
+## 4. 各阶段所需材料汇总
 
 ### 投资者（外国个人）提交材料
 
@@ -253,7 +253,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   <strong style="color:#1e40af">💡 实务建议：</strong>在本国准备材料时，建议把"地址证明"和"签字样本"这两项一并办理公证。后续开设银行临时账户、办理营业执照、递交签证邀请函时都会反复被要求同一份材料。提前准备原件 2~3 份，可以节省来回奔波的时间。
 </div>
 
-## <h2 id="section-5">5. 实际费用结构与分段预算</h2>
+## 5. 实际费用结构与分段预算
 
 ### 固定实际支出——政府与公共费用
 
@@ -373,7 +373,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 </figure>
 
 
-## <h2 id="section-6">6. 资本金·投资形式上的注意事项</h2>
+## 6. 资本金·投资形式上的注意事项
 
 ### 现金出资 vs 实物出资
 
@@ -395,7 +395,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 如果是在已经设立的韩国法人中，外国人后期加入，**通常采用第三方定向增发新股**而非新设立的方式。增资前同样需要办理外国人投资申报，增资后还要完成股东名册·章程变更登记，以及外商投资企业登记（或变更登记）。
 
-## <h2 id="section-7">7. 设立后必须处理的行政事项</h2>
+## 7. 设立后必须处理的行政事项
 
 ### 法人账户开设——最耗时的一步
 
@@ -456,7 +456,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   </tbody>
 </table>
 
-## <h2 id="section-8">8. 常见失误与被驳回案例</h2>
+## 8. 常见失误与被驳回案例
 
 ### 失误 1——先汇款后申报
 
@@ -486,7 +486,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   <strong style="color:#1e40af">💡 实务建议：</strong>如果代表董事短期居留或尚未入境，建议在设立初期同时登记韩国办公室固定电话和韩国地址（与租赁合同地址一致）。此外，还可以指定邮件收件代理人。
 </div>
 
-## <h2 id="section-9">9. 常见问题 (FAQ)</h2>
+## 9. 常见问题 (FAQ)
 
 **Q1. 外国人可以独立设立股份有限公司吗？**
 
@@ -508,7 +508,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 法律上允许设立后立即办理变更登记。但在外商投资企业登记证、D-8 签证邀请审查中，"设立后立即变更地址或代表"往往会被列为**空壳公司的可疑信号**。至少保持设立时的信息 6 个月~1 年更为稳妥。
 
-## <h2 id="section-10">10. 咨询指引</h2>
+## 10. 咨询指引
 
 外国人股份有限公司的设立并非单纯的登记代办，而是**汇款、申报、登记、签证、税务一条线贯通的流程**。任何一个顺序出错，资金就会被冻住，签证衔接也可能中断。Vision 行政士事务所可从投资款汇入阶段开始，一站式办理至外商投资企业登记、D-8 签证邀请。
 

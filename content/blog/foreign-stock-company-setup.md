@@ -22,7 +22,7 @@ slug: "foreign-stock-company-setup"
 비용은 자본금 규모에 따라 달라지는데, <strong>자본금 1억 원 기준으로 등록면허세·교육세·법원 수수료·공증료 등 실비만 약 70~90만 원</strong> 수준입니다. 여기에 행정사·법무사 대행 수수료를 더하면 전체 설립 비용은 200~400만 원 선에서 결정됩니다. 아래에서 각 단계별로 실무에서 실제 걸리는 부분과 비용 내역을 구체적으로 풀어보겠습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사 설립, 전체 흐름부터</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 외국인투자신고 — 가장 먼저 해야 할 일</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-stock-company-setup"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 외국인 주식회사 설립, 전체 흐름부터</h2>
+<h2 id="section-1">1. 외국인 주식회사 설립, 전체 흐름부터
 
 ### 내국인 설립과 뭐가 다른가
 
@@ -92,7 +92,7 @@ slug: "foreign-stock-company-setup"
 
 서류가 완비된 상태라면 **2주 안에 끝납니다.** 실무에서 기간이 늘어나는 가장 흔한 원인은 해외 서류의 공증·아포스티유 지연, 송금 시 은행 확인 절차, 그리고 사업 목적 코드 불일치입니다. 특히 본국에서 서류를 받아야 하는 경우, 우편 기간만 1~2주가 추가되기도 합니다.
 
-<h2 id="section-2">2. 외국인투자신고 — 가장 먼저 해야 할 일</h2>
+<h2 id="section-2">2. 외국인투자신고 — 가장 먼저 해야 할 일
 
 ### 왜 투자신고가 먼저인가
 
@@ -126,7 +126,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#92400e">⚠️ 주의:</strong> 1억 원 미만으로 투자신고를 하면 외국인투자기업 등록이 안 됩니다. D-8 비자가 목적이라면 반드시 1억 원 이상을 맞춰야 합니다. 비자 목적이 아니라면 소규모 자본금으로도 법인설립 자체는 가능하므로, 목적에 맞게 자본금 규모를 정해야 합니다.
 </div>
 
-<h2 id="section-3">3. 투자자금 송금과 자본금 납입</h2>
+<h2 id="section-3">3. 투자자금 송금과 자본금 납입
 
 ### 송금 흐름
 
@@ -146,7 +146,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 국내 체류 중인 외국인은 본인 명의 국내 계좌로 송금받을 수 있지만, 해외 거주자는 법무사 또는 행정사 명의의 에스크로 계좌를 활용하는 경우도 있습니다. 은행마다 외국인투자자금 수령 절차가 다르므로 <strong>송금 전에 수취은행과 먼저 확인</strong>하는 것이 실무에서 가장 안전한 방법입니다.
 </div>
 
-<h2 id="section-4">4. 법인설립등기 절차</h2>
+<h2 id="section-4">4. 법인설립등기 절차
 
 ### 정관 작성
 
@@ -213,7 +213,7 @@ slug: "foreign-stock-company-setup"
 
 관할 등기소에 접수하면 보통 **3~5영업일** 안에 등기가 완료됩니다. 서류 보정이 필요하면 추가로 며칠이 걸립니다.
 
-<h2 id="section-5">5. 사업자등록과 외국인투자기업 등록</h2>
+<h2 id="section-5">5. 사업자등록과 외국인투자기업 등록
 
 ### 사업자등록 (세무서)
 
@@ -244,7 +244,7 @@ slug: "foreign-stock-company-setup"
 </figure>
 
 
-<h2 id="section-6">6. 설립 비용 — 항목별 실제 금액</h2>
+<h2 id="section-6">6. 설립 비용 — 항목별 실제 금액
 
 실제 비용은 자본금 규모와 대행 여부에 따라 달라집니다. 아래는 **자본금 1억 원 기준** 주식회사 설립 시 대략적인 실비입니다.
 
@@ -332,7 +332,7 @@ slug: "foreign-stock-company-setup"
 </tbody>
 </table>
 
-<h2 id="section-7">7. 자본금, 얼마가 적정한가</h2>
+<h2 id="section-7">7. 자본금, 얼마가 적정한가
 
 ### 법적 최소 자본금은 없다
 
@@ -355,7 +355,7 @@ slug: "foreign-stock-company-setup"
 
 자본금을 최소로 잡으면 은행 거래, 입찰 참여, 신용 평가에서 불리합니다. 오히려 초기 자본금을 적정 수준으로 설정하는 것이 이후 사업 운영에서 훨씬 수월합니다.
 
-<h2 id="section-8">8. 흔히 하는 실수 5가지</h2>
+<h2 id="section-8">8. 흔히 하는 실수 5가지
 
 ### 실수 1: 투자신고 전에 돈부터 보내기
 
@@ -381,7 +381,7 @@ slug: "foreign-stock-company-setup"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 법인설립 전에 <strong>사업자 업종코드, 사업장 주소, 투자금 출처 증빙</strong> 이 세 가지를 먼저 확정하세요. 실제로 이 세 가지가 확정되지 않은 채 진행하면 중간에 멈추는 일이 반복됩니다. 서류가 많아도 순서를 잡으면 빠르게 끝납니다.
 </div>
 
-<h2 id="section-9">9. 자주 묻는 질문 (FAQ)</h2>
+<h2 id="section-9">9. 자주 묻는 질문 (FAQ)
 
 ### Q1. 외국인 혼자서 주식회사를 설립할 수 있나요?
 
@@ -411,14 +411,14 @@ slug: "foreign-stock-company-setup"
 
 매출이 없어도 세무신고 의무는 유지되므로, 법인 유지 최소 비용으로 **월 10~20만 원 정도**는 잡아야 합니다.
 
-<h2 id="section-10">10. 비전 행정사사무소 상담 안내</h2>
+<h2 id="section-10">10. 비전 행정사사무소 상담 안내
 
 외국인 주식회사 설립은 서류만 갖추면 끝이 아닙니다. **투자신고 타이밍, 자본금 설정, 업종 코드 선택, 비자 연계**까지 한 번에 맞물려 있어야 이후 과정이 꼬이지 않습니다.
 
 비전 행정사사무소는 외국인투자 법인설립과 D-8 비자를 함께 처리하는 전문 사무소입니다. 투자신고부터 외국인투자기업 등록, 비자 신청까지 원스톱으로 진행합니다.
 
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)
   <p><strong>📞 전화:</strong> 02-363-2251</p>
   <p><strong>📧 이메일:</strong> 5000meter@gmail.com</p>
   <p><strong>📍 주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</p>

@@ -22,7 +22,7 @@ Within the Foreign Investment Promotion Act (hereafter "FIPA"), the concepts of 
 Practically, confusing reporting and registration during company setup, visa applications (corporate investment visa D-8), or remittance procedures can lead to temporary business disruptions or prevent visa approval. Proper distinction and preparation for each step’s requirements and documentation are critical. This guide explains the differences between reporting and registration under FIPA, highlights key practical checkpoints, frequent mistakes, and corrective measures.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foundations and Purposes of the Foreign Investment Promotion Act</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Foreign Investment Reporting: Definition & Practice</a></li>
@@ -37,7 +37,7 @@ Practically, confusing reporting and registration during company setup, visa app
 
 ---
 
-## <h2 id="section-1">1. Foundations and Purposes of the Foreign Investment Promotion Act</h2>
+## 1. Foundations and Purposes of the Foreign Investment Promotion Act
 
 The Foreign Investment Promotion Act was enacted in 1998 to boost foreign investment in Korea, enhance industrial competitiveness, and drive national economic development. FIPA clearly defines the administrative procedures and requirements for foreigners seeking to invest capital or establish corporate entities locally. Within this Act, the concepts of “reporting” and “registration” have distinct meanings:
 
@@ -48,7 +48,7 @@ FIPA includes comprehensive regulations on authority jurisdiction, criteria for 
 
 ---
 
-## <h2 id="section-2">2. Foreign Investment Reporting: Definition & Practice</h2>
+## 2. Foreign Investment Reporting: Definition & Practice
 
 ### What is Reporting?
 
@@ -71,7 +71,7 @@ Only after receiving the reporting certificate can you proceed to remit funds, e
 
 ---
 
-## <h2 id="section-3">3. Foreign Investment Registration: Definition & Practice</h2>
+## 3. Foreign Investment Registration: Definition & Practice
 
 ### What is Registration?
 
@@ -92,7 +92,7 @@ Only after completing registration can the company contract in its own name, ope
 
 ---
 
-## <h2 id="section-4">4. Core Comparison Table: Reporting vs. Registration</h2>
+## 4. Core Comparison Table: Reporting vs. Registration
 
 <table border="1" style="border-collapse:collapse;width:100%">
   <thead style="background:#e0ebff">
@@ -143,7 +143,7 @@ Only after completing registration can the company contract in its own name, ope
 
 ---
 
-## <h2 id="section-5">5. Step-by-Step Checklist & Key Points</h2>
+## 5. Step-by-Step Checklist & Key Points
 
 **Major Process Checklist under FIPA**
 
@@ -172,7 +172,7 @@ Only after completing registration can the company contract in its own name, ope
 
 ---
 
-## <h2 id="section-6">6. Common Mistakes & How to Avoid Them</h2>
+## 6. Common Mistakes & How to Avoid Them
 
 ### Frequent Issues in Practice
 
@@ -191,7 +191,7 @@ Only after completing registration can the company contract in its own name, ope
 
 ---
 
-## <h2 id="section-7">7. Frequently Asked Questions (FAQ)</h2>
+## 7. Frequently Asked Questions (FAQ)
 
 **Q1. Should reporting or registration come first for foreign investments?**  
 A: Under FIPA, “reporting” always comes first. After investment funds are remitted and related requirements fulfilled, “registration” follows.
@@ -210,7 +210,7 @@ A: Remitting funds before receiving the reporting certificate may not be recogni
 
 ---
 
-## <h2 id="section-8">8. Practical Consultation & Contact Information</h2>
+## 8. Practical Consultation & Contact Information
 
 If you have questions regarding reporting and registration, foreign company setup, or visa applications under FIPA, please contact us below for fast and accurate administrative support.
 

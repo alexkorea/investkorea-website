@@ -12,7 +12,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 外国人が韓国で不動産を取得する過程は複雑であり、さまざまな法的要件と税金が伴います。一般的に外国人は韓国で不動産を取得できますが、いくつかの条件を満たす必要があり、それに伴う税金負担も考慮しなければなりません。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px">
-<h3 style="color:#1e40af;margin-top:0">目次</h3>
+<h3 style="color:#1e40af;margin-top:0">目次
 <ul style="list-style:none;padding:0">
 <li><a href="#id1" style="color:#2563eb;text-decoration:none">1. 外国人不動産取得資格</a></li>
 <li><a href="#id2" style="color:#2563eb;text-decoration:none">2. 不動産取得手続き</a></li>
@@ -24,7 +24,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 </nav>
 
 <div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
-<h3 style="color:#15803d;margin-top:0">核心要約</h3>
+<h3 style="color:#15803d;margin-top:0">核心要約
 <ul>
 <li>外国人は韓国で不動産を取得できますが、特定の資格要件が必要です。</li>
 <li>不動産取得手続きは身分確認、契約締結、登録などの段階で構成されています。</li>
@@ -32,7 +32,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 </ul>
 </div>
 
-<h2 id="id1">1. 外国人不動産取得資格</h2>
+<h2 id="id1">1. 外国人不動産取得資格
 韓国で外国人が不動産を取得するためには、次の条件を満たす必要があります。外国人とは韓国国籍でない個人や外国法人を指します。一般的に、外国人は次の条件を満たす必要があります：
 
 1. **居住要件**: 韓国に一定期間居住した外国人（例：ビザ所持者）
@@ -40,7 +40,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 
 管轄機関の確認が必要です。
 
-<h2 id="id2">2. 不動産取得手続き</h2>
+<h2 id="id2">2. 不動産取得手続き
 不動産を取得する過程は大体次のようになります：
 
 1. **身元確認と書類準備**: 外国人の身分および居住地を証明する書類を準備します。
@@ -66,7 +66,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 </tr>
 </table>
 
-<h2 id="id3">3. 関連税金案内</h2>
+<h2 id="id3">3. 関連税金案内
 不動産取得時に課される主要な税金は次の通りです：
 
 - **取得税**: 不動産取引価格の1%~3%で決定されます。
@@ -77,7 +77,7 @@ slug: "foreigner-real-estate-acquisition-guide"
 ⚠️ <strong>注意:</strong> 税金は不動産の種類や地域によって異なる場合があるため、詳細は税務当局に問い合わせる必要があります。
 </div>
 
-<h2 id="id4">4. 必要書類一覧</h2>
+<h2 id="id4">4. 必要書類一覧
 不動産取得時に必要な書類は次の通りです：
 
 - パスポートのコピー
@@ -86,33 +86,33 @@ slug: "foreigner-real-estate-acquisition-guide"
 - 不動産契約書
 - 税金申告書
 
-<h2 id="id5">5. 一般的なミスと注意事項</h2>
+<h2 id="id5">5. 一般的なミスと注意事項
 外国人が不動産を取得する過程でよく発生するミスは次の通りです：
 
 - **法的要件の不備**: 相互主義の原則を確認しない
 - **税金未納**: 取得税および財産税の申告を怠る
 - **不動産契約書の不明確性**: 契約書に詳細を明確に記載しない
 
-<h2 id="id6">6. FAQ</h2>
-<h3>Q: 外国人が韓国で不動産を取得できますか？</h3>
+<h2 id="id6">6. FAQ
+<h3>Q: 外国人が韓国で不動産を取得できますか？
 A: はい、外国人も韓国で不動産を取得できます。特定の要件が必要です。
 
-<h3>Q: 不動産取得時の税金はどのくらいですか？</h3>
+<h3>Q: 不動産取得時の税金はどのくらいですか？
 A: 取得税は不動産価格の1%~3%で決定されます。
 
-<h3>Q: どの書類が必要ですか？</h3>
+<h3>Q: どの書類が必要ですか？
 A: パスポート、ビザ、居住証明書、契約書などが必要です。
 
-<h3>Q: 外国人取得税の免除が可能な場合はありますか？</h3>
+<h3>Q: 外国人取得税の免除が可能な場合はありますか？
 A: 一般的に外国人には取得税の免除は適用されません。
 
-<h3>Q: 不動産登録はどのように行いますか？</h3>
+<h3>Q: 不動産登録はどのように行いますか？
 A: 不動産登記所に登録して所有権を確保します。
 
-<h3>Q: 韓国での外国人不動産取得手続きは複雑ですか？</h3>
+<h3>Q: 韓国での外国人不動産取得手続きは複雑ですか？
 A: 手続きが複雑な場合があるため、専門家の助けを受けることをお勧めします。
 
-<h3>Q: 税金申告はいつ行うべきですか？</h3>
+<h3>Q: 税金申告はいつ行うべきですか？
 A: 取得税は不動産取引後、一定期間内に申告する必要があります。
 
 内部リンク: [不動産サービス](https://example.com/real-estate), [税務サービス](https://example.com/tax), [お問い合わせ](https://example.com/contact)

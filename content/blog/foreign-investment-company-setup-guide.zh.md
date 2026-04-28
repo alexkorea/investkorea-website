@@ -19,7 +19,7 @@ slug: "foreign-investment-company-setup-guide"
 <li>准确准备文件和程序进行非常重要。</li>
 </ul></div>
 
-<h2 id="process">设立程序</h2>
+<h2 id="process">设立程序
 设立外国投资法人的主要程序如下。每个步骤所需的事项必须确认。
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -45,7 +45,7 @@ slug: "foreign-investment-company-setup-guide"
 </tr>
 </table>
 
-<h2 id="requirements">所需文件</h2>
+<h2 id="requirements">所需文件
 设立法人所需准备的文件如下。
 
 <ul>
@@ -59,7 +59,7 @@ slug: "foreign-investment-company-setup-guide"
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>参考：</strong> 文件可能会根据主管机关的要求而增加，请务必确认。</div>
 
-<h2 id="timeline">所需时间</h2>
+<h2 id="timeline">所需时间
 设立外国投资法人一般需要1-3个月的时间。各步骤的所需时间如下。
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -81,31 +81,31 @@ slug: "foreign-investment-company-setup-guide"
 </tr>
 </table>
 
-<h2 id="common-mistakes">常见错误</h2>
+<h2 id="common-mistakes">常见错误
 设立外国投资法人时常见的错误如下。
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意：</strong> 文件不全或程序遗漏可能导致批准延迟。每个步骤所需的文件必须彻底准备。</div>
 
-<h2 id="faq">常见问题</h2>
-<h3>问：设立外国投资法人需要多少费用？</h3>
+<h2 id="faq">常见问题
+<h3>问：设立外国投资法人需要多少费用？
 答：一般来说，包括法人注册费和税务申报费，大约需要150万到700万韩元。根据案件难度（投资形式、行业监管、资金来源审查等）分级收费：简单案件150~300万、标准案件300~500万、复杂案件（跨国出资、受监管行业、需现场尽调）500~700万韩元。
 
-<h3>问：投资计划书如何撰写？</h3>
+<h3>问：投资计划书如何撰写？
 答：投资计划书应包括商业目标、投资金额、预期收益等内容。
 
-<h3>问：设立外国投资法人有特别限制吗？</h3>
+<h3>问：设立外国投资法人有特别限制吗？
 答：根据特定行业可能会有限制，需要与主管机关咨询。
 
-<h3>问：设立法人所需的最低资本金是多少？</h3>
+<h3>问：设立法人所需的最低资本金是多少？
 答：最低资本金根据行业不同而异，但一般要求在1000万韩元以上。
 
-<h3>问：法人设立后需要哪些额外文件？</h3>
+<h3>问：法人设立后需要哪些额外文件？
 答：在获得营业执照后，可能需要进行税务申报和相关业务许可证。
 
-<h3>问：外国股东可以参与法人设立吗？</h3>
+<h3>问：外国股东可以参与法人设立吗？
 答：可以，外国股东也可以参与法人设立。
 
-<h3>问：法人设立后运营所需的程序有哪些？</h3>
-答：运营时需要进行税务申报、会计账簿编制等程序。</h3>
+<h3>问：法人设立后运营所需的程序有哪些？
+答：运营时需要进行税务申报、会计账簿编制等程序。
 
 <p>如需更多信息或咨询，请在<a href="/contact" style="color:#2563eb;text-decoration:none">这里</a>联系我们。更多信息请查看<a href="/blog" style="color:#2563eb;text-decoration:none">博客</a>。</p>

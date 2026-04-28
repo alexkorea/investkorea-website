@@ -22,7 +22,7 @@ The first thing to check when setting up a foreign-owned stock company (Jusikhoe
 Costs break down into three buckets: **the capital (actual investment), statutory fees (taxes and registration), and service fees (administrative agents, translation, notarization)**. Excluding the KRW 100 million capital itself, pure incorporation costs typically fall between KRW 2.5 million and 6 million, with wide variation depending on how much you outsource to attorneys, administrative agents, translators, and notaries. The tables and callouts below lay out the procedures, documents, and costs step by step.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Three Things to Check Before Anything Else</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Stock Company vs. Limited Company: Which Suits Foreign Investors Better?</a></li>
@@ -506,7 +506,7 @@ A. If all home-country documents are ready and the capital has already been wire
 Incorporating a foreign-owned stock company doesn't involve a huge volume of paperwork — but it lives or dies at three points: **the explanation of fund flows, the foreign investment notification, and the authentication of home-country documents**. Align all three around the same story from the start, and incorporation, business registration, and the D-8 visa all connect cleanly along a single line.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
   <p>Specializing in foreign-owned company formation, foreign investment notifications, and D-8 / E-7 / F-2 visa matters</p>
   <ul style="list-style:none;padding-left:0">
     <li><strong>Phone</strong>: 02-363-2251</li>

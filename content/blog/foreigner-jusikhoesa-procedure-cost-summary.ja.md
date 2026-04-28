@@ -22,7 +22,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 実務でスムーズに終えるには、**①外国人投資申告 → ②資本金送金(投資資金名目)→ ③設立登記 → ④事業者登録 → ⑤外国人投資企業登録** の5ステップをこの順で踏む必要があります。資本金は最低1億ウォン(D-8ビザ連動の場合)で、公証・登録免許税・登記手数料・行政書士の代行料を合わせた実費の総額は通常150万~350万ウォン程度に収まります。以下では各ステップの実際の審査基準から、隠れたコストまで具体的に解説します。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人株式会社(株式会社)とは何か</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立前にまず確認すべき3つのポイント</a></li>
@@ -37,7 +37,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 外国人株式会社(株式会社)とは何か</h2>
+<h2 id="section-1">1. 外国人株式会社(株式会社)とは何か
 
 ### まずは株式会社と有限会社の違いから
 
@@ -88,7 +88,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 この地位があって初めて **D-8ビザ、外国人投資企業に対する租税減免、土地取得の特例** といった後続手続きにつながります。
 
-<h2 id="section-2">2. 設立前にまず確認すべき3つのポイント</h2>
+<h2 id="section-2">2. 設立前にまず確認すべき3つのポイント
 
 ### 第一に、業種制限の有無
 
@@ -110,7 +110,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#1e40af">💡 実務のヒント:</strong> 賃貸の負担が大きい場合は共有オフィス(非常駐オフィス)から始めるのも手ですが、事業者登録やD-8ビザの審査では「実際に営業が可能か」が問われるため、住所地に看板・郵便受取・事業スペースが最低限確認できる状態にしておく必要があります。住所だけの賃貸では、D-8段階で止まるケースが珍しくありません。
 </div>
 
-<h2 id="section-3">3. 設立手続き5ステップ詳細</h2>
+<h2 id="section-3">3. 設立手続き5ステップ詳細
 
 ### 全体の流れ
 
@@ -177,7 +177,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 事業者登録証まで揃ったら、最初に申告した外国為替銀行(またはKOTRA)に戻り、**外国人投資企業登録証** を発行してもらいます。この証明書がD-8ビザ、租税減免、外貨送金(配当金の海外送金)など後続の優遇措置の根拠となります。
 
-<h2 id="section-4">4. 資本金の基準と送金実務</h2>
+<h2 id="section-4">4. 資本金の基準と送金実務
 
 ### なぜ1億ウォンなのか
 
@@ -230,7 +230,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 注意:</strong> 資本金は必ず投資家本人名義の海外口座から送金する必要があります。家族や知人の口座を経由すると資金の出所が不明瞭になり、審査段階で「資金の流れの説明」を求められ、説明が弱ければすぐ差し戻されます。
 </div>
 
-<h2 id="section-5">5. 必要書類まとめ</h2>
+<h2 id="section-5">5. 必要書類まとめ
 
 ### 投資家(外国人個人)
 
@@ -280,7 +280,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 </figure>
 
 
-<h2 id="section-6">6. 設立費用の詳細内訳</h2>
+<h2 id="section-6">6. 設立費用の詳細内訳
 
 ### 法定費用
 
@@ -339,7 +339,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
   <strong style="color:#92400e">⚠️ 注意:</strong> 登録免許税の重課基準は、法人の本店が首都圏過密抑制圏域にあるかどうかで決まります。ソウル・仁川の大部分、京畿道の一部(城南・水原・富川・安養など)がこれに該当します。同じ京畿道でも華城・平沢・抱川は非過密抑制圏域なので重課はかかりません。本店をどこに置くかで税額に3倍の差が生じます。
 </div>
 
-<h2 id="section-7">7. 設立後に必ず押さえるべき行政手続き</h2>
+<h2 id="section-7">7. 設立後に必ず押さえるべき行政手続き
 
 ### 法人口座の開設
 
@@ -360,7 +360,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 法人の代表取締役である投資家本人が韓国に滞在するには、**D-8企業投資ビザ** を申請します。外国人投資企業登録証・送金証・事業場の賃貸借契約・事業計画書を揃え、管轄の出入国管理事務所に提出します。
 
-<h2 id="section-8">8. よくある失敗と審査で引っかかるポイント</h2>
+<h2 id="section-8">8. よくある失敗と審査で引っかかるポイント
 
 ### 失敗1 — 送金を先にしてしまう
 
@@ -386,7 +386,7 @@ FDI申告をしていない状態で、海外口座から韓国へ先に1億ウ�
   <strong style="color:#92400e">⚠️ 注意:</strong> 実務では法人設立そのものより、D-8ビザ連動の段階で引っかかるケースのほうが多くみられます。1億ウォンの送金が「投資金」として記録されているか、事業場の実体が確認できるか、事業計画書が具体的か — この3点が弱いと、法人はできたのにビザが下りないという状況が発生します。
 </div>
 
-<h2 id="section-9">9. よくある質問(FAQ)</h2>
+<h2 id="section-9">9. よくある質問(FAQ)
 
 ### Q1. 韓国に入国していない状態で法人設立は可能ですか?
 
@@ -408,12 +408,12 @@ FDI申告をしていない状態で、海外口座から韓国へ先に1億ウ�
 
 書類が揃っている状態で **純粋な官庁の処理期間は約10営業日** です。現実にはアポスティーユ・海外送金の遅延・賃貸借契約の準備まで含めて **3~4週間** が標準です。代表者の署名認証や本社の投資決議書が海外から届くのが遅れる、というのが最も多い遅延要因です。
 
-<h2 id="section-10">10. ご相談のご案内</h2>
+<h2 id="section-10">10. ご相談のご案内
 
 外国人による株式会社設立は、法人登記だけを見れば単純な手続きに映ります。しかし **FDI申告のタイミング → 送金目的コード → 資本金払込 → 登記 → 事業者登録 → 外国人投資企業登録 → D-8ビザ** と続く全体のチェーンのうち、たった1つでもずれると後の工程がすべてこじれてしまいます。ビジョン行政書士事務所では、この全体フローを一度に設計いたします。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政書士事務所(VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政書士事務所(VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 電話:<strong>02-363-2251</strong></li>
     <li>✉️ メール:<strong>5000meter@gmail.com</strong></li>

@@ -22,7 +22,7 @@ To establish a corporation (stock company) in South Korea as a foreign national,
 Costs depend largely on the size of your capital investment. **For a company with 100 million KRW in capital, expect to pay roughly 700,000 to 900,000 KRW in government fees alone** — including registration tax, education tax, court fees, and notarization charges. Add professional service fees for a licensed administrative agent or judicial scrivener, and the total incorporation cost generally falls in the range of 2 to 4 million KRW. Below, we break down each step with the real-world details and costs you can expect.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Incorporating as a Foreign National — The Big Picture</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Foreign Investment Notification — The Very First Step</a></li>
@@ -37,7 +37,7 @@ Costs depend largely on the size of your capital investment. **For a company wit
   </ul>
 </nav>
 
-<h2 id="section-1">1. Incorporating as a Foreign National — The Big Picture</h2>
+<h2 id="section-1">1. Incorporating as a Foreign National — The Big Picture
 
 ### How Is It Different from Incorporating as a Korean Citizen?
 
@@ -92,7 +92,7 @@ For Korean nationals, starting a corporation involves three broad steps: draftin
 
 If all your documents are ready to go, **the entire process can be completed within two weeks.** In practice, the most common causes of delays are: waiting for overseas documents to be notarized and apostilled, bank verification procedures during fund transfers, and mismatches in business purpose codes. When documents need to be sent from your home country, postal delivery alone can add one to two weeks.
 
-<h2 id="section-2">2. Foreign Investment Notification — The Very First Step</h2>
+<h2 id="section-2">2. Foreign Investment Notification — The Very First Step
 
 ### Why Does the Investment Notification Come First?
 
@@ -126,7 +126,7 @@ Under the Foreign Investment Promotion Act, the **minimum investment amount is 1
   <strong style="color:#92400e">⚠️ Important:</strong> If you file an investment notification for less than 100 million KRW, you will not be eligible for Foreign-Invested Enterprise registration. If a D-8 visa is your goal, you must invest at least 100 million KRW. If a visa is not your objective, you can incorporate with a smaller amount of capital — just make sure you choose your capital amount based on your actual needs.
 </div>
 
-<h2 id="section-3">3. Remitting Investment Funds and Paying In Capital</h2>
+<h2 id="section-3">3. Remitting Investment Funds and Paying In Capital
 
 ### How the Remittance Works
 
@@ -146,7 +146,7 @@ Once the funds are deposited, the bank issues a **Certificate of Capital Payment
   <strong style="color:#1e40af">💡 Practical Tip:</strong> Foreign nationals residing in Korea can receive the funds in their own Korean bank account. For those living overseas, an escrow account held by a judicial scrivener or administrative agent is sometimes used. Since each bank has different procedures for receiving foreign investment funds, the safest approach is to <strong>confirm the process with the receiving bank before initiating the transfer</strong>.
 </div>
 
-<h2 id="section-4">4. Corporate Registration Process</h2>
+<h2 id="section-4">4. Corporate Registration Process
 
 ### Drafting the Articles of Incorporation
 
@@ -213,7 +213,7 @@ For incorporation by promoters (where the founders subscribe to all shares), if 
 
 Once submitted to the district registry office, registration is typically completed within **3 to 5 business days**. If the office requests corrections, expect a few additional days.
 
-<h2 id="section-5">5. Business Registration and Foreign-Invested Enterprise Registration</h2>
+<h2 id="section-5">5. Business Registration and Foreign-Invested Enterprise Registration
 
 ### Business Registration (Tax Office)
 
@@ -244,7 +244,7 @@ Once business registration is complete, you apply to KOTRA for **Foreign-Investe
 </figure>
 
 
-<h2 id="section-6">6. Incorporation Costs — A Detailed Breakdown</h2>
+<h2 id="section-6">6. Incorporation Costs — A Detailed Breakdown
 
 Actual costs vary depending on the amount of capital and whether you use professional services. Below are the approximate government fees for incorporating a stock company with **100 million KRW in capital**.
 
@@ -332,7 +332,7 @@ Some clients hire an administrative agent and judicial scrivener separately, whi
 </tbody>
 </table>
 
-<h2 id="section-7">7. How Much Capital Is the Right Amount?</h2>
+<h2 id="section-7">7. How Much Capital Is the Right Amount?
 
 ### There Is No Legal Minimum Capital Requirement
 
@@ -355,7 +355,7 @@ There is no one-size-fits-all answer. The first thing to check is whether your i
 
 Setting capital at the bare minimum can put you at a disadvantage when it comes to banking relationships, bidding on contracts, and credit evaluations. Starting with a reasonable level of capital actually makes business operations much smoother down the road.
 
-<h2 id="section-8">8. Five Common Mistakes to Avoid</h2>
+<h2 id="section-8">8. Five Common Mistakes to Avoid
 
 ### Mistake 1: Sending Money Before Filing the Investment Notification
 
@@ -381,7 +381,7 @@ You must complete your Foreign-Invested Enterprise registration **within 60 days
   <strong style="color:#1e40af">💡 Practical Tip:</strong> Before starting the incorporation process, finalize these three things first: <strong>your business category code, your business address, and proof of your investment fund source</strong>. In our experience, when these three elements are not settled in advance, the process stalls repeatedly. Even with a large number of documents, getting the sequence right makes everything move quickly.
 </div>
 
-<h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-9">9. Frequently Asked Questions (FAQ)
 
 ### Q1. Can a foreign national incorporate a company alone?
 
@@ -411,14 +411,14 @@ The main recurring costs include:
 
 Even if the company generates no revenue, tax filing obligations remain. You should budget a **minimum of 100,000 to 200,000 KRW per month** to maintain the corporation.
 
-<h2 id="section-10">10. Contact VISION Administrative Office</h2>
+<h2 id="section-10">10. Contact VISION Administrative Office
 
 Incorporating a company as a foreign national is not just about gathering the right documents. **The timing of your investment notification, capital amount, business category selection, and visa coordination** all need to be aligned from the start to prevent complications later.
 
 VISION Administrative Office specializes in foreign investment incorporations and D-8 visa processing. We handle everything from investment notification through Foreign-Invested Enterprise registration and visa applications — all in one place.
 
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
   <p><strong>📞 Phone:</strong> 02-363-2251</p>
   <p><strong>📧 Email:</strong> 5000meter@gmail.com</p>
   <p><strong>📍 Address:</strong> 3F, Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, South Korea</p>

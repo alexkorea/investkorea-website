@@ -22,7 +22,7 @@ slug: "foreigner-joint-stock-co-setup-complete"
 实务中真正卡壳的并不是流程本身，而是 **"资本金来源与汇款路径的举证"** 以及 **"本国签发文件的海牙认证（Apostille）或领事认证"**。不是文件数量多少的问题——如果这两点说明得不够扎实，银行汇款环节就会出问题，与 D-8 签证衔接时也会在出入境审查中直接被拦下。本文将从设立形式的选择到汇款、登记、税务、签证，按照一条能省钱又省时的顺序为你理清思路。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份公司，应以何种形式设立</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须先确定的 6 件事</a></li>
@@ -498,7 +498,7 @@ A. 外国人投资企业登记证签发后，在本国使馆申请签证 → 获
 外国人股份公司设立之所以困难，并不是因为文件数量多，而是因为 **申报→汇款→登记→外投登记→签证** 这五个环节像齿轮一样环环相扣，任一环节错位都会拖慢整体进度。Vision 行政师事务所在同一窗口办理外国人投资、法人设立、签证衔接等事务，从本国文件的 Apostille 统筹协调，到 D-8 签证申请，再到设立后 3 个月内的后续申报，全程同步跟进。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">Vision 行政师事务所（VISION Administrative Office）</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision 行政师事务所（VISION Administrative Office）
   <p style="margin:8px 0"><strong>电话</strong> 02-363-2251</p>
   <p style="margin:8px 0"><strong>邮箱</strong> 5000meter@gmail.com</p>
   <p style="margin:8px 0"><strong>地址</strong> （04614）首尔特别市中区退溪路 324 号 3 层（圣宇大厦）</p>

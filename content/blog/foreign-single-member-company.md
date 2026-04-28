@@ -22,7 +22,7 @@ slug: "foreign-single-member-company"
 실무에서는 1인 법인을 두 갈래로 나눠서 봐야 합니다. 첫째, **D-8 투자비자를 노리는 1인 법인**(자본금 1억 원 이상, 외국인투자기업 등록 필요). 둘째, **비자 없이 단순히 법인만 세우는 경우**(자본금 제한 없음, 단 외국환신고와 세무·은행 절차는 그대로). 둘은 자본금 기준부터 송금 흐름, 사업장 임차 시점까지 전부 다릅니다. 이 차이를 모르고 ‘1인이니까 간단하겠지’라고 시작하면 보통 은행 계좌 개설 단계에서 한 번 막힙니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 1인 법인은 법적으로 가능한가</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 1인 주식회사 vs 1인 유한회사, 어느 쪽이 맞나</a></li>

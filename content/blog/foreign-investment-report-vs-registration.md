@@ -25,7 +25,7 @@ slug: "foreign-investment-report-vs-registration"
 아래에서 신고와 등록의 차이점, 절차 및 주의사항을 자세히 살펴보겠습니다. 
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인투자촉진법의 기본 개요</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. ‘신고’와 ‘등록’의 정의와 법적 근거</a></li>
@@ -38,7 +38,7 @@ slug: "foreign-investment-report-vs-registration"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 외국인투자촉진법의 기본 개요</h2>
+<h2 id="section-1">1. 외국인투자촉진법의 기본 개요
 
 외국인투자촉진법(이하 ‘법’)은 외국인의 국내 투자 활성화를 위해 마련된 법률로, **투자 절차를 간소화**하고 **다양한 혜택을 제공**하기 위해 제정되었습니다.
 
@@ -53,7 +53,7 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 신고 및 등록은 단계적으로 이루어져야 하며, 각각의 요건과 서류를 사전에 준비하세요.
 </div>**
 
-<h2 id="section-2">2. ‘신고’와 ‘등록’의 정의와 법적 근거</h2>
+<h2 id="section-2">2. ‘신고’와 ‘등록’의 정의와 법적 근거
 
 외국인투자촉진법에 따르면, 신고와 등록은 아래 표와 같은 차이점을 가집니다.
 
@@ -88,7 +88,7 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#92400e">⚠️ 주의:</strong> ‘신고’를 거치지 않으면 투자금 송금과 법인설립 절차 진행도 어려워질 수 있습니다. 반드시 신고를 먼저 완료해야 합니다.
 </div>**
 
-<h2 id="section-3">3. 외국인투자 신고 절차 및 주요 서류</h2>
+<h2 id="section-3">3. 외국인투자 신고 절차 및 주요 서류
 
 ### 신고 절차
 1. 투자 대상 법인 결정
@@ -119,7 +119,7 @@ slug: "foreign-investment-report-vs-registration"
   </tbody>
 </table>
 
-<h2 id="section-4">4. 외국인투자 등록 절차 및 필요 서류</h2>
+<h2 id="section-4">4. 외국인투자 등록 절차 및 필요 서류
 
 ### 등록 절차
 1. 투자금 납입
@@ -137,7 +137,7 @@ slug: "foreign-investment-report-vs-registration"
   <strong style="color:#92400e">⚠️ 주의:</strong> 누락된 서류는 등록 거절 사유가 될 수 있습니다. 관할기관에서 요구하는 정확한 서류를 제출하세요.
 </div>**
 
-<h2 id="section-6">6. 자주 발생하는 실수 및 주의사항</h2>
+<h2 id="section-6">6. 자주 발생하는 실수 및 주의사항
 
 ### 체크리스트 – 신고 및 등록 시 유의 사항
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
@@ -150,7 +150,7 @@ slug: "foreign-investment-report-vs-registration"
   </ul>
 </div>
 
-<h2 id="section-7">7. FAQ: 외국인투자 신고·등록 관련 자주 묻는 질문</h2>
+<h2 id="section-7">7. FAQ: 외국인투자 신고·등록 관련 자주 묻는 질문
 
 ### 자주 묻는 질문
 1. **신고와 등록은 동시에 진행 가능한가요?**  
@@ -160,7 +160,7 @@ slug: "foreign-investment-report-vs-registration"
    등록은 법인설립 및 세제 혜택, 비자 신청 등 후속 행정 절차의 필수 요건입니다.
 
 <div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
-  <h3 style="color:white;margin-top:0;text-align:center">비전 행정사사무소</h3>
+  <h3 style="color:white;margin-top:0;text-align:center">비전 행정사사무소
   <p style="margin:12px 0;text-align:center"><strong>전화:</strong> 02-363-2251　|　<strong>이메일:</strong> 5000meter@gmail.com</p>
   <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>방문 상담:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터</p>
 </div>

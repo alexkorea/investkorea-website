@@ -22,7 +22,7 @@ slug: "foreign-stock-corporation-establishment-guide"
 비용은 크게 **자본금(실투자금) + 세금·등기비용(법정비용) + 행정대행/번역·공증비** 세 덩어리로 갈립니다. 자본금 1억 원을 제외한 순수 설립 비용은 보통 250만~600만 원 선에서 움직이며, 법무·행정사·번역·공증을 어디까지 맡기느냐에 따라 폭이 커집니다. 아래 표와 박스에서 절차·서류·비용을 단계별로 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사, 먼저 봐야 할 3가지</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 주식회사 vs 유한회사: 외국인에게 어느 쪽이 유리한가</a></li>
@@ -506,7 +506,7 @@ A. 본국 서류가 모두 준비되어 있고 자본금이 이미 송금되어 
 외국인 주식회사 설립은 서류 양은 많지 않은데 **자금 흐름 설명·외국인투자 신고·본국 서류 인증** 세 지점에서 갈립니다. 이 세 지점을 처음부터 동일한 스토리로 맞춰두면 설립·사업자등록·D-8 비자까지 한 줄로 연결됩니다.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)
   <p>외국인 법인설립·외국인투자 신고·D-8/E-7/F-2 비자 실무 전담</p>
   <ul style="list-style:none;padding-left:0">
     <li><strong>전화</strong>: 02-363-2251</li>

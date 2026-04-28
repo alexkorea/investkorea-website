@@ -22,7 +22,7 @@ slug: "foreign-single-member-company"
 実務では1人法人を2つに分けて見る必要があります。1つ目は、**D-8投資ビザを狙う1人法人**(資本金1億ウォン以上、外国人投資企業登録が必要)。2つ目は、**ビザを伴わず単に法人だけを設立するケース**(資本金制限なし、ただし外国為替申告と税務・銀行手続きはそのまま必要)。両者は資本金基準から送金フロー、事業所賃借のタイミングまですべて異なります。この違いを知らずに「1人だから簡単だろう」と始めると、たいてい銀行口座開設の段階で一度行き詰まります。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人1人法人は法的に可能なのか</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 1人株式会社 vs 1人有限会社、どちらが合うのか</a></li>

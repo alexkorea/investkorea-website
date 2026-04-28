@@ -17,7 +17,7 @@ slug: "foreign-company-korea"
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#introduction">前言</a></li>
     <li><a href="#three-types">三种进入方式</a></li>

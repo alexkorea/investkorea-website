@@ -22,7 +22,7 @@ slug: "foreign-jusikhoesa-full-establishment-guide"
 核心要点如下。即使是1人持股100%的股份公司,也必须满足**注册资本金1亿韩元以上+合法的外国人投资申报**,才能衔接D-8签证。正确顺序为:**外国人投资申报 → 资本金汇款(投资款入账) → 法人登记 → 营业执照办理 → 外商投资企业登记 → 签证申请/变更**。一旦顺序颠倒,后续补救会非常棘手,实务中最常见的事故就是资本金性质被记为"普通汇款"而非"投资款",导致FDI无法获得认定。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人最常选择股份公司的原因</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须先确定的3件事</a></li>

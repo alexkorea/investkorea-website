@@ -22,7 +22,7 @@ slug: "foreign-stock-company-procedure-cost-guide"
 실무에서는 이 선택이 비용과 기간을 가릅니다. 외국인투자 주식회사는 **외국환은행 신고 → 투자금 송금 → 자본금 납입 → 설립등기 → 외국인투자기업 등록 → 사업자등록** 순으로 진행되고, 총 2~4주가 걸립니다. 정부 수수료·등록면허세·공증비·번역공증비를 합치면 자본금 1억 원 기준으로 **약 100만~180만 원의 실비**가 발생하고, 행정사·법무사 대행 수수료를 포함하면 150만~400만 원 사이에서 형성됩니다. 겉으로는 간단해 보여도 실제 심사에서는 투자금 출처, 사업계획, 대표자 서류의 공증·아포스티유가 막히는 지점입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사, 어떤 형태로 세울지부터 결정</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 자본금 기준과 외국인투자기업 등록 조건</a></li>
@@ -573,7 +573,7 @@ D-8을 목표로 한다면 설립 단계부터 **① 사업계획의 숫자 근�
 외국인 주식회사 설립은 **법인 등기만의 문제가 아니라 송금·신고·비자·세무가 한 묶음**으로 움직이는 작업입니다. 한 단계에서 꼬이면 뒤의 모든 절차가 지연됩니다. 비전 행정사사무소는 외국인투자신고 → 설립등기 → 외국인투자기업 등록 → D-8 비자까지 한 창구에서 연결해 드립니다.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 <strong>전화</strong>: 02-363-2251</li>
     <li>📧 <strong>이메일</strong>: 5000meter@gmail.com</li>

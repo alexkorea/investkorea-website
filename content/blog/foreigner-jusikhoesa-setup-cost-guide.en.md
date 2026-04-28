@@ -22,7 +22,7 @@ When a foreign national tries to incorporate a stock company (jusik hoesa, 株�
 Total cost on a KRW 100 million capital base runs roughly **KRW 1.2M–1.7M in government registration license tax, public bonds, and registration fees**, plus KRW 500K–1.5M in judicial scrivener or administrative agent fees. Once capital climbs higher, the registration license tax (calculated at 0.4% of capital) starts dominating — past KRW 500M in capital, taxes account for the bulk of total spend. The tables and sections below lay out **per-stage costs, realistic timelines, and the points where things commonly snag**.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foreign Stock Company vs. LLC: The Distinctions to Weigh First</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. The End-to-End Setup Flow at a Glance</a></li>
@@ -36,7 +36,7 @@ Total cost on a KRW 100 million capital base runs roughly **KRW 1.2M–1.7M in g
   </ul>
 </nav>
 
-## <h2 id="section-1">Foreign Stock Company vs. LLC: The Distinctions to Weigh First</h2>
+## Foreign Stock Company vs. LLC: The Distinctions to Weigh First
 
 ### Why Practitioners Lean Toward a Stock Company
 
@@ -64,7 +64,7 @@ The distinction looks trivial on the surface, but it shows up in tax handling, s
 
 If headquarters is in Japan and the Korean entity is a **small branch-style** operation handling only sales/distribution, an LLC isn't a bad choice. Conversely, if you have any eye on future fundraising, employee stock options, or eventual listing in Korea, starting as a stock company is the right call.
 
-## <h2 id="section-2">The End-to-End Setup Flow at a Glance</h2>
+## The End-to-End Setup Flow at a Glance
 
 ### The Big Picture: Three Gateways
 
@@ -96,7 +96,7 @@ Assuming all paperwork is fully prepared, **roughly 2–3 weeks of business days
   <strong style="color:#92400e">⚠️ Heads-up:</strong> Documents issued abroad — corporate certificates, notarized passports, employment letters — must carry an <strong>apostille (or consular legalization)</strong>, or the registry office will reject them. Without the apostille, the entire packet bounces back.
 </div>
 
-## <h2 id="section-3">Preparation Stage: Foreign Investment Notification and Capital Wire</h2>
+## Preparation Stage: Foreign Investment Notification and Capital Wire
 
 ### Why Foreign Investment Notification Comes First
 
@@ -118,7 +118,7 @@ The most common snag is the **purpose code** entered on the wire instructions. W
 
 Once the foreign investment notification certificate is in hand, open a **temporary capital account** at a Korean FX bank. Most major banks will open the account if the prospective foreign representative director shows up with a passport, valid visa (B-2, C-3, or any valid entry status), and the notification certificate. If the foreign representative can't physically come to Korea, you'll need a **Korean co-representative** or proceed by **power of attorney to legal counsel**.
 
-## <h2 id="section-4">Corporate Registration Stage: Documents and Real-World Snags</h2>
+## Corporate Registration Stage: Documents and Real-World Snags
 
 ### Required Documents for Registration
 
@@ -178,7 +178,7 @@ When listing business purposes in the articles, the wording has to be tuned so i
 </figure>
 
 
-## <h2 id="section-5">Post-Setup Procedures: Business Registration and FIC Filing</h2>
+## Post-Setup Procedures: Business Registration and FIC Filing
 
 ### Business Registration Comes After Corporate Registration
 
@@ -207,7 +207,7 @@ After business registration is complete, you'll need to file for **foreign-inves
 
 After business registration, you open the **corporate operating account** and transfer the funds from the temporary capital account. At this point the bank will once again request UBO (ultimate beneficial owner) verification and AML documentation. Trying to open the account while the foreign representative is outside Korea almost always gets rejected, so the cleanest approach in practice is to **bundle everything while the representative is physically in Korea**.
 
-## <h2 id="section-6">Full Cost Breakdown</h2>
+## Full Cost Breakdown
 
 ### Government Taxes and Fees (Vary with Capital)
 
@@ -256,7 +256,7 @@ Government taxes and fees (~KRW 1.6M) + out-of-pocket (~KRW 500K) + registration
 
 There's almost no slack on translation, notarization, and apostille costs. In fact, **going cheap on translation and getting a term wrong leads to a registration rejection that doubles the cost**. Agent fees vary widely by firm, but bundling foreign investment filing, corporate registration, FIC registration, and the visa **into a single workflow** typically reduces duplicate review and brings the total down.
 
-## <h2 id="section-7">Common Mistakes and How to Avoid Them</h2>
+## Common Mistakes and How to Avoid Them
 
 ### Mistake 1: Wiring First and Filing the Foreign Investment Notification Later
 
@@ -282,7 +282,7 @@ There are cases where someone files for a D-8 without holding the FIC certificat
   <strong style="color:#92400e">⚠️ Heads-up:</strong> Putting up a Korean co-representative temporarily and having them resign right after incorporation can be <strong>recharacterized as a structure under sole foreign substantive control</strong>. That can become an issue at the bank's UBO review and at immigration's D-8 review, so it's safer to set the board composition to match the real operating structure from the outset.
 </div>
 
-## <h2 id="section-8">FAQ (5 Questions)</h2>
+## FAQ (5 Questions)
 
 ### Q1. Does the KRW 100M capital have to be cash? What about contributions in kind?
 
@@ -304,7 +304,7 @@ The document load is heavier when the parent is the shareholder. The **parent's 
 
 The entity itself can stay alive. That said, **at D-8 renewal, an extended period of zero revenue and zero employment makes renewal difficult**. On top of that, VAT, withholding tax, and corporate tax filings all have to be made regardless of revenue. Leaving the entity unfiled and dormant accumulates penalty taxes and risks ex officio dissolution.
 
-## <h2 id="section-9">Consultation Info</h2>
+## Consultation Info
 
 VISION Administrative Office handles foreign-owned stock company setup, foreign investment notification, FIC registration, and D-8 / F-2 visa connection **as a single integrated workflow**. Because we've seen many cases get stuck on the visa stage after incorporation, we frame the documents from the articles' purpose-clause design forward with the visa review already in mind.
 

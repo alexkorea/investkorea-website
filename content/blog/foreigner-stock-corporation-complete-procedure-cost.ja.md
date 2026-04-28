@@ -22,7 +22,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 主なトラブルとしては、「投資資金の海外送金がうまくいかない」、「法人代表のビザ要件が不足している」、「実務的書類の不備や証明力が弱い」などです。このページでは、外国人による株式会社設立の流れ、費用、実務的な要点、つまずきやすいポイントまで、表やチェックリストでわかりやすく解説します。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人株式会社設立の主要工程比較</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 韓国人と外国人の設立手続きの違い</a></li>
@@ -38,9 +38,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-1">外国人株式会社設立の主要工程比較</h2>
+## 外国人株式会社設立の主要工程比較
 
-<h3>1. 外国人と韓国人による設立手続き比較表</h3>
+<h3>1. 外国人と韓国人による設立手続き比較表
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -86,7 +86,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-<h3>2. 設立の流れまとめ</h3>
+<h3>2. 設立の流れまとめ
 
 - 投資資金の海外送金 ↔ 外国人投資申告（事前/事後）
 - 法人登記申請（裁判所）
@@ -96,9 +96,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-2">韓国人と外国人の設立手続きの違い</h2>
+## 韓国人と外国人の設立手続きの違い
 
-<h3>4つの主要な違い</h3>
+<h3>4つの主要な違い
 
 1. <strong>資金送金の方法</strong>：外国人は<strong>海外から送金された資金</strong>のみ認められます  
 2. <strong>外国人投資申告/登録</strong>：国内設立には不要ですが、未申告の場合は法的な不利益  
@@ -109,7 +109,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   <strong style="color:#1e40af">💡 実務アドバイス:</strong> 資金送金は「本人名義の海外口座→韓国口座」の形が基本です。家族名義、代理送金、現地現金入金などは<strong>投資資金として認められにくくなります。審査時に出所説明が不十分だと、審査が難航します。</strong>
 </div>
 
-<h3>投資資金認定条件</h3>
+<h3>投資資金認定条件
 
 - 海外口座からの送金記録＋取引証明書の提出  
 - 投資者本人名義の送金が最も確実  
@@ -118,11 +118,11 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-3">外国人投資申告の流れと審査実態</h2>
+## 外国人投資申告の流れと審査実態
 
 外国人による株式会社設立で最もつまずきやすいのが「外国人投資申告」及び「銀行による投資資金認定」です。
 
-<h3>外国人投資申告の流れ（全体ワークフロー）</h3>
+<h3>外国人投資申告の流れ（全体ワークフロー）
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -177,7 +177,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   <strong style="color:#92400e">⚠️ 注意:</strong> 外国人投資申告が抜けていると、その後の事業者登録やビザ審査が滞るリスクがあります。特に、法人代表がビザを取得する必要がある場合、投資認定ができないとD-8ビザの取得が不可となります。
 </div>
 
-<h3>審査で重視される書類</h3>
+<h3>審査で重視される書類
 
 - 投資者の国籍証明  
 - 送金記録が本人名義かどうか  
@@ -186,9 +186,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-4">設立費用・期間・書類一覧表</h2>
+## 設立費用・期間・書類一覧表
 
-<h3>設立プロセス別の費用・期間・要件表</h3>
+<h3>設立プロセス別の費用・期間・要件表
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -253,9 +253,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 </figure>
 
 
-## <h2 id="section-5">書類準備チェックリスト</h2>
+## 書類準備チェックリスト
 
-<h3>設立時に必要な書類</h3>
+<h3>設立時に必要な書類
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ チェックリスト</strong>
@@ -273,7 +273,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   </ul>
 </div>
 
-<h3>重複提出防止のための書類管理法</h3>
+<h3>重複提出防止のための書類管理法
 
 - 各機関提出用として2～3部コピーを用意しておくのが現実的  
 - 原本認証が必要な書類は<strong>公証／アポスティーユ</strong>が必須  
@@ -281,9 +281,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-6">実務でつまずくポイントと注意点</h2>
+## 実務でつまずくポイントと注意点
 
-<h3>よくある5つのつまずきポイント</h3>
+<h3>よくある5つのつまずきポイント
 
 1. 資金送金の出所説明が不十分  
 2. 株主構成や経歴・資格証明が欠落  
@@ -295,7 +295,7 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
   <strong style="color:#1e40af">💡 実務アドバイス:</strong> 事業計画書はボリュームよりも<strong>「実際に事業が成立する可能性」</strong>をアピールすることが審査合格のカギです。実体のない事業、抽象的な説明、営業への熱意だけではビザ審査に落ちる傾向です。
 </div>
 
-<h3>現場で役立つポイント</h3>
+<h3>現場で役立つポイント
 
 - 原本書類、公証書類、アポスティーユの順番で確実に揃えること  
 - 入金額は事業者登録要件（最低投資額）と合致させる  
@@ -304,9 +304,9 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-7">よくある失敗まとめ</h2>
+## よくある失敗まとめ
 
-<h3>外国人投資株式会社設立で頻発する失敗例</h3>
+<h3>外国人投資株式会社設立で頻発する失敗例
 
 1. 投資資金が代理人や親族名義で送金されている  
 2. 外国人投資申告が設立後で、資本入金が設立前に行われている  
@@ -321,28 +321,28 @@ slug: "foreigner-stock-corporation-complete-procedure-cost"
 
 ---
 
-## <h2 id="section-8">FAQ</h2>
+## FAQ
 
-<h3>Q1. 外国人が韓国で法人設立する場合、最低投資額はいくらですか？</h3>
+<h3>Q1. 外国人が韓国で法人設立する場合、最低投資額はいくらですか？
 A. 外国人投資促進法上、通常は1億ウォン（約USD 80,000）以上の投資で外国人投資企業と認定され、D-8ビザ申請が可能です。業種や地域によって異なる場合があるため、KOTRAや管轄機関でご確認ください。
 
-<h3>Q2. 海外から現金持ち込みの場合、投資資金として認定されますか？</h3>
+<h3>Q2. 海外から現金持ち込みの場合、投資資金として認定されますか？
 A. 原則として認定されますが、送金記録や取引証明、出所証明が明確である必要があります。実務では本人名義の海外口座からの送金が最も確実に認定されます。
 
-<h3>Q3. 外国人投資申告は後からでも大丈夫ですか？</h3>
+<h3>Q3. 外国人投資申告は後からでも大丈夫ですか？
 A. 資金送金前後どちらでも可能ですが、申告漏れの場合は法人設立や事業者登録審査で不合格となるリスクが高いです。必ず送金と申告のタイミングを合わせることが重要です。
 
-<h3>Q4. 代表者がD-8ビザを取得する場合、必ず経歴や関連資格が必要ですか？</h3>
+<h3>Q4. 代表者がD-8ビザを取得する場合、必ず経歴や関連資格が必要ですか？
 A. D-8ビザ審査では事業計画の説得力、代表者経歴、資格証明など全て重視されます。経歴や関連資格が不足していると審査落ちする可能性があります。
 
-<h3>Q5. 設立代行費用が大きく異なるのはなぜですか？</h3>
+<h3>Q5. 設立代行費用が大きく異なるのはなぜですか？
 A. 設立代行費用は投資金額、法人種類、必要書類の複雑さ、ビザとの連携有無などによって違います。実際には、資金証明が難しくビザ取得も難しい場合、代行費用が高くなる傾向があります。
 
 ---
 
-## <h2 id="section-9">ご相談案内</h2>
+## ご相談案内
 
-<h3>外国人による株式会社設立、投資申告、ビザ審査をすべて自力で対応するのは容易ではありません。現場でつまずくポイントを明確にチェックし、ご相談いただければ具体的な手続きや書類についてご案内します。</h3>
+<h3>外国人による株式会社設立、投資申告、ビザ審査をすべて自力で対応するのは容易ではありません。現場でつまずくポイントを明確にチェックし、ご相談いただければ具体的な手続きや書類についてご案内します。
 
 お問い合わせ：  
 - 電話 02-363-2251  

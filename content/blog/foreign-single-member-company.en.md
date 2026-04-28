@@ -22,7 +22,7 @@ A foreigner can absolutely form a one-person corporation in Korea where they ser
 In practice, single-member corporations split into two tracks. First, **a one-person corporation aimed at the D-8 investment visa** (capital of at least KRW 100 million, foreign-invested company registration required). Second, **simply incorporating without a visa attached** (no capital threshold, but foreign exchange reporting, tax, and banking procedures still apply). The two differ on everything from capital threshold to remittance flow to the timing of the office lease. Starting under the assumption that "one person means it'll be simple" without grasping this distinction usually means hitting a wall at the bank account opening stage.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Is a Foreign One-Person Corporation Legally Possible?</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. One-Person Stock Company vs. Limited Company — Which Fits?</a></li>

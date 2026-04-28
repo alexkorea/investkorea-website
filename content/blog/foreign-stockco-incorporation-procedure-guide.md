@@ -22,7 +22,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 비용은 보통 **자본금 1억 원 기준 총 실비 250만 원~400만 원 + 행정사·법무사 수수료**가 현실적인 범위입니다. 등록면허세(과밀억제권역 3배 중과 포함), 교육세, 정관 인증 수수료, 등기 신청 수수료, 공증료, 번역·아포스티유 비용이 섞입니다. 자본금이 1억 원 미만이거나 투자자가 외국법인이면 구조가 달라집니다. 아래에서 절차·서류·비용을 실제 순서대로 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인 주식회사와 외국인투자기업의 차이</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 설립 전 확인해야 할 3가지 전제</a></li>
@@ -37,7 +37,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   </ul>
 </nav>
 
-## <h2 id="section-1">1. 외국인 주식회사와 외국인투자기업의 차이</h2>
+## 1. 외국인 주식회사와 외국인투자기업의 차이
 
 ### 같은 주식회사라도 신분이 다릅니다
 
@@ -93,7 +93,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 실제 실무에서는 비자가 필요한 개인 투자자는 무조건 **FDI 구조**로 가야 합니다. 이미 국내에 거주자격이 있거나 단순 자본 참여면 일반 외국인주주법인으로도 충분합니다. 핵심은 이것입니다 — **D-8을 염두에 두고 있다면 9,999만 원은 아무 의미가 없습니다.** 1억 원 요건은 환율 변동까지 감안해서 넉넉히 송금해야 인정됩니다.
 
-## <h2 id="section-2">2. 설립 전 확인해야 할 3가지 전제</h2>
+## 2. 설립 전 확인해야 할 3가지 전제
 
 ### 사업장 주소를 먼저 정해야 하는 이유
 
@@ -111,7 +111,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   <strong style="color:#92400e">⚠️ 주의:</strong> 외국법인이 주주로 들어가면 "법인 인감증명서" 개념이 없는 나라가 많습니다. 본국의 법인등기부등본 + 이사회결의서 + 서명권자 증명서(Certificate of Incumbency) + 아포스티유 또는 영사확인이 세트로 필요합니다. 이 서류가 한 장 빠지면 등기소에서 바로 반려됩니다.
 </div>
 
-## <h2 id="section-3">3. 전체 설립 절차 — 7단계 로드맵</h2>
+## 3. 전체 설립 절차 — 7단계 로드맵
 
 ### 순서가 뒤바뀌면 돈이 묶입니다
 
@@ -204,7 +204,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 마지막으로 KOTRA 또는 지자체에 **외국인투자기업 등록증**을 신청합니다. 이 등록증이 있어야 D-8 비자 초청, 조세감면 신청, 외국인투자기업 전용 지원사업 신청이 가능합니다.
 
-## <h2 id="section-4">4. 단계별 필요 서류 총정리</h2>
+## 4. 단계별 필요 서류 총정리
 
 ### 투자자(개인 외국인) 제출 서류
 
@@ -253,7 +253,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 본국에서 서류를 준비할 때는 "주소증명"과 "서명감" 두 가지를 한 번에 공증받아 두세요. 나중에 은행 가설계좌 개설, 사업자등록, 비자 초청장 제출 시 동일 서류가 반복 요청됩니다. 원본 2~3부씩 받아두면 왕복 시간을 아낄 수 있습니다.
 </div>
 
-## <h2 id="section-5">5. 실제 비용 구조와 구간별 예산</h2>
+## 5. 실제 비용 구조와 구간별 예산
 
 ### 고정 실비 — 정부·공공 수수료
 
@@ -373,7 +373,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 </figure>
 
 
-## <h2 id="section-6">6. 자본금·투자 형태별 유의점</h2>
+## 6. 자본금·투자 형태별 유의점
 
 ### 현금 출자 vs 현물 출자
 
@@ -395,7 +395,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 이미 설립된 한국 법인에 외국인이 후발 참여하는 경우, **신규 설립보다는 제3자 배정 유상증자** 방식이 일반적입니다. 증자 전에도 외국인투자신고가 필요하며, 증자 후 주주명부·정관 변경 등기와 외국인투자기업 등록(또는 내용변경 등록)을 해야 합니다.
 
-## <h2 id="section-7">7. 설립 후 반드시 처리해야 할 행정 절차</h2>
+## 7. 설립 후 반드시 처리해야 할 행정 절차
 
 ### 법인 통장 개설 — 가장 시간이 오래 걸립니다
 
@@ -456,7 +456,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   </tbody>
 </table>
 
-## <h2 id="section-8">8. 자주 하는 실수와 거절 사례</h2>
+## 8. 자주 하는 실수와 거절 사례
 
 ### 실수 1 — 송금을 먼저 하고 신고를 나중에
 
@@ -486,7 +486,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
   <strong style="color:#1e40af">💡 실무 팁:</strong> 대표이사가 단기 체류 중이거나 아직 입국 전이라면, 설립 초기에 한국 사무실 유선전화와 한국 주소(임대차계약 주소 그대로)를 병행 기재해두는 편이 안전합니다. 우편물 수령 대리인 지정도 활용할 수 있습니다.
 </div>
 
-## <h2 id="section-9">9. 자주 묻는 질문 (FAQ)</h2>
+## 9. 자주 묻는 질문 (FAQ)
 
 **Q1. 외국인 단독으로 주식회사를 설립할 수 있나요?**
 
@@ -508,7 +508,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 법적으로는 설립 직후 변경등기가 가능합니다. 그러나 외국인투자기업 등록증·D-8 비자 초청 심사에서 "설립 직후 주소·대표 변경"은 **실체 없는 페이퍼컴퍼니 의심 사유**로 분류될 수 있습니다. 최소 6개월~1년은 설립 당시 정보를 유지하는 편이 안전합니다.
 
-## <h2 id="section-10">10. 상담 안내</h2>
+## 10. 상담 안내
 
 외국인 주식회사 설립은 단순한 등기 대행이 아니라 **송금·신고·등기·비자·세무가 한 줄로 연결된 절차**입니다. 순서 한 군데가 어긋나면 자금이 묶이거나 비자 연계가 끊깁니다. 비전 행정사사무소는 투자금 송금 단계부터 외국인투자기업 등록, D-8 비자 초청까지 한 번에 진행합니다.
 

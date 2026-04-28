@@ -22,7 +22,7 @@ slug: "foreigner-joint-stock-co-setup-complete"
 実務で詰まるのは手続きそのものよりも、**「資本金の出所・送金経路の証憑」**と**「本国発行書類のアポスティーユ・領事認証」**です。書類の数よりもこの2点の説明が弱いと、銀行送金の段階から話がこじれ、D-8ビザとの連携では入国審査の段階で即座に引っかかります。本稿では、設立形態の決定から送金・登記・税務・ビザに至るまで、お金と時間を無駄にしないよう順序を整理することに焦点を当てます。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人株式会社、どの形態で設立するか</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立前に先に決めておくべき6つのポイント</a></li>
@@ -498,7 +498,7 @@ A. 外国人投資企業登録証の発行後、本国大使館で査証申請 �
 外国人株式会社の設立は、書類の数が多くて難しいのではなく、**届出→送金→登記→外投登録→ビザ**の5つの軸が歯車のように噛み合っているため、1ヶ所でもずれると全体が遅延するのが実情です。ビジョン行政士事務所は、外国人投資・法人設立・ビザ連携をワンストップで処理し、本国書類のアポスティーユのコーディネートからD-8申請、さらには設立後3ヶ月の後続届出まで併せて管理いたします。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)
   <p style="margin:8px 0"><strong>電話</strong> 02-363-2251</p>
   <p style="margin:8px 0"><strong>Eメール</strong> 5000meter@gmail.com</p>
   <p style="margin:8px 0"><strong>住所</strong> (04614) ソウル特別市中区退渓路324、3階(ソンウビル)</p>

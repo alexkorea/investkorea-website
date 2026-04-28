@@ -22,7 +22,7 @@ When foreigners set up a corporation in Korea, they often find the paperwork les
 The most common hurdles are tangled overseas wiring of investment funds, missed visa requirements for corporate representatives, and incomplete or insufficiently substantiated documentation. This article presents a streamlined overview of the process, costs, practical steps, and common sticking points for foreign-owned corporations in Korea, with tables and checklists for easy reference.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foreign-Owned Corporation Formation: Step-by-Step Comparison</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Differences Between Domestic and Foreign Formation Procedures</a></li>
@@ -38,9 +38,9 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 ---
 
-## <h2 id="section-1">Foreign-Owned Corporation Formation: Step-by-Step Comparison</h2>
+## Foreign-Owned Corporation Formation: Step-by-Step Comparison
 
-<h3>1. Step-by-Step Comparison: Domestic vs. Foreign-Owned Corporations</h3>
+<h3>1. Step-by-Step Comparison: Domestic vs. Foreign-Owned Corporations
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -86,7 +86,7 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 ---
 
-<h3>2. Overview of Formation Steps</h3>
+<h3>2. Overview of Formation Steps
 
 - Wire investment funds from overseas ↔ Foreign investment declaration (before or after transfer)
 - Corporate registration at the court
@@ -96,9 +96,9 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 ---
 
-## <h2 id="section-2">Differences Between Domestic and Foreign Formation Procedures</h2>
+## Differences Between Domestic and Foreign Formation Procedures
 
-<h3>Four Key Differences for Foreign-Owned Corporation Formation</h3>
+<h3>Four Key Differences for Foreign-Owned Corporation Formation
 
 1. <strong>Investment Fund Transfer:</strong> Only funds wired from overseas in the investor’s own name are recognized  
 2. <strong>Foreign Investment Declaration/Registration:</strong> This process doesn’t exist for domestic companies; if omitted, it results in legal disadvantages  
@@ -109,7 +109,7 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
   <strong style="color:#1e40af">💡 Practical Tip:</strong> The crucial step is wiring funds from your own overseas bank account directly to your Korean account. Family, proxy transfers, or cash brought from overseas may weaken recognition of your investment and complicate explanation at review.
 </div>
 
-<h3>Conditions for Recognizing Investment Funds</h3>
+<h3>Conditions for Recognizing Investment Funds
 
 - Submit overseas wire transfer details and supporting documents  
 - Wire must be under investor’s own name for clarity  
@@ -118,11 +118,11 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 ---
 
-## <h2 id="section-3">Foreign Investment Declaration Process & Real-World Review</h2>
+## Foreign Investment Declaration Process & Real-World Review
 
 The most common stumbling block during foreign-owned corporation formation is the foreign investment declaration itself and gaining official recognition of the capital from the bank.
 
-<h3>Foreign Investment Declaration Process (Full Workflow)</h3>
+<h3>Foreign Investment Declaration Process (Full Workflow)
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -177,7 +177,7 @@ The most common stumbling block during foreign-owned corporation formation is th
   <strong style="color:#92400e">⚠️ Caution:</strong> Missing the foreign investment declaration can cause issues during business registration or visa review. Especially if the representative needs a D-8 visa, failure to have recognized investment will prevent visa issuance.
 </div>
 
-<h3>Documents Checked During Real-World Review</h3>
+<h3>Documents Checked During Real-World Review
 
 - Proof of investor’s nationality
 - Confirmation that funds were wired in investor’s own name
@@ -186,9 +186,9 @@ The most common stumbling block during foreign-owned corporation formation is th
 
 ---
 
-## <h2 id="section-4">Costs, Timeline, and Documentation Table</h2>
+## Costs, Timeline, and Documentation Table
 
-<h3>Costs, Timeline, and Key Requirements by Formation Step</h3>
+<h3>Costs, Timeline, and Key Requirements by Formation Step
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -253,9 +253,9 @@ The most common stumbling block during foreign-owned corporation formation is th
 </figure>
 
 
-## <h2 id="section-5">Document Preparation Checklist</h2>
+## Document Preparation Checklist
 
-<h3>Essential Documents for Corporation Formation</h3>
+<h3>Essential Documents for Corporation Formation
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ Checklist</strong>
@@ -273,7 +273,7 @@ The most common stumbling block during foreign-owned corporation formation is th
   </ul>
 </div>
 
-<h3>How to Organize Documents to Avoid Redundant Submissions</h3>
+<h3>How to Organize Documents to Avoid Redundant Submissions
 
 - Make 2–3 copies for submissions to different authorities  
 - Originals requiring authentication must be <strong>notarized/apostilled</strong>  
@@ -281,9 +281,9 @@ The most common stumbling block during foreign-owned corporation formation is th
 
 ---
 
-## <h2 id="section-6">Common Bottlenecks and Points of Caution</h2>
+## Common Bottlenecks and Points of Caution
 
-<h3>Top 5 Common Sticking Points</h3>
+<h3>Top 5 Common Sticking Points
 
 1. Weak explanation for the source of investment funds  
 2. Lack of evidence for shareholder structure, experience, or qualifications  
@@ -295,7 +295,7 @@ The most common stumbling block during foreign-owned corporation formation is th
   <strong style="color:#1e40af">💡 Practical Tip:</strong> For your business plan, focus on <strong>"actual feasibility"</strong> rather than length for successful review. Vague or overly generic descriptions may cause visa rejection.
 </div>
 
-<h3>On-the-Ground Practical Tips</h3>
+<h3>On-the-Ground Practical Tips
 
 - Prepare documents in strict order: originals, notarized copies, apostille  
 - Deposit amount must meet minimum investment requirement for business registration  
@@ -304,9 +304,9 @@ The most common stumbling block during foreign-owned corporation formation is th
 
 ---
 
-## <h2 id="section-7">Summary of Frequent Mistakes</h2>
+## Summary of Frequent Mistakes
 
-<h3>Common Pitfalls in Foreign-Invested Corporation Formation</h3>
+<h3>Common Pitfalls in Foreign-Invested Corporation Formation
 
 1. Investment funds wired by proxies or family members, not in investor’s name  
 2. Investment declaration happens after formation, but capital was deposited beforehand  
@@ -321,28 +321,28 @@ The most common stumbling block during foreign-owned corporation formation is th
 
 ---
 
-## <h2 id="section-8">FAQ</h2>
+## FAQ
 
-<h3>Q1. What’s the minimum capital requirement for foreigners to set up a corporation in Korea?</h3>
+<h3>Q1. What’s the minimum capital requirement for foreigners to set up a corporation in Korea?
 A. According to the Foreign Investment Promotion Act, generally an investment of at least KRW 100 million (about USD 80,000) is required to be recognized as a foreign-invested company and qualify for a D-8 visa. Requirements may vary by industry or region, so check with KOTRA or the relevant authority.
 
-<h3>Q2. Can funds brought in as cash from overseas be recognized as investment capital?</h3>
+<h3>Q2. Can funds brought in as cash from overseas be recognized as investment capital?
 A. In principle, yes—if you can clearly document the wire transfer details, transaction receipts, and source of funds. In practice, wiring funds from your personal overseas bank account is regarded as most reliable.
 
-<h3>Q3. Is it okay to submit the foreign investment declaration after transferring the funds?</h3>
+<h3>Q3. Is it okay to submit the foreign investment declaration after transferring the funds?
 A. You can declare before or after the fund transfer, but missing the declaration may result in rejection at corporate formation or business registration reviews. Aligning fund transfer and declaration is essential.
 
-<h3>Q4. Does the representative need to have relevant career experience or qualifications to apply for a D-8 visa?</h3>
+<h3>Q4. Does the representative need to have relevant career experience or qualifications to apply for a D-8 visa?
 A. The D-8 review heavily weighs business plan credibility, representative’s experience, and qualifications. Lack of career or certification can lead to denial.
 
-<h3>Q5. Why do agency fees for formation services vary so much?</h3>
+<h3>Q5. Why do agency fees for formation services vary so much?
 A. Fees depend on the investment amount, corporation type, document complexity, and visa application support. Cases with weak fund documentation or complex visa issues are more expensive.
 
 ---
 
-## <h2 id="section-9">Consultation Guide</h2>
+## Consultation Guide
 
-<h3>Handling the formation, investment declaration, and visa review for a foreign-owned corporation in Korea is rarely straightforward. For practical guidance on navigating real-world obstacles and detailed help with procedures and documentation, reach out via the contact information below.</h3>
+<h3>Handling the formation, investment declaration, and visa review for a foreign-owned corporation in Korea is rarely straightforward. For practical guidance on navigating real-world obstacles and detailed help with procedures and documentation, reach out via the contact information below.
 
 Contact:  
 - Phone: 02-363-2251  

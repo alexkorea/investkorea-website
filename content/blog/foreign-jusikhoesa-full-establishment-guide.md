@@ -22,7 +22,7 @@ slug: "foreign-jusikhoesa-full-establishment-guide"
 핵심은 이것입니다. 1인 지분 100% 주식회사라도 **자본금 1억 원 이상 + 적법한 외국인투자신고**를 갖춰야 D-8 비자로 연결됩니다. 순서는 **외국인투자신고 → 자본금 송금(투자금 입금) → 법인 등기 → 사업자등록 → 외국인투자기업 등록 → 비자 신청/변경**입니다. 이 순서가 뒤집히면 뒤에서 바로잡기가 까다롭고, 자본금 성격이 "투자금"이 아닌 "일반 송금"으로 찍혀서 FDI 인정을 못 받는 사고가 실무에서 가장 흔합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 외국인이 주식회사를 가장 많이 선택하는 이유</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 설립 전에 먼저 정해야 하는 3가지</a></li>

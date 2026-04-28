@@ -22,7 +22,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 费用构成为**注册资本金（建议最低1亿韩元）+ 登记许可税及地方教育税（注册资本的0.48%，首都圈人口密集限制区域加征3倍）+ 公证及登记手续费 + 行政代理费**。如果将总部设在首尔，以1亿韩元注册资本计算，仅登记税约为144万韩元，加上公证和法务费用，实际支出约在200万～400万韩元之间。这些费用与注册资本是分开计算的，务必提前做好资金规划，避免预算混乱。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人设立股份有限公司前必须确定的3件事</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 有限责任公司与股份有限公司如何选择</a></li>
@@ -37,7 +37,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   </ul>
 </nav>
 
-## <h2 id="section-1">1. 外国人设立股份有限公司前必须确定的3件事</h2>
+## 1. 外国人设立股份有限公司前必须确定的3件事
 
 实务中接到委托后，首先要确认三个关键问题：**注册资本规模、总部所在地、外国人持股比例**。这三项不确定，连申报表都无法提交。
 
@@ -61,7 +61,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#92400e">⚠️ 注意：</strong> 务必先通过产业通商资源部外国人投资统计系统（INSC）或KOTRA确认所从事的行业是否属于"外国人投资许可行业"。如果以非许可行业进行申报，外汇银行将直接拒绝受理。
 </div>
 
-## <h2 id="section-2">2. 有限责任公司与股份有限公司如何选择</h2>
+## 2. 有限责任公司与股份有限公司如何选择
 
 这是外国客户最常问的问题。直接给出结论：**如果未来有融资、上市（IPO）或股权转让计划，选择股份有限公司；如果是单一所有者简单经营，有限责任公司更合适**。
 
@@ -120,7 +120,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 此外，如果**计划引入新的投资者**，股份有限公司更为便利。有限责任公司的股权变更需要全体股东大会同意，手续较为繁琐。
 
-## <h2 id="section-3">3. 设立流程6步详解</h2>
+## 3. 设立流程6步详解
 
 整体流程如下表所示。各步骤依次衔接，任何一步受阻都会导致后续全部停滞。
 
@@ -205,7 +205,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#1e40af">💡 实务建议：</strong> 如果材料齐全，整个流程大约2～3周完成；如果需要重新获取本国文件，可能需要4～6周。若与D-8签证的时间安排相关联，优先准备本国文件是缩短整体时间最有效的方法。
 </div>
 
-## <h2 id="section-4">4. 注册资本标准与FDI注册条件</h2>
+## 4. 注册资本标准与FDI注册条件
 
 ### 最低注册资本——法定最低与实务最低不同
 
@@ -229,7 +229,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 多人投资时经常被忽略的要点：**不是总额1亿韩元，而是每人1亿韩元**。如果2人各出资5,000万韩元，将无法注册FDI。在这一点上存在问题的话，外汇银行会直接驳回。
 
-## <h2 id="section-5">5. 所需文件及本国公证实务</h2>
+## 5. 所需文件及本国公证实务
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ 外国投资者（个人）提交文件清单</strong>
@@ -272,7 +272,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 </figure>
 
 
-## <h2 id="section-6">6. 总费用构成及各项金额</h2>
+## 6. 总费用构成及各项金额
 
 以注册资本1亿韩元、总部设在首尔、发起人1人为基准，实际支出明细如下。
 
@@ -371,7 +371,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#92400e">⚠️ 注意：</strong> 注册资本提高到10亿韩元后，将接近外部审计判定标准，同时也会产生监事选任义务。与其盲目追求大数字，不如根据实际经营规模和签证要求来合理设定。具体标准需向主管机关确认。
 </div>
 
-## <h2 id="section-7">7. 设立后必须完成的后续手续</h2>
+## 7. 设立后必须完成的后续手续
 
 登记和税务登记完成，并不意味着公司就能正常运转。还需要依次完成法人账户开户、四大保险参保、D-8签证变更等后续手续。
 
@@ -393,7 +393,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 根据《外国人投资促进法》，**高新技术产业和部分服务业**等行业可申请法人税和所得税减免。减免并非自动适用，**需要单独申请**，且必须在开始经营前提出。实务中通常在设立后立即与KOTRA展开协商。
 
-## <h2 id="section-8">8. 常见失误与驳回原因</h2>
+## 8. 常见失误与驳回原因
 
 实际被驳回或进度延误的案例归纳起来，问题模式几乎如出一辙。
 
@@ -425,7 +425,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
   <strong style="color:#1e40af">💡 实务建议：</strong> 被驳回案例中超过70%的问题不是文件本身有误，而是"文件之间信息不一致"。名字拼写差一个字母、地址门牌号差一个数字，只要各文件之间存在差异就会被立即退回。设立前将所有文件副本摊开逐项核对，是最行之有效的检查方法。
 </div>
 
-## <h2 id="section-9">9. 常见问题（FAQ）</h2>
+## 9. 常见问题（FAQ）
 
 ### Q1. 不到韩国，可以远程设立股份有限公司吗？
 
@@ -447,7 +447,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 不能简单汇款，而是需要选择**增资（发行新股）或借贷**两种方式之一。增资需要董事会决议、股东大会决议和变更登记，并且需要就增加的注册资本再次缴纳登记税。借贷则需要另行办理**对外借款申报**，支付利息时还涉及代扣税问题。无论选择哪种方式，如果只是从母公司账户直接汇出，将被归类为"非投资性资金"，无法被认定为FDI持股比例的扩大。
 
-## <h2 id="section-10">10. 咨询指引</h2>
+## 10. 咨询指引
 
 外国人设立股份有限公司涉及法务、外汇、税务、出入境等多个领域的交叉。任何一个环节的文件信息出现偏差，都可能导致整体进度延误2～3周。VISION行政士事务所提供从外国人投资申报、法人登记、税务登记、外商投资企业注册到D-8签证衔接的一站式服务。
 

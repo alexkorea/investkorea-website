@@ -22,7 +22,7 @@ slug: "foreign-stock-corporation-establishment-guide"
 費用は大きく **資本金(実投資金)+ 税金・登記費用(法定費用)+ 行政代行・翻訳・公証費** の三つに分かれます。資本金1億ウォンを除いた純粋な設立費用は、通常250万〜600万ウォン程度で、法務・行政書士・翻訳・公証をどこまで依頼するかで幅が出ます。以下の表とボックスで、手続き・書類・費用を段階別に整理します。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人の株式会社設立で最初に確認すべき3つのポイント</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 株式会社 vs 有限会社:外国人にとってどちらが有利か</a></li>
@@ -506,7 +506,7 @@ A. 本国書類がすべて揃っており、資本金もすでに送金済み�
 外国人による株式会社設立は、書類の量自体は多くないものの、**資金フローの説明・外国人投資申告・本国書類の認証** という三つのポイントで明暗が分かれます。この三点を最初から一貫したストーリーに揃えておけば、設立・事業者登録・D-8ビザまで一本の線でつながります。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政書士事務所(VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政書士事務所(VISION Administrative Office)
   <p>外国人の法人設立・外国人投資申告・D-8/E-7/F-2ビザの実務を専門に担当</p>
   <ul style="list-style:none;padding-left:0">
     <li><strong>電話</strong>: 02-363-2251</li>
