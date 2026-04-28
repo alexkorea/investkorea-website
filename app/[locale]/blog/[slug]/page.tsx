@@ -11,6 +11,7 @@ import { getLocalePath } from "@/lib/locale-utils"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { ArticleJsonLd } from "@/components/structured-data"
+import { InlineCTAForm } from "@/components/inline-cta-form"
 
 export const revalidate = 60
 export const dynamicParams = true
@@ -150,6 +151,7 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
                   prose-img:rounded-lg prose-img:shadow-md prose-img:my-6 prose-img:max-h-[300px] prose-img:object-cover prose-img:w-full"
                 dangerouslySetInnerHTML={{ __html: contentHtml }}
               />
+              <InlineCTAForm />
             </article>
 
             {/* Sidebar */}
