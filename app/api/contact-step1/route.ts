@@ -115,7 +115,7 @@ export async function POST(request: Request) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "VISION <noreply@investkorea.co.kr>",
+        from: "VISION <noreply@ko-visas.com>",
         to: [email],
         subject: "[VISION 행정사사무소] 맞춤 상담 양식 안내",
         html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId),

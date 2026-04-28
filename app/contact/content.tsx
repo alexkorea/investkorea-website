@@ -10,8 +10,10 @@ type ContactTranslations = typeof import("@/lib/page-translations").pageTranslat
 
 const services = [
   { value: "법인설립", label: "법인설립", sub: "Company Setup", icon: "🏢" },
+  { value: "연락사무소설치", label: "연락사무소 설치", sub: "Liaison Office", icon: "🏛️" },
   { value: "D-8 투자비자", label: "D-8 투자비자", sub: "Investment Visa", icon: "📋" },
   { value: "D-7 주재원비자", label: "D-7 주재원비자", sub: "Transfer Visa", icon: "🔄" },
+  { value: "D-9-2 설비파견", label: "D-9-2 설비파견", sub: "Equipment Dispatch", icon: "⚙️" },
   { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏠" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
 ]
@@ -57,7 +59,6 @@ function StepIndicator({ step }: { step: 1 | 2 }) {
       <div className="w-8 h-px bg-gray-300" />
       <div className="flex items-center gap-2">
         <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${step === 2 ? "bg-blue-600 text-white" : "bg-gray-200 text-gray-500"}`}>2</div>
-        <span className={`text-sm font-medium ${step === 2 ? "text-gray-900" : "text-gray-400"}`}>상세 정보</span>
       </div>
     </div>
   )
@@ -253,16 +254,13 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                   className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white"
                 >
                   <option value="">선택해주세요</option>
-                  <optgroup label="주요 국가">
-                    {priorityCountries.map((c) => (
-                      <option key={c.value} value={c.value}>{c.label}</option>
-                    ))}
-                  </optgroup>
-                  <optgroup label="기타 국가">
-                    {otherCountries.map((c) => (
-                      <option key={c.value} value={c.value}>{c.label}</option>
-                    ))}
-                  </optgroup>
+                  {priorityCountries.map((c) => (
+                    <option key={c.value} value={c.value}>{c.label}</option>
+                  ))}
+                  <option disabled>──────────</option>
+                  {otherCountries.map((c) => (
+                    <option key={c.value} value={c.value}>{c.label}</option>
+                  ))}
                 </select>
               </div>
 
