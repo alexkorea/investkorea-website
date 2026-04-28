@@ -26,7 +26,7 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
         <!-- Body -->
         <tr>
           <td style="padding:40px;">
-            <h2 style="margin:0 0 8px;color:#1e3a5f;font-size:22px;font-weight:700;">감사합니다, ${name}님!</h2>
+            <h2 style="margin:0 0 8px;color:#1e3a5f;font-size:22px;font-weight:700;">${name}님, 비전행정사사무소에 상담요청해 주셔서 감사합니다.</h2>
             <p style="margin:0 0 24px;color:#555;font-size:15px;line-height:1.6;">
               상담 신청이 접수되었습니다.<br/>
               맞춤 상담을 위해 아래 추가 정보를 입력해주세요.
@@ -115,9 +115,9 @@ export async function POST(request: Request) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "VISION <noreply@ko-visas.com>",
+        from: "비전행정사사무소 <noreply@ko-visas.com>",
         to: [email],
-        subject: "[VISION 행정사사무소] 맞춤 상담 양식 안내",
+        subject: "[비전행정사사무소] 비전행정사사무소에 상담요청해 주셔서 감사합니다.",
         html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId),
       }),
     }).catch((err) => console.error("Resend email error:", err))

@@ -58,6 +58,8 @@ export { StepIndicator }
 export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; locale?: Locale }) {
   const [selectedServices, setSelectedServices] = useState<string[]>([])
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
+  const [submittedName, setSubmittedName] = useState("")
+  const [inquiryId, setInquiryId] = useState("")
 
   function toggleService(value: string) {
     setSelectedServices((prev) =>
@@ -88,6 +90,9 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
         body: JSON.stringify(data),
       })
       if (res.ok) {
+        const result = await res.json()
+        setSubmittedName(data.name)
+        setInquiryId(result.inquiryId || "")
         setStatus("sent")
       } else {
         setStatus("error")
@@ -123,10 +128,24 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                   <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">신청이 완료되었습니다!</h2>
-              <p className="text-gray-600 mb-6">입력하신 이메일로 맞춤 상담 양식을 발송했습니다.</p>
+              <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">상담신청이 접수되었습니다.</h2>
+              <p className="text-gray-600 mb-6">
+                {selectedServices.map(s => s).join(', ')} 신청을 해주셨습니다.
+                <br />
+                {selectedServices.map(s => s).join(', ')} 취득을 위해 좀 더 자세한 정보를 입력해 주시면 감사드립니다.
+              </p>
 
-              <div className="bg-gray-50 rounded-lg p-5 mb-6 space-y-2">
+              <Link
+                href={`/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}`}
+                className="inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white px-8 h-12 rounded-lg font-semibold transition-colors text-lg mb-6"
+              >
+                상세정보 입력하기 →
+              </Link>
+
+              <p className="text-sm text-gray-400 mb-4">약 1분 소요</p>
+
+              <div className="bg-gray-50 rounded-lg p-5 space-y-2">
+                <p className="text-sm text-gray-500">비전행정사사무소</p>
                 <div className="flex items-center justify-center gap-2">
                   <span className="text-sm text-gray-500">전화:</span>
                   <span className="font-medium text-gray-900">02-363-2251</span>
@@ -136,13 +155,6 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                   <span className="font-medium text-gray-900">alexkorea</span>
                 </div>
               </div>
-
-              <Link
-                href="/"
-                className="inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white px-8 h-11 rounded-lg font-semibold transition-colors"
-              >
-                홈으로 돌아가기
-              </Link>
             </div>
           </div>
         </section>
