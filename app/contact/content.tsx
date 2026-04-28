@@ -95,8 +95,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
           <StepIndicator step={1} />
 
           <div className="bg-white rounded-xl border border-gray-200 p-8 shadow-sm">
-            <h2 className="text-xl font-serif font-bold text-gray-900 mb-2">기본 정보 입력</h2>
-            <p className="text-sm text-gray-500 mb-6">간단한 정보를 입력해주시면, 맞춤 상담을 위한 상세 질문을 안내해 드립니다.</p>
+            <h2 className="text-xl font-serif font-bold text-gray-900 mb-2">⚡ 30초 빠른 신청</h2>
 
             <form onSubmit={handleSubmit} className="space-y-6">
               {/* Name */}
