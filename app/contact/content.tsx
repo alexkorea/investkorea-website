@@ -3,7 +3,6 @@
 import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import { useRouter } from "next/navigation"
 import { type Locale } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
 
@@ -15,6 +14,37 @@ const services = [
   { value: "D-7 주재원비자", label: "D-7 주재원비자", sub: "Transfer Visa", icon: "🔄" },
   { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏠" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
+]
+
+const priorityCountries = [
+  { value: "미국", label: "🇺🇸 미국" },
+  { value: "중국", label: "🇨🇳 중국" },
+  { value: "일본", label: "🇯🇵 일본" },
+  { value: "베트남", label: "🇻🇳 베트남" },
+  { value: "캐나다", label: "🇨🇦 캐나다" },
+  { value: "영국", label: "🇬🇧 영국" },
+]
+
+const otherCountries = [
+  { value: "뉴질랜드", label: "🇳🇿 뉴질랜드" },
+  { value: "대만", label: "🇹🇼 대만" },
+  { value: "독일", label: "🇩🇪 독일" },
+  { value: "러시아", label: "🇷🇺 러시아" },
+  { value: "말레이시아", label: "🇲🇾 말레이시아" },
+  { value: "몽골", label: "🇲🇳 몽골" },
+  { value: "미얀마", label: "🇲🇲 미얀마" },
+  { value: "싱가포르", label: "🇸🇬 싱가포르" },
+  { value: "인도", label: "🇮🇳 인도" },
+  { value: "인도네시아", label: "🇮🇩 인도네시아" },
+  { value: "이탈리아", label: "🇮🇹 이탈리아" },
+  { value: "우즈베키스탄", label: "🇺🇿 우즈베키스탄" },
+  { value: "캄보디아", label: "🇰🇭 캄보디아" },
+  { value: "태국", label: "🇹🇭 태국" },
+  { value: "프랑스", label: "🇫🇷 프랑스" },
+  { value: "필리핀", label: "🇵🇭 필리핀" },
+  { value: "호주", label: "🇦🇺 호주" },
+  { value: "홍콩", label: "🇭🇰 홍콩" },
+  { value: "기타", label: "기타" },
 ]
 
 function StepIndicator({ step }: { step: 1 | 2 }) {
@@ -36,23 +66,30 @@ function StepIndicator({ step }: { step: 1 | 2 }) {
 export { StepIndicator }
 
 export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; locale?: Locale }) {
-  const [selectedService, setSelectedService] = useState("")
-  const [status, setStatus] = useState<"idle" | "sending" | "error">("idle")
-  const router = useRouter()
+  const [selectedServices, setSelectedServices] = useState<string[]>([])
+  const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
+
+  function toggleService(value: string) {
+    setSelectedServices((prev) =>
+      prev.includes(value) ? prev.filter((s) => s !== value) : [...prev, value]
+    )
+  }
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
-    if (!selectedService) return
+    if (selectedServices.length === 0) return
     setStatus("sending")
     const form = e.currentTarget
     const snsType = (form.elements.namedItem("snsType") as HTMLSelectElement).value
     const snsId = (form.elements.namedItem("snsId") as HTMLInputElement).value
     const data = {
       name: (form.elements.namedItem("name") as HTMLInputElement).value,
+      email: (form.elements.namedItem("email") as HTMLInputElement).value,
       contact: (form.elements.namedItem("contact") as HTMLInputElement).value,
       snsType: snsType || undefined,
       snsId: snsId || undefined,
-      service: selectedService,
+      nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
+      services: selectedServices,
     }
     try {
       const res = await fetch("/api/contact-step1", {
@@ -61,15 +98,66 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
         body: JSON.stringify(data),
       })
       if (res.ok) {
-        const result = await res.json()
-        const inquiryId = result.inquiryId || ""
-        router.push(`/contact/step2?service=${encodeURIComponent(selectedService)}&inquiryId=${inquiryId}`)
+        setStatus("sent")
       } else {
         setStatus("error")
       }
     } catch {
       setStatus("error")
     }
+  }
+
+  if (status === "sent") {
+    return (
+      <>
+        {/* Hero */}
+        <section className="relative pt-16">
+          <div className="relative min-h-[260px] md:min-h-[340px] flex items-center">
+            <div className="absolute inset-0">
+              <Image src="/pages/contact.jpg" alt="VISION 행정사사무소 문의하기" fill className="object-cover" priority sizes="100vw" />
+              <div className="absolute inset-0 bg-black/50" />
+            </div>
+            <div className="relative max-w-7xl mx-auto px-6 py-16 text-center w-full">
+              <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-white/10 text-white text-sm font-medium mb-6">{t.badge}</div>
+              <h1 className="text-3xl md:text-5xl font-serif font-bold mb-4 text-white">{t.title}</h1>
+              <p className="text-lg text-white/80 max-w-2xl mx-auto">{t.subtitle}</p>
+            </div>
+          </div>
+        </section>
+
+        <section className="py-24">
+          <div className="max-w-xl mx-auto px-6 text-center">
+            <div className="bg-white rounded-xl border border-gray-200 p-10 shadow-sm">
+              <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
+                <svg className="w-8 h-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                </svg>
+              </div>
+              <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">신청이 완료되었습니다!</h2>
+              <p className="text-gray-600 mb-6">입력하신 이메일로 맞춤 상담 양식을 발송했습니다.</p>
+
+              <div className="bg-gray-50 rounded-lg p-5 mb-6 space-y-2">
+                <div className="flex items-center justify-center gap-2">
+                  <span className="text-sm text-gray-500">전화:</span>
+                  <span className="font-medium text-gray-900">02-363-2251</span>
+                </div>
+                <div className="flex items-center justify-center gap-2">
+                  <span className="text-sm text-gray-500">카카오톡:</span>
+                  <span className="font-medium text-gray-900">alexkorea</span>
+                </div>
+              </div>
+
+              <Link
+                href="/"
+                className="inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white px-8 h-11 rounded-lg font-semibold transition-colors"
+              >
+                홈으로 돌아가기
+              </Link>
+            </div>
+          </div>
+        </section>
+      </>
+    )
   }
 
   return (
@@ -110,17 +198,28 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                 />
               </div>
 
-              {/* Contact */}
+              {/* Email */}
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">연락처 <span className="text-red-500">*</span></label>
+                <label className="block text-sm font-medium text-gray-700 mb-1">이메일 <span className="text-red-500">*</span></label>
+                <input
+                  name="email"
+                  type="email"
+                  required
+                  className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
+                  placeholder="example@email.com"
+                />
+                <p className="text-xs text-gray-400 mt-1">맞춤 상담 양식 링크를 발송해드립니다</p>
+              </div>
+
+              {/* Contact (Phone) */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">연락처 (전화번호)</label>
                 <input
                   name="contact"
                   type="text"
-                  required
                   className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
-                  placeholder="전화번호 또는 카카오톡 ID"
+                  placeholder="010-1234-5678"
                 />
-                <p className="text-xs text-gray-400 mt-1">전화번호 또는 카카오톡 ID를 입력해주세요</p>
               </div>
 
               {/* SNS ID */}
@@ -132,7 +231,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                     className="border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white"
                   >
                     <option value="">선택</option>
-                    <option value="kakaotalk">KakaoTalk</option>
+                    <option value="kakaotalk">카카오톡</option>
                     <option value="wechat">WeChat</option>
                     <option value="line">LINE</option>
                     <option value="whatsapp">WhatsApp</option>
@@ -146,17 +245,38 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                 </div>
               </div>
 
-              {/* Service Selection */}
+              {/* Nationality */}
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-3">희망 업무 <span className="text-red-500">*</span></label>
+                <label className="block text-sm font-medium text-gray-700 mb-1">국적</label>
+                <select
+                  name="nationality"
+                  className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white"
+                >
+                  <option value="">선택해주세요</option>
+                  <optgroup label="주요 국가">
+                    {priorityCountries.map((c) => (
+                      <option key={c.value} value={c.value}>{c.label}</option>
+                    ))}
+                  </optgroup>
+                  <optgroup label="기타 국가">
+                    {otherCountries.map((c) => (
+                      <option key={c.value} value={c.value}>{c.label}</option>
+                    ))}
+                  </optgroup>
+                </select>
+              </div>
+
+              {/* Service Selection - Checkboxes */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-3">희망 업무 <span className="text-red-500">*</span> <span className="text-gray-400 font-normal text-xs">(복수 선택 가능)</span></label>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   {services.map((svc) => (
                     <button
                       key={svc.value}
                       type="button"
-                      onClick={() => setSelectedService(svc.value)}
+                      onClick={() => toggleService(svc.value)}
                       className={`relative flex items-center gap-3 p-4 rounded-xl border-2 text-left transition-all ${
-                        selectedService === svc.value
+                        selectedServices.includes(svc.value)
                           ? "border-blue-600 bg-blue-50 shadow-sm"
                           : "border-gray-200 hover:border-gray-300 hover:bg-gray-50"
                       }`}
@@ -166,7 +286,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                         <div className="font-semibold text-gray-900 text-sm">{svc.label}</div>
                         <div className="text-xs text-gray-500">{svc.sub}</div>
                       </div>
-                      {selectedService === svc.value && (
+                      {selectedServices.includes(svc.value) && (
                         <div className="absolute top-2 right-2 w-5 h-5 bg-blue-600 rounded-full flex items-center justify-center">
                           <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
                             <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
@@ -176,7 +296,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                     </button>
                   ))}
                 </div>
-                {!selectedService && status === "error" && (
+                {selectedServices.length === 0 && status === "error" && (
                   <p className="text-red-500 text-xs mt-2">희망 업무를 선택해주세요.</p>
                 )}
               </div>
@@ -184,10 +304,10 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
               {/* Submit */}
               <button
                 type="submit"
-                disabled={status === "sending" || !selectedService}
+                disabled={status === "sending" || selectedServices.length === 0}
                 className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed text-white font-semibold py-3 rounded-lg transition-colors text-base"
               >
-                {status === "sending" ? "처리 중..." : "다음 단계로 →"}
+                {status === "sending" ? "처리 중..." : "신청하기"}
               </button>
 
               {status === "error" && (

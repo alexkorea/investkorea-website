@@ -64,15 +64,41 @@ const serviceFields: Record<string, FieldDef[]> = {
   ],
 }
 
+// Deduplicate fields across multiple services, keeping first occurrence
+function getFieldsForServices(serviceList: string[]): { service: string; fields: FieldDef[] }[] {
+  const sections: { service: string; fields: FieldDef[] }[] = []
+  const usedFieldNames = new Set<string>()
+
+  for (const svc of serviceList) {
+    const allFields = serviceFields[svc] || serviceFields["기타"]
+    const uniqueFields = allFields.filter((f) => {
+      if (usedFieldNames.has(f.name)) return false
+      usedFieldNames.add(f.name)
+      return true
+    })
+    if (uniqueFields.length > 0) {
+      sections.push({ service: svc, fields: uniqueFields })
+    }
+  }
+
+  return sections
+}
+
 function Step2Form() {
   const searchParams = useSearchParams()
-  const service = searchParams.get("service") || ""
+  const serviceParam = searchParams.get("service") || ""
   const inquiryId = searchParams.get("inquiryId") || ""
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
   const [formData, setFormData] = useState<Record<string, string>>({})
 
-  const fields = serviceFields[service] || serviceFields["기타"]
-  const serviceLabel = service || "기타"
+  // Parse multiple services from comma-separated param
+  const serviceList = serviceParam
+    .split(",")
+    .map((s) => decodeURIComponent(s).trim())
+    .filter(Boolean)
+
+  const sections = getFieldsForServices(serviceList.length > 0 ? serviceList : ["기타"])
+  const serviceLabel = serviceList.length > 0 ? serviceList.join(" / ") : "기타"
 
   function updateField(name: string, value: string) {
     setFormData((prev) => ({ ...prev, [name]: value }))
@@ -165,80 +191,91 @@ function Step2Form() {
           <StepIndicator step={2} />
 
           <div className="bg-white rounded-xl border border-gray-200 p-8 shadow-sm">
-            <div className="flex items-center gap-2 mb-2">
-              <span className="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-medium">{serviceLabel}</span>
+            <div className="flex items-center gap-2 mb-2 flex-wrap">
+              {serviceList.map((svc) => (
+                <span key={svc} className="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs font-medium">{svc}</span>
+              ))}
             </div>
             <h2 className="text-xl font-serif font-bold text-gray-900 mb-1">상세 정보 입력</h2>
             <p className="text-sm text-gray-500 mb-6">선택하신 서비스에 맞는 상세 정보를 입력해주세요.</p>
 
             <form onSubmit={handleSubmit} className="space-y-5">
-              {fields.map((field) => (
-                <div key={field.name}>
-                  <label className="block text-sm font-medium text-gray-700 mb-1">
-                    {field.label} {field.required && <span className="text-red-500">*</span>}
-                  </label>
-
-                  {field.type === "text" && (
-                    <input
-                      type="text"
-                      required={field.required}
-                      placeholder={field.placeholder}
-                      value={formData[field.name] || ""}
-                      onChange={(e) => updateField(field.name, e.target.value)}
-                      className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
-                    />
-                  )}
-
-                  {field.type === "select" && (
-                    <select
-                      required={field.required}
-                      value={formData[field.name] || ""}
-                      onChange={(e) => updateField(field.name, e.target.value)}
-                      className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white"
-                    >
-                      <option value="">선택해주세요</option>
-                      {field.options?.map((opt) => (
-                        <option key={opt} value={opt}>{opt}</option>
-                      ))}
-                    </select>
-                  )}
-
-                  {field.type === "radio" && (
-                    <div className="flex flex-wrap gap-3 mt-1">
-                      {field.options?.map((opt) => (
-                        <label
-                          key={opt}
-                          className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg border-2 cursor-pointer transition-all text-sm ${
-                            formData[field.name] === opt
-                              ? "border-blue-600 bg-blue-50 text-blue-700"
-                              : "border-gray-200 hover:border-gray-300 text-gray-700"
-                          }`}
-                        >
-                          <input
-                            type="radio"
-                            name={field.name}
-                            value={opt}
-                            checked={formData[field.name] === opt}
-                            onChange={(e) => updateField(field.name, e.target.value)}
-                            className="sr-only"
-                            required={field.required}
-                          />
-                          {opt}
-                        </label>
-                      ))}
+              {sections.map((section, sectionIdx) => (
+                <div key={section.service}>
+                  {sections.length > 1 && (
+                    <div className={`${sectionIdx > 0 ? "mt-6 pt-6 border-t border-gray-200" : ""}`}>
+                      <h3 className="text-sm font-semibold text-blue-700 mb-4">{section.service}</h3>
                     </div>
                   )}
+                  {section.fields.map((field) => (
+                    <div key={field.name} className="mb-4">
+                      <label className="block text-sm font-medium text-gray-700 mb-1">
+                        {field.label} {field.required && <span className="text-red-500">*</span>}
+                      </label>
 
-                  {field.type === "textarea" && (
-                    <textarea
-                      required={field.required}
-                      placeholder={field.placeholder}
-                      rows={5}
-                      value={formData[field.name] || ""}
-                      onChange={(e) => updateField(field.name, e.target.value)}
-                      className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none resize-none"
-                    />
-                  )}
+                      {field.type === "text" && (
+                        <input
+                          type="text"
+                          required={field.required}
+                          placeholder={field.placeholder}
+                          value={formData[field.name] || ""}
+                          onChange={(e) => updateField(field.name, e.target.value)}
+                          className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
+                        />
+                      )}
+
+                      {field.type === "select" && (
+                        <select
+                          required={field.required}
+                          value={formData[field.name] || ""}
+                          onChange={(e) => updateField(field.name, e.target.value)}
+                          className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white"
+                        >
+                          <option value="">선택해주세요</option>
+                          {field.options?.map((opt) => (
+                            <option key={opt} value={opt}>{opt}</option>
+                          ))}
+                        </select>
+                      )}
+
+                      {field.type === "radio" && (
+                        <div className="flex flex-wrap gap-3 mt-1">
+                          {field.options?.map((opt) => (
+                            <label
+                              key={opt}
+                              className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg border-2 cursor-pointer transition-all text-sm ${
+                                formData[field.name] === opt
+                                  ? "border-blue-600 bg-blue-50 text-blue-700"
+                                  : "border-gray-200 hover:border-gray-300 text-gray-700"
+                              }`}
+                            >
+                              <input
+                                type="radio"
+                                name={field.name}
+                                value={opt}
+                                checked={formData[field.name] === opt}
+                                onChange={(e) => updateField(field.name, e.target.value)}
+                                className="sr-only"
+                                required={field.required}
+                              />
+                              {opt}
+                            </label>
+                          ))}
+                        </div>
+                      )}
+
+                      {field.type === "textarea" && (
+                        <textarea
+                          required={field.required}
+                          placeholder={field.placeholder}
+                          rows={5}
+                          value={formData[field.name] || ""}
+                          onChange={(e) => updateField(field.name, e.target.value)}
+                          className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none resize-none"
+                        />
+                      )}
+                    </div>
+                  ))}
                 </div>
               ))}
 
