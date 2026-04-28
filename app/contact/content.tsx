@@ -49,19 +49,8 @@ const otherCountries = [
   { value: "기타", label: "기타" },
 ]
 
-function StepIndicator({ step }: { step: 1 | 2 }) {
-  return (
-    <div className="flex items-center justify-center gap-3 mb-8">
-      <div className="flex items-center gap-2">
-        <div className="w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-sm font-bold">1</div>
-        <span className="text-sm font-medium text-gray-900">기본 정보</span>
-      </div>
-      <div className="w-8 h-px bg-gray-300" />
-      <div className="flex items-center gap-2">
-        <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${step === 2 ? "bg-blue-600 text-white" : "bg-gray-200 text-gray-500"}`}>2</div>
-      </div>
-    </div>
-  )
+function StepIndicator() {
+  return null
 }
 
 export { StepIndicator }
