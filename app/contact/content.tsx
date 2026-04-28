@@ -129,7 +129,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                 </svg>
               </div>
               <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">상담신청이 접수되었습니다.</h2>
-              <p className="text-gray-600 mb-6">
+              <p className="text-gray-600 mb-4">
                 {selectedServices.map(s => s).join(', ')} 신청을 해주셨습니다.
                 <br />
                 {selectedServices.map(s => s).join(', ')} 취득을 위해 좀 더 자세한 정보를 입력해 주시면 감사드립니다.
@@ -142,10 +142,20 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                 상세정보 입력하기 →
               </Link>
 
-              <p className="text-sm text-gray-400 mb-4">약 1분 소요</p>
+              <p className="text-sm text-gray-400 mb-6">약 1분 소요</p>
+
+              <div className="bg-blue-50 border border-blue-100 rounded-xl p-6 mb-6 text-left">
+                <h3 className="font-bold text-blue-900 text-lg mb-3">비전행정사사무소</h3>
+                <ul className="space-y-2 text-sm text-blue-800">
+                  <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 8년+ 외국인 투자·비자 전문 실무 경험</li>
+                  <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 20개국 이상 외국인 투자기업 설립 대행</li>
+                  <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 한국어·영어·중국어·일본어 다국어 상담</li>
+                  <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 가장 빠른 출입국사무소를 찾아 신속 처리</li>
+                  <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 서류 준비부터 접수·수령까지 원스톱 대행</li>
+                </ul>
+              </div>
 
               <div className="bg-gray-50 rounded-lg p-5 space-y-2">
-                <p className="text-sm text-gray-500">비전행정사사무소</p>
                 <div className="flex items-center justify-center gap-2">
                   <span className="text-sm text-gray-500">전화:</span>
                   <span className="font-medium text-gray-900">02-363-2251</span>
@@ -153,6 +163,10 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                 <div className="flex items-center justify-center gap-2">
                   <span className="text-sm text-gray-500">카카오톡:</span>
                   <span className="font-medium text-gray-900">alexkorea</span>
+                </div>
+                <div className="flex items-center justify-center gap-2">
+                  <span className="text-sm text-gray-500">이메일:</span>
+                  <span className="font-medium text-gray-900">5000meter@gmail.com</span>
                 </div>
               </div>
             </div>
