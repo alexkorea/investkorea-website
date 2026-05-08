@@ -16,20 +16,6 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">前言</a></li>
-    <li><a href="#three-types">三种进入方式</a></li>
-    <li><a href="#subsidiary">子公司（当地法人）</a></li>
-    <li><a href="#branch">分公司</a></li>
-    <li><a href="#liaison">联络处</a></li>
-    <li><a href="#comparison">对比分析</a></li>
-    <li><a href="#legal">法律法规框架</a></li>
-    <li><a href="#choosing">如何选择合适的架构</a></li>
-    <li><a href="#faq">常见问题</a></li>
-  </ul>
-</nav>
 
 ## 前言
 
@@ -37,7 +23,7 @@ slug: "foreign-company-korea"
 
 韩国提供三种主要选择：**子公司**（当地法人）、**分公司**和**联络处**。每种形式各有优势、局限和法规要求。本指南将进行全面对比，帮助您选择最契合业务目标的架构。
 
-<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国现代办公楼" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国现代办公楼" />
 
 ## 三种进入方式
 
@@ -120,7 +106,7 @@ slug: "foreign-company-korea"
 - **业务范围有限**——可能制约业务拓展
 - **无签证资格**——外派人员需另行安排签证
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 如果联络处被发现从事营收活动，韩国税务机关有权将其重新认定为分公司，并追征税款及罚款。</div>
+<div>⚠️ <strong>注意：</strong> 如果联络处被发现从事营收活动，韩国税务机关有权将其重新认定为分公司，并追征税款及罚款。</div>
 
 ## 对比分析
 
@@ -151,7 +137,7 @@ slug: "foreign-company-korea"
 
 联络处的法规要求最少，但仍须在相关机构完成注册。核心原则：**不得从事商业活动**。任何违规行为都将面临被重新认定的风险。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 韩国已与90多个国家签订了《避免双重征税协定》。建议查询您所在国家与韩国是否签有此类协定，因为它会显著影响分公司和子公司的税务负担。</div>
+<div>💡 <strong>提示：</strong> 韩国已与90多个国家签订了《避免双重征税协定》。建议查询您所在国家与韩国是否签有此类协定，因为它会显著影响分公司和子公司的税务负担。</div>
 
 ## 如何选择合适的架构
 
@@ -201,7 +187,7 @@ slug: "foreign-company-korea"
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">免费咨询</h3><p style="color:#bfdbfe; margin:0 0 16px;">专业行政士为您提供咨询服务。电话：02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a></div>
+<div>### 免费咨询<p>专业行政士为您提供咨询服务。电话：02-363-2251</p>[申请咨询](/contact)</div>
 
 <script type="application/ld+json">
 {

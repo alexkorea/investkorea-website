@@ -15,29 +15,14 @@ excerptJa: "外国人が韓国で株式会社を設立する際に必要な手�
 image: "/slides/building.jpg"
 slug: "foreign-stock-company-setup"
 ---
-# Complete Guide to Incorporating a Company in Korea as a Foreign National (2026 Update)
+## Complete Guide to Incorporating a Company in Korea as a Foreign National (2026 Update)
 
 To establish a corporation (stock company) in South Korea as a foreign national, you need to complete five key steps: **Foreign Investment Notification → Investment Fund Remittance → Corporate Registration → Business Registration → Foreign-Invested Enterprise Registration**. While the process looks similar to incorporating as a Korean citizen on the surface, the Foreign Investment Promotion Act requires an investment notification upfront, along with proof of fund sources and notarization/apostille of overseas documents. The entire process typically wraps up in 2 to 4 weeks, though timelines can vary significantly depending on how prepared your documents are.
 
 Costs depend largely on the size of your capital investment. **For a company with 100 million KRW in capital, expect to pay roughly 700,000 to 900,000 KRW in government fees alone** — including registration tax, education tax, court fees, and notarization charges. Add professional service fees for a licensed administrative agent or judicial scrivener, and the total incorporation cost generally falls in the range of 2 to 4 million KRW. Below, we break down each step with the real-world details and costs you can expect.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Incorporating as a Foreign National — The Big Picture</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Foreign Investment Notification — The Very First Step</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Remitting Investment Funds and Paying In Capital</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Corporate Registration Process</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Business Registration and Foreign-Invested Enterprise Registration</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Incorporation Costs — A Detailed Breakdown</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. How Much Capital Is the Right Amount?</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Five Common Mistakes to Avoid</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Contact VISION Administrative Office</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">1. Incorporating as a Foreign National — The Big Picture
+## 1. Incorporating as a Foreign National — The Big Picture
 
 ### How Is It Different from Incorporating as a Korean Citizen?
 
@@ -45,45 +30,45 @@ For Korean nationals, starting a corporation involves three broad steps: draftin
 
 ### The Full Process at a Glance
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">Step</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">Procedure</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">Responsible Authority</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">Estimated Duration</th>
+<tr>
+<th>Step</th>
+<th>Procedure</th>
+<th>Responsible Authority</th>
+<th>Estimated Duration</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Foreign Investment Notification</td>
-<td style="border:1px solid #e5e7eb;padding:10px">KOTRA / Foreign Exchange Bank</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1–2 days</td>
+<td>1</td>
+<td>Foreign Investment Notification</td>
+<td>[KOTRA](https://www.kotra.or.kr) / Foreign Exchange Bank</td>
+<td>1–2 days</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Investment fund remittance and capital payment</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Foreign Exchange Bank</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2–5 days</td>
+<td>2</td>
+<td>Investment fund remittance and capital payment</td>
+<td>Foreign Exchange Bank</td>
+<td>2–5 days</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">3</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Corporate registration (including articles notarization)</td>
-<td style="border:1px solid #e5e7eb;padding:10px">District Court Registry Office</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">3–7 days</td>
+<td>3</td>
+<td>Corporate registration (including articles notarization)</td>
+<td>District Court Registry Office</td>
+<td>3–7 days</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">4</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Business registration</td>
-<td style="border:1px solid #e5e7eb;padding:10px">District Tax Office</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2–5 days</td>
+<td>4</td>
+<td>Business registration</td>
+<td>District Tax Office</td>
+<td>2–5 days</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">5</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Foreign-Invested Enterprise Registration</td>
-<td style="border:1px solid #e5e7eb;padding:10px">KOTRA / Ministry of Trade, Industry and Energy</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1–3 days</td>
+<td>5</td>
+<td>Foreign-Invested Enterprise Registration</td>
+<td>[KOTRA](https://www.kotra.or.kr) / Ministry of Trade, Industry and Energy</td>
+<td>1–3 days</td>
 </tr>
 </tbody>
 </table>
@@ -92,7 +77,7 @@ For Korean nationals, starting a corporation involves three broad steps: draftin
 
 If all your documents are ready to go, **the entire process can be completed within two weeks.** In practice, the most common causes of delays are: waiting for overseas documents to be notarized and apostilled, bank verification procedures during fund transfers, and mismatches in business purpose codes. When documents need to be sent from your home country, postal delivery alone can add one to two weeks.
 
-<h2 id="section-2">2. Foreign Investment Notification — The Very First Step
+## 2. Foreign Investment Notification — The Very First Step
 
 ### Why Does the Investment Notification Come First?
 
@@ -100,33 +85,33 @@ Under the Foreign Investment Promotion Act, foreign nationals must **file an inv
 
 ### Where and How to File
 
-- **KOTRA (Korea Trade-Investment Promotion Agency)**: File online or in person
+- **[KOTRA](https://www.kotra.or.kr) (Korea Trade-Investment Promotion Agency)**: File online or in person
 - **Foreign Exchange Bank**: File directly at the bank handling your transfer
 
 The outcome is the same regardless of where you file. In practice, filing at the same bank you plan to use for the transfer tends to speed up the subsequent steps.
 
 ### Documents Required for Investment Notification
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Foreign Investment Notification Document Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Foreign Investment Notification Form (standard form)</li>
-    <li>Copy of investor's ID (passport)</li>
-    <li>If the investor is a corporation: certificate of corporate registration + power of attorney from the representative (notarized and apostilled)</li>
-    <li>If filing through a representative: power of attorney + representative's ID</li>
-    <li>Proof of investment fund source (bank balance certificate, employment verification, etc.)</li>
-  </ul>
+<div>
+  <strong>✅ Foreign Investment Notification Document Checklist</strong>
+
+    Foreign Investment Notification Form (standard form)
+    Copy of investor's ID (passport)
+    If the investor is a corporation: certificate of corporate registration + power of attorney from the representative (notarized and apostilled)
+    If filing through a representative: power of attorney + representative's ID
+    Proof of investment fund source (bank balance certificate, employment verification, etc.)
+
 </div>
 
 ### Minimum Investment Amount
 
 Under the Foreign Investment Promotion Act, the **minimum investment amount is 100 million KRW**. However, this threshold applies specifically to qualifying as a registered Foreign-Invested Enterprise. You can still establish a corporation with less than 100 million KRW — the key question is whether you need the benefits that come with Foreign-Invested Enterprise status, such as tax incentives and the D-8 visa.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Important:</strong> If you file an investment notification for less than 100 million KRW, you will not be eligible for Foreign-Invested Enterprise registration. If a D-8 visa is your goal, you must invest at least 100 million KRW. If a visa is not your objective, you can incorporate with a smaller amount of capital — just make sure you choose your capital amount based on your actual needs.
+<div>
+  <strong>⚠️ Important:</strong> If you file an investment notification for less than 100 million KRW, you will not be eligible for Foreign-Invested Enterprise registration. If a D-8 visa is your goal, you must invest at least 100 million KRW. If a visa is not your objective, you can incorporate with a smaller amount of capital — just make sure you choose your capital amount based on your actual needs.
 </div>
 
-<h2 id="section-3">3. Remitting Investment Funds and Paying In Capital
+## 3. Remitting Investment Funds and Paying In Capital
 
 ### How the Remittance Works
 
@@ -142,11 +127,11 @@ Once your investment notification is accepted, you transfer the investment funds
 
 Once the funds are deposited, the bank issues a **Certificate of Capital Payment**. This document is a critical attachment for the corporate registration filing.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Foreign nationals residing in Korea can receive the funds in their own Korean bank account. For those living overseas, an escrow account held by a judicial scrivener or administrative agent is sometimes used. Since each bank has different procedures for receiving foreign investment funds, the safest approach is to <strong>confirm the process with the receiving bank before initiating the transfer</strong>.
+<div>
+  <strong>💡 Practical Tip:</strong> Foreign nationals residing in Korea can receive the funds in their own Korean bank account. For those living overseas, an escrow account held by a judicial scrivener or administrative agent is sometimes used. Since each bank has different procedures for receiving foreign investment funds, the safest approach is to <strong>confirm the process with the receiving bank before initiating the transfer</strong>.
 </div>
 
-<h2 id="section-4">4. Corporate Registration Process
+## 4. Corporate Registration Process
 
 ### Drafting the Articles of Incorporation
 
@@ -166,45 +151,45 @@ For incorporation by promoters (where the founders subscribe to all shares), if 
 
 ### Documents Required for Registration
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">Document</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">Notes</th>
+<tr>
+<th>Document</th>
+<th>Notes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Articles of Incorporation</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1 original copy (notarized copy if capital is 1 billion KRW or more)</td>
+<td>Articles of Incorporation</td>
+<td>1 original copy (notarized copy if capital is 1 billion KRW or more)</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Certificate of Capital Payment</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Issued by the bank</td>
+<td>Certificate of Capital Payment</td>
+<td>Issued by the bank</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Minutes of the Founders' Meeting</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Includes appointment of directors/auditors and determination of head office location</td>
+<td>Minutes of the Founders' Meeting</td>
+<td>Includes appointment of directors/auditors and determination of head office location</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Letters of Acceptance from Directors and Auditors</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Must include personal seal certificates</td>
+<td>Letters of Acceptance from Directors and Auditors</td>
+<td>Must include personal seal certificates</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Representative Director's Seal Registration Form</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Stamped with corporate seal</td>
+<td>Representative Director's Seal Registration Form</td>
+<td>Stamped with corporate seal</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Consent for Share Issuance Details</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Signed by all promoters</td>
+<td>Consent for Share Issuance Details</td>
+<td>Signed by all promoters</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Foreign Investment Notification Acceptance Certificate</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Issued by KOTRA or the foreign exchange bank</td>
+<td>Foreign Investment Notification Acceptance Certificate</td>
+<td>Issued by [KOTRA](https://www.kotra.or.kr) or the foreign exchange bank</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Copy of Representative's Passport (foreign national)</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Documents from the home country require notarization and apostille</td>
+<td>Copy of Representative's Passport (foreign national)</td>
+<td>Documents from the home country require notarization and apostille</td>
 </tr>
 </tbody>
 </table>
@@ -213,7 +198,7 @@ For incorporation by promoters (where the founders subscribe to all shares), if 
 
 Once submitted to the district registry office, registration is typically completed within **3 to 5 business days**. If the office requests corrections, expect a few additional days.
 
-<h2 id="section-5">5. Business Registration and Foreign-Invested Enterprise Registration
+## 5. Business Registration and Foreign-Invested Enterprise Registration
 
 ### Business Registration (Tax Office)
 
@@ -221,9 +206,9 @@ After the corporate registration is complete, you apply for **business registrat
 
 A frequently overlooked issue in practice is the **business address**. Using a friend's office address without a proper lease can trigger an on-site inspection by the tax office. Virtual office addresses may or may not be accepted depending on your business category.
 
-### Foreign-Invested Enterprise Registration (KOTRA)
+### Foreign-Invested Enterprise Registration ([KOTRA](https://www.kotra.or.kr))
 
-Once business registration is complete, you apply to KOTRA for **Foreign-Invested Enterprise Registration**. Only after this registration is finalized can you access benefits like tax incentives and the D-8 visa.
+Once business registration is complete, you apply to [KOTRA](https://www.kotra.or.kr) for **Foreign-Invested Enterprise Registration**. Only after this registration is finalized can you access benefits like tax incentives and the D-8 visa.
 
 ### Documents You Receive After Registration
 
@@ -232,62 +217,58 @@ Once business registration is complete, you apply to KOTRA for **Foreign-Investe
 - Corporate Registration Certificate
 - Corporate Seal Certificate
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Important:</strong> Foreign-Invested Enterprise registration must be completed <strong>within 60 days</strong> of corporate registration. If you miss this deadline, your investment notification may lose its validity, and you could be forced to restart the entire process from scratch.
+<div>
+  <strong>⚠️ Important:</strong> Foreign-Invested Enterprise registration must be completed <strong>within 60 days</strong> of corporate registration. If you miss this deadline, your investment notification may lose its validity, and you could be forced to restart the entire process from scratch.
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/33911167/pexels-photo-33911167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Captivating reflection of the sky in a modern glass building facade in Pyeongtaek City, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Captivating reflection of the sky in a modern glass building facade in Pyeongtaek City, South Korea.](https://images.pexels.com/photos/33911167/pexels-photo-33911167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. Incorporation Costs — A Detailed Breakdown
+## 6. Incorporation Costs — A Detailed Breakdown
 
 Actual costs vary depending on the amount of capital and whether you use professional services. Below are the approximate government fees for incorporating a stock company with **100 million KRW in capital**.
 
 ### Government Fees (Taxes and Court Charges)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Item</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:right">Amount (KRW)</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Calculation Basis</th>
+<tr>
+<th>Item</th>
+<th>Amount (KRW)</th>
+<th>Calculation Basis</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Registration and License Tax</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 400,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Capital x 0.4% (tripled in Seoul Metropolitan Overcrowding Control Zones)</td>
+<td>Registration and License Tax</td>
+<td>Approx. 400,000</td>
+<td>Capital x 0.4% (tripled in Seoul Metropolitan Overcrowding Control Zones)</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Local Education Tax</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 80,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Registration Tax x 20%</td>
+<td>Local Education Tax</td>
+<td>Approx. 80,000</td>
+<td>Registration Tax x 20%</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Court Registration Fee</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 30,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Based on electronic filing</td>
+<td>Court Registration Fee</td>
+<td>Approx. 30,000</td>
+<td>Based on electronic filing</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Articles Notarization Fee</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">0 – 110,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Waived for promoter-type incorporation with capital under 1 billion KRW</td>
+<td>Articles Notarization Fee</td>
+<td>0 – 110,000</td>
+<td>Waived for promoter-type incorporation with capital under 1 billion KRW</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Corporate Seal Production</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 30,000–50,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Official corporate seal + working seal</td>
+<td>Corporate Seal Production</td>
+<td>Approx. 30,000–50,000</td>
+<td>Official corporate seal + working seal</td>
 </tr>
-<tr style="background:#f9fafb;font-weight:bold">
-<td style="border:1px solid #e5e7eb;padding:10px">Government Fees Subtotal</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 540,000–670,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">Registration tax tripled if located in an Overcrowding Control Zone</td>
+<tr>
+<td>Government Fees Subtotal</td>
+<td>Approx. 540,000–670,000</td>
+<td>Registration tax tripled if located in an Overcrowding Control Zone</td>
 </tr>
 </tbody>
 </table>
@@ -305,34 +286,34 @@ Some clients hire an administrative agent and judicial scrivener separately, whi
 
 ### Total Cost Summary
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:right">Non-Restricted Zone</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:right">Overcrowding Control Zone</th>
+<tr>
+<th>Category</th>
+<th>Non-Restricted Zone</th>
+<th>Overcrowding Control Zone</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Government fees (taxes and charges)</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 540,000–670,000 KRW</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 1,300,000–1,500,000 KRW</td>
+<td>Government fees (taxes and charges)</td>
+<td>Approx. 540,000–670,000 KRW</td>
+<td>Approx. 1,300,000–1,500,000 KRW</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">Professional service fees (agent + scrivener)</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 1,300,000–3,000,000 KRW</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 1,300,000–3,000,000 KRW</td>
+<td>Professional service fees (agent + scrivener)</td>
+<td>Approx. 1,300,000–3,000,000 KRW</td>
+<td>Approx. 1,300,000–3,000,000 KRW</td>
 </tr>
-<tr style="background:#f9fafb;font-weight:bold">
-<td style="border:1px solid #e5e7eb;padding:10px">Total cost (excluding capital)</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 2,000,000–3,700,000 KRW</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">Approx. 2,600,000–4,500,000 KRW</td>
+<tr>
+<td>Total cost (excluding capital)</td>
+<td>Approx. 2,000,000–3,700,000 KRW</td>
+<td>Approx. 2,600,000–4,500,000 KRW</td>
 </tr>
 </tbody>
 </table>
 
-<h2 id="section-7">7. How Much Capital Is the Right Amount?
+## 7. How Much Capital Is the Right Amount?
 
 ### There Is No Legal Minimum Capital Requirement
 
@@ -355,7 +336,7 @@ There is no one-size-fits-all answer. The first thing to check is whether your i
 
 Setting capital at the bare minimum can put you at a disadvantage when it comes to banking relationships, bidding on contracts, and credit evaluations. Starting with a reasonable level of capital actually makes business operations much smoother down the road.
 
-<h2 id="section-8">8. Five Common Mistakes to Avoid
+## 8. Five Common Mistakes to Avoid
 
 ### Mistake 1: Sending Money Before Filing the Investment Notification
 
@@ -377,11 +358,11 @@ Both corporate registration and business registration require a business address
 
 You must complete your Foreign-Invested Enterprise registration **within 60 days** of corporate registration. If you let this deadline slip, your investment notification may become void, and you will lose your eligibility to apply for a D-8 visa.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Before starting the incorporation process, finalize these three things first: <strong>your business category code, your business address, and proof of your investment fund source</strong>. In our experience, when these three elements are not settled in advance, the process stalls repeatedly. Even with a large number of documents, getting the sequence right makes everything move quickly.
+<div>
+  <strong>💡 Practical Tip:</strong> Before starting the incorporation process, finalize these three things first: <strong>your business category code, your business address, and proof of your investment fund source</strong>. In our experience, when these three elements are not settled in advance, the process stalls repeatedly. Even with a large number of documents, getting the sequence right makes everything move quickly.
 </div>
 
-<h2 id="section-9">9. Frequently Asked Questions (FAQ)
+## 9. Frequently Asked Questions (FAQ)
 
 ### Q1. Can a foreign national incorporate a company alone?
 
@@ -411,16 +392,16 @@ The main recurring costs include:
 
 Even if the company generates no revenue, tax filing obligations remain. You should budget a **minimum of 100,000 to 200,000 KRW per month** to maintain the corporation.
 
-<h2 id="section-10">10. Contact VISION Administrative Office
+## 10. Contact VISION Administrative Office
 
 Incorporating a company as a foreign national is not just about gathering the right documents. **The timing of your investment notification, capital amount, business category selection, and visa coordination** all need to be aligned from the start to prevent complications later.
 
 VISION Administrative Office specializes in foreign investment incorporations and D-8 visa processing. We handle everything from investment notification through Foreign-Invested Enterprise registration and visa applications — all in one place.
 
-<div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
+<div>
+### VISION Administrative Office
   <p><strong>📞 Phone:</strong> 02-363-2251</p>
   <p><strong>📧 Email:</strong> 5000meter@gmail.com</p>
   <p><strong>📍 Address:</strong> 3F, Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, South Korea</p>
-  <p style="margin-bottom:0">Get comprehensive consultation on investment notification, incorporation, and visa processing. Reach out by phone or email.</p>
+  <p>Get comprehensive consultation on investment notification, incorporation, and visa processing. Reach out by phone or email.</p>
 </div>

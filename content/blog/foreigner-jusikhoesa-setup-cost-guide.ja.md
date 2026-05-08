@@ -15,26 +15,12 @@ excerptJa: "外国人の韓国株式会社設立で実際に詰まる工程と�
 image: "/slides/building.jpg"
 slug: "foreigner-jusikhoesa-setup-cost-guide"
 ---
-# 外国人株式会社設立の手続きと費用 総まとめ(2026 実務ガイド)
+## 外国人株式会社設立の手続きと費用 総まとめ(2026 実務ガイド)
 
 外国人が韓国で株式会社(株式会社、Co., Ltd.)を設立しようとするとき、実際に詰まるポイントは登記そのものではなく、**外国人投資申告と資本金送金を証明する段階**です。書類はネット上にいくらでも出回っていますが、銀行で資本金が入金されたことを示す**外貨買入証明書**がすぐに発行されなければ、登記は一歩も進みません。そのため設立スケジュールは「登記から何日」ではなく、「送金が確定する日から何日」で組み立てる必要があります。
 
 総費用は資本金1億ウォンを基準として**政府の登録免許税・公債・登記手数料で約120万~170万ウォン**、さらに司法書士・行政書士の代行料が50万~150万ウォン程度です。資本金の規模が大きくなると登録免許税は資本金の0.4%で計算されるため、資本金5億以上からは税金が費用の大半を占めます。以下の表と本文で、**段階別の費用、実際にかかる日数、よくつまずくポイント**を一度に整理しました。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人株式会社 vs 有限会社、まず押さえるべき違い</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立フロー全体を一目で</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 準備段階:外国人投資申告と資本金送金</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 法人登記段階:書類と実際に詰まるポイント</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 設立後の事後手続き:事業者登録・外資系企業登録</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 実際にかかる費用の総まとめ</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. よくあるミスと予防策</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ 5選</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## 外国人株式会社 vs 有限会社、まず押さえるべき違い
 
@@ -46,17 +32,17 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 見た目はシンプルでも、税務・持分譲渡・外資申告の面で差が出ます。以下の表に要点をまとめました。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">項目</th><th style="border:1px solid #e5e7eb;padding:10px">株式会社</th><th style="border:1px solid #e5e7eb;padding:10px">有限会社</th></tr>
+<table>
+<thead>
+<tr><th>項目</th><th>株式会社</th><th>有限会社</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">持分単位</td><td style="border:1px solid #e5e7eb;padding:10px">株式(1株単位、譲渡が容易)</td><td style="border:1px solid #e5e7eb;padding:10px">出資持分(譲渡手続きが煩雑)</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">取締役会・監査</td><td style="border:1px solid #e5e7eb;padding:10px">資本金10億未満なら取締役1名で可</td><td style="border:1px solid #e5e7eb;padding:10px">取締役のみで構成可、監査なし</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外部監査対象の判定</td><td style="border:1px solid #e5e7eb;padding:10px">資産・売上基準に該当すれば対象</td><td style="border:1px solid #e5e7eb;padding:10px">同様に適用</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">米国会計/IRS連結</td><td style="border:1px solid #e5e7eb;padding:10px">C-corpとしての処理が簡潔</td><td style="border:1px solid #e5e7eb;padding:10px">Check-the-boxの検討が必要</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">投資家の受け入れ</td><td style="border:1px solid #e5e7eb;padding:10px">株式発行で増資が容易</td><td style="border:1px solid #e5e7eb;padding:10px">社員総会の同意が必要</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">実務での頻度</td><td style="border:1px solid #e5e7eb;padding:10px">最も一般的</td><td style="border:1px solid #e5e7eb;padding:10px">小規模支店型で好まれる</td></tr>
+<tr><td>持分単位</td><td>株式(1株単位、譲渡が容易)</td><td>出資持分(譲渡手続きが煩雑)</td></tr>
+<tr><td>取締役会・監査</td><td>資本金10億未満なら取締役1名で可</td><td>取締役のみで構成可、監査なし</td></tr>
+<tr><td>外部監査対象の判定</td><td>資産・売上基準に該当すれば対象</td><td>同様に適用</td></tr>
+<tr><td>米国会計/IRS連結</td><td>C-corpとしての処理が簡潔</td><td>Check-the-boxの検討が必要</td></tr>
+<tr><td>投資家の受け入れ</td><td>株式発行で増資が容易</td><td>社員総会の同意が必要</td></tr>
+<tr><td>実務での頻度</td><td>最も一般的</td><td>小規模支店型で好まれる</td></tr>
 </tbody>
 </table>
 
@@ -74,17 +60,17 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 以下は平均的にかかる時間をまとめた表です。送金が当日中に着金しないことが多く、実際はもっと長くなるのが普通です。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">段階</th><th style="border:1px solid #e5e7eb;padding:10px">担当機関</th><th style="border:1px solid #e5e7eb;padding:10px">実際の所要日数</th><th style="border:1px solid #e5e7eb;padding:10px">主な成果物</th></tr>
+<table>
+<thead>
+<tr><th>段階</th><th>担当機関</th><th>実際の所要日数</th><th>主な成果物</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1. 外国人投資申告</td><td style="border:1px solid #e5e7eb;padding:10px">KOTRA / 外国為替銀行</td><td style="border:1px solid #e5e7eb;padding:10px">1~2日</td><td style="border:1px solid #e5e7eb;padding:10px">外国人投資申告受理書</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">2. 資本金送金</td><td style="border:1px solid #e5e7eb;padding:10px">海外送金銀行 → 国内銀行</td><td style="border:1px solid #e5e7eb;padding:10px">1~5日</td><td style="border:1px solid #e5e7eb;padding:10px">外貨買入証明書</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3. 残高証明の発行</td><td style="border:1px solid #e5e7eb;padding:10px">資本金仮口座の銀行</td><td style="border:1px solid #e5e7eb;padding:10px">当日~1日</td><td style="border:1px solid #e5e7eb;padding:10px">残高証明書</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">4. 法人設立登記</td><td style="border:1px solid #e5e7eb;padding:10px">登記所(裁判所)</td><td style="border:1px solid #e5e7eb;padding:10px">3~5営業日</td><td style="border:1px solid #e5e7eb;padding:10px">法人登記簿謄本</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5. 事業者登録</td><td style="border:1px solid #e5e7eb;padding:10px">税務署</td><td style="border:1px solid #e5e7eb;padding:10px">2~3営業日</td><td style="border:1px solid #e5e7eb;padding:10px">事業者登録証</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">6. 外資系企業登録</td><td style="border:1px solid #e5e7eb;padding:10px">KOTRA / 銀行</td><td style="border:1px solid #e5e7eb;padding:10px">1~2日</td><td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録証</td></tr>
+<tr><td>1. 外国人投資申告</td><td>[KOTRA](https://www.kotra.or.kr) / 外国為替銀行</td><td>1~2日</td><td>外国人投資申告受理書</td></tr>
+<tr><td>2. 資本金送金</td><td>海外送金銀行 → 国内銀行</td><td>1~5日</td><td>外貨買入証明書</td></tr>
+<tr><td>3. 残高証明の発行</td><td>資本金仮口座の銀行</td><td>当日~1日</td><td>残高証明書</td></tr>
+<tr><td>4. 法人設立登記</td><td>登記所(裁判所)</td><td>3~5営業日</td><td>法人登記簿謄本</td></tr>
+<tr><td>5. 事業者登録</td><td>税務署</td><td>2~3営業日</td><td>事業者登録証</td></tr>
+<tr><td>6. 外資系企業登録</td><td>[KOTRA](https://www.kotra.or.kr) / 銀行</td><td>1~2日</td><td>外国人投資企業登録証</td></tr>
 </tbody>
 </table>
 
@@ -92,8 +78,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 書類がすべて完璧に揃った前提で、**営業日ベースで約2~3週間**というのが実態に近い数字です。翻訳公証や海外書類のアポスティーユまで絡むと、**4~6週間**まで延びます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 海外で発行される事業者登録証明、パスポート公証、在職証明などは、必ず<strong>アポスティーユ(または領事認証)</strong>が付いていないと登記所で受理されません。アポスティーユが抜けると書類が丸ごと差し戻されます。
+<div>
+  <strong>⚠️ 注意:</strong> 海外で発行される事業者登録証明、パスポート公証、在職証明などは、必ず<strong>アポスティーユ(または領事認証)</strong>が付いていないと登記所で受理されません。アポスティーユが抜けると書類が丸ごと差し戻されます。
 </div>
 
 ## 準備段階:外国人投資申告と資本金送金
@@ -110,8 +96,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 実際によくつまずくのが、**送金目的(purpose code)の入力**です。海外銀行から送る際に単に「投資」とだけ書くと、受取銀行が「個人間送金」として処理してしまうことがあります。そうなると外貨買入証明書に「外国人直接投資 資本金」の文言が入らず、登記やFIC登録で書類が何度も差し戻されます。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のコツ:</strong> 海外からの送金時には、送金メッセージ(remittance information)に必ず<strong>「Foreign Direct Investment / 外国人直接投資 資本金」</strong>という文言を英文で記載してください。この一行が抜けると、外貨買入証明書の再発行のために銀行窓口を何度も往復する羽目になります。
+<div>
+  <strong>💡 実務のコツ:</strong> 海外からの送金時には、送金メッセージ(remittance information)に必ず<strong>「Foreign Direct Investment / 外国人直接投資 資本金」</strong>という文言を英文で記載してください。この一行が抜けると、外貨買入証明書の再発行のために銀行窓口を何度も往復する羽目になります。
 </div>
 
 ### 資本金仮口座(仮受金口座)の開設
@@ -124,19 +110,19 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 登記所に提出する基本書類は韓国人法人と大きく変わりませんが、**外国人の発起人・代表取締役・株主**がいる場合は、海外書類の翻訳・公証の負担が追加で発生します。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">区分</th><th style="border:1px solid #e5e7eb;padding:10px">書類</th><th style="border:1px solid #e5e7eb;padding:10px">発行元</th><th style="border:1px solid #e5e7eb;padding:10px">有効期間</th></tr>
+<table>
+<thead>
+<tr><th>区分</th><th>書類</th><th>発行元</th><th>有効期間</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">共通</td><td style="border:1px solid #e5e7eb;padding:10px">定款</td><td style="border:1px solid #e5e7eb;padding:10px">自作 + 公証</td><td style="border:1px solid #e5e7eb;padding:10px">資本金10億未満は公証省略可</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">共通</td><td style="border:1px solid #e5e7eb;padding:10px">発起人議事録・取締役会議事録</td><td style="border:1px solid #e5e7eb;padding:10px">自作</td><td style="border:1px solid #e5e7eb;padding:10px">-</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">共通</td><td style="border:1px solid #e5e7eb;padding:10px">株式引受書・資本金残高証明書</td><td style="border:1px solid #e5e7eb;padding:10px">資本金払込銀行</td><td style="border:1px solid #e5e7eb;padding:10px">通常7日以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人株主(個人)</td><td style="border:1px solid #e5e7eb;padding:10px">パスポート写し公証、住所証明</td><td style="border:1px solid #e5e7eb;padding:10px">本国公証機関 + アポスティーユ</td><td style="border:1px solid #e5e7eb;padding:10px">3~6ヶ月以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人株主(法人)</td><td style="border:1px solid #e5e7eb;padding:10px">本国の法人登記簿謄本、取締役会決議書</td><td style="border:1px solid #e5e7eb;padding:10px">本国登記所 + アポスティーユ</td><td style="border:1px solid #e5e7eb;padding:10px">3ヶ月以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人代表取締役</td><td style="border:1px solid #e5e7eb;padding:10px">パスポート公証、署名鑑公証</td><td style="border:1px solid #e5e7eb;padding:10px">本国公証機関 + アポスティーユ</td><td style="border:1px solid #e5e7eb;padding:10px">3~6ヶ月以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人代表取締役</td><td style="border:1px solid #e5e7eb;padding:10px">就任承諾書 + 印鑑(署名鑑)届</td><td style="border:1px solid #e5e7eb;padding:10px">自作</td><td style="border:1px solid #e5e7eb;padding:10px">-</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">オフィス</td><td style="border:1px solid #e5e7eb;padding:10px">賃貸借契約書</td><td style="border:1px solid #e5e7eb;padding:10px">貸主</td><td style="border:1px solid #e5e7eb;padding:10px">事業者登録時に必要</td></tr>
+<tr><td>共通</td><td>定款</td><td>自作 + 公証</td><td>資本金10億未満は公証省略可</td></tr>
+<tr><td>共通</td><td>発起人議事録・取締役会議事録</td><td>自作</td><td>-</td></tr>
+<tr><td>共通</td><td>株式引受書・資本金残高証明書</td><td>資本金払込銀行</td><td>通常7日以内</td></tr>
+<tr><td>外国人株主(個人)</td><td>パスポート写し公証、住所証明</td><td>本国公証機関 + アポスティーユ</td><td>3~6ヶ月以内</td></tr>
+<tr><td>外国人株主(法人)</td><td>本国の法人登記簿謄本、取締役会決議書</td><td>本国登記所 + アポスティーユ</td><td>3ヶ月以内</td></tr>
+<tr><td>外国人代表取締役</td><td>パスポート公証、署名鑑公証</td><td>本国公証機関 + アポスティーユ</td><td>3~6ヶ月以内</td></tr>
+<tr><td>外国人代表取締役</td><td>就任承諾書 + 印鑑(署名鑑)届</td><td>自作</td><td>-</td></tr>
+<tr><td>オフィス</td><td>賃貸借契約書</td><td>貸主</td><td>事業者登録時に必要</td></tr>
 </tbody>
 </table>
 
@@ -148,34 +134,30 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 定款で事業目的を記載するときは、**外国人投資制限業種**に触れないように表現を調整する必要があります。放送・通信・電気・出版・畜産・漁業など一部業種は外国人の持分上限がかかっているため、事業目的に軽率に入れると外資申告そのものが差し戻されます。一般的な流通・IT・コンサル・貿易はほとんど制限がありません。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 事業目的に<strong>「放送・通信・ニュース提供業」</strong>を入れて全額外国人出資で申告すると、外国人投資制限業種に該当して差し戻されます。実際の主力事業ではないのに「いつかやるかもしれないから」入れるケースが一番こじれます。具体的な業種の可否については産業通商資源部および所管機関への確認が必要です。
+<div>
+  <strong>⚠️ 注意:</strong> 事業目的に<strong>「放送・通信・ニュース提供業」</strong>を入れて全額外国人出資で申告すると、外国人投資制限業種に該当して差し戻されます。実際の主力事業ではないのに「いつかやるかもしれないから」入れるケースが一番こじれます。具体的な業種の可否については産業通商資源部および所管機関への確認が必要です。
 </div>
 
 ### 登記申請時の実際のチェックポイント
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 登記直前のチェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>外国人投資申告受理書 原本の受領完了</li>
-    <li>資本金送金完了 + 外貨買入証明書の発行完了</li>
-    <li>資本金仮口座の残高証明書(登記申請前7日以内に発行)</li>
-    <li>外国人株主/代表取締役のパスポート公証アポスティーユ原本</li>
-    <li>外国人代表取締役の署名鑑公証アポスティーユ原本</li>
-    <li>韓国語翻訳文(公証翻訳士の押印入り)</li>
-    <li>定款の事業目的の外資制限業種チェック</li>
-    <li>本店所在地の賃貸借契約書(実使用可否の確認)</li>
-    <li>登録免許税・地方教育税の納付領収書</li>
-    <li>登記申請書・委任状</li>
-  </ul>
+<div>
+  <strong>✅ 登記直前のチェックリスト</strong>
+
+    外国人投資申告受理書 原本の受領完了
+    資本金送金完了 + 外貨買入証明書の発行完了
+    資本金仮口座の残高証明書(登記申請前7日以内に発行)
+    外国人株主/代表取締役のパスポート公証アポスティーユ原本
+    外国人代表取締役の署名鑑公証アポスティーユ原本
+    韓国語翻訳文(公証翻訳士の押印入り)
+    定款の事業目的の外資制限業種チェック
+    本店所在地の賃貸借契約書(実使用可否の確認)
+    登録免許税・地方教育税の納付領収書
+    登記申請書・委任状
+
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Stunning night view of Seoul's illuminated skyscrapers and bustling cityscape from above." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Stunning night view of Seoul's illuminated skyscrapers and bustling cityscape from above.](https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 設立後の事後手続き:事業者登録・外資系企業登録
@@ -190,16 +172,16 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 ### D-8ビザ取得までの流れ
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">順番</th><th style="border:1px solid #e5e7eb;padding:10px">揃えるべき書類</th><th style="border:1px solid #e5e7eb;padding:10px">用途</th></tr>
+<table>
+<thead>
+<tr><th>順番</th><th>揃えるべき書類</th><th>用途</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1</td><td style="border:1px solid #e5e7eb;padding:10px">法人登記簿謄本</td><td style="border:1px solid #e5e7eb;padding:10px">法人の存在を証明</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">2</td><td style="border:1px solid #e5e7eb;padding:10px">事業者登録証</td><td style="border:1px solid #e5e7eb;padding:10px">税務上の営業可能状態を証明</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3</td><td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録証</td><td style="border:1px solid #e5e7eb;padding:10px">D-8査証申請のコア証憑</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">4</td><td style="border:1px solid #e5e7eb;padding:10px">外貨買入証明書・株主名簿</td><td style="border:1px solid #e5e7eb;padding:10px">1億以上の資本金・10%持分を証明</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5</td><td style="border:1px solid #e5e7eb;padding:10px">事業計画書</td><td style="border:1px solid #e5e7eb;padding:10px">事業の実在性・持続性を説明</td></tr>
+<tr><td>1</td><td>法人登記簿謄本</td><td>法人の存在を証明</td></tr>
+<tr><td>2</td><td>事業者登録証</td><td>税務上の営業可能状態を証明</td></tr>
+<tr><td>3</td><td>外国人投資企業登録証</td><td>D-8査証申請のコア証憑</td></tr>
+<tr><td>4</td><td>外貨買入証明書・株主名簿</td><td>1億以上の資本金・10%持分を証明</td></tr>
+<tr><td>5</td><td>事業計画書</td><td>事業の実在性・持続性を説明</td></tr>
 </tbody>
 </table>
 
@@ -213,38 +195,38 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 登録免許税は**資本金の0.4%**(首都圏過密抑制圏域は3倍重課、つまり1.2%)、地方教育税は登録免許税の20%です。本店を首都圏過密抑制圏域に置く外国人法人が最も多いため、実務上は重課税率を基準に見積もっておくのが無難です。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">資本金</th><th style="border:1px solid #e5e7eb;padding:10px">登録免許税(過密3倍)</th><th style="border:1px solid #e5e7eb;padding:10px">地方教育税</th><th style="border:1px solid #e5e7eb;padding:10px">公債・登記手数料など</th><th style="border:1px solid #e5e7eb;padding:10px">税金・手数料合計</th></tr>
+<table>
+<thead>
+<tr><th>資本金</th><th>登録免許税(過密3倍)</th><th>地方教育税</th><th>公債・登記手数料など</th><th>税金・手数料合計</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1億ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約120万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約24万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約10~20万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約154~164万ウォン</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3億ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約360万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約72万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約15~25万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約447~457万ウォン</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5億ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約600万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約120万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約20~30万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約740~750万ウォン</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">10億ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約1,200万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約240万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約30~50万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">約1,470~1,490万ウォン</td></tr>
+<tr><td>1億ウォン</td><td>約120万ウォン</td><td>約24万ウォン</td><td>約10~20万ウォン</td><td>約154~164万ウォン</td></tr>
+<tr><td>3億ウォン</td><td>約360万ウォン</td><td>約72万ウォン</td><td>約15~25万ウォン</td><td>約447~457万ウォン</td></tr>
+<tr><td>5億ウォン</td><td>約600万ウォン</td><td>約120万ウォン</td><td>約20~30万ウォン</td><td>約740~750万ウォン</td></tr>
+<tr><td>10億ウォン</td><td>約1,200万ウォン</td><td>約240万ウォン</td><td>約30~50万ウォン</td><td>約1,470~1,490万ウォン</td></tr>
 </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 上記の税額は首都圏過密抑制圏域の重課税率(1.2%)基準です。本店所在地が地方(非過密)の場合は0.4%で1/3程度となり、詳細な税率・控除は地方税法の改正によって変わる可能性があるため、<strong>所管の地方自治体の税務部署への確認が必要</strong>です。
+<div>
+  <strong>⚠️ 注意:</strong> 上記の税額は首都圏過密抑制圏域の重課税率(1.2%)基準です。本店所在地が地方(非過密)の場合は0.4%で1/3程度となり、詳細な税率・控除は地方税法の改正によって変わる可能性があるため、<strong>所管の地方自治体の税務部署への確認が必要</strong>です。
 </div>
 
 ### 実費・代行料
 
 政府の税金以外に実際に支出するお金は、翻訳・公証・アポスティーユ・代行料などです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">項目</th><th style="border:1px solid #e5e7eb;padding:10px">実務相場</th><th style="border:1px solid #e5e7eb;padding:10px">備考</th></tr>
+<table>
+<thead>
+<tr><th>項目</th><th>実務相場</th><th>備考</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">定款公証</td><td style="border:1px solid #e5e7eb;padding:10px">約10~30万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">資本金10億未満は省略可</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">翻訳公証(1件)</td><td style="border:1px solid #e5e7eb;padding:10px">約5~15万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">書類数に応じて増加</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">本国公証・アポスティーユ</td><td style="border:1px solid #e5e7eb;padding:10px">国別に約10~30万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">本国公証役場 + 外務省</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">法人印・印鑑</td><td style="border:1px solid #e5e7eb;padding:10px">約3~10万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">判子屋 / 材質により差</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">登記代行料</td><td style="border:1px solid #e5e7eb;padding:10px">約50~150万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">司法書士/行政書士事務所により異なる</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外資申告代行料</td><td style="border:1px solid #e5e7eb;padding:10px">約30~80万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">単独依頼の場合</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">D-8ビザパッケージ</td><td style="border:1px solid #e5e7eb;padding:10px">約100~300万ウォン</td><td style="border:1px solid #e5e7eb;padding:10px">事業計画書設計込み</td></tr>
+<tr><td>定款公証</td><td>約10~30万ウォン</td><td>資本金10億未満は省略可</td></tr>
+<tr><td>翻訳公証(1件)</td><td>約5~15万ウォン</td><td>書類数に応じて増加</td></tr>
+<tr><td>本国公証・アポスティーユ</td><td>国別に約10~30万ウォン</td><td>本国公証役場 + 外務省</td></tr>
+<tr><td>法人印・印鑑</td><td>約3~10万ウォン</td><td>判子屋 / 材質により差</td></tr>
+<tr><td>登記代行料</td><td>約50~150万ウォン</td><td>司法書士/行政書士事務所により異なる</td></tr>
+<tr><td>外資申告代行料</td><td>約30~80万ウォン</td><td>単独依頼の場合</td></tr>
+<tr><td>D-8ビザパッケージ</td><td>約100~300万ウォン</td><td>事業計画書設計込み</td></tr>
 </tbody>
 </table>
 
@@ -278,8 +260,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 外国人投資企業登録証なしでD-8の申請を出す事例があります。入国管理局ではほとんどが補正要求または差し戻しになります。**登記 → 事業者登録 → FIC登録 → D-8**の順序を守れば、時間のロスが減ります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 共同代表として韓国人を仮に載せておき、設立後すぐに辞任させる構造は、<strong>外国人単独の実質支配構造と再解釈</strong>される可能性があります。銀行のUBO審査や入国管理局のD-8審査で問題となる可能性があるため、取締役構成は最初から実際の運営構造に合わせておく方が安全です。
+<div>
+  <strong>⚠️ 注意:</strong> 共同代表として韓国人を仮に載せておき、設立後すぐに辞任させる構造は、<strong>外国人単独の実質支配構造と再解釈</strong>される可能性があります。銀行のUBO審査や入国管理局のD-8審査で問題となる可能性があるため、取締役構成は最初から実際の運営構造に合わせておく方が安全です。
 </div>
 
 ## FAQ 5選
@@ -308,8 +290,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 ビジョン行政書士事務所は、外国人株式会社設立、外国人投資申告、外資系企業登録、D-8・F-2ビザとの接続まで、**一連の流れでまとめて処理**する事務所です。設立後にビザ段階でつまずくケースを数多く見てきたからこそ、定款目的の設計段階からビザ審査までを視野に入れて書類を組み立てます。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のコツ:</strong> 外資申告・資本金送金のルートを組む前に、まず<strong>ビザ計画(D-8単独/配偶者帯同/長期F-2への切替)</strong>を一緒に立てておくと、資本金の規模と事業目的の設計を一度で終わらせることができます。
+<div>
+  <strong>💡 実務のコツ:</strong> 外資申告・資本金送金のルートを組む前に、まず<strong>ビザ計画(D-8単独/配偶者帯同/長期F-2への切替)</strong>を一緒に立てておくと、資本金の規模と事業目的の設計を一度で終わらせることができます。
 </div>
 
 **ビジョン行政書士事務所 (VISION Administrative Office)**

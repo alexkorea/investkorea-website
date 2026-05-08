@@ -16,20 +16,6 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">はじめに</a></li>
-    <li><a href="#three-types">3つの進出形態</a></li>
-    <li><a href="#subsidiary">現地法人（子会社）</a></li>
-    <li><a href="#branch">支店</a></li>
-    <li><a href="#liaison">連絡事務所</a></li>
-    <li><a href="#comparison">比較分析</a></li>
-    <li><a href="#legal">法的規制の枠組み</a></li>
-    <li><a href="#choosing">最適な形態の選び方</a></li>
-    <li><a href="#faq">よくある質問</a></li>
-  </ul>
-</nav>
 
 ## はじめに
 
@@ -37,7 +23,7 @@ slug: "foreign-company-korea"
 
 韓国では主に3つの選択肢があります：**現地法人**（子会社）、**支店**、そして**連絡事務所**です。それぞれに固有のメリット、制約、そして法規制上の要件があります。本ガイドでは、これらを包括的に比較し、ビジネス目標に最も適した形態の選択をサポートします。
 
-<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韓国の近代的なオフィスビル" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韓国の近代的なオフィスビル" />
 
 ## 3つの進出形態
 
@@ -120,7 +106,7 @@ slug: "foreign-company-korea"
 - **活動範囲の制約** -- ビジネス開発に支障をきたす可能性
 - **ビザの取得資格がない** -- 外国人スタッフには別途の手配が必要
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 連絡事務所が営利活動を行っていることが判明した場合、韓国の税務当局は支店として再分類し、過去に遡って課税・罰金を課す可能性があります。</div>
+<div>⚠️ <strong>注意：</strong> 連絡事務所が営利活動を行っていることが判明した場合、韓国の税務当局は支店として再分類し、過去に遡って課税・罰金を課す可能性があります。</div>
 
 ## 比較分析
 
@@ -151,7 +137,7 @@ slug: "foreign-company-korea"
 
 連絡事務所は最も規制要件が少ないですが、関連当局への登録は必要です。最も重要なルールは**商業活動の禁止**です。いかなる逸脱も再分類のリスクを招きます。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>ヒント：</strong> 韓国は90か国以上と租税条約（DTA）を締結しています。母国が韓国とDTAを結んでいるか確認してください。支店や現地法人の税負担に大きく影響する可能性があります。</div>
+<div>💡 <strong>ヒント：</strong> 韓国は90か国以上と租税条約（DTA）を締結しています。母国が韓国とDTAを結んでいるか確認してください。支店や現地法人の税負担に大きく影響する可能性があります。</div>
 
 ## 最適な形態の選び方
 
@@ -201,7 +187,7 @@ VISION行政士事務所にお問い合わせください。外国企業の韓�
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">無料相談</h3><p style="color:#bfdbfe; margin:0 0 16px;">専門行政士がご相談いたします。Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a></div>
+<div>### 無料相談<p>専門行政士がご相談いたします。Tel. 02-363-2251</p>[相談を申し込む](/contact)</div>
 
 <script type="application/ld+json">
 {

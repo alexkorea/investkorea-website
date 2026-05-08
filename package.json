@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "check:i18n-hardcode": "node scripts/check-hardcoded-korean.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint ."

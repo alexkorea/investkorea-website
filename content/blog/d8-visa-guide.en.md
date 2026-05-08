@@ -16,22 +16,6 @@ image: "/slides/building.jpg"
 slug: "d8-visa-guide"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#d8-overview">D-8 Visa Overview</a></li>
-    <li><a href="#company-setup">Company Establishment Process</a></li>
-    <li><a href="#requirements">Visa Application Requirements</a></li>
-    <li><a href="#foreigner-registration">Foreigner Registration</a></li>
-    <li><a href="#step-by-step">Step-by-Step Application Process</a></li>
-    <li><a href="#renewal">Visa Renewal</a></li>
-    <li><a href="#benefits">Benefits of the D-8 Visa</a></li>
-    <li><a href="#considerations">Important Considerations</a></li>
-    <li><a href="#tips">Application Tips</a></li>
-    <li><a href="#faq">FAQ</a></li>
-  </ul>
-</nav>
 
 ## Introduction
 
@@ -39,7 +23,7 @@ The D-8 Investment Visa is one of the most important pathways for foreign nation
 
 This guide walks you through every step -- from setting up a Korean corporation to completing foreigner registration -- so you can navigate the process with confidence.
 
-<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Modern Korean business district" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Modern Korean business district" />
 
 ## D-8 Visa Overview
 
@@ -66,7 +50,7 @@ Before applying for a D-8 visa, you must first register a Korean corporation. He
 5. **Obtain a business registration certificate** from the National Tax Service
 6. **Set up accounting and tax systems** in compliance with Korean regulations
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Note:</strong> The capital must be transferred from overseas through a Korean bank. Bring your foreign exchange certificate -- it is required for the D-8 visa application.</div>
+<div>⚠️ <strong>Note:</strong> The capital must be transferred from overseas through a Korean bank. Bring your foreign exchange certificate -- it is required for the D-8 visa application.</div>
 
 ## Visa Application Requirements
 
@@ -76,7 +60,7 @@ To qualify for a D-8 visa, you must satisfy the following conditions:
 - **Business plan** detailing the nature of your business, projected revenue, and hiring plans
 - **Korean office address** (a virtual office may not be accepted)
 - **Shareholder and officer information** including passport copies and background documents
-- **Foreign investment notification** filed with KOTRA or a designated foreign exchange bank
+- **Foreign investment notification** filed with [KOTRA](https://www.kotra.or.kr) or a designated foreign exchange bank
 
 ## Foreigner Registration
 
@@ -100,7 +84,7 @@ Here is the complete D-8 visa application timeline:
 5. **Wait for review and approval** (typically 3--6 weeks)
 6. **Enter Korea** (if applying from abroad) and complete foreigner registration
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> If you are already in Korea on a different visa (e.g., C-3 or D-2), you may be able to change your status to D-8 without leaving the country. Consult with the immigration office for eligibility.</div>
+<div>💡 <strong>Tip:</strong> If you are already in Korea on a different visa (e.g., C-3 or D-2), you may be able to change your status to D-8 without leaving the country. Consult with the immigration office for eligibility.</div>
 
 ## Visa Renewal
 
@@ -140,7 +124,7 @@ Keep these points in mind when pursuing a D-8 visa:
 - **Keep thorough records** -- financial transparency at renewal time protects your visa status
 - **Report changes promptly** -- address changes, business modifications, and officer changes must be reported to immigration
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Note:</strong> Failure to maintain genuine business operations can result in visa revocation. The D-8 visa is not a passive investment vehicle -- active management is expected.</div>
+<div>⚠️ <strong>Note:</strong> Failure to maintain genuine business operations can result in visa revocation. The D-8 visa is not a passive investment vehicle -- active management is expected.</div>
 
 ## Application Tips
 
@@ -149,7 +133,7 @@ Keep these points in mind when pursuing a D-8 visa:
 - **Build a checklist** of all required documents and verify each one before submission
 - **Start early** -- company registration alone can take 2 to 4 weeks
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> KOTRA (Korea Trade-Investment Promotion Agency) offers free advisory services for foreign investors. Take advantage of their expertise before committing capital.</div>
+<div>💡 <strong>Tip:</strong> [KOTRA](https://www.kotra.or.kr) (Korea Trade-Investment Promotion Agency) offers free advisory services for foreign investors. Take advantage of their expertise before committing capital.</div>
 
 ## FAQ
 
@@ -187,7 +171,7 @@ In some cases, immigration may request an interview to verify the legitimacy of 
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
+<div>### Free Consultation<p>Our expert consultants will guide you. Tel. 02-363-2251</p>[Request Consultation](/contact)</div>
 
 <script type="application/ld+json">
 {

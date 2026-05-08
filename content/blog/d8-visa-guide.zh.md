@@ -16,22 +16,6 @@ image: "/slides/building.jpg"
 slug: "d8-visa-guide"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">简介</a></li>
-    <li><a href="#d8-overview">D-8签证概述</a></li>
-    <li><a href="#company-setup">法人设立流程</a></li>
-    <li><a href="#requirements">签证申请条件</a></li>
-    <li><a href="#foreigner-registration">外国人登记</a></li>
-    <li><a href="#step-by-step">完整申请流程</a></li>
-    <li><a href="#renewal">签证续签</a></li>
-    <li><a href="#benefits">D-8签证的优势</a></li>
-    <li><a href="#considerations">注意事项</a></li>
-    <li><a href="#tips">申请技巧</a></li>
-    <li><a href="#faq">常见问题</a></li>
-  </ul>
-</nav>
 
 ## 简介
 
@@ -39,7 +23,7 @@ D-8投资签证是外国人在韩国设立并运营企业的重要途径之一�
 
 本指南将从法人设立到外国人登记，逐步为您解析每一个环节，助您从容应对整个流程。
 
-<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国现代商务区" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国现代商务区" />
 
 ## D-8签证概述
 
@@ -66,7 +50,7 @@ D-8签证允许外国人在韩国**直接设立和经营企业**。它为投资�
 5. **在国税厅取得营业执照**
 6. **建立会计和税务体系**，确保符合韩国法规要求
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 资本金必须通过韩国银行从海外汇入。请务必保留外汇交易凭证，这是D-8签证申请的必备材料。</div>
+<div>⚠️ <strong>注意：</strong> 资本金必须通过韩国银行从海外汇入。请务必保留外汇交易凭证，这是D-8签证申请的必备材料。</div>
 
 ## 签证申请条件
 
@@ -76,7 +60,7 @@ D-8签证允许外国人在韩国**直接设立和经营企业**。它为投资�
 - **商业计划书**——详细说明业务性质、预期收入和招聘计划
 - **韩国办公地址**（虚拟办公室可能不被接受）
 - **股东及高管信息**——包括护照复印件和背景资料
-- **外商投资申报**——通过KOTRA或指定外汇银行完成
+- **外商投资申报**——通过[KOTRA](https://www.kotra.or.kr)或指定外汇银行完成
 
 ## 外国人登记
 
@@ -100,7 +84,7 @@ D-8签证申请的完整时间线如下：
 5. **等待审核和批准**（通常3至6周）
 6. **入境韩国**（境外申请者）并完成外国人登记
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 如果您已持其他签证在韩（如C-3或D-2），有可能无需出境即可变更为D-8签证。建议向出入境管理局咨询具体资格。</div>
+<div>💡 <strong>提示：</strong> 如果您已持其他签证在韩（如C-3或D-2），有可能无需出境即可变更为D-8签证。建议向出入境管理局咨询具体资格。</div>
 
 ## 签证续签
 
@@ -140,7 +124,7 @@ D-8签证初始有效期为**一年**，可申请延期。续签审查时，出�
 - **保留完整记录**——续签时保持财务透明有助于维护签证状态
 - **及时申报变更**——地址变更、业务变动、高管变更等均须向出入境管理局报告
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 未能维持真实经营活动可能导致签证被撤销。D-8签证并非被动投资工具，持有者须积极参与企业管理。</div>
+<div>⚠️ <strong>注意：</strong> 未能维持真实经营活动可能导致签证被撤销。D-8签证并非被动投资工具，持有者须积极参与企业管理。</div>
 
 ## 申请技巧
 
@@ -149,7 +133,7 @@ D-8签证初始有效期为**一年**，可申请延期。续签审查时，出�
 - **制作材料清单**——逐项核对后再提交
 - **尽早启动**——仅法人注册就可能需要2至4周
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 大韩贸易投资振兴公社（KOTRA）为外国投资者提供免费咨询服务。在投入资金之前，不妨先利用他们的专业支持。</div>
+<div>💡 <strong>提示：</strong> 大韩贸易投资振兴公社（[KOTRA](https://www.kotra.or.kr)）为外国投资者提供免费咨询服务。在投入资金之前，不妨先利用他们的专业支持。</div>
 
 ## 常见问题
 
@@ -187,7 +171,7 @@ D-8签证初始有效期为**一年**，可申请延期。续签审查时，出�
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">免费咨询</h3><p style="color:#bfdbfe; margin:0 0 16px;">专业行政士为您提供咨询服务。电话：02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a></div>
+<div>### 免费咨询<p>专业行政士为您提供咨询服务。电话：02-363-2251</p>[申请咨询](/contact)</div>
 
 <script type="application/ld+json">
 {

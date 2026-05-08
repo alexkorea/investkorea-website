@@ -7,23 +7,6 @@ image: "/slides/building.jpg"
 slug: "d8-visa-company-setup-guide"
 ---
 
-<nav>
-
-#### 📋 Table of Contents
-
-- [Relationship Between D-8 Visa and Company Formation](#relationship-between-d-8-visa-and-company-formation)
-- [Comparison of Business Entity Types](#comparison-of-business-entity-types)
-- [Detailed Establishment Requirements](#detailed-establishment-requirements)
-- [Investment Fund Remittance Process](#investment-fund-remittance-process)
-- [Company Registration at the Registry](#company-registration-at-the-registry)
-- [Business Registration Process](#business-registration-process)
-- [D-8 Visa Application Details](#d-8-visa-application-details)
-- [Post-Establishment Checklist](#post-establishment-checklist)
-- [Cost Guide](#cost-guide)
-- [Timeline](#timeline)
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-
-</nav>
 
 &nbsp;
 
@@ -33,9 +16,9 @@ The D-8 (Corporate Investment) visa is the primary residence status for foreigne
 
 D-8 visa and company formation are **inseparable**. To apply for a D-8 visa, you must first establish a [Foreign Direct Investment (FDI) company](/company/fdi) in Korea and have proof of investment remittance and a business registration certificate. In other words, the company must be established before you can apply for the visa. Some investors assume they can "get the visa first and then set up the company," but for the D-8 visa, the company formation and investment remittance must be completed before the visa application can be filed.
 
-The entire process from company formation to D-8 visa issuance involves multiple government agencies (banks, courts, tax offices, KOTRA, immigration offices, etc.) and can be complex. However, with a clear understanding of each step and systematic preparation, the entire process can be completed within **approximately 3 to 6 weeks**. This guide provides detailed procedures and important considerations for each stage.
+The entire process from company formation to D-8 visa issuance involves multiple government agencies (banks, courts, tax offices, [KOTRA](https://www.kotra.or.kr), immigration offices, etc.) and can be complex. However, with a clear understanding of each step and systematic preparation, the entire process can be completed within **approximately 3 to 6 weeks**. This guide provides detailed procedures and important considerations for each stage.
 
-<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business meeting" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business meeting" />
 
 &nbsp;
 
@@ -59,7 +42,7 @@ A **[Branch Office](/company/branch)** operates as a Korean branch of the foreig
 
 A **[Liaison Office](/company/liaison)** is a base in Korea that does not engage in business activities but only performs non-profit activities such as market research, liaison, and information gathering. It does not require separate registration and the process is simple, but it cannot engage in business activities and is not eligible for a D-8 visa.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> A phased approach is also possible — starting with a liaison office to research the market, then converting to an FDI company when ready for full-scale entry. Choose the type that best matches your business scale and strategy.</div>
+<div>💡 <strong>Tip:</strong> A phased approach is also possible — starting with a liaison office to research the market, then converting to an FDI company when ready for full-scale entry. Choose the type that best matches your business scale and strategy.</div>
 
 &nbsp;
 
@@ -82,7 +65,7 @@ For business premises, an independent office is not strictly required — using 
 
 The representative director can be either a foreigner or a Korean national. However, to apply for a D-8 visa, the applicant must **substantially participate** in the management of the company. If you simply hold shares without participating in management, the D-8 visa may be denied.
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Document work" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Document work" />
 
 &nbsp;
 
@@ -92,7 +75,7 @@ Investment remittance is one of the most critical steps in the company formation
 
 ### Step 1: Foreign Investment Declaration
 
-Before remitting the investment funds, you must first submit a foreign investment declaration to **KOTRA (Korea Trade-Investment Promotion Agency) or a foreign exchange bank**. The declaration includes investor information, investment amount, information about the company to be invested in, and business purpose. Once accepted, a **Foreign Investment Declaration Certificate** is issued, and based on this certificate number, a dedicated investment account is opened at the bank.
+Before remitting the investment funds, you must first submit a foreign investment declaration to **[KOTRA](https://www.kotra.or.kr) (Korea Trade-Investment Promotion Agency) or a foreign exchange bank**. The declaration includes investor information, investment amount, information about the company to be invested in, and business purpose. Once accepted, a **Foreign Investment Declaration Certificate** is issued, and based on this certificate number, a dedicated investment account is opened at the bank.
 
 ### Step 2: Foreign Exchange Bank Account Opening and Remittance
 
@@ -102,7 +85,7 @@ After receiving the Foreign Investment Declaration Certificate, open a dedicated
 
 Once the investment funds arrive in the domestic bank account, the bank issues an **Investment Arrival Confirmation Certificate (Foreign Exchange Purchase Certificate)**. This document is a key piece of evidence for the D-8 visa application, proving that the investment funds were lawfully remitted from overseas. Funds held domestically or borrowed from third parties are not recognized as foreign investment, so the **overseas-to-domestic** remittance path must be confirmed.
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Warning:</strong> Investment funds must be remitted from an overseas account in the investor's own name. Remittance from a third-party account may not be recognized as foreign investment and could be subject to additional review under the Anti-Money Laundering Act.</div>
+<div>⚠️ <strong>Warning:</strong> Investment funds must be remitted from an overseas account in the investor's own name. Remittance from a third-party account may not be recognized as foreign investment and could be subject to additional review under the Anti-Money Laundering Act.</div>
 
 &nbsp;
 
@@ -123,7 +106,7 @@ The key documents required for company registration are as follows:
 | Seal Registration Form | Registration of corporate seal | Court form |
 | Share Subscription Certificate | Details of share subscription by each shareholder | Prepared per investor |
 | Balance Certificate | Confirmation of investment fund deposit | Issued by bank |
-| Foreign Investment Declaration Certificate (copy) | Proof of foreign investment declaration | Issued by KOTRA/bank |
+| Foreign Investment Declaration Certificate (copy) | Proof of foreign investment declaration | Issued by [KOTRA](https://www.kotra.or.kr)/bank |
 
 ### Registration Procedure
 
@@ -141,7 +124,7 @@ The documents required for business registration include: business registration 
 
 Business registration is usually completed within **1 to 3 days** after filing. If additional permits, registrations, or notifications are required depending on the business type (e.g., food-related, education-related industries), these must be obtained before proceeding with business registration. Once the business registration certificate is issued, you can officially open a bank account in the company's name and begin full-scale business operations.
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business planning documents" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business planning documents" />
 
 &nbsp;
 
@@ -155,7 +138,7 @@ Once the company formation, investment remittance, and business registration are
 |------|------|------|
 | Visa Issuance (Change of Status) Application | Immigration office form | Photo attached |
 | Passport Copy | Valid for at least 6 months | Bring original |
-| Foreign Investment Enterprise Registration Certificate | Issued by the Ministry of Trade, Industry and Energy | Via KOTRA |
+| Foreign Investment Enterprise Registration Certificate | Issued by the Ministry of Trade, Industry and Energy | Via [KOTRA](https://www.kotra.or.kr) |
 | Corporate Registry Extract | Proof of company establishment | Issued within 3 months |
 | Copy of Business Registration Certificate | Issued by tax office | - |
 | Investment Arrival Confirmation Certificate | Proof of overseas remittance | Issued by bank |
@@ -169,7 +152,7 @@ The D-8 visa review comprehensively examines the legitimacy of the investment fu
 
 The visa review period is approximately **1 to 4 weeks**, and additional time may be required if supplementary documents are requested. The initial stay period for a D-8 visa is 1 to 2 years, and renewal is possible if the business is operating normally. After staying in Korea for 5 or more years on a D-8 visa and meeting certain requirements (maintaining investment, employing Korean nationals, etc.), a status change to [F-5 permanent residency](/visa/f5) is also possible.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> D-8 visa holders can invite their spouse and minor children on F-3 (Dependent) visas. If you plan to bring your family, it is efficient to prepare the family invitation alongside the D-8 visa application.</div>
+<div>💡 <strong>Tip:</strong> D-8 visa holders can invite their spouse and minor children on F-3 (Dependent) visas. If you plan to bring your family, it is efficient to prepare the family invitation alongside the D-8 visa application.</div>
 
 &nbsp;
 
@@ -179,7 +162,7 @@ Even after the company is established and the D-8 visa is obtained, there are ad
 
 ### Foreign Investment Enterprise Registration
 
-You must register as a **Foreign Investment Enterprise** with the Ministry of Trade, Industry and Energy (via KOTRA). This registration entitles you to various tax benefits and support as a foreign investment enterprise. The Foreign Investment Enterprise Registration Certificate issued after registration is also a required document for D-8 visa applications.
+You must register as a **Foreign Investment Enterprise** with the Ministry of Trade, Industry and Energy (via [KOTRA](https://www.kotra.or.kr)). This registration entitles you to various tax benefits and support as a foreign investment enterprise. The Foreign Investment Enterprise Registration Certificate issued after registration is also a required document for D-8 visa applications.
 
 ### Four Major Social Insurances
 
@@ -197,7 +180,7 @@ Operating a corporation in Korea creates obligations for various tax filings inc
 
 After entering Korea on a D-8 visa, you must complete **foreigner registration within 90 days**. Obtain an Alien Registration Card from the local immigration office — this card serves as your identification in Korea. If you change your residence, you must file a change notification within 14 days.
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business handshake" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business handshake" />
 
 &nbsp;
 
@@ -220,7 +203,7 @@ Here is a breakdown of estimated costs from company formation to D-8 visa acquis
 
 The KRW 100 million investment is the company's capital used for business operations, so it is not purely "consumed" as a cost. However, you can expect approximately **KRW 2–5 million** in ancillary costs related to company formation in addition to the investment. Adding office rental costs can make the initial setup expenses substantial, so thorough financial planning is important.
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Warning:</strong> The KRW 100 million investment must be maintained for a certain period after company establishment. If you withdraw the entire investment immediately after establishment, it may be determined that there is no substance to the foreign investment, and D-8 visa renewal may be denied.</div>
+<div>⚠️ <strong>Warning:</strong> The KRW 100 million investment must be maintained for a certain period after company establishment. If you withdraw the entire investment immediately after establishment, it may be determined that there is no substance to the foreign investment, and D-8 visa renewal may be denied.</div>
 
 &nbsp;
 
@@ -230,11 +213,11 @@ The total timeline depends on document preparation status and processing speed o
 
 | Stage | Duration | Notes |
 |------|----------|------|
-| Foreign Investment Declaration | 1–3 days | KOTRA or bank |
+| Foreign Investment Declaration | 1–3 days | [KOTRA](https://www.kotra.or.kr) or bank |
 | Investment Remittance and Arrival Confirmation | 3–7 days | Includes overseas transfer time |
 | Company Registration | 3–7 days | Based on complete documentation |
 | Business Registration | 1–3 days | Tax office processing |
-| Foreign Investment Enterprise Registration | 3–5 days | Via KOTRA |
+| Foreign Investment Enterprise Registration | 3–5 days | Via [KOTRA](https://www.kotra.or.kr) |
 | D-8 Visa Application and Issuance | 7–30 days | Varies by review complexity |
 | **Total** | **Approx. 3–6 weeks** | **Document preparation time not included** |
 
@@ -288,4 +271,4 @@ Yes. You can make a foreign investment by acquiring 10% or more (KRW 100 million
 
 &nbsp;
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
+<div>### Free Consultation<p>Our expert consultants will guide you. Tel. 02-363-2251</p>[Request Consultation](/contact)</div>

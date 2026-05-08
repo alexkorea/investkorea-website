@@ -15,25 +15,12 @@ excerptJa: "韓国外国人投資促進法の「申告」と「登録」は手�
 image: "/slides/building.jpg"
 slug: "foreign-investment-registration-report-difference"
 ---
-# 外国人投資促進法における「申告」と「登録」の違いまとめ
+## 外国人投資促進法における「申告」と「登録」の違いまとめ
 
 外国人投資促進法（以下、「投資促進法」）において、「申告」と「登録」はそれぞれ非常に重要なプロセスですが、法的な意味や適用対象、処理結果が根本的に異なります。「申告」は外国人投資家が韓国国内で投資を始める際に必須となる手続きで、企業設立や株式取得などの主要な行為の前に関係機関へ提出されます。一方「登録」は、法的権利の確立や効力発生を目的としたもので、申告後に投資企業が商法上の法人の地位を持つため、管轄機関（例：登記所）に申請する流れとなります。両手続きとも外国人投資実務で欠かせませんが、目的や効力、必要書類や管轄機関が異なるため、正確な理解が重要です。
 
 実際の事務手続きでは、投資企業設立やビザ申請（企業投資D-8等）、後々の資金送金などで「申告」と「登録」を混同すると仮営業やビザ審査の遅延につながる恐れがあります。それぞれの条件や準備書類を明確に整理しておく必要があります。このガイドでは、投資促進法における申告と登録の違い、実務上の主要ポイント、よくある間違いとその解決策まで具体的に紹介します。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人投資促進法の根拠と目的</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投資申告：定義と実務</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 外国人投資登録：定義と実務</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 申告と登録の比較表</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 各段階のチェックリストと注意点</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. よくあるミスと回避策</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ（よくある質問）</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 実務相談・お問い合わせ案内</a></li>
-  </ul>
-</nav>
 
 ---
 
@@ -41,7 +28,7 @@ slug: "foreign-investment-registration-report-difference"
 
 外国人投資促進法は、韓国国内への外国資本誘致や産業競争力アップ、経済成長を目的に1998年に制定された法律です。この法では、外国人が韓国で資本投資や法人設立を行う際の基本的な手続きや行政要件を明確に規定しています。投資促進法における「申告」と「登録」は、次の通り定義されています。
 
-- **申告**：投資行為（法人設立・株式取得・資本投入など）を事前に所管機関（KOTRA、市・道庁、指定銀行等）へ届け出る手続き
+- **申告**：投資行為（法人設立・株式取得・資本投入など）を事前に所管機関（[KOTRA](https://www.kotra.or.kr)、市・道庁、指定銀行等）へ届け出る手続き
 - **登録**：投資行為を実行した後、法的効力を確立するために行政機関（登記所等）へ登記する手続き
 
 法内では、これら所管機関や申告・登録の区分、投資認定の基準、関連書類、証明手続きなど詳細が規定されています。実際に手続きをする際は、各機関や最新法令を充分に確認することが重要です。
@@ -58,7 +45,7 @@ slug: "foreign-investment-registration-report-difference"
 - 投資者情報（国籍・身分・資金源）
 - 投資額と目的
 - 投資対象（法人・事業体等）
-- 申告先：KOTRA（韓国貿易投資振興公社）、地方自治体、市・道庁、指定外国為替銀行など
+- 申告先：[KOTRA](https://www.kotra.or.kr)（韓国貿易投資振興公社）、地方自治体、市・道庁、指定外国為替銀行など
 
 ### 実務的な流れ
 1. 申告書作成
@@ -94,49 +81,49 @@ slug: "foreign-investment-registration-report-difference"
 
 ## 4. 申告と登録の比較表
 
-<table border="1" style="border-collapse:collapse;width:100%">
-  <thead style="background:#e0ebff">
+<table border="1">
+  <thead>
     <tr>
-      <th style="padding:8px">区分</th>
-      <th style="padding:8px">申告</th>
-      <th style="padding:8px">登録</th>
+      <th>区分</th>
+      <th>申告</th>
+      <th>登録</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px">法的根拠</td>
-      <td style="padding:8px">投資促進法第5条</td>
-      <td style="padding:8px">投資促進法第6条、商法など</td>
+      <td>法的根拠</td>
+      <td>投資促進法第5条</td>
+      <td>投資促進法第6条、商法など</td>
     </tr>
     <tr>
-      <td style="padding:8px">目的</td>
-      <td style="padding:8px">外国人投資の通知と承認</td>
-      <td style="padding:8px">法的効力の発生・権利確定</td>
+      <td>目的</td>
+      <td>外国人投資の通知と承認</td>
+      <td>法的効力の発生・権利確定</td>
     </tr>
     <tr>
-      <td style="padding:8px">適用タイミング</td>
-      <td style="padding:8px">投資行為の前</td>
-      <td style="padding:8px">投資行為完了後</td>
+      <td>適用タイミング</td>
+      <td>投資行為の前</td>
+      <td>投資行為完了後</td>
     </tr>
     <tr>
-      <td style="padding:8px">主要機関</td>
-      <td style="padding:8px">KOTRA、市・道庁、銀行等</td>
-      <td style="padding:8px">裁判所登記所、税務署など</td>
+      <td>主要機関</td>
+      <td>[KOTRA](https://www.kotra.or.kr)、市・道庁、銀行等</td>
+      <td>裁判所登記所、税務署など</td>
     </tr>
     <tr>
-      <td style="padding:8px">主な書類</td>
-      <td style="padding:8px">申告書、身分証、資本金証明</td>
-      <td style="padding:8px">登記申請書、払込証明、事業者登録申請書など</td>
+      <td>主な書類</td>
+      <td>申告書、身分証、資本金証明</td>
+      <td>登記申請書、払込証明、事業者登録申請書など</td>
     </tr>
     <tr>
-      <td style="padding:8px">効力</td>
-      <td style="padding:8px">申告証（確認書）の発行</td>
-      <td style="padding:8px">登記および事業者登録証の発行</td>
+      <td>効力</td>
+      <td>申告証（確認書）の発行</td>
+      <td>登記および事業者登録証の発行</td>
     </tr>
     <tr>
-      <td style="padding:8px">ビザへの影響</td>
-      <td style="padding:8px">ビザ申請前に必須</td>
-      <td style="padding:8px">ビザ発給・延長に必須</td>
+      <td>ビザへの影響</td>
+      <td>ビザ申請前に必須</td>
+      <td>ビザ発給・延長に必須</td>
     </tr>
   </tbody>
 </table>
@@ -149,7 +136,7 @@ slug: "foreign-investment-registration-report-difference"
 
 1. **申告段階**
    - 投資目的と条件の確認（最低投資額など）
-   - 所管機関（銀行、KOTRAなど）の選定
+   - 所管機関（銀行、[KOTRA](https://www.kotra.or.kr)など）の選定
    - 必要書類（申告書、資金出所証明など）を事前準備
    - 資金送金計画を立てる
    - 申告証取得後のみ法人設立が可能
@@ -177,7 +164,7 @@ slug: "foreign-investment-registration-report-difference"
 ### 実務でよく起こるミス
 
 - **申告と登録の混同**：申告だけで登録を忘れる、または登録だけで申告をしない
-- **所管機関の確認不足**：KOTRAや銀行など機関ごとの書類や対応違いを把握していない
+- **所管機関の確認不足**：[KOTRA](https://www.kotra.or.kr)や銀行など機関ごとの書類や対応違いを把握していない
 - **資金送金タイミングのミス**：申告証取得前に送金したり資金入金順序を誤る
 - **書類不足や証明ミス**：資金出所証明や資金流れの誤認
 - **ビザ申請時の書類漏れ**：申告証・登録証・資本払込記録等の未提出
@@ -193,19 +180,19 @@ slug: "foreign-investment-registration-report-difference"
 
 ## 7. FAQ（よくある質問）
 
-**Q1. 外国人投資の申告と登録はどちらを先に行うべきでしょうか？**  
+**Q1. 外国人投資の申告と登録はどちらを先に行うべきでしょうか？**
 A: 投資促進法上「申告」が先行します。申告後に資金入金など関連手続きをしてから「登録」を行います。
 
-**Q2. 申告と登録が終わればすぐビザを取得できますか？**  
+**Q2. 申告と登録が終わればすぐビザを取得できますか？**
 A: 申告・登録が完了後、管轄出入国管理事務所でD-8（企業投資）などのビザ申請が可能です。ただし、付随資料や資金入金など別途確認が必要なのでご注意ください。
 
-**Q3. 申告機関（KOTRAや銀行等）によって手続きや必要書類が異なりますか？**  
+**Q3. 申告機関（[KOTRA](https://www.kotra.or.kr)や銀行等）によって手続きや必要書類が異なりますか？**
 A: はい、機関ごとに要求書類や処理スピードが異なるため、事前の確認が必須です。
 
-**Q4. 投資額や要件は変更されることがありますか？**  
+**Q4. 投資額や要件は変更されることがありますか？**
 A: 法令や政府政策の変更によって条件（最低投資額等）が変わることがあります。最新情報は所管機関で確認してください。
 
-**Q5. 資金送金を申告前に行うと何か問題がありますか？**  
+**Q5. 資金送金を申告前に行うと何か問題がありますか？**
 A: 申告証交付前の資金送金は認められない場合や投資促進法の優遇が受けられない場合があるので、必ず手順を守ってください。
 
 ---
@@ -214,7 +201,7 @@ A: 申告証交付前の資金送金は認められない場合や投資促進�
 
 投資促進法の申告や登録、投資企業の設立、ビザ申請など実務的な疑問がありましたら、以下の窓口までご相談ください。迅速・正確な行政サポートをご提供します。
 
-<div style="background:#eafff6;border-radius:8px;padding:18px;margin:20px 0">
+<div>
   <strong>VISION行政士事務所</strong><br>
   電話: 02-363-2251<br>
   メール: 5000meter@gmail.com<br>

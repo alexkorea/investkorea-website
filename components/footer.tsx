@@ -108,7 +108,7 @@ export function Footer({ locale = "ko" }: { locale?: Locale }) {
         {/* Business Registration */}
         <div className="border-t border-gray-800 pt-8 mb-6">
           <p className="text-sm text-gray-500 text-center">
-            © 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주
+            {{ ko: "© 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주", en: "© 2018 VISION Administrative Attorney Agent | Business Reg: 405-05-54079 | CEO: Lee Won-jung", zh: "© 2018 飞展行政士事务所 | 营业执照号: 405-05-54079 | 代表: 李元中", ja: "© 2018 VISION行政書士事務所 | 事業者登録番号: 405-05-54079 | 代表: イ・ウォンジュン" }[locale] || "© 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중"}
           </p>
         </div>
 

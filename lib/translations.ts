@@ -1127,7 +1127,7 @@ export const translations = {
     hero: {
       badge: "韓国の信頼できる外国人投資パートナー",
       titleLine1: "外国人投資の成功パートナー",
-      titleLine2: "VISION行政士事務所",
+      titleLine2: "VISION行政書士事務所",
       subtitle:
         "外国人投資法人設立からビザ取得まで、多言語ワンストップ総合コンサルティングサービスを提供します。",
       trustBadges: ["年間200件以上処理", "多言語サポート", "ワンストップサービス"],
@@ -1139,7 +1139,7 @@ export const translations = {
       slides: [
         {
           title: "外国人投資の成功パートナー",
-          subtitle: "外国人投資法人設立から事業者登録まで、VISION行政士事務所が韓国進出の全プロセスをサポートします。",
+          subtitle: "外国人投資法人設立から事業者登録まで、VISION行政書士事務所が韓国進出の全プロセスをサポートします。",
           cta: "会社設立について",
         },
         {
@@ -1153,7 +1153,7 @@ export const translations = {
           cta: "永住権戦略を見る",
         },
         {
-          title: "8年以上の専門行政士経験",
+          title: "8年以上の専門行政書士経験",
           subtitle: "年間200件以上の成功事例と多言語サポートで信頼される外国人投資専門パートナーです。",
           cta: "無料相談予約",
         },
@@ -1162,7 +1162,7 @@ export const translations = {
     trustStats: {
       stats: [
         { value: "200+", label: "年間処理件数", description: "毎年" },
-        { value: "6", label: "専門行政士", description: "資格保有専門家" },
+        { value: "6", label: "専門行政書士", description: "資格保有専門家" },
         { value: "3", label: "事務管理チーム", description: "サポートスタッフ" },
         { value: "3", label: "対応言語", description: "英語 / 中国語 / 日本語" },
       ],
@@ -1233,9 +1233,9 @@ export const translations = {
     },
     team: {
       badge: "私たちのチーム",
-      title: "専門行政士チームのご紹介",
+      title: "専門行政書士チームのご紹介",
       subtitle: "多言語能力と韓国行政手続き及び出入国法の専門知識を持つ経験豊富なプロフェッショナルです。",
-      specialistsLabel: "専門行政士",
+      specialistsLabel: "専門行政書士",
       supportLabel: "事務管理＆サポート",
       languagesLabel: "言語",
       specialtiesLabel: "専門分野",
@@ -1319,7 +1319,7 @@ export const translations = {
         },
         {
           title: "専門家チーム",
-          description: "6名の専門行政士と3名の専任事務管理者がサポートします。",
+          description: "6名の専門行政書士と3名の専任事務管理者がサポートします。",
         },
         {
           title: "ワンストップサービス",
@@ -1429,7 +1429,7 @@ export const translations = {
       realEstate: "不動産移民",
       publicInterest: "公益移民",
       aboutUs: "会社案内",
-      copyright: "VISION行政士事務所。All rights reserved.",
+      copyright: "VISION行政書士事務所。All rights reserved.",
       privacy: "プライバシーポリシー",
       terms: "利用規約",
       phone: "02-363-2251",

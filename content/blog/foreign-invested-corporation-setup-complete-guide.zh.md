@@ -15,25 +15,12 @@ excerptJa: "外国人投資法人設立は外国為替銀行届出から登記�
 image: "/slides/building.jpg"
 slug: "foreign-invested-corporation-setup-complete-guide"
 ---
-# 外国人投资法人设立流程完全指南
+## 外国人投资法人设立流程完全指南
 
-外国人投资法人的设立分为五个步骤:① 外国人投资申报(外汇银行)→ ② 投资资金汇款 → ③ 法人设立登记(法院)→ ④ 营业执照登记(税务署)→ ⑤ 外国投资企业登记(KOTRA 或外汇银行)。外国人出资 1 亿韩元以上并取得有表决权股份 10% 以上时,才被认定为《外国人投资促进法》下的"外国人投资";若不满足该要件,则只会被归类为一般外资公司,从而被排除在 D-8 签证或税收减免对象之外。
+外国人投资法人的设立分为五个步骤:① 外国人投资申报(外汇银行)→ ② 投资资金汇款 → ③ 法人设立登记(法院)→ ④ 营业执照登记(税务署)→ ⑤ 外国投资企业登记([KOTRA](https://www.kotra.or.kr) 或外汇银行)。外国人出资 1 亿韩元以上并取得有表决权股份 10% 以上时,才被认定为《外国人投资促进法》下的"外国人投资";若不满足该要件,则只会被归类为一般外资公司,从而被排除在 D-8 签证或税收减免对象之外。
 
 关键在于顺序。如果未申报先汇款,资金来源说明将变得复杂;如果登记前汇款延迟,资本金缴纳证明无法出具,登记也会随之延误。实务中通常将申报 → 汇款 → 登记 → 营业执照登记 → FIC 登记的全流程目标设定在 3~5 周内完成,任何一个环节出问题,整个签证申请的时间表都会被推迟。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 什么是外国人投资法人 — 与一般外资公司有何不同</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须确定的 5 件事 — 行业、资本金、持股比例、法人形态、所在地</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 第 1 步 外国人投资申报 — 在哪里办、用什么办</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 第 2 步 投资资金汇款与资本金缴纳证明</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 第 3 步 法人设立登记 — 章程、董监高、登记文件</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 第 4 步 营业执照登记与第 5 步 外国投资企业(FIC)登记</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 与 D-8 签证的衔接 — 法人设立与签证日程的协调</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见错误与 FAQ</a></li>
-  </ul>
-</nav>
 
 ---
 
@@ -47,44 +34,44 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 失去 FIC 资格意味着什么
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">外国投资企业(FIC)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">一般外资公司</th>
+      <th>项目</th>
+      <th>外国投资企业(FIC)</th>
+      <th>一般外资公司</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低投资金额</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限制</td>
+      <td>最低投资金额</td>
+      <td>1 亿韩元以上</td>
+      <td>无限制</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低持股比例</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">10% 以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限制</td>
+      <td>最低持股比例</td>
+      <td>10% 以上</td>
+      <td>无限制</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>D-8 签证申请</td>
+      <td>可申请</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">税收减免</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">满足新增长技术等条件时可享受</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>税收减免</td>
+      <td>满足新增长技术等条件时可享受</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FIC 登记证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">予以发放</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不予发放</td>
+      <td>FIC 登记证</td>
+      <td>予以发放</td>
+      <td>不予发放</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">依据法律</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《外国人投资促进法》</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《外汇交易法》</td>
+      <td>依据法律</td>
+      <td>《外国人投资促进法》</td>
+      <td>《外汇交易法》</td>
     </tr>
   </tbody>
 </table>
@@ -95,39 +82,39 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 外国总公司进入韩国市场时,通常有三种选择:① 外国人投资法人(本地法人)、② 外国企业国内分公司、③ 联络处。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">本地法人</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">国内分公司</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">联络处</th>
+      <th>项目</th>
+      <th>本地法人</th>
+      <th>国内分公司</th>
+      <th>联络处</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人资格</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">独立法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">总公司一部分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">总公司一部分</td>
+      <td>法人资格</td>
+      <td>独立法人</td>
+      <td>总公司一部分</td>
+      <td>总公司一部分</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营利活动</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>营利活动</td>
+      <td>可</td>
+      <td>可</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">适用 D-7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">适用 D-7</td>
+      <td>D-8 签证</td>
+      <td>可</td>
+      <td>适用 D-7</td>
+      <td>适用 D-7</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">依据法律</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《外国人投资促进法》</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《外汇交易法》</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《外汇交易法》</td>
+      <td>依据法律</td>
+      <td>《外国人投资促进法》</td>
+      <td>《外汇交易法》</td>
+      <td>《外汇交易法》</td>
     </tr>
   </tbody>
 </table>
@@ -144,8 +131,8 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 部分限制行业对外国人持股比例设有上限,无法以 100% 外资设立。必须先确定韩国标准行业分类(KSIC)代码,并核实该代码是否落入限制行业范围。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>章程中所写行业必须与营业执照、外国人投资申报书、FIC 登记证上的内容完全一致。哪怕只有一处不一致,都会在登记环节被退回。尤其是 IT 业与批发零售业混合的情况,常因 KSIC 代码选择失误而被归入限制行业。
+<div>
+  <strong>⚠️ 注意:</strong>章程中所写行业必须与营业执照、外国人投资申报书、FIC 登记证上的内容完全一致。哪怕只有一处不一致,都会在登记环节被退回。尤其是 IT 业与批发零售业混合的情况,常因 KSIC 代码选择失误而被归入限制行业。
 </div>
 
 ### 2-2. 资本金 — 1 亿韩元真的是最低线吗
@@ -160,34 +147,34 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 2-4. 法人形态 — 株式会社(股份公司)与有限会社的对比
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">株式会社(Co., Ltd.)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">有限会社(Yuhan Hoesa)</th>
+      <th>项目</th>
+      <th>株式会社(Co., Ltd.)</th>
+      <th>有限会社(Yuhan Hoesa)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">设立自由度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">标准</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">章程自治度高</td>
+      <td>设立自由度</td>
+      <td>标准</td>
+      <td>章程自治度高</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外部审计</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资产、营业额达一定规模即强制</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2018 年起适用同一标准</td>
+      <td>外部审计</td>
+      <td>资产、营业额达一定规模即强制</td>
+      <td>2018 年起适用同一标准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">上市可能性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>上市可能性</td>
+      <td>可</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">对外知名度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中等</td>
+      <td>对外知名度</td>
+      <td>高</td>
+      <td>中等</td>
     </tr>
   </tbody>
 </table>
@@ -204,19 +191,19 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 3-1. 申报机构与申报时点
 
-外国人投资申报可在外汇银行(国内商业银行办理外汇业务的网点)或 KOTRA 外国人投资综合支援中心办理。**必须在资金汇款之前**完成申报。如果未申报先汇款,资金将被冻结在外币存款账户中,不被认定为资本金缴纳。
+外国人投资申报可在外汇银行(国内商业银行办理外汇业务的网点)或 [KOTRA](https://www.kotra.or.kr) 外国人投资综合支援中心办理。**必须在资金汇款之前**完成申报。如果未申报先汇款,资金将被冻结在外币存款账户中,不被认定为资本金缴纳。
 
 ### 3-2. 申报时需提交的文件
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国人投资申报清单</strong>
-  <ul style="margin-top:12px">
-    <li>外国人投资申报书(银行格式)</li>
-    <li>投资人身份证件(护照复印件)</li>
-    <li>若投资人为法人,需提供总公司登记簿誊本(经海牙认证或领事认证)</li>
-    <li>代理申报时需提供授权委托书(经公证)</li>
-    <li>投资资金来源说明材料(必要时)</li>
-  </ul>
+<div>
+  <strong>✅ 外国人投资申报清单</strong>
+
+    外国人投资申报书(银行格式)
+    投资人身份证件(护照复印件)
+    若投资人为法人,需提供总公司登记簿誊本(经海牙认证或领事认证)
+    代理申报时需提供授权委托书(经公证)
+    投资资金来源说明材料(必要时)
+
 </div>
 
 总公司登记簿誊本须在本国出具并经过海牙认证或韩国领事馆的领事认证;非英文文件须附上韩文译本。仅准备这些文件,在本国通常就需要 1~2 周。
@@ -225,8 +212,8 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 申报受理后,**外国人投资申报证(受理确认书)**会即时发放。该申报证将在汇款、登记、FIC 登记的所有环节中使用,务必妥善保管原件。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong>申报证上记载的投资金额、持股比例、行业,必须与之后的所有文件完全一致。若汇款金额与申报金额不符,差额部分需重新申报。因此,实际操作中常会在申报金额上预留一定余地(通常为 5~10%),将汇率波动也考虑进去。
+<div>
+  <strong>💡 实务提示:</strong>申报证上记载的投资金额、持股比例、行业,必须与之后的所有文件完全一致。若汇款金额与申报金额不符,差额部分需重新申报。因此,实际操作中常会在申报金额上预留一定余地(通常为 5~10%),将汇率波动也考虑进去。
 </div>
 
 ---
@@ -245,50 +232,46 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 4-3. 汇款时点的协调
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">时点</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">必办事项</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所需时间</th>
+      <th>时点</th>
+      <th>必办事项</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D 日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报受理</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>D 日</td>
+      <td>外国人投资申报受理</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D+1~D+5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资资金海外汇出</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3 个银行工作日</td>
+      <td>D+1~D+5</td>
+      <td>投资资金海外汇出</td>
+      <td>1~3 个银行工作日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">汇款到账当日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金缴纳保管证明书发放</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>汇款到账当日</td>
+      <td>资本金缴纳保管证明书发放</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">缴纳证明发放后</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">提交法人设立登记申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~5 个工作日</td>
+      <td>缴纳证明发放后</td>
+      <td>提交法人设立登记申请</td>
+      <td>3~5 个工作日</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>汇款后,不得擅自从资本金保管账户中提取资金。在登记完成、资金正式划入法人账户之前若动用资本金,可能被视为资本金虚假缴纳(违反《商法》),并可能在日后成为 FIC 登记被撤销的事由。
+<div>
+  <strong>⚠️ 注意:</strong>汇款后,不得擅自从资本金保管账户中提取资金。在登记完成、资金正式划入法人账户之前若动用资本金,可能被视为资本金虚假缴纳(违反《商法》),并可能在日后成为 FIC 登记被撤销的事由。
 </div>
 
 ---
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Detailed view of a hand writing a signature on an official document with a ballpoint pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Detailed view of a hand writing a signature on an official document with a ballpoint pen.](https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-5"></span>5. 第 3 步 法人设立登记 — 章程、董监高、登记文件
@@ -307,19 +290,19 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 5-3. 登记申请文件
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 法人设立登记文件清单</strong>
-  <ul style="margin-top:12px">
-    <li>法人设立登记申请书</li>
-    <li>经公证的章程</li>
-    <li>股份发行事项同意书</li>
-    <li>发起人决定书(或发起人大会议事录)</li>
-    <li>董事、监事就任承诺书及印鉴证明(外国人提交签字确认书)</li>
-    <li>资本金缴纳保管证明书</li>
-    <li>外国人投资申报证副本</li>
-    <li>总部所在地确定证明(租赁合同等)</li>
-    <li>登记许可税缴纳收据</li>
-  </ul>
+<div>
+  <strong>✅ 法人设立登记文件清单</strong>
+
+    法人设立登记申请书
+    经公证的章程
+    股份发行事项同意书
+    发起人决定书(或发起人大会议事录)
+    董事、监事就任承诺书及印鉴证明(外国人提交签字确认书)
+    资本金缴纳保管证明书
+    外国人投资申报证副本
+    总部所在地确定证明(租赁合同等)
+    登记许可税缴纳收据
+
 </div>
 
 ### 5-4. 登记完成后可获取的文件
@@ -334,56 +317,56 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 法人设立登记完成后,须 **在 20 日内** 向总部所在地辖区税务署申请营业执照登记。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 营业执照登记申请文件</strong>
-  <ul style="margin-top:12px">
-    <li>营业执照登记申请书</li>
-    <li>法人登记簿誊本</li>
-    <li>法人印鉴证明书</li>
-    <li>章程副本</li>
-    <li>租赁合同</li>
-    <li>外国人投资申报证副本</li>
-    <li>代表人身份证件(外国人提交护照)</li>
-  </ul>
+<div>
+  <strong>✅ 营业执照登记申请文件</strong>
+
+    营业执照登记申请书
+    法人登记簿誊本
+    法人印鉴证明书
+    章程副本
+    租赁合同
+    外国人投资申报证副本
+    代表人身份证件(外国人提交护照)
+
 </div>
 
 如果外国代表人尚未取得外国人登录证,可暂以护照代替;但日后取得外国人登录证后,必须更新营业执照上的代表人信息。
 
 ### 6-2. FIC 登记 — 最后一步
 
-营业执照办妥后,接下来要申请 **外国投资企业登记证**。登记机构为受理外国人投资申报的外汇银行或 KOTRA。
+营业执照办妥后,接下来要申请 **外国投资企业登记证**。登记机构为受理外国人投资申报的外汇银行或 [KOTRA](https://www.kotra.or.kr)。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">FIC 登记申请文件</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">出具机构</th>
+      <th>FIC 登记申请文件</th>
+      <th>出具机构</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国投资企业登记申请书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">银行/KOTRA 格式</td>
+      <td>外国投资企业登记申请书</td>
+      <td>银行/[KOTRA](https://www.kotra.or.kr) 格式</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人登记簿誊本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院互联网登记所</td>
+      <td>法人登记簿誊本</td>
+      <td>大法院互联网登记所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区税务署</td>
+      <td>营业执照</td>
+      <td>辖区税务署</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">股东名册</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">由法人自行制作</td>
+      <td>股东名册</td>
+      <td>由法人自行制作</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金缴纳保管证明书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外汇银行</td>
+      <td>资本金缴纳保管证明书</td>
+      <td>外汇银行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申报时已发放</td>
+      <td>外国人投资申报证</td>
+      <td>申报时已发放</td>
     </tr>
   </tbody>
 </table>
@@ -392,39 +375,39 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 6-3. 全流程日程一览
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">机构</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所需时间(累计)</th>
+      <th>步骤</th>
+      <th>机构</th>
+      <th>所需时间(累计)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 外国人投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外汇银行/KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 日</td>
+      <td>1. 外国人投资申报</td>
+      <td>外汇银行/[KOTRA](https://www.kotra.or.kr)</td>
+      <td>1 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 资金汇款</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海外 → 外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5 日</td>
+      <td>2. 资金汇款</td>
+      <td>海外 → 外汇银行</td>
+      <td>2~5 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. 章程公证、登记申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公证处、法院</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">7~10 日</td>
+      <td>3. 章程公证、登记申请</td>
+      <td>公证处、法院</td>
+      <td>7~10 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 营业执照登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区税务署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12~15 日</td>
+      <td>4. 营业执照登记</td>
+      <td>辖区税务署</td>
+      <td>12~15 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. FIC 登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外汇银行/KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">15~20 日</td>
+      <td>5. FIC 登记</td>
+      <td>外汇银行/[KOTRA](https://www.kotra.or.kr)</td>
+      <td>15~20 日</td>
     </tr>
   </tbody>
 </table>
@@ -454,8 +437,8 @@ D-8 签证只能在 FIC 登记证发放之后申请。外国投资人(同时为�
 
 实务中最容易卡壳的环节,正是资本金的来源与使用计划。汇入 1 亿韩元后申请 D-8 时,如果对"这 1 亿元用于做什么、何时之前、如何运营"的说明不够充分,就会立即收到补正要求。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>如果 1 亿韩元的资本金并非本人资金,而是向亲属或熟人借来的,资金来源说明就会成为核心争议点。理想状态是该资金在本人名下账户已持有 1 年以上并能体现资金流动;如果是在短期内筹集的,则需要同时准备赠与合同或借款合同。
+<div>
+  <strong>⚠️ 注意:</strong>如果 1 亿韩元的资本金并非本人资金,而是向亲属或熟人借来的,资金来源说明就会成为核心争议点。理想状态是该资金在本人名下账户已持有 1 年以上并能体现资金流动;如果是在短期内筹集的,则需要同时准备赠与合同或借款合同。
 </div>
 
 ---

@@ -15,25 +15,12 @@ excerptJa: "韓国外国人投資促進法の「申告」と「登録」は手�
 image: "/slides/building.jpg"
 slug: "foreign-investment-registration-report-difference"
 ---
-# Comprehensive Guide: Differences Between Reporting and Registration under the Foreign Investment Promotion Act
+## Comprehensive Guide: Differences Between Reporting and Registration under the Foreign Investment Promotion Act
 
 Within the Foreign Investment Promotion Act (hereafter "FIPA"), the concepts of “reporting” and “registration” are both essential steps for foreign investors, but they have fundamentally different legal characteristics, applicable targets, and outcomes. “Reporting” is the preliminary process required for foreign investors to commence business activities in Korea; it must be completed before establishing a company, acquiring shares, or other major investment actions, and involves submission to designated authorities. Conversely, “registration” is the step that officially confers legal rights and recognition, giving the foreign-invested enterprise corporate status under Korean law and is completed through the relevant government offices (e.g., registry court). While both phases are mandatory, their purpose, required documents, and handling agencies differ, making a clear understanding crucial.
 
 Practically, confusing reporting and registration during company setup, visa applications (corporate investment visa D-8), or remittance procedures can lead to temporary business disruptions or prevent visa approval. Proper distinction and preparation for each step’s requirements and documentation are critical. This guide explains the differences between reporting and registration under FIPA, highlights key practical checkpoints, frequent mistakes, and corrective measures.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foundations and Purposes of the Foreign Investment Promotion Act</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Foreign Investment Reporting: Definition & Practice</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Foreign Investment Registration: Definition & Practice</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Core Comparison Table: Reporting vs. Registration</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Step-by-Step Checklist & Key Points</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Common Mistakes & How to Avoid Them</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Practical Consultation & Contact Information</a></li>
-  </ul>
-</nav>
 
 ---
 
@@ -41,7 +28,7 @@ Practically, confusing reporting and registration during company setup, visa app
 
 The Foreign Investment Promotion Act was enacted in 1998 to boost foreign investment in Korea, enhance industrial competitiveness, and drive national economic development. FIPA clearly defines the administrative procedures and requirements for foreigners seeking to invest capital or establish corporate entities locally. Within this Act, the concepts of “reporting” and “registration” have distinct meanings:
 
-- **Reporting:** Informing the relevant authority (such as KOTRA, local government, or designated banks) in advance about investment activity (e.g., company establishment, share acquisition, capital injection).
+- **Reporting:** Informing the relevant authority (such as [KOTRA](https://www.kotra.or.kr), local government, or designated banks) in advance about investment activity (e.g., company establishment, share acquisition, capital injection).
 - **Registration:** Officially recording completed investment activities with administrative agencies (e.g., registry court) to secure legal effect.
 
 FIPA includes comprehensive regulations on authority jurisdiction, criteria for separating reporting and registration, standards for recognized investments, required documentation, and certification procedures. Always check the latest statutory regulations and verify with the appropriate authority prior to actual application.
@@ -58,7 +45,7 @@ Foreign investment reporting, under Article 5 of FIPA, is the process by which f
 - Investor details (nationality, identity, source of funds)
 - Investment amount and purpose
 - Target entity (company/business)
-- Relevant authorities: KOTRA (Korea Trade-Investment Promotion Agency), local government, designated foreign exchange banks
+- Relevant authorities: [KOTRA](https://www.kotra.or.kr) (Korea Trade-Investment Promotion Agency), local government, designated foreign exchange banks
 
 ### Practical Process
 1. Prepare and complete the reporting form
@@ -94,49 +81,49 @@ Only after completing registration can the company contract in its own name, ope
 
 ## 4. Core Comparison Table: Reporting vs. Registration
 
-<table border="1" style="border-collapse:collapse;width:100%">
-  <thead style="background:#e0ebff">
+<table border="1">
+  <thead>
     <tr>
-      <th style="padding:8px">Category</th>
-      <th style="padding:8px">Reporting</th>
-      <th style="padding:8px">Registration</th>
+      <th>Category</th>
+      <th>Reporting</th>
+      <th>Registration</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px">Legal Basis</td>
-      <td style="padding:8px">FIPA Article 5</td>
-      <td style="padding:8px">FIPA Article 6, Commercial Act</td>
+      <td>Legal Basis</td>
+      <td>FIPA Article 5</td>
+      <td>FIPA Article 6, Commercial Act</td>
     </tr>
     <tr>
-      <td style="padding:8px">Purpose</td>
-      <td style="padding:8px">Notification and approval of foreign investment</td>
-      <td style="padding:8px">Legal effectiveness and confirmation of rights</td>
+      <td>Purpose</td>
+      <td>Notification and approval of foreign investment</td>
+      <td>Legal effectiveness and confirmation of rights</td>
     </tr>
     <tr>
-      <td style="padding:8px">Timing</td>
-      <td style="padding:8px">Before investment activity</td>
-      <td style="padding:8px">After investment completion</td>
+      <td>Timing</td>
+      <td>Before investment activity</td>
+      <td>After investment completion</td>
     </tr>
     <tr>
-      <td style="padding:8px">Main Agencies</td>
-      <td style="padding:8px">KOTRA, municipal government, foreign exchange bank</td>
-      <td style="padding:8px">Court registry, tax office</td>
+      <td>Main Agencies</td>
+      <td>[KOTRA](https://www.kotra.or.kr), municipal government, foreign exchange bank</td>
+      <td>Court registry, tax office</td>
     </tr>
     <tr>
-      <td style="padding:8px">Main Documents</td>
-      <td style="padding:8px">Reporting form, investor ID, proof of funds</td>
-      <td style="padding:8px">Registry application, deposit certificate, business license application</td>
+      <td>Main Documents</td>
+      <td>Reporting form, investor ID, proof of funds</td>
+      <td>Registry application, deposit certificate, business license application</td>
     </tr>
     <tr>
-      <td style="padding:8px">Legal Effect</td>
-      <td style="padding:8px">Issuance of confirmation/reporting certificate</td>
-      <td style="padding:8px">Issuance of corporate registry & business license</td>
+      <td>Legal Effect</td>
+      <td>Issuance of confirmation/reporting certificate</td>
+      <td>Issuance of corporate registry & business license</td>
     </tr>
     <tr>
-      <td style="padding:8px">Visa Impact</td>
-      <td style="padding:8px">Required before visa application</td>
-      <td style="padding:8px">Required for visa issuance/renewal</td>
+      <td>Visa Impact</td>
+      <td>Required before visa application</td>
+      <td>Required for visa issuance/renewal</td>
     </tr>
   </tbody>
 </table>
@@ -149,7 +136,7 @@ Only after completing registration can the company contract in its own name, ope
 
 1. **Reporting Stage**
    - Confirm investment purpose and criteria (minimum investment requirements, etc.)
-   - Choose the relevant authority (bank, KOTRA)
+   - Choose the relevant authority (bank, [KOTRA](https://www.kotra.or.kr))
    - Prepare required documents in advance (reporting form, proof of funds)
    - Plan remittance of investment funds
    - Company establishment only permitted after reporting certificate is issued
@@ -177,7 +164,7 @@ Only after completing registration can the company contract in its own name, ope
 ### Frequent Issues in Practice
 
 - **Confusing Reporting and Registration:** Neglecting registration after reporting, or vice versa
-- **Neglecting Authority Differences:** Lack of awareness of different document requirements and handling speeds across KOTRA, banks, etc.
+- **Neglecting Authority Differences:** Lack of awareness of different document requirements and handling speeds across [KOTRA](https://www.kotra.or.kr), banks, etc.
 - **Remitting Funds in Wrong Sequence:** Sending funds before reporting certificate is issued or confusing remittance order
 - **Incomplete or Incorrect Documentation:** Errors or misunderstandings regarding proof of fund source and transfer path
 - **Missing Documents in Visa Application:** Not submitting reporting/registration certificates, deposit evidence, etc.
@@ -193,19 +180,19 @@ Only after completing registration can the company contract in its own name, ope
 
 ## 7. Frequently Asked Questions (FAQ)
 
-**Q1. Should reporting or registration come first for foreign investments?**  
+**Q1. Should reporting or registration come first for foreign investments?**
 A: Under FIPA, “reporting” always comes first. After investment funds are remitted and related requirements fulfilled, “registration” follows.
 
-**Q2. Can I get a visa immediately after completing reporting and registration?**  
+**Q2. Can I get a visa immediately after completing reporting and registration?**
 A: Once reporting and registration under FIPA are complete, you can apply for a D-8 (corporate investment) visa at the local immigration office. However, you must also prepare additional supporting documentation and verify remittance records.
 
-**Q3. Are procedures or documents different depending on which authority (KOTRA, bank, etc.) I report to?**  
+**Q3. Are procedures or documents different depending on which authority ([KOTRA](https://www.kotra.or.kr), bank, etc.) I report to?**
 A: Yes, document requirements and processing speed vary between agencies. Always check with your chosen authority beforehand.
 
-**Q4. Can the minimum investment amount or other requirements change?**  
+**Q4. Can the minimum investment amount or other requirements change?**
 A: Requirements such as minimum investment amounts can change due to legal or policy updates. Always check the latest information with the responsible agency.
 
-**Q5. Will remitting investment funds before reporting cause any issues?**  
+**Q5. Will remitting investment funds before reporting cause any issues?**
 A: Remitting funds before receiving the reporting certificate may not be recognized and could exclude you from FIPA benefits. Always follow the prescribed order.
 
 ---
@@ -214,7 +201,7 @@ A: Remitting funds before receiving the reporting certificate may not be recogni
 
 If you have questions regarding reporting and registration, foreign company setup, or visa applications under FIPA, please contact us below for fast and accurate administrative support.
 
-<div style="background:#eafff6;border-radius:8px;padding:18px;margin:20px 0">
+<div>
   <strong>VISION Administrative Office</strong><br>
   Phone: 02-363-2251<br>
   Email: 5000meter@gmail.com<br>

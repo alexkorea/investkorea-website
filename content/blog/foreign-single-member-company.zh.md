@@ -15,27 +15,12 @@ excerptJa: "外国人が韓国で単独1人法人を設立できるか、資本�
 image: "/slides/building.jpg"
 slug: "foreign-single-member-company"
 ---
-# 外国人独资法人设立的可行性与实际要件梳理
+## 外国人独资法人设立的可行性与实际要件梳理
 
 外国人在韩国成为**唯一股东兼代表理事**的独资法人是可行的。商法修订之后,股份有限公司和有限公司都可以以发起人 1 人、理事 1 人的结构设立,仅凭外国人身份并不会被某个环节卡住。但"是否可行"和"实际能否运转起来"是两回事。资本金规模、签证衔接、汇款路径,以及登记所、税务所、银行所要求的文件格式,会同时交织在一起。
 
 实务中,独资法人需要分成两条线来看。第一种是**瞄准 D-8 投资签证的独资法人**(资本金 1 亿韩元以上,需办理外国人投资企业登记)。第二种是**不挂签证、单纯只设立法人**的情形(资本金没有限制,但外汇申报和税务、银行流程依然要走)。两者从资本金标准、汇款路径,到事业场所租赁的时机,全都不一样。如果不清楚这点,只是觉得"反正一个人办,简单",通常会在银行开户那一步首次卡住。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人独资法人在法律上是否可行</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 独资股份公司 vs 独资有限公司,哪种更合适</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 资本金要件——1 亿韩元 vs 以下金额</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 没有签证能否设立独资法人</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 设立流程的分步走向</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 所需文件与本国侧准备资料</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 独资代表在实务中常碰到的问题</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见的失误</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题 (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询说明</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1">1. 外国人独资法人在法律上是否可行</span>
 
@@ -56,8 +41,8 @@ slug: "foreign-single-member-company"
 
 法人是可以设立的,但**设立之后能否运转**,才是真正分水岭。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>仅凭"外国人独资法人是可行的"这一句话就先把资本金汇过去,常常会因外汇申报遗漏而被卡。汇款之前,必须先把申报路径(外国人投资申报/资本交易申报)确定下来。
+<div>
+  <strong>⚠️ 注意:</strong>仅凭"外国人独资法人是可行的"这一句话就先把资本金汇过去,常常会因外汇申报遗漏而被卡。汇款之前,必须先把申报路径(外国人投资申报/资本交易申报)确定下来。
 </div>
 
 ## <span id="section-2">2. 独资股份公司 vs 独资有限公司,哪种更合适</span>
@@ -66,49 +51,49 @@ slug: "foreign-single-member-company"
 
 外国人最常选择的形态是**股份有限公司**。但在独资法人这一结构下,**有限公司**有时反而更简单。一表对比如下。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">独资股份公司</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">独资有限公司</th>
+      <th>项目</th>
+      <th>独资股份公司</th>
+      <th>独资有限公司</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">出资人称谓</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">股东</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">社员</td>
+      <td>出资人称谓</td>
+      <td>股东</td>
+      <td>社员</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最少理事人数</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 人(资本金 10 亿以下)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 人</td>
+      <td>最少理事人数</td>
+      <td>1 人(资本金 10 亿以下)</td>
+      <td>1 人</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">监事义务</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金 10 亿以下可豁免</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">非义务</td>
+      <td>监事义务</td>
+      <td>资本金 10 亿以下可豁免</td>
+      <td>非义务</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">股权转让</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">自由(章程可限制)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">需社员同意(封闭性强)</td>
+      <td>股权转让</td>
+      <td>自由(章程可限制)</td>
+      <td>需社员同意(封闭性强)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可(股权型)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可(份额型)</td>
+      <td>外国人投资登记</td>
+      <td>可(股权型)</td>
+      <td>可(份额型)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证衔接</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">实务中最常见</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可行,但案例较少</td>
+      <td>D-8 签证衔接</td>
+      <td>实务中最常见</td>
+      <td>可行,但案例较少</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外部投资引入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">有利</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不利</td>
+      <td>外部投资引入</td>
+      <td>有利</td>
+      <td>不利</td>
     </tr>
   </tbody>
 </table>
@@ -123,33 +108,33 @@ slug: "foreign-single-member-company"
 
 商法对股份有限公司并未单独规定最低资本金。即便是 100 韩元面值股票 1 股(也就是资本金 100 韩元)的法人,登记本身也是可行的。然而,如果是**"外国人为在韩开展事业"为目的的独资法人**,实际上会被绑定在以下两条线之一。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">类型</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">最低资本金</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">依据</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">结果</th>
+      <th>类型</th>
+      <th>最低资本金</th>
+      <th>依据</th>
+      <th>结果</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">衔接 D-8 投资签证的独资法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资促进法施行令</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可办外国人投资企业登记 + D-8 申请</td>
+      <td>衔接 D-8 投资签证的独资法人</td>
+      <td>1 亿韩元以上</td>
+      <td>外国人投资促进法施行令</td>
+      <td>可办外国人投资企业登记 + D-8 申请</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">与签证无关的普通独资法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">实务上 100 万~1,000 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商法(无最低资本金)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人可设立,但不符 D-8 资格</td>
+      <td>与签证无关的普通独资法人</td>
+      <td>实务上 100 万~1,000 万韩元</td>
+      <td>商法(无最低资本金)</td>
+      <td>法人可设立,但不符 D-8 资格</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国法人韩国子公司</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">自由(投资登记时 1 亿韩元)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商法 + 外国人投资促进法</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">视目的而定</td>
+      <td>外国法人韩国子公司</td>
+      <td>自由(投资登记时 1 亿韩元)</td>
+      <td>商法 + 外国人投资促进法</td>
+      <td>视目的而定</td>
     </tr>
   </tbody>
 </table>
@@ -158,8 +143,8 @@ slug: "foreign-single-member-company"
 
 要衔接 D-8 签证,外国人必须以**本人名义将 1 亿韩元以上汇入韩国**,并完成外国人投资申报。并不是账户里"有"1 亿就可以。**从本国到韩国、以外国人本人名义汇入外币**这条路径必须清晰可查。在韩国境内借入的款项、向韩国居民借的钱,以及早已留在韩国境内的韩元,都不会被认定为外国人投资。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>"分批汇入"1 亿韩元时,如果汇款用途没有明确标注为"外国人直接投资",外国人投资企业登记会被拒。汇款前应先把外国人投资申报书副本提交给经办银行,并在汇外币时准确指定汇款代码。
+<div>
+  <strong>⚠️ 注意:</strong>"分批汇入"1 亿韩元时,如果汇款用途没有明确标注为"外国人直接投资",外国人投资企业登记会被拒。汇款前应先把外国人投资申报书副本提交给经办银行,并在汇外币时准确指定汇款代码。
 </div>
 
 ## <span id="section-4">4. 没有签证能否设立独资法人</span>
@@ -190,81 +175,81 @@ slug: "foreign-single-member-company"
 
 ### 独资法人设立的标准顺序
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">耗时</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">主管机构</th>
+      <th>步骤</th>
+      <th>内容</th>
+      <th>耗时</th>
+      <th>主管机构</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商号检索及章程拟订</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院网络登记所</td>
+      <td>1</td>
+      <td>商号检索及章程拟订</td>
+      <td>1~2 天</td>
+      <td>大法院网络登记所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报(适用时)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">受托银行/KOTRA</td>
+      <td>2</td>
+      <td>外国人投资申报(适用时)</td>
+      <td>1~3 天</td>
+      <td>受托银行/[KOTRA](https://www.kotra.or.kr)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金汇入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本国→韩国商业银行</td>
+      <td>3</td>
+      <td>资本金汇入</td>
+      <td>1~2 天</td>
+      <td>本国→韩国商业银行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金保管证明出具</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商业银行</td>
+      <td>4</td>
+      <td>资本金保管证明出具</td>
+      <td>当天</td>
+      <td>商业银行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">发起人会议·董事会·就任承诺</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按章程程序办理</td>
+      <td>5</td>
+      <td>发起人会议·董事会·就任承诺</td>
+      <td>1 天</td>
+      <td>按章程程序办理</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人设立登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~5 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区登记所</td>
+      <td>6</td>
+      <td>法人设立登记</td>
+      <td>3~5 天</td>
+      <td>辖区登记所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人印鉴登记·登记簿誊本出具</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区登记所</td>
+      <td>7</td>
+      <td>法人印鉴登记·登记簿誊本出具</td>
+      <td>当天</td>
+      <td>辖区登记所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">8</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照办理</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区税务所</td>
+      <td>8</td>
+      <td>营业执照办理</td>
+      <td>2~5 天</td>
+      <td>辖区税务所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">9</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业登记(适用时)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~7 天</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">受托银行</td>
+      <td>9</td>
+      <td>外国人投资企业登记(适用时)</td>
+      <td>3~7 天</td>
+      <td>受托银行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">10</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人账户开立</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">至少到场 1 次</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商业银行</td>
+      <td>10</td>
+      <td>法人账户开立</td>
+      <td>至少到场 1 次</td>
+      <td>商业银行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">11</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证申请(适用时)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4 周</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出入境·驻外领事馆</td>
+      <td>11</td>
+      <td>D-8 签证申请(适用时)</td>
+      <td>2~4 周</td>
+      <td>出入境·驻外领事馆</td>
     </tr>
   </tbody>
 </table>
@@ -273,16 +258,12 @@ slug: "foreign-single-member-company"
 
 表面看流程顺畅,但**第 3↔4 步、第 7↔8 步、第 9↔10 步**之间经常会断。比如资本金汇入后拿到的保管证明上代码标错;申请营业执照时租赁合同没有以外国人本人名义签订;开法人账户时仅因为"独资代表是外国人"就被加入总行二次审查——这类情况都很常见。这些点经常卡壳,日程必须留出余地。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务小贴士:</strong>独资法人常会先以"设立前发起人本人名义"签订事业场所租赁合同。在租赁合同中加入"法人设立后变更名义"的条款,办理营业执照时就不必重新签合同。
+<div>
+  <strong>💡 实务小贴士:</strong>独资法人常会先以"设立前发起人本人名义"签订事业场所租赁合同。在租赁合同中加入"法人设立后变更名义"的条款,办理营业执照时就不必重新签合同。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="High-angle view of a contract document with pens and a case on a wooden table." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![High-angle view of a contract document with pens and a case on a wooden table.](https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6">6. 所需文件与本国侧准备资料</span>
@@ -298,18 +279,18 @@ slug: "foreign-single-member-company"
 
 如果外国人本人在本国,以下文件需要在本国公证 → 加附海牙认证或经韩国领事馆认证后,寄送到韩国。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 本国侧准备清单</strong>
-  <ul style="margin-top:12px">
-    <li>护照复印件(个人信息页)</li>
-    <li>居住证明或地址证明(英文)</li>
-    <li>本人签名公证书(Signature Certificate / Notary)</li>
-    <li>海牙认证或领事确认(海牙公约成员国用 Apostille,非成员国用领事确认)</li>
-    <li>本国身份证或驾照复印件(用于银行 KYC)</li>
-    <li>海外职业·收入证明(用于说明资本金来源)</li>
-    <li>本国银行最近 6 个月至 1 年的收支明细(用于说明资金流向)</li>
-    <li>韩国境内代理人委托书(本人不亲自到场时)</li>
-  </ul>
+<div>
+  <strong>✅ 本国侧准备清单</strong>
+
+    护照复印件(个人信息页)
+    居住证明或地址证明(英文)
+    本人签名公证书(Signature Certificate / Notary)
+    海牙认证或领事确认(海牙公约成员国用 Apostille,非成员国用领事确认)
+    本国身份证或驾照复印件(用于银行 KYC)
+    海外职业·收入证明(用于说明资本金来源)
+    本国银行最近 6 个月至 1 年的收支明细(用于说明资金流向)
+    韩国境内代理人委托书(本人不亲自到场时)
+
 </div>
 
 文件再多,资金来源说明若不充分,外国人投资登记阶段就会被要求补正。账户里就算有钱,流向说明不到位,马上就会出问题。
@@ -339,8 +320,8 @@ slug: "foreign-single-member-company"
 
 通过 D-8 签证成为独资法人代表后,该法人**必须持续维持外国人投资企业资格**,签证才能延期。也就是说,擅自抽走资本金,或将本人股权转让给非投资型外国人,都会动摇签证资格。比"能否通过"更先要明白的是,**法人运营和签证资格是绑在一起的**。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>衔接 D-8 签证的独资法人,在出现资本金回收(减资)、本人股权部分出让、本店歇业·停业时,需要向出入境部门提交变更申报。漏掉这一申报,下次延期审查时就会被作为问题抓出来。
+<div>
+  <strong>⚠️ 注意:</strong>衔接 D-8 签证的独资法人,在出现资本金回收(减资)、本人股权部分出让、本店歇业·停业时,需要向出入境部门提交变更申报。漏掉这一申报,下次延期审查时就会被作为问题抓出来。
 </div>
 
 ## <span id="section-8">8. 常见的失误</span>
@@ -408,4 +389,3 @@ VISION 行政士事务所将外国人独资法人的设立、外国人投资企�
 复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
 
 **[申请免费咨询](https://www.investkorea.co.kr/zh/contact)**
-

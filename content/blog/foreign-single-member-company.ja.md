@@ -15,27 +15,12 @@ excerptJa: "外国人が韓国で単独1人法人を設立できるか、資本�
 image: "/slides/building.jpg"
 slug: "foreign-single-member-company"
 ---
-# 外国人1人法人の設立、可能性と実際の要件まとめ
+## 外国人1人法人の設立、可能性と実際の要件まとめ
 
 外国人が韓国で**1人で株主と代表取締役を兼ねる**1人法人の設立は可能です。商法改正以降、株式会社・有限会社ともに発起人1人、取締役1人の構造で設立でき、外国人であるという理由だけで止まる段階はありません。ただし「設立可能か」と「実際に設立が機能するか」は別の問題です。資本金の規模、ビザとの連携、送金経路、登記所・税務署・銀行が要求する書類様式が一度に絡み合うためです。
 
 実務では1人法人を2つに分けて見る必要があります。1つ目は、**D-8投資ビザを狙う1人法人**(資本金1億ウォン以上、外国人投資企業登録が必要)。2つ目は、**ビザを伴わず単に法人だけを設立するケース**(資本金制限なし、ただし外国為替申告と税務・銀行手続きはそのまま必要)。両者は資本金基準から送金フロー、事業所賃借のタイミングまですべて異なります。この違いを知らずに「1人だから簡単だろう」と始めると、たいてい銀行口座開設の段階で一度行き詰まります。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人1人法人は法的に可能なのか</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 1人株式会社 vs 1人有限会社、どちらが合うのか</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 資本金要件 — 1億ウォン vs それ以下</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. ビザなしで1人法人を設立できるのか</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 設立手続きの段階別フロー</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 必要書類と本国側の準備物</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 1人代表が実務でぶつかる問題</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある失敗</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. ご相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1">1. 外国人1人法人は法的に可能なのか</span>
 
@@ -56,8 +41,8 @@ slug: "foreign-single-member-company"
 
 法人は作れますが、**作ってから運営できるか**が本当の分かれ目です。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>「外国人1人法人が可能だ」という言葉だけを聞いて資本金から先に送金すると、外国為替申告漏れで引っかかるケースが多いです。送金前に申告経路(外国人投資申告/資本取引申告)を確定しておく必要があります。
+<div>
+  <strong>⚠️ 注意:</strong>「外国人1人法人が可能だ」という言葉だけを聞いて資本金から先に送金すると、外国為替申告漏れで引っかかるケースが多いです。送金前に申告経路(外国人投資申告/資本取引申告)を確定しておく必要があります。
 </div>
 
 ## <span id="section-2">2. 1人株式会社 vs 1人有限会社、どちらが合うのか</span>
@@ -66,49 +51,49 @@ slug: "foreign-single-member-company"
 
 外国人が最も多く選ぶ形態は**株式会社**です。ただし1人法人という構造においては、**有限会社**のほうがシンプルなケースもあります。違いを一目で比較すると以下のとおりです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">1人株式会社</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">1人有限会社</th>
+      <th>区分</th>
+      <th>1人株式会社</th>
+      <th>1人有限会社</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">出資者の名称</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">株主</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">社員</td>
+      <td>出資者の名称</td>
+      <td>株主</td>
+      <td>社員</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低取締役数</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1人(資本金10億未満)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1人</td>
+      <td>最低取締役数</td>
+      <td>1人(資本金10億未満)</td>
+      <td>1人</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">監査義務</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金10億未満は免除可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">義務ではない</td>
+      <td>監査義務</td>
+      <td>資本金10億未満は免除可</td>
+      <td>義務ではない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">株式譲渡</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">自由(定款で制限可)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">社員の同意が必要(閉鎖性↑)</td>
+      <td>株式譲渡</td>
+      <td>自由(定款で制限可)</td>
+      <td>社員の同意が必要(閉鎖性↑)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能(株式型)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能(持分型)</td>
+      <td>外国人投資登録</td>
+      <td>可能(株式型)</td>
+      <td>可能(持分型)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8ビザ連携</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実務上もっとも一般的</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能だが事例は少ない</td>
+      <td>D-8ビザ連携</td>
+      <td>実務上もっとも一般的</td>
+      <td>可能だが事例は少ない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外部投資の誘致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">有利</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不利</td>
+      <td>外部投資の誘致</td>
+      <td>有利</td>
+      <td>不利</td>
     </tr>
   </tbody>
 </table>
@@ -123,33 +108,33 @@ slug: "foreign-single-member-company"
 
 商法上、株式会社の最低資本金は別途定められていません。100ウォンの株式1株(つまり資本金100ウォン)の法人でも登記そのものは可能です。しかし、**「外国人が韓国で事業を行う目的」の1人法人**であれば、事実上次の2つの基準のいずれかに括られます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">類型</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">最低資本金</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">根拠</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">結果</th>
+      <th>類型</th>
+      <th>最低資本金</th>
+      <th>根拠</th>
+      <th>結果</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8投資ビザ連携の1人法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資促進法施行令</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録 + D-8申請が可能</td>
+      <td>D-8投資ビザ連携の1人法人</td>
+      <td>1億ウォン以上</td>
+      <td>外国人投資促進法施行令</td>
+      <td>外国人投資企業登録 + D-8申請が可能</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">ビザ無関係の一般1人法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実務上100万~1,000万ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商法(最低資本金なし)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人設立は可能だがD-8資格は満たさない</td>
+      <td>ビザ無関係の一般1人法人</td>
+      <td>実務上100万~1,000万ウォン</td>
+      <td>商法(最低資本金なし)</td>
+      <td>法人設立は可能だがD-8資格は満たさない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国法人の韓国子会社</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">自由(投資登録時は1億ウォン)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商法 + 外国人投資促進法</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">目的に応じて決定</td>
+      <td>外国法人の韓国子会社</td>
+      <td>自由(投資登録時は1億ウォン)</td>
+      <td>商法 + 外国人投資促進法</td>
+      <td>目的に応じて決定</td>
     </tr>
   </tbody>
 </table>
@@ -158,8 +143,8 @@ slug: "foreign-single-member-company"
 
 D-8ビザとの連携には、外国人本人が**1億ウォン以上を本人名義で送金**して外国人投資申告を済ませる必要があります。単に通帳に1億が「ある」だけでは不十分です。**本国 → 韓国への外国人本人名義の外貨送金**というフローが明確に記録されていなければなりません。韓国内での借入金、韓国居住者から借りたお金、すでに韓国に入っていたウォン資金は外国人投資として認められません。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 1億ウォンを「分割送金」する際、入金名目が「外国人直接投資」と明示されていなければ外国人投資企業登録が拒否されます。送金前に取引銀行へ外国人投資申告書の写しを先に提出し、外貨送金時にコードを正確に指定する必要があります。
+<div>
+  <strong>⚠️ 注意:</strong> 1億ウォンを「分割送金」する際、入金名目が「外国人直接投資」と明示されていなければ外国人投資企業登録が拒否されます。送金前に取引銀行へ外国人投資申告書の写しを先に提出し、外貨送金時にコードを正確に指定する必要があります。
 </div>
 
 ## <span id="section-4">4. ビザなしで1人法人を設立できるのか</span>
@@ -190,81 +175,81 @@ D-8の資本金(1億ウォン)未満で1人法人を作ると、次のような�
 
 ### 1人法人設立の標準的な順序
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">段階</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所要</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">担当機関</th>
+      <th>段階</th>
+      <th>内容</th>
+      <th>所要</th>
+      <th>担当機関</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商号検索および定款作成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院インターネット登記所</td>
+      <td>1</td>
+      <td>商号検索および定款作成</td>
+      <td>1~2日</td>
+      <td>大法院インターネット登記所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資申告(該当時)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">委託銀行/KOTRA</td>
+      <td>2</td>
+      <td>外国人投資申告(該当時)</td>
+      <td>1~3日</td>
+      <td>委託銀行/[KOTRA](https://www.kotra.or.kr)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金送金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本国→韓国市中銀行</td>
+      <td>3</td>
+      <td>資本金送金</td>
+      <td>1~2日</td>
+      <td>本国→韓国市中銀行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金保管証明発行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">市中銀行</td>
+      <td>4</td>
+      <td>資本金保管証明発行</td>
+      <td>当日</td>
+      <td>市中銀行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">発起人会議・取締役会・就任承諾</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款に従った手続き</td>
+      <td>5</td>
+      <td>発起人会議・取締役会・就任承諾</td>
+      <td>1日</td>
+      <td>定款に従った手続き</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人設立登記</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~5日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄登記所</td>
+      <td>6</td>
+      <td>法人設立登記</td>
+      <td>3~5日</td>
+      <td>管轄登記所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人印鑑登録・登記簿謄本発行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄登記所</td>
+      <td>7</td>
+      <td>法人印鑑登録・登記簿謄本発行</td>
+      <td>当日</td>
+      <td>管轄登記所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">8</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄税務署</td>
+      <td>8</td>
+      <td>事業者登録</td>
+      <td>2~5日</td>
+      <td>管轄税務署</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">9</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録(該当時)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~7日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">委託銀行</td>
+      <td>9</td>
+      <td>外国人投資企業登録(該当時)</td>
+      <td>3~7日</td>
+      <td>委託銀行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">10</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人口座開設</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">来店1回以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">市中銀行</td>
+      <td>10</td>
+      <td>法人口座開設</td>
+      <td>来店1回以上</td>
+      <td>市中銀行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">11</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8ビザ申請(該当時)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4週</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出入国・在外公館</td>
+      <td>11</td>
+      <td>D-8ビザ申請(該当時)</td>
+      <td>2~4週</td>
+      <td>出入国・在外公館</td>
     </tr>
   </tbody>
 </table>
@@ -273,16 +258,12 @@ D-8の資本金(1億ウォン)未満で1人法人を作ると、次のような�
 
 表は滑らかに見えますが、**3↔4段階、7↔8段階、9↔10段階**でしばしば途切れます。資本金を送金して保管証明を受けたもののコードが誤って付されていたり、事業者登録の申請時に賃貸契約が外国人本人名義になっていなかったり、法人口座開設の段階で「1人代表が外国人」だという理由で本店審査が追加で入る、といった具合です。よく詰まる箇所なので、スケジュールに余裕を持たせる必要があります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> 1人法人では事業所の賃貸契約を「設立前の発起人名義」で先に締結するケースが多くあります。この際、賃貸借契約書に「法人設立後の名義変更」条項を入れておけば、事業者登録の段階で契約書を作り直す必要がなくなります。
+<div>
+  <strong>💡 実務のヒント:</strong> 1人法人では事業所の賃貸契約を「設立前の発起人名義」で先に締結するケースが多くあります。この際、賃貸借契約書に「法人設立後の名義変更」条項を入れておけば、事業者登録の段階で契約書を作り直す必要がなくなります。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="High-angle view of a contract document with pens and a case on a wooden table." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![High-angle view of a contract document with pens and a case on a wooden table.](https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6">6. 必要書類と本国側の準備物</span>
@@ -298,18 +279,18 @@ D-8の資本金(1億ウォン)未満で1人法人を作ると、次のような�
 
 外国人本人が本国にいる場合は、以下を本国の公証 → アポスティーユまたは韓国領事館の認証を経て韓国へ送る必要があります。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 本国側の準備チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>パスポートの写し(身分事項面)</li>
-    <li>居住証明書または住所証明書(英文)</li>
-    <li>本人署名公証書(Signature Certificate / Notary)</li>
-    <li>アポスティーユまたは領事確認(ハーグ条約国はアポスティーユ、非加盟国は領事確認)</li>
-    <li>本国の身分証または運転免許証の写し(銀行KYC用)</li>
-    <li>海外での職業・所得証明(資本金出所の説明用)</li>
-    <li>本国の銀行入出金履歴 6ヶ月~1年分(資金フローの説明用)</li>
-    <li>韓国内代理人への委任状(本人が来られない場合)</li>
-  </ul>
+<div>
+  <strong>✅ 本国側の準備チェックリスト</strong>
+
+    パスポートの写し(身分事項面)
+    居住証明書または住所証明書(英文)
+    本人署名公証書(Signature Certificate / Notary)
+    アポスティーユまたは領事確認(ハーグ条約国はアポスティーユ、非加盟国は領事確認)
+    本国の身分証または運転免許証の写し(銀行KYC用)
+    海外での職業・所得証明(資本金出所の説明用)
+    本国の銀行入出金履歴 6ヶ月~1年分(資金フローの説明用)
+    韓国内代理人への委任状(本人が来られない場合)
+
 </div>
 
 書類が多くても資金出所の説明が弱ければ、外国人投資登録の段階で補完要請が入ります。通帳にお金があってもフローの説明が不足していれば、すぐに行き詰まる可能性があります。
@@ -339,8 +320,8 @@ D-8の資本金(1億ウォン)未満で1人法人を作ると、次のような�
 
 D-8ビザで1人法人の代表になると、その法人は**外国人投資企業の資格を継続的に維持**しなければビザの延長ができません。つまり、資本金を任意に引き出したり、本人持分を外国人非投資者に譲渡したりすると、ビザ資格が揺らぎます。通過の可否より先に、**法人運営とビザ資格が一体で結びついている**という点を理解しておく必要があります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> D-8ビザ連携の1人法人は、資本金回収(減資)、本人持分の一部売却、本店の廃業・休業の際に出入国への変更申告が必要です。この申告を見落とすと、次回の延長審査で問題として指摘されます。
+<div>
+  <strong>⚠️ 注意:</strong> D-8ビザ連携の1人法人は、資本金回収(減資)、本人持分の一部売却、本店の廃業・休業の際に出入国への変更申告が必要です。この申告を見落とすと、次回の延長審査で問題として指摘されます。
 </div>
 
 ## <span id="section-8">8. よくある失敗</span>
@@ -408,4 +389,3 @@ D-8ビザで1人法人の代表になると、その法人は**外国人投資�
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://www.investkorea.co.kr/ja/contact)**
-

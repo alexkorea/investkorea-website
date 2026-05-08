@@ -15,25 +15,12 @@ excerptJa: "外国人投資法人設立は外国為替銀行届出から登記�
 image: "/slides/building.jpg"
 slug: "foreign-invested-corporation-setup-complete-guide"
 ---
-# 外国人投資法人設立手続き 完全ガイド
+## 外国人投資法人設立手続き 完全ガイド
 
-外国人投資法人の設立は、①外国人投資申告(外国為替銀行)→②投資資金の送金→③法人設立登記(裁判所)→④事業者登録(税務署)→⑤外国人投資企業登録(KOTRAまたは外国為替銀行)の5段階に分かれます。外国人が1億ウォン以上を出資し、議決権のある株式の10%以上を取得して初めて外国人投資促進法上の「外国人投資」として認められ、この要件が欠けると一般の外資系会社として分類され、D-8ビザや租税減免の対象から外れます。
+外国人投資法人の設立は、①外国人投資申告(外国為替銀行)→②投資資金の送金→③法人設立登記(裁判所)→④事業者登録(税務署)→⑤外国人投資企業登録([KOTRA](https://www.kotra.or.kr)または外国為替銀行)の5段階に分かれます。外国人が1億ウォン以上を出資し、議決権のある株式の10%以上を取得して初めて外国人投資促進法上の「外国人投資」として認められ、この要件が欠けると一般の外資系会社として分類され、D-8ビザや租税減免の対象から外れます。
 
 重要なのは順序です。申告なしに送金が先に入ると資金源の説明が複雑になり、登記前に送金が遅れると資本金払込証明が出ず登記が遅延します。実務では、申告→送金→登記→事業者登録→FIC登録を平均3〜5週間で完了することを目標にし、この日程が一段階でもずれるとビザ申請日程全体が後ろ倒しになります。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人投資法人とは — 一般の外資系会社と何が違うのか</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立前に決めるべき5つのこと — 業種・資本金・持株比率・法人形態・所在地</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 第1段階 外国人投資申告 — どこで、何を提出するか</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 第2段階 投資資金の送金と資本金払込証明</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 第3段階 法人設立登記 — 定款・役員・登記書類</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 第4段階 事業者登録と第5段階 外国人投資企業(FIC)登録</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. D-8ビザとの連携 — 法人設立とビザ日程の調整</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある失敗とFAQ</a></li>
-  </ul>
-</nav>
 
 ---
 
@@ -47,44 +34,44 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### FIC資格を満たさないと何を失うのか
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">外国人投資企業(FIC)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">一般の外資系会社</th>
+      <th>区分</th>
+      <th>外国人投資企業(FIC)</th>
+      <th>一般の外資系会社</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低投資額</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">制限なし</td>
+      <td>最低投資額</td>
+      <td>1億ウォン以上</td>
+      <td>制限なし</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低持株比率</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">10%以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">制限なし</td>
+      <td>最低持株比率</td>
+      <td>10%以上</td>
+      <td>制限なし</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8ビザ申請</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>D-8ビザ申請</td>
+      <td>可能</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">租税減免</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">新成長技術など要件を満たせば可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>租税減免</td>
+      <td>新成長技術など要件を満たせば可能</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FIC登録証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">発給される</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">発給されない</td>
+      <td>FIC登録証</td>
+      <td>発給される</td>
+      <td>発給されない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">根拠法令</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資促進法</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替取引法</td>
+      <td>根拠法令</td>
+      <td>外国人投資促進法</td>
+      <td>外国為替取引法</td>
     </tr>
   </tbody>
 </table>
@@ -95,39 +82,39 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 外国本社が韓国に進出する際の選択肢は、①外国人投資法人(現地法人)、②外国企業の国内支店、③連絡事務所の3つです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">現地法人</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">国内支店</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">連絡事務所</th>
+      <th>区分</th>
+      <th>現地法人</th>
+      <th>国内支店</th>
+      <th>連絡事務所</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人格</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">独立法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本社の一部</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本社の一部</td>
+      <td>法人格</td>
+      <td>独立法人</td>
+      <td>本社の一部</td>
+      <td>本社の一部</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">営利活動</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>営利活動</td>
+      <td>可能</td>
+      <td>可能</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8ビザ</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-7対象</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-7対象</td>
+      <td>D-8ビザ</td>
+      <td>可能</td>
+      <td>D-7対象</td>
+      <td>D-7対象</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">根拠法令</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資促進法</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替取引法</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替取引法</td>
+      <td>根拠法令</td>
+      <td>外国人投資促進法</td>
+      <td>外国為替取引法</td>
+      <td>外国為替取引法</td>
     </tr>
   </tbody>
 </table>
@@ -144,8 +131,8 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 部分制限業種は外国人持株上限が決まっており、100%外国人出資では設立できません。韓国標準産業分類(KSIC)コードを先に確定し、そのコードが制限業種に該当するかどうかを最初に確認する必要があります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 定款に記載した業種は、事業者登録証・外国人投資申告書・FIC登録証のすべてで一致している必要があります。一か所でも異なる記載があると登録段階で差し戻されます。特にIT業と卸小売業が混在している場合、KSICコードの選択を誤って制限業種に分類されてしまうことがあります。
+<div>
+  <strong>⚠️ 注意:</strong> 定款に記載した業種は、事業者登録証・外国人投資申告書・FIC登録証のすべてで一致している必要があります。一か所でも異なる記載があると登録段階で差し戻されます。特にIT業と卸小売業が混在している場合、KSICコードの選択を誤って制限業種に分類されてしまうことがあります。
 </div>
 
 ### 2-2. 資本金 — 1億ウォンが本当に最低ラインなのか
@@ -160,34 +147,34 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 2-4. 法人形態 — 株式会社 vs 有限会社
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">株式会社(Co., Ltd.)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">有限会社(Yuhan Hoesa)</th>
+      <th>区分</th>
+      <th>株式会社(Co., Ltd.)</th>
+      <th>有限会社(Yuhan Hoesa)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">設立の自由度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">標準</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款の自由度が大きい</td>
+      <td>設立の自由度</td>
+      <td>標準</td>
+      <td>定款の自由度が大きい</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外部監査</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資産・売上が一定規模以上で義務</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2018年以降は同様に適用</td>
+      <td>外部監査</td>
+      <td>資産・売上が一定規模以上で義務</td>
+      <td>2018年以降は同様に適用</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">上場の可能性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>上場の可能性</td>
+      <td>可能</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">対外的な認知度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中程度</td>
+      <td>対外的な認知度</td>
+      <td>高い</td>
+      <td>中程度</td>
     </tr>
   </tbody>
 </table>
@@ -204,19 +191,19 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 3-1. 申告機関と申告のタイミング
 
-外国人投資申告は、外国為替銀行(国内市中銀行の外国為替取扱店)またはKOTRA外国人投資総合支援センターで受け付けます。**必ず資金送金前に**申告を完了させなければなりません。申告なしに先に送金してしまうと、資金が外貨預金口座に拘束され、資本金の払い込みとして認められなくなります。
+外国人投資申告は、外国為替銀行(国内市中銀行の外国為替取扱店)または[KOTRA](https://www.kotra.or.kr)外国人投資総合支援センターで受け付けます。**必ず資金送金前に**申告を完了させなければなりません。申告なしに先に送金してしまうと、資金が外貨預金口座に拘束され、資本金の払い込みとして認められなくなります。
 
 ### 3-2. 申告時の提出書類
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国人投資申告チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>外国人投資申告書(銀行所定様式)</li>
-    <li>投資家の身分証(パスポートのコピー)</li>
-    <li>法人投資家の場合、本社の登記簿謄本(アポスティーユまたは領事認証)</li>
-    <li>代理人による申告の場合は委任状(公証)</li>
-    <li>投資資金の出所説明資料(必要に応じて)</li>
-  </ul>
+<div>
+  <strong>✅ 外国人投資申告チェックリスト</strong>
+
+    外国人投資申告書(銀行所定様式)
+    投資家の身分証(パスポートのコピー)
+    法人投資家の場合、本社の登記簿謄本(アポスティーユまたは領事認証)
+    代理人による申告の場合は委任状(公証)
+    投資資金の出所説明資料(必要に応じて)
+
 </div>
 
 本社の登記簿謄本は本国で発給を受け、アポスティーユまたは韓国領事館の領事認証を取得する必要があり、英文以外の場合は韓国語翻訳文を添付します。これらの書類準備だけで、本国基準で1〜2週間かかるケースが少なくありません。
@@ -225,8 +212,8 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 申告が受理されると、**外国人投資申告証(受付確認書)**が即日発給されます。この申告証は送金、登記、FIC登録のすべての段階で使用するため、原本を大切に保管する必要があります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> 申告証に記載された投資金額・持株比率・業種は、その後すべての書類と一致していなければなりません。送金額が申告額と異なる場合、差額についてあらためて申告し直す必要があるため、申告前に為替変動まで考慮し、若干の余裕分(通常5〜10%)を含めた金額で申告するケースが多いです。
+<div>
+  <strong>💡 実務のヒント:</strong> 申告証に記載された投資金額・持株比率・業種は、その後すべての書類と一致していなければなりません。送金額が申告額と異なる場合、差額についてあらためて申告し直す必要があるため、申告前に為替変動まで考慮し、若干の余裕分(通常5〜10%)を含めた金額で申告するケースが多いです。
 </div>
 
 ---
@@ -245,50 +232,46 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 4-3. 送金タイミングの調整
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">時点</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">必須作業</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所要期間</th>
+      <th>時点</th>
+      <th>必須作業</th>
+      <th>所要期間</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-day</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資申告の受付</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>D-day</td>
+      <td>外国人投資申告の受付</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D+1〜D+5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資資金の海外送金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">銀行営業日1〜3日</td>
+      <td>D+1〜D+5</td>
+      <td>投資資金の海外送金</td>
+      <td>銀行営業日1〜3日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">送金到着当日</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金払込保管証明書の発給</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>送金到着当日</td>
+      <td>資本金払込保管証明書の発給</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">払込証明発給後</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人設立登記の申請</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3〜5営業日</td>
+      <td>払込証明発給後</td>
+      <td>法人設立登記の申請</td>
+      <td>3〜5営業日</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 送金後は、資本金保管口座から任意に引き出してはいけません。登記完了後、正式な法人口座に振り替えるまでに資本金を使用すると、資本金の見せ金(商法違反)とみなされる可能性があり、これは後にFIC登録の取消事由となります。
+<div>
+  <strong>⚠️ 注意:</strong> 送金後は、資本金保管口座から任意に引き出してはいけません。登記完了後、正式な法人口座に振り替えるまでに資本金を使用すると、資本金の見せ金(商法違反)とみなされる可能性があり、これは後にFIC登録の取消事由となります。
 </div>
 
 ---
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Detailed view of a hand writing a signature on an official document with a ballpoint pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Detailed view of a hand writing a signature on an official document with a ballpoint pen.](https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-5"></span>5. 第3段階 法人設立登記 — 定款・役員・登記書類
@@ -307,19 +290,19 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 ### 5-3. 登記申請書類
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 法人設立登記書類チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>法人設立登記申請書</li>
-    <li>公証済みの定款</li>
-    <li>株式発行事項同意書</li>
-    <li>発起人決定書(または発起人総会議事録)</li>
-    <li>取締役・監査役の就任承諾書および印鑑証明書(外国人は署名確認書)</li>
-    <li>資本金払込保管証明書</li>
-    <li>外国人投資申告証のコピー</li>
-    <li>本店所在地決定の証憑(賃貸借契約書など)</li>
-    <li>登録免許税納付領収書</li>
-  </ul>
+<div>
+  <strong>✅ 法人設立登記書類チェックリスト</strong>
+
+    法人設立登記申請書
+    公証済みの定款
+    株式発行事項同意書
+    発起人決定書(または発起人総会議事録)
+    取締役・監査役の就任承諾書および印鑑証明書(外国人は署名確認書)
+    資本金払込保管証明書
+    外国人投資申告証のコピー
+    本店所在地決定の証憑(賃貸借契約書など)
+    登録免許税納付領収書
+
 </div>
 
 ### 5-4. 登記完了後に取得できるもの
@@ -334,56 +317,56 @@ slug: "foreign-invested-corporation-setup-complete-guide"
 
 法人設立登記の完了後**20日以内に**、本店所在地管轄の税務署で事業者登録を申請する必要があります。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 事業者登録申請書類</strong>
-  <ul style="margin-top:12px">
-    <li>事業者登録申請書</li>
-    <li>法人登記簿謄本</li>
-    <li>法人印鑑証明書</li>
-    <li>定款のコピー</li>
-    <li>賃貸借契約書</li>
-    <li>外国人投資申告証のコピー</li>
-    <li>代表者の身分証(外国人はパスポート)</li>
-  </ul>
+<div>
+  <strong>✅ 事業者登録申請書類</strong>
+
+    事業者登録申請書
+    法人登記簿謄本
+    法人印鑑証明書
+    定款のコピー
+    賃貸借契約書
+    外国人投資申告証のコピー
+    代表者の身分証(外国人はパスポート)
+
 </div>
 
 外国人代表者が外国人登録証をまだ取得していない場合はパスポートで代用可能ですが、後日外国人登録証が発給されたら事業者登録証の代表者情報を修正する必要があります。
 
 ### 6-2. FIC登録 — 最後の仕上げ
 
-事業者登録が完了したら、**外国人投資企業登録証**の発給を申請します。登録機関は、外国人投資申告を行った外国為替銀行またはKOTRAです。
+事業者登録が完了したら、**外国人投資企業登録証**の発給を申請します。登録機関は、外国人投資申告を行った外国為替銀行または[KOTRA](https://www.kotra.or.kr)です。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">FIC登録申請書類</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">発給元</th>
+      <th>FIC登録申請書類</th>
+      <th>発給元</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録申請書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">銀行/KOTRA様式</td>
+      <td>外国人投資企業登録申請書</td>
+      <td>銀行/[KOTRA](https://www.kotra.or.kr)様式</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人登記簿謄本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高裁判所インターネット登記所</td>
+      <td>法人登記簿謄本</td>
+      <td>最高裁判所インターネット登記所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者登録証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄税務署</td>
+      <td>事業者登録証</td>
+      <td>管轄税務署</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">株主名簿</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人で作成</td>
+      <td>株主名簿</td>
+      <td>法人で作成</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金払込保管証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行</td>
+      <td>資本金払込保管証明書</td>
+      <td>外国為替銀行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資申告証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申告時に発給されたもの</td>
+      <td>外国人投資申告証</td>
+      <td>申告時に発給されたもの</td>
     </tr>
   </tbody>
 </table>
@@ -392,39 +375,39 @@ FIC登録証が発給されて、ようやくD-8ビザ申請、租税減免申�
 
 ### 6-3. 全体スケジュールのまとめ
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">段階</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">機関</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所要期間(累計)</th>
+      <th>段階</th>
+      <th>機関</th>
+      <th>所要期間(累計)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 外国人投資申告</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行/KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1日</td>
+      <td>1. 外国人投資申告</td>
+      <td>外国為替銀行/[KOTRA](https://www.kotra.or.kr)</td>
+      <td>1日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 資金送金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海外 → 外国為替銀行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2〜5日</td>
+      <td>2. 資金送金</td>
+      <td>海外 → 外国為替銀行</td>
+      <td>2〜5日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. 定款公証・登記申請</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公証事務所・裁判所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">7〜10日</td>
+      <td>3. 定款公証・登記申請</td>
+      <td>公証事務所・裁判所</td>
+      <td>7〜10日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 事業者登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄税務署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12〜15日</td>
+      <td>4. 事業者登録</td>
+      <td>管轄税務署</td>
+      <td>12〜15日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. FIC登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行/KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">15〜20日</td>
+      <td>5. FIC登録</td>
+      <td>外国為替銀行/[KOTRA](https://www.kotra.or.kr)</td>
+      <td>15〜20日</td>
     </tr>
   </tbody>
 </table>
@@ -454,8 +437,8 @@ D-8ビザはFIC登録証が発給された後でなければ申請できませ�
 
 実務で最も多くつまずくのは、資本金の出所と使用計画です。1億ウォンを送金した後にD-8申請を行う際、「この1億ウォンを何に、いつまでに、どう運営するのか」についての説明が不十分だと、すぐに補完要請が入ります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 資本金1億ウォンが本人の自己資金ではなく家族や知人から借りた資金である場合、資金源の説明が中心的な争点となります。本人名義の口座に1年以上保有していた履歴が示せれば安全で、短期間で集めた資金であれば贈与契約書や貸借契約書まで併せて準備する必要があります。
+<div>
+  <strong>⚠️ 注意:</strong> 資本金1億ウォンが本人の自己資金ではなく家族や知人から借りた資金である場合、資金源の説明が中心的な争点となります。本人名義の口座に1年以上保有していた履歴が示せれば安全で、短期間で集めた資金であれば贈与契約書や貸借契約書まで併せて準備する必要があります。
 </div>
 
 ---

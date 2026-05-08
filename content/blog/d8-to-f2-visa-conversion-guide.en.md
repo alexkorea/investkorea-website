@@ -15,32 +15,14 @@ excerptJa: "D-8企業投資ビザ保有者がF-2居住ビザに変更するた�
 image: "/slides/building.jpg"
 slug: "d8-to-f2-visa-conversion-guide"
 ---
-# Complete Guide to Converting from D-8 to F-2 Visa: Requirements and Process
+## Complete Guide to Converting from D-8 to F-2 Visa: Requirements and Process
 
 If you're operating a business in Korea on a D-8 Corporate Investment visa, you may want to consider transitioning to the more stable and flexible F-2 Resident visa. The F-2 visa offers longer stay periods and fewer restrictions on employment and business activities, making it a preferred status among foreign investors. To convert from D-8 to F-2, you must meet various requirements including investment amount, business operation period, sales revenue, and number of employees, and pass a points-based evaluation system.
 
 There are two main pathways for converting from D-8 to F-2. The first is **F-2-5 for Overseas Koreans based on investment performance**, available to overseas Koreans who have invested a certain amount and operated a business. The second is the **points-based F-2 visa**, which grants eligibility to applicants who score 80 points or higher through comprehensive evaluation of education, income, Korean language ability, age, and other factors. Each pathway has different requirements and required documents, so it's important to choose the conversion method that suits your situation.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Key Differences Between D-8 and F-2 Visas</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Conversion Pathways by F-2 Visa Type</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Points Calculation for Points-Based F-2 Conversion</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. D-8 to F-2 Conversion Required Documents Checklist</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Step-by-Step F-2 Visa Conversion Application Process</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Detailed Requirements for Investment Performance-Based F-2-5 Conversion</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Proving Income for Points-Based F-2</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes When Converting to F-2 Visa</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Tips to Increase F-2 Visa Conversion Success Rate</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. F-2 Visa Maintenance and Renewal Guide</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. D-8 vs F-2 Visa Comparison Table</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. Frequently Asked Questions (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-13" style="color:#2563eb;text-decoration:none">13. Start Preparing for F-2 Visa Conversion Now</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">Key Differences Between D-8 and F-2 Visas
+## Key Differences Between D-8 and F-2 Visas
 
 The D-8 Corporate Investment visa is a short-term residency status granted to foreigners for operating businesses in Korea. In contrast, the F-2 Resident visa is intended for long-term stay and provides significantly more freedom in residency activities.
 
@@ -60,7 +42,7 @@ The D-8 Corporate Investment visa is a short-term residency status granted to fo
 
 The F-2 visa is a much more advantageous residency status for foreigners planning to live and operate businesses in Korea long-term. It can serve as an intermediate step toward F-5 permanent residency, which is why many D-8 visa holders aim for this conversion.
 
-<h2 id="section-2">Conversion Pathways by F-2 Visa Type
+## Conversion Pathways by F-2 Visa Type
 
 The F-2 visa is divided into several subcategories, and the main conversion pathways used by D-8 visa holders are as follows:
 
@@ -91,7 +73,7 @@ The points-based F-2 has no absolute requirements for investment amount or numbe
 
 This status is granted at the discretion of the Minister of Justice for those meeting specific conditions. It may be considered for cases involving large-scale investment or special contributions to the Korean economy, but this is not a common pathway.
 
-<h2 id="section-3">Points Calculation for Points-Based F-2 Conversion
+## Points Calculation for Points-Based F-2 Conversion
 
 Let's examine in detail the evaluation criteria for the F-2-7 points-based system, the most commonly used pathway by D-8 visa holders.
 
@@ -145,7 +127,7 @@ Korean language ability is the category where you can improve your score in the 
 - Korean residence period: 5 points for 5+ years
 - Minor children: 5 points per child (maximum 15 points)
 
-<h2 id="section-4">D-8 to F-2 Conversion Required Documents Checklist
+## D-8 to F-2 Conversion Required Documents Checklist
 
 <table>
 <thead>
@@ -229,7 +211,7 @@ Korean language ability is the category where you can improve your score in the 
 
 All foreign language documents must be accompanied by Korean translations, and notarized translations may be required.
 
-<h2 id="section-5">Step-by-Step F-2 Visa Conversion Application Process
+## Step-by-Step F-2 Visa Conversion Application Process
 
 ### Step 1: Verify Eligibility and Calculate Points
 
@@ -261,7 +243,7 @@ The immigration office conducts document examination. Supplementary document req
 
 Once approved, you'll receive notification and visit the immigration office to have your alien registration card reissued. Your status changes to F-2 visa and a new stay period begins.
 
-<h2 id="section-6">Detailed Requirements for Investment Performance-Based F-2-5 Conversion
+## Detailed Requirements for Investment Performance-Based F-2-5 Conversion
 
 For overseas Koreans converting to F-2-5 based on investment performance, the following detailed requirements must be met:
 
@@ -295,7 +277,7 @@ Must have actual business operation records, not just investment:
 - Tax payment history
 - Pass business site inspection
 
-<h2 id="section-7">Proving Income for Points-Based F-2
+## Proving Income for Points-Based F-2
 
 When D-8 visa holders apply for points-based F-2, income is one of the most important categories. Let's examine specifically how to prove business income.
 
@@ -331,7 +313,7 @@ Strategies to maximize income category points:
 
 Tax strategies must be conducted within legal bounds in consultation with a tax accountant.
 
-<h2 id="section-8">Common Mistakes When Converting to F-2 Visa
+## Common Mistakes When Converting to F-2 Visa
 
 ### 1. Rejection Due to Incomplete Documents
 
@@ -361,7 +343,7 @@ F-2 conversion applications require examination time. If you apply when your cur
 
 Korean language ability carries significant weight at 20 points, but many take the test without preparation. With adequate preparation through TOPIK or KIIP programs, this is a category where points can be secured relatively easily.
 
-<h2 id="section-9">Tips to Increase F-2 Visa Conversion Success Rate
+## Tips to Increase F-2 Visa Conversion Success Rate
 
 ### Importance of Advance Preparation
 
@@ -384,7 +366,7 @@ Documents aren't just about filling the submission list—they're evidence provi
 
 The F-2 visa is granted to foreigners who wish to reside in Korea long-term. It's important to show not just meeting documentary requirements but actually living sincerely and conducting economic activities in Korea.
 
-<h2 id="section-10">F-2 Visa Maintenance and Renewal Guide
+## F-2 Visa Maintenance and Renewal Guide
 
 Even after receiving F-2 visa, there are requirements for maintaining and renewing residency status.
 
@@ -410,7 +392,7 @@ After maintaining F-2 visa for 3+ years and meeting certain requirements, you ca
 - Good conduct (no criminal record)
 - Korean society adaptation (Korean language ability, understanding of Korean culture, etc.)
 
-<h2 id="section-11">D-8 vs F-2 Visa Comparison Table
+## D-8 vs F-2 Visa Comparison Table
 
 <table>
 <thead>
@@ -474,7 +456,7 @@ After maintaining F-2 visa for 3+ years and meeting certain requirements, you ca
 </tbody>
 </table>
 
-<h2 id="section-12">Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### Q1. How long must I stay on D-8 visa before converting to F-2?
 
@@ -496,7 +478,7 @@ A: Even if your existing D-8 visa stay period expires while F-2 conversion appli
 
 A: Even if the application is rejected, your existing D-8 visa remains valid so you can continue staying. You can check the rejection reason, supplement deficient areas, and apply again. If you disagree with the rejection decision, you can file an objection or administrative appeal, but in most cases it's more realistic to supplement deficient requirements and reapply. If rejection was due to incomplete documents, you can immediately reapply after supplementation, but if due to insufficient points, you must apply after increasing your score.
 
-<h2 id="section-13">Start Preparing for F-2 Visa Conversion Now
+## Start Preparing for F-2 Visa Conversion Now
 
 Converting from D-8 to F-2 visa is an important step for foreign investors planning to live and conduct business in Korea long-term. The F-2 visa increases residency stability, expands activity scope, and ultimately opens the path to permanent residency (F-5).
 
@@ -513,9 +495,8 @@ VISION Administrative Scrivener Office specializes in foreign investment and vis
 
 The first step toward a stable future in Korea—VISION Administrative Scrivener Office will be with you. Apply for consultation now and check your F-2 visa conversion possibilities.
 
-<div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
-  <h3 style="color:white;margin-top:0;text-align:center">VISION Administrative Office
-  <p style="margin:12px 0;text-align:center"><strong>Phone:</strong> +82-2-363-2251　|　<strong>Email:</strong> 5000meter@gmail.com</p>
-  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>Office Visit:</strong> (04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul  Dongdaemun History & Culture Park Stn. Exit 4, 10m | Dongdaemun History & Culture Park Stn. Exit 4, 10m</p>
+<div>
+### VISION Administrative Office
+  <p><strong>Phone:</strong> +82-2-363-2251　|　<strong>Email:</strong> 5000meter@gmail.com</p>
+  <p><strong>Office Visit:</strong> (04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul  Dongdaemun History & Culture Park Stn. Exit 4, 10m | Dongdaemun History & Culture Park Stn. Exit 4, 10m</p>
 </div>
-

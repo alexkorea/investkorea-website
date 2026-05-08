@@ -15,27 +15,12 @@ excerptJa: "外国人の株式会社設立は書類の数より送金と届出�
 image: "/slides/building.jpg"
 slug: "foreign-stockco-incorporation-procedure-guide"
 ---
-# 外国人股份有限公司设立流程与费用全解析 — 实务中容易卡壳的环节
+## 外国人股份有限公司设立流程与费用全解析 — 实务中容易卡壳的环节
 
 外国人在韩国设立股份有限公司时，**最常卡住的不是材料，而是顺序**。投资款汇款凭证、外国人投资申报、资本金缴纳、法人登记、营业执照注册、外商投资企业登记，每一步都有必须先行完成的文件，只要一个环节错位，后续全部会被延迟。实际操作中，并不是"先申报再汇款"，而是必须遵循"申报 → 汇款 → 缴款证明 → 登记"的顺序，金额才会被认定为外国人投资。
 
 费用方面，**以资本金 1 亿韩元为基准，实际开销通常在 250 万~400 万韩元 + 行政士·法务士手续费**之间较为现实。其中包含登记执照税（过密抑制圈域加征 3 倍）、教育税、章程认证费、登记申请费、公证费、翻译与海牙认证费用等。若资本金不足 1 亿韩元，或投资方为外国法人，结构会有所不同。下面按照实际顺序梳理流程、材料与费用。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份有限公司与外商投资企业的区别</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须确认的 3 项前提</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 全套设立流程 — 七步路线图</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 各阶段所需材料汇总</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 实际费用结构与分段预算</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 资本金·投资形式上的注意事项</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 设立后必须处理的行政事项</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误与被驳回案例</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题 (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询指引</a></li>
-  </ul>
-</nav>
 
 ## 1. 外国人股份有限公司与外商投资企业的区别
 
@@ -47,44 +32,44 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 首先要看的是**投资金额 1 亿韩元以上 + 持股比例 10% 以上**这两项要件。两个条件必须同时满足，才会被《外国人投资促进法》认定为外国人投资。如果汇款不足 1 亿韩元，或持股比例仅为 9%，就会被归为普通外国人股东法人，无法与 D-8 签证挂钩。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">外商投资企业 (FDI)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">外国人股东法人（普通）</th>
+      <th>项目</th>
+      <th>外商投资企业 (FDI)</th>
+      <th>外国人股东法人（普通）</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低投资额</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限制</td>
+      <td>最低投资额</td>
+      <td>1 亿韩元以上</td>
+      <td>无限制</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人持股比例</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">10% 以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限制</td>
+      <td>外国人持股比例</td>
+      <td>10% 以上</td>
+      <td>无限制</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">必需（设立前）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无需</td>
+      <td>外国人投资申报</td>
+      <td>必需（设立前）</td>
+      <td>无需</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 签证衔接</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可以</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>D-8 签证衔接</td>
+      <td>可以</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">税收减免</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">部分行业可享受</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无</td>
+      <td>税收减免</td>
+      <td>部分行业可享受</td>
+      <td>无</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外商投资企业登记证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">予以发放</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不予发放</td>
+      <td>外商投资企业登记证</td>
+      <td>予以发放</td>
+      <td>不予发放</td>
     </tr>
   </tbody>
 </table>
@@ -101,14 +86,14 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 ### 确认行业的准入限制
 
-外国人投资在部分行业存在持股限制。广播、通信、航空、核能等行业对外国人持股比例设有上限，部分国防工业、发电业原则上是受限的。**大多数批发零售、IT、咨询、贸易行业则被归为无限制类别**。需要通过韩国产业通商资源部的外商投资统计服务，或 KOTRA Invest Korea 门户，核实相关行业的开放程度。
+外国人投资在部分行业存在持股限制。广播、通信、航空、核能等行业对外国人持股比例设有上限，部分国防工业、发电业原则上是受限的。**大多数批发零售、IT、咨询、贸易行业则被归为无限制类别**。需要通过韩国产业通商资源部的外商投资统计服务，或 [KOTRA Invest Korea](https://www.investkorea.org) 门户，核实相关行业的开放程度。
 
 ### 投资方身份——个人还是法人
 
 投资方是外国个人还是外国法人，所需提交的材料差别很大。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>若外国法人作为股东加入，要知道许多国家并没有"法人印鉴证明书"这一概念。本国的法人登记簿誊本 + 董事会决议 + 签字权人证明书（Certificate of Incumbency）+ 海牙认证或领事认证，必须成套提交。任何一项缺失，登记所都会当场驳回。
+<div>
+  <strong>⚠️ 注意：</strong>若外国法人作为股东加入，要知道许多国家并没有"法人印鉴证明书"这一概念。本国的法人登记簿誊本 + 董事会决议 + 签字权人证明书（Certificate of Incumbency）+ 海牙认证或领事认证，必须成套提交。任何一项缺失，登记所都会当场驳回。
 </div>
 
 ## 3. 全套设立流程 — 七步路线图
@@ -117,71 +102,71 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 外国人股份有限公司的设立不只是"交材料、办登记"。**汇款、申报、缴款与登记之间存在先后关系**，顺序不对，汇入的资金就不会被认定为外国人投资，而会被视为普通的个人汇款。届时就得把钱取出、重新申报、再次汇款。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">阶段</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">办理机构</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所需时间</th>
+      <th>阶段</th>
+      <th>内容</th>
+      <th>办理机构</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报 (FDI 申报)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA 或外汇业务银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">即时~1 日</td>
+      <td>1</td>
+      <td>外国人投资申报 (FDI 申报)</td>
+      <td>[KOTRA](https://www.kotra.or.kr) 或外汇业务银行</td>
+      <td>即时~1 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资款汇入（本人名义外币）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">境外银行 → 韩国外汇业务银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5 日</td>
+      <td>2</td>
+      <td>投资款汇入（本人名义外币）</td>
+      <td>境外银行 → 韩国外汇业务银行</td>
+      <td>2~5 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">开设临时账户并缴纳资本金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外汇业务银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 日</td>
+      <td>3</td>
+      <td>开设临时账户并缴纳资本金</td>
+      <td>外汇业务银行</td>
+      <td>1~2 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">起草章程并办理公证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公证处</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 日</td>
+      <td>4</td>
+      <td>起草章程并办理公证</td>
+      <td>公证处</td>
+      <td>1 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人设立登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管辖登记所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~5 日</td>
+      <td>5</td>
+      <td>法人设立登记</td>
+      <td>管辖登记所</td>
+      <td>3~5 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照注册</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">税务署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3 日</td>
+      <td>6</td>
+      <td>营业执照注册</td>
+      <td>税务署</td>
+      <td>2~3 日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外商投资企业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA 或地方政府</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 日</td>
+      <td>7</td>
+      <td>外商投资企业登记</td>
+      <td>[KOTRA](https://www.kotra.or.kr) 或地方政府</td>
+      <td>1~2 日</td>
     </tr>
   </tbody>
 </table>
 
 ### 第 1 步——外国人投资申报
 
-首先要办的是 **FDI 申报**。可以在 KOTRA 的外商投资支援中心，或外汇银行（韩亚、友利、国民等被指定为外汇业务银行的机构）受理。申报完成后会立即发放"外国人投资申报证明书"，有了这份证明书，下一步的汇款才会被归类为外国人投资。
+首先要办的是 **FDI 申报**。可以在 [KOTRA](https://www.kotra.or.kr) 的外商投资支援中心，或外汇银行（韩亚、友利、国民等被指定为外汇业务银行的机构）受理。申报完成后会立即发放"外国人投资申报证明书"，有了这份证明书，下一步的汇款才会被归类为外国人投资。
 
 ### 第 2 步——汇入投资款
 
 投资款必须**以投资者本人名义、从境外以外币汇入**。事先已经在韩国境内的韩元、家人名义的汇款、现金带入，原则上都不被认定为外国人投资。汇款电文（SWIFT message）上必须注明投资目的，且需要在收款银行拿到"投资资金收款确认书"，作为缴款凭证。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>最常被忽略的一点就是"在申报前汇款"。若资金在申报之前就进来，外汇业务银行会将其当作普通对外支付而非外国人投资处理。这种情况下要么先换汇再重新汇款，要么追溯补办申报，时间往往多花 2~3 周。
+<div>
+  <strong>⚠️ 注意：</strong>最常被忽略的一点就是"在申报前汇款"。若资金在申报之前就进来，外汇业务银行会将其当作普通对外支付而非外国人投资处理。这种情况下要么先换汇再重新汇款，要么追溯补办申报，时间往往多花 2~3 周。
 </div>
 
 ### 第 3 步——缴纳资本金
@@ -190,7 +175,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 ### 第 4 步——章程起草与公证
 
-如果资本金不足 10 亿韩元，可以通过发起人过半数出席的方式免除章程公证（《商法》第 292 条但书）。但在向 KOTRA 提交外商投资企业登记时，有时会被要求出具公证本，因此实务中办理公证更为稳妥。
+如果资本金不足 10 亿韩元，可以通过发起人过半数出席的方式免除章程公证（《商法》第 292 条但书）。但在向 [KOTRA](https://www.kotra.or.kr) 提交外商投资企业登记时，有时会被要求出具公证本，因此实务中办理公证更为稳妥。
 
 ### 第 5 步——法人设立登记
 
@@ -202,38 +187,38 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 ### 第 7 步——外商投资企业登记
 
-最后一步，在 KOTRA 或地方政府申请**外商投资企业登记证**。有了这份登记证，才能办理 D-8 签证邀请、税收减免申请以及外商投资企业专属扶持项目的申请。
+最后一步，在 [KOTRA](https://www.kotra.or.kr) 或地方政府申请**外商投资企业登记证**。有了这份登记证，才能办理 D-8 签证邀请、税收减免申请以及外商投资企业专属扶持项目的申请。
 
 ## 4. 各阶段所需材料汇总
 
 ### 投资者（外国个人）提交材料
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国个人投资者准备材料清单</strong>
-  <ul style="margin-top:12px">
-    <li>护照复印件（个人信息页）</li>
-    <li>地址证明材料（本国出具，海牙认证或领事认证）</li>
-    <li>签字样本（Signature Specimen）— 公证或领事认证</li>
-    <li>外国人投资申报书</li>
-    <li>投资款汇款凭证（SWIFT 电文、收款确认书）</li>
-    <li>本国身份证复印件</li>
-    <li>如正在韩国居留，则需外国人登录证复印件</li>
-  </ul>
+<div>
+  <strong>✅ 外国个人投资者准备材料清单</strong>
+
+    护照复印件（个人信息页）
+    地址证明材料（本国出具，海牙认证或领事认证）
+    签字样本（Signature Specimen）— 公证或领事认证
+    外国人投资申报书
+    投资款汇款凭证（SWIFT 电文、收款确认书）
+    本国身份证复印件
+    如正在韩国居留，则需外国人登录证复印件
+
 </div>
 
 ### 投资者（外国法人）提交材料
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国法人投资者准备材料清单</strong>
-  <ul style="margin-top:12px">
-    <li>本国法人登记簿誊本（Certificate of Incorporation）</li>
-    <li>章程（Articles of Association）</li>
-    <li>董事会决议或股东大会决议（批准设立韩国法人及投资）</li>
-    <li>签字权人证明书（Certificate of Incumbency）</li>
-    <li>法人签字样本</li>
-    <li>上述全部材料的海牙认证或领事认证</li>
-    <li>韩语译本（含翻译认证）</li>
-  </ul>
+<div>
+  <strong>✅ 外国法人投资者准备材料清单</strong>
+
+    本国法人登记簿誊本（Certificate of Incorporation）
+    章程（Articles of Association）
+    董事会决议或股东大会决议（批准设立韩国法人及投资）
+    签字权人证明书（Certificate of Incumbency）
+    法人签字样本
+    上述全部材料的海牙认证或领事认证
+    韩语译本（含翻译认证）
+
 </div>
 
 ### 法人方起草的材料（在韩国制作）
@@ -249,8 +234,8 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 海牙公约缔约国（美国、日本、英国等大部分发达国家）只需在本国外交部办理一次海牙认证即可。非缔约国（中国、越南等）则须经历**本国公证 → 本国外交部认证 → 驻当地韩国大使馆领事认证**这三步。中国尤其在领事认证环节需要 2~3 周。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务建议：</strong>在本国准备材料时，建议把"地址证明"和"签字样本"这两项一并办理公证。后续开设银行临时账户、办理营业执照、递交签证邀请函时都会反复被要求同一份材料。提前准备原件 2~3 份，可以节省来回奔波的时间。
+<div>
+  <strong>💡 实务建议：</strong>在本国准备材料时，建议把"地址证明"和"签字样本"这两项一并办理公证。后续开设银行临时账户、办理营业执照、递交签证邀请函时都会反复被要求同一份材料。提前准备原件 2~3 份，可以节省来回奔波的时间。
 </div>
 
 ## 5. 实际费用结构与分段预算
@@ -259,51 +244,51 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 有些项目无论资本金多少都几乎固定，有些项目则与资本金成比例。最大的变量是**登记执照税**。首尔、仁川以及京畿部分地区（过密抑制圈域）适用加重税率，按 3 倍计算。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">非过密抑制圈域</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">过密抑制圈域（首尔等）</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">备注</th>
+      <th>项目</th>
+      <th>非过密抑制圈域</th>
+      <th>过密抑制圈域（首尔等）</th>
+      <th>备注</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记执照税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金 × 0.4%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金 × 1.2%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低 11.2 万韩元</td>
+      <td>登记执照税</td>
+      <td>资本金 × 0.4%</td>
+      <td>资本金 × 1.2%</td>
+      <td>最低 11.2 万韩元</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">地方教育税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记执照税 × 20%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记执照税 × 20%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">附加</td>
+      <td>地方教育税</td>
+      <td>登记执照税 × 20%</td>
+      <td>登记执照税 × 20%</td>
+      <td>附加</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记申请费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">定额</td>
+      <td>登记申请费</td>
+      <td>3 万韩元</td>
+      <td>3 万韩元</td>
+      <td>定额</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">章程公证费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 30 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 30 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">以资本金 1 亿为准</td>
+      <td>章程公证费</td>
+      <td>约 30 万韩元</td>
+      <td>约 30 万韩元</td>
+      <td>以资本金 1 亿为准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人印章制作</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5~10 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5~10 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人·代表·使用印鉴一套</td>
+      <td>法人印章制作</td>
+      <td>5~10 万韩元</td>
+      <td>5~10 万韩元</td>
+      <td>法人·代表·使用印鉴一套</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照注册</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">免费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">免费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">-</td>
+      <td>营业执照注册</td>
+      <td>免费</td>
+      <td>免费</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -324,39 +309,39 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 ### 按资本金分段的全套预算表
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">资本金</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">首尔实际支出估算</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">地方实际支出估算</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">含手续费总额</th>
+      <th>资本金</th>
+      <th>首尔实际支出估算</th>
+      <th>地方实际支出估算</th>
+      <th>含手续费总额</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 210 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 120 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">300~450 万韩元</td>
+      <td>1 亿韩元</td>
+      <td>约 210 万韩元</td>
+      <td>约 120 万韩元</td>
+      <td>300~450 万韩元</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3 亿韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 500 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 230 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">600~800 万韩元</td>
+      <td>3 亿韩元</td>
+      <td>约 500 万韩元</td>
+      <td>约 230 万韩元</td>
+      <td>600~800 万韩元</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5 亿韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 800 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 330 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">900~1,200 万韩元</td>
+      <td>5 亿韩元</td>
+      <td>约 800 万韩元</td>
+      <td>约 330 万韩元</td>
+      <td>900~1,200 万韩元</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">10 亿韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 1,500 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约 550 万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1,700~2,100 万韩元</td>
+      <td>10 亿韩元</td>
+      <td>约 1,500 万韩元</td>
+      <td>约 550 万韩元</td>
+      <td>1,700~2,100 万韩元</td>
     </tr>
   </tbody>
 </table>
@@ -366,11 +351,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 过密抑制圈域涵盖首尔全境、仁川部分地区以及京畿 14 个市（果川、高阳、光明、富川、城南、水原、安养等）。**总部设在首尔、仅把分支放在地方**的结构依然无法避开本部的加重税。若从根本上把总部设在地方（如华城、平泽、忠清地区），登记执照税可降至三分之一。不过签证审查和商业信誉上很多情况下更倾向于首尔总部，需要结合实务权衡。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/33911167/pexels-photo-33911167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Captivating reflection of the sky in a modern glass building facade in Pyeongtaek City, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Captivating reflection of the sky in a modern glass building facade in Pyeongtaek City, South Korea.](https://images.pexels.com/photos/33911167/pexels-photo-33911167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 6. 资本金·投资形式上的注意事项
@@ -387,8 +368,8 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 实务中会有人尝试"先汇到韩国熟人账户，以后再转为投资款"。这种情况下，外汇业务银行**不会出具投资资金收款确认书**。最终借名进入的资金只能退回再重新汇款，而退回过程中还可能因外汇申报遗漏被处以罚款。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>《外国人投资促进法》第 21 条规定，对虚假申报、伪造材料的行为可处以刑事处罚（3 年以下有期徒刑或 3 千万韩元以下罚金），并可撤销投资。将借名汇款或来源不明的资金伪装成投资款的行为，一旦被查获，甚至可能导致法人被撤销。
+<div>
+  <strong>⚠️ 注意：</strong>《外国人投资促进法》第 21 条规定，对虚假申报、伪造材料的行为可处以刑事处罚（3 年以下有期徒刑或 3 千万韩元以下罚金），并可撤销投资。将借名汇款或来源不明的资金伪装成投资款的行为，一旦被查获，甚至可能导致法人被撤销。
 </div>
 
 ### 资本金增资 vs 新设立
@@ -407,13 +388,13 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 - 代表人·主要股东的身份证原件
 - 资金用途规划书
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>尤其是代表人未长期居留韩国、或者使用共享办公室地址的情况下，经常会在 1~2 周的审查后被告知开户被拒。建议同时向至少 2~3 家银行并行申请，主账户选择外汇业务指定银行（韩亚、友利、国民、新韩）中外国人投资经验丰富的分行更为稳妥。
+<div>
+  <strong>⚠️ 注意：</strong>尤其是代表人未长期居留韩国、或者使用共享办公室地址的情况下，经常会在 1~2 周的审查后被告知开户被拒。建议同时向至少 2~3 家银行并行申请，主账户选择外汇业务指定银行（韩亚、友利、国民、新韩）中外国人投资经验丰富的分行更为稳妥。
 </div>
 
 ### 领取外商投资企业登记证
 
-营业执照注册完成后，向 KOTRA（首尔）或广域地方政府的外商投资负责部门申请**外商投资企业登记**。只有拿到登记证，才能申请 D-8 签证邀请函及税收减免。
+营业执照注册完成后，向 [KOTRA](https://www.kotra.or.kr)（首尔）或广域地方政府的外商投资负责部门申请**外商投资企业登记**。只有拿到登记证，才能申请 D-8 签证邀请函及税收减免。
 
 ### D-8 签证转换或邀请
 
@@ -425,33 +406,33 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 ### 设立后日程概览
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">时间节点</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">待办事项</th>
+      <th>时间节点</th>
+      <th>待办事项</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">设立后立即</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申请法人账户、办理外商投资企业登记</td>
+      <td>设立后立即</td>
+      <td>申请法人账户、办理外商投资企业登记</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">设立后 2 周内</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">完成营业执照注册（若尚未办理）</td>
+      <td>设立后 2 周内</td>
+      <td>完成营业执照注册（若尚未办理）</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">设立后 1 个月内</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申请 D-8 签证（境外或境内）</td>
+      <td>设立后 1 个月内</td>
+      <td>申请 D-8 签证（境外或境内）</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">首次聘用员工时</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">加入四大保险、签订劳动合同</td>
+      <td>首次聘用员工时</td>
+      <td>加入四大保险、签订劳动合同</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">季度·年度末</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申报增值税·法人税</td>
+      <td>季度·年度末</td>
+      <td>申报增值税·法人税</td>
     </tr>
   </tbody>
 </table>
@@ -472,7 +453,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 ### 失误 4——翻译质量不合格
 
-如果把本国材料用机器翻译直接提交，登记所或 KOTRA 都会驳回。**必须附上翻译认证（翻译人签字 + 身份证复印件）**，且专有名词（公司名、地址、人名）原则上应原文并列标注。
+如果把本国材料用机器翻译直接提交，登记所或 [KOTRA](https://www.kotra.or.kr) 都会驳回。**必须附上翻译认证（翻译人签字 + 身份证复印件）**，且专有名词（公司名、地址、人名）原则上应原文并列标注。
 
 ### 失误 5——章程遗漏业务类别
 
@@ -482,8 +463,8 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 法人登记簿和营业执照上都会登载代表董事的联系方式与地址。如果只写海外地址，税务署、银行无法联系到本人，通知会被退回，各类行政处分也可能在代表不知情的情况下变成不利后果。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务建议：</strong>如果代表董事短期居留或尚未入境，建议在设立初期同时登记韩国办公室固定电话和韩国地址（与租赁合同地址一致）。此外，还可以指定邮件收件代理人。
+<div>
+  <strong>💡 实务建议：</strong>如果代表董事短期居留或尚未入境，建议在设立初期同时登记韩国办公室固定电话和韩国地址（与租赁合同地址一致）。此外，还可以指定邮件收件代理人。
 </div>
 
 ## 9. 常见问题 (FAQ)
@@ -520,14 +501,14 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 
 咨询前如能提前准备下列信息，可获得更高效的指导。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 咨询前准备清单</strong>
-  <ul style="margin-top:12px">
-    <li>投资者国籍及护照复印件</li>
-    <li>预计资本金规模（韩元或外币）</li>
-    <li>拟定营业场所地址或地区</li>
-    <li>经营行业（批发零售、IT、制造、贸易等）</li>
-    <li>有无共同投资者</li>
-    <li>是否需要 D-8 签证及当前居留资格</li>
-  </ul>
+<div>
+  <strong>✅ 咨询前准备清单</strong>
+
+    投资者国籍及护照复印件
+    预计资本金规模（韩元或外币）
+    拟定营业场所地址或地区
+    经营行业（批发零售、IT、制造、贸易等）
+    有无共同投资者
+    是否需要 D-8 签证及当前居留资格
+
 </div>

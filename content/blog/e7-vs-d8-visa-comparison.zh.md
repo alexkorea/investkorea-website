@@ -7,26 +7,12 @@ image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#overview">概述</a></li>
-    <li><a href="#what-is-e7">什么是E-7签证？</a></li>
-    <li><a href="#what-is-d8">什么是D-8签证？</a></li>
-    <li><a href="#e7-pros-cons">E-7签证的优缺点</a></li>
-    <li><a href="#d8-pros-cons">D-8签证的优缺点</a></li>
-    <li><a href="#comparison">对比分析</a></li>
-    <li><a href="#application-process">申请流程</a></li>
-    <li><a href="#choosing">如何选择适合的签证</a></li>
-    <li><a href="#faq">常见问题</a></li>
-  </ul>
-</nav>
 
 ## 概述
 
 对于希望在韩国发展职业或创业的外国人来说，首先需要明确哪种签证最符合自身需求。**E-7专业就业签证**和**D-8投资签证**是两条最常见的途径，但二者的适用范围截然不同。本指南将为您详细解析两者的核心差异，帮助您做出明智的选择。
 
-<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="首尔商业区天际线" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="首尔商业区天际线" />
 
 ## 什么是E-7签证？
 
@@ -39,7 +25,7 @@ E-7签证面向**专业技术人才**，由韩国企业担保聘用。适用职�
 - **有效期：** 通常为1至3年，在职期间可续签
 - **资质要求：** 必须具备相关学历、资格证书或工作经验
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 即使您的职业在许可清单上，出入境审查官仍会评估雇用企业是否确实需要外国人担任该职位。</div>
+<div>💡 <strong>提示：</strong> 即使您的职业在许可清单上，出入境审查官仍会评估雇用企业是否确实需要外国人担任该职位。</div>
 
 ## 什么是D-8签证？
 
@@ -52,7 +38,7 @@ D-8签证面向**外国投资者和创业者**，允许他们在韩国设立并�
 - **有效期：** 初始通常为1至2年，可延期
 - **商业计划书：** 需提交详细的可行性分析和经济效益说明
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> D-8签证细分为D-8-1至D-8-4等类别，按投资规模和类型划分。经政府认定的创业项目可能以较低资本门槛申请D-8-4类别。</div>
+<div>💡 <strong>提示：</strong> D-8签证细分为D-8-1至D-8-4等类别，按投资规模和类型划分。经政府认定的创业项目可能以较低资本门槛申请D-8-4类别。</div>
 
 ## E-7签证的优缺点
 
@@ -99,7 +85,7 @@ D-8签证面向**外国投资者和创业者**，允许他们在韩国设立并�
 | **续签依据** | 持续受雇 | 经营活动和财务状况 |
 | **永居路径** | 积分制（F-2途径） | 投资制（5年以上） |
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 签证政策可能随时调整。申请前请务必向韩国出入境管理局或持证行政士确认最新要求。</div>
+<div>⚠️ <strong>注意：</strong> 签证政策可能随时调整。申请前请务必向韩国出入境管理局或持证行政士确认最新要求。</div>
 
 ## 申请流程
 
@@ -127,7 +113,7 @@ D-8签证面向**外国投资者和创业者**，允许他们在韩国设立并�
 
 不少专业人士选择先持E-7签证了解市场，待发现商机后再转换为D-8签证。这种分步策略能有效降低风险。
 
-<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="团队讨论商业策略" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="团队讨论商业策略" />
 
 ## 常见问题
 
@@ -157,7 +143,7 @@ E-7签证需提供在职证明和更新后的劳动合同。D-8签证需提交�
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">免费咨询</h3><p style="color:#bfdbfe; margin:0 0 16px;">专业行政士为您提供咨询服务。电话：02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a></div>
+<div>### 免费咨询<p>专业行政士为您提供咨询服务。电话：02-363-2251</p>[申请咨询](/contact)</div>
 
 <script type="application/ld+json">
 {

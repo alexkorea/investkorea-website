@@ -15,26 +15,12 @@ excerptJa: "外国人の韓国株式会社設立で実際に詰まる工程と�
 image: "/slides/building.jpg"
 slug: "foreigner-jusikhoesa-setup-cost-guide"
 ---
-# Foreign-Owned Corporation Setup in Korea: Complete Guide to Procedures and Costs (2026 Practitioner's Edition)
+## Foreign-Owned Corporation Setup in Korea: Complete Guide to Procedures and Costs (2026 Practitioner's Edition)
 
 When a foreign national tries to incorporate a stock company (jusik hoesa, 株式會社) in Korea, the real bottleneck isn't the registration filing itself — it's the **foreign investment notification and proving the inbound capital wire**. Plenty of document checklists float around online, but if the bank doesn't promptly issue the **foreign currency purchase certificate** confirming the capital arrived, registration can't move an inch. That's why the timeline should be measured not as "X days from filing," but as "X days from when the wire actually clears."
 
 Total cost on a KRW 100 million capital base runs roughly **KRW 1.2M–1.7M in government registration license tax, public bonds, and registration fees**, plus KRW 500K–1.5M in judicial scrivener or administrative agent fees. Once capital climbs higher, the registration license tax (calculated at 0.4% of capital) starts dominating — past KRW 500M in capital, taxes account for the bulk of total spend. The tables and sections below lay out **per-stage costs, realistic timelines, and the points where things commonly snag**.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foreign Stock Company vs. LLC: The Distinctions to Weigh First</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. The End-to-End Setup Flow at a Glance</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Preparation Stage: Foreign Investment Notification and Capital Wire</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Corporate Registration Stage: Documents and Real-World Snags</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Post-Setup Procedures: Business Registration and FIC Filing</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Full Cost Breakdown</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Mistakes and How to Avoid Them</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ (5 Questions)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Consultation Info</a></li>
-  </ul>
-</nav>
 
 ## Foreign Stock Company vs. LLC: The Distinctions to Weigh First
 
@@ -46,17 +32,17 @@ The most common pick when a foreign national sets up a Korean entity is the stoc
 
 The distinction looks trivial on the surface, but it shows up in tax handling, share transfer, and foreign investment filings. The table below pulls out only what matters.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">Item</th><th style="border:1px solid #e5e7eb;padding:10px">Stock Company</th><th style="border:1px solid #e5e7eb;padding:10px">LLC</th></tr>
+<table>
+<thead>
+<tr><th>Item</th><th>Stock Company</th><th>LLC</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Equity unit</td><td style="border:1px solid #e5e7eb;padding:10px">Shares (transferable in single-share units)</td><td style="border:1px solid #e5e7eb;padding:10px">Capital interest (transfer process is more complex)</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Board / auditor</td><td style="border:1px solid #e5e7eb;padding:10px">Single director allowed when capital is under KRW 1 billion</td><td style="border:1px solid #e5e7eb;padding:10px">Directors only; no statutory auditor required</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">External audit applicability</td><td style="border:1px solid #e5e7eb;padding:10px">Triggered by asset/revenue thresholds</td><td style="border:1px solid #e5e7eb;padding:10px">Same triggers apply</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">U.S. accounting / IRS handling</td><td style="border:1px solid #e5e7eb;padding:10px">Maps cleanly to a C-corp</td><td style="border:1px solid #e5e7eb;padding:10px">Check-the-box analysis required</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Bringing in investors</td><td style="border:1px solid #e5e7eb;padding:10px">Easy to issue new shares for capital raises</td><td style="border:1px solid #e5e7eb;padding:10px">Requires member meeting approval</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Real-world frequency</td><td style="border:1px solid #e5e7eb;padding:10px">By far the most common</td><td style="border:1px solid #e5e7eb;padding:10px">Preferred for small branch-style operations</td></tr>
+<tr><td>Equity unit</td><td>Shares (transferable in single-share units)</td><td>Capital interest (transfer process is more complex)</td></tr>
+<tr><td>Board / auditor</td><td>Single director allowed when capital is under KRW 1 billion</td><td>Directors only; no statutory auditor required</td></tr>
+<tr><td>External audit applicability</td><td>Triggered by asset/revenue thresholds</td><td>Same triggers apply</td></tr>
+<tr><td>U.S. accounting / IRS handling</td><td>Maps cleanly to a C-corp</td><td>Check-the-box analysis required</td></tr>
+<tr><td>Bringing in investors</td><td>Easy to issue new shares for capital raises</td><td>Requires member meeting approval</td></tr>
+<tr><td>Real-world frequency</td><td>By far the most common</td><td>Preferred for small branch-style operations</td></tr>
 </tbody>
 </table>
 
@@ -74,17 +60,17 @@ Setting up a foreign-owned stock company runs in this order: **(1) foreign inves
 
 The table below collects the average time each stage takes. In reality, wires often don't post the same day, so things stretch longer than this in practice.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">Stage</th><th style="border:1px solid #e5e7eb;padding:10px">Responsible Body</th><th style="border:1px solid #e5e7eb;padding:10px">Realistic Days</th><th style="border:1px solid #e5e7eb;padding:10px">Key Output</th></tr>
+<table>
+<thead>
+<tr><th>Stage</th><th>Responsible Body</th><th>Realistic Days</th><th>Key Output</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1. Foreign investment notification</td><td style="border:1px solid #e5e7eb;padding:10px">KOTRA / FX bank</td><td style="border:1px solid #e5e7eb;padding:10px">1–2 days</td><td style="border:1px solid #e5e7eb;padding:10px">Foreign Investment Notification Certificate</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">2. Capital wire</td><td style="border:1px solid #e5e7eb;padding:10px">Overseas remitting bank → Korean bank</td><td style="border:1px solid #e5e7eb;padding:10px">1–5 days</td><td style="border:1px solid #e5e7eb;padding:10px">Foreign Currency Purchase Certificate</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3. Balance certificate issuance</td><td style="border:1px solid #e5e7eb;padding:10px">Bank holding the temporary capital account</td><td style="border:1px solid #e5e7eb;padding:10px">Same day–1 day</td><td style="border:1px solid #e5e7eb;padding:10px">Balance Certificate</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">4. Incorporation registration</td><td style="border:1px solid #e5e7eb;padding:10px">Registry office (court)</td><td style="border:1px solid #e5e7eb;padding:10px">3–5 business days</td><td style="border:1px solid #e5e7eb;padding:10px">Corporate Registration Certificate</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5. Business registration</td><td style="border:1px solid #e5e7eb;padding:10px">District tax office</td><td style="border:1px solid #e5e7eb;padding:10px">2–3 business days</td><td style="border:1px solid #e5e7eb;padding:10px">Business Registration Certificate</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">6. Foreign-invested company (FIC) registration</td><td style="border:1px solid #e5e7eb;padding:10px">KOTRA / bank</td><td style="border:1px solid #e5e7eb;padding:10px">1–2 days</td><td style="border:1px solid #e5e7eb;padding:10px">FIC Registration Certificate</td></tr>
+<tr><td>1. Foreign investment notification</td><td>[KOTRA](https://www.kotra.or.kr) / FX bank</td><td>1–2 days</td><td>Foreign Investment Notification Certificate</td></tr>
+<tr><td>2. Capital wire</td><td>Overseas remitting bank → Korean bank</td><td>1–5 days</td><td>Foreign Currency Purchase Certificate</td></tr>
+<tr><td>3. Balance certificate issuance</td><td>Bank holding the temporary capital account</td><td>Same day–1 day</td><td>Balance Certificate</td></tr>
+<tr><td>4. Incorporation registration</td><td>Registry office (court)</td><td>3–5 business days</td><td>Corporate Registration Certificate</td></tr>
+<tr><td>5. Business registration</td><td>District tax office</td><td>2–3 business days</td><td>Business Registration Certificate</td></tr>
+<tr><td>6. Foreign-invested company (FIC) registration</td><td>[KOTRA](https://www.kotra.or.kr) / bank</td><td>1–2 days</td><td>FIC Registration Certificate</td></tr>
 </tbody>
 </table>
 
@@ -92,8 +78,8 @@ The table below collects the average time each stage takes. In reality, wires of
 
 Assuming all paperwork is fully prepared, **roughly 2–3 weeks of business days** is realistic. Once translation notarization and apostilles on overseas documents are added, that stretches to **4–6 weeks**.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Heads-up:</strong> Documents issued abroad — corporate certificates, notarized passports, employment letters — must carry an <strong>apostille (or consular legalization)</strong>, or the registry office will reject them. Without the apostille, the entire packet bounces back.
+<div>
+  <strong>⚠️ Heads-up:</strong> Documents issued abroad — corporate certificates, notarized passports, employment letters — must carry an <strong>apostille (or consular legalization)</strong>, or the registry office will reject them. Without the apostille, the entire packet bounces back.
 </div>
 
 ## Preparation Stage: Foreign Investment Notification and Capital Wire
@@ -110,8 +96,8 @@ The statutory minimum for foreign investment under the Act is **at least KRW 100
 
 The most common snag is the **purpose code** entered on the wire instructions. When the overseas bank just writes "investment" in the remittance details, the receiving Korean bank sometimes processes it as a "personal transfer." When that happens, the foreign currency purchase certificate doesn't carry the phrase "foreign direct investment capital," and your documents get bounced at both registration and FIC filing.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practitioner's tip:</strong> When wiring from overseas, make sure the remittance information explicitly states <strong>"Foreign Direct Investment / 외국인직접투자 자본금"</strong> in English. Skip that one line and you'll be making multiple trips back to the bank counter just to get the foreign currency purchase certificate reissued.
+<div>
+  <strong>💡 Practitioner's tip:</strong> When wiring from overseas, make sure the remittance information explicitly states <strong>"Foreign Direct Investment / 외국인직접투자 자본금"</strong> in English. Skip that one line and you'll be making multiple trips back to the bank counter just to get the foreign currency purchase certificate reissued.
 </div>
 
 ### Opening the Temporary Capital Account
@@ -124,19 +110,19 @@ Once the foreign investment notification certificate is in hand, open a **tempor
 
 The base documents filed with the registry office aren't dramatically different from those of a domestic entity, but having **foreign incorporators, representative directors, or shareholders** adds the burden of overseas document translation and notarization.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">Category</th><th style="border:1px solid #e5e7eb;padding:10px">Document</th><th style="border:1px solid #e5e7eb;padding:10px">Issuer</th><th style="border:1px solid #e5e7eb;padding:10px">Validity</th></tr>
+<table>
+<thead>
+<tr><th>Category</th><th>Document</th><th>Issuer</th><th>Validity</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Common</td><td style="border:1px solid #e5e7eb;padding:10px">Articles of Incorporation</td><td style="border:1px solid #e5e7eb;padding:10px">Self-drafted + notarized</td><td style="border:1px solid #e5e7eb;padding:10px">Notarization may be skipped if capital is under KRW 1 billion</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Common</td><td style="border:1px solid #e5e7eb;padding:10px">Promoters' minutes / board minutes</td><td style="border:1px solid #e5e7eb;padding:10px">Self-drafted</td><td style="border:1px solid #e5e7eb;padding:10px">-</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Common</td><td style="border:1px solid #e5e7eb;padding:10px">Share subscription form / capital balance certificate</td><td style="border:1px solid #e5e7eb;padding:10px">Capital depository bank</td><td style="border:1px solid #e5e7eb;padding:10px">Typically within 7 days</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Foreign shareholder (individual)</td><td style="border:1px solid #e5e7eb;padding:10px">Notarized passport copy, address proof</td><td style="border:1px solid #e5e7eb;padding:10px">Home-country notary + apostille</td><td style="border:1px solid #e5e7eb;padding:10px">Within 3–6 months</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Foreign shareholder (corporate)</td><td style="border:1px solid #e5e7eb;padding:10px">Home-country corporate certificate, board resolution</td><td style="border:1px solid #e5e7eb;padding:10px">Home-country registry + apostille</td><td style="border:1px solid #e5e7eb;padding:10px">Within 3 months</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Foreign representative director</td><td style="border:1px solid #e5e7eb;padding:10px">Notarized passport, notarized signature certificate</td><td style="border:1px solid #e5e7eb;padding:10px">Home-country notary + apostille</td><td style="border:1px solid #e5e7eb;padding:10px">Within 3–6 months</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Foreign representative director</td><td style="border:1px solid #e5e7eb;padding:10px">Letter of acceptance + signature/seal registration</td><td style="border:1px solid #e5e7eb;padding:10px">Self-drafted</td><td style="border:1px solid #e5e7eb;padding:10px">-</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Office</td><td style="border:1px solid #e5e7eb;padding:10px">Lease agreement</td><td style="border:1px solid #e5e7eb;padding:10px">Landlord</td><td style="border:1px solid #e5e7eb;padding:10px">Required at business registration</td></tr>
+<tr><td>Common</td><td>Articles of Incorporation</td><td>Self-drafted + notarized</td><td>Notarization may be skipped if capital is under KRW 1 billion</td></tr>
+<tr><td>Common</td><td>Promoters' minutes / board minutes</td><td>Self-drafted</td><td>-</td></tr>
+<tr><td>Common</td><td>Share subscription form / capital balance certificate</td><td>Capital depository bank</td><td>Typically within 7 days</td></tr>
+<tr><td>Foreign shareholder (individual)</td><td>Notarized passport copy, address proof</td><td>Home-country notary + apostille</td><td>Within 3–6 months</td></tr>
+<tr><td>Foreign shareholder (corporate)</td><td>Home-country corporate certificate, board resolution</td><td>Home-country registry + apostille</td><td>Within 3 months</td></tr>
+<tr><td>Foreign representative director</td><td>Notarized passport, notarized signature certificate</td><td>Home-country notary + apostille</td><td>Within 3–6 months</td></tr>
+<tr><td>Foreign representative director</td><td>Letter of acceptance + signature/seal registration</td><td>Self-drafted</td><td>-</td></tr>
+<tr><td>Office</td><td>Lease agreement</td><td>Landlord</td><td>Required at business registration</td></tr>
 </tbody>
 </table>
 
@@ -148,34 +134,30 @@ A foreign representative director can substitute a **signature certificate (nota
 
 When listing business purposes in the articles, the wording has to be tuned so it doesn't trip over **restricted industries for foreign investment**. Broadcasting, telecommunications, electricity, publishing, livestock, and fisheries — among others — carry foreign equity caps. Slipping these into the purpose clause carelessly can get the foreign investment notification rejected outright. General trading, IT, consulting, and import/export typically face no such restrictions.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Heads-up:</strong> Listing <strong>"broadcasting / telecommunications / news provision services"</strong> as a purpose while filing for 100% foreign equity will hit the restricted-industry rules and get rejected. The most common cause is including these "just in case we do it later" — they usually aren't even the actual core business. Whether a specific industry is permitted requires confirmation with MOTIE and the relevant regulator.
+<div>
+  <strong>⚠️ Heads-up:</strong> Listing <strong>"broadcasting / telecommunications / news provision services"</strong> as a purpose while filing for 100% foreign equity will hit the restricted-industry rules and get rejected. The most common cause is including these "just in case we do it later" — they usually aren't even the actual core business. Whether a specific industry is permitted requires confirmation with MOTIE and the relevant regulator.
 </div>
 
 ### Pre-Filing Reality Check
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Pre-Registration Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Original foreign investment notification certificate received</li>
-    <li>Capital wire completed and foreign currency purchase certificate issued</li>
-    <li>Capital balance certificate issued (within 7 days of filing)</li>
-    <li>Notarized + apostilled passport originals for foreign shareholders/directors</li>
-    <li>Notarized + apostilled signature certificate originals for foreign directors</li>
-    <li>Korean translations bearing certified translator's seal</li>
-    <li>Articles of Incorporation reviewed against restricted-industry list</li>
-    <li>Headquarters lease agreement (with confirmation it's actually usable)</li>
-    <li>Receipts for registration license tax and local education tax</li>
-    <li>Registration application form and powers of attorney</li>
-  </ul>
+<div>
+  <strong>✅ Pre-Registration Checklist</strong>
+
+    Original foreign investment notification certificate received
+    Capital wire completed and foreign currency purchase certificate issued
+    Capital balance certificate issued (within 7 days of filing)
+    Notarized + apostilled passport originals for foreign shareholders/directors
+    Notarized + apostilled signature certificate originals for foreign directors
+    Korean translations bearing certified translator's seal
+    Articles of Incorporation reviewed against restricted-industry list
+    Headquarters lease agreement (with confirmation it's actually usable)
+    Receipts for registration license tax and local education tax
+    Registration application form and powers of attorney
+
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Stunning night view of Seoul's illuminated skyscrapers and bustling cityscape from above." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Stunning night view of Seoul's illuminated skyscrapers and bustling cityscape from above.](https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## Post-Setup Procedures: Business Registration and FIC Filing
@@ -190,16 +172,16 @@ After business registration is complete, you'll need to file for **foreign-inves
 
 ### The Path to the D-8 Visa
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">Step</th><th style="border:1px solid #e5e7eb;padding:10px">Document to Secure</th><th style="border:1px solid #e5e7eb;padding:10px">Purpose</th></tr>
+<table>
+<thead>
+<tr><th>Step</th><th>Document to Secure</th><th>Purpose</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1</td><td style="border:1px solid #e5e7eb;padding:10px">Corporate registration certificate</td><td style="border:1px solid #e5e7eb;padding:10px">Proof the entity exists</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">2</td><td style="border:1px solid #e5e7eb;padding:10px">Business registration certificate</td><td style="border:1px solid #e5e7eb;padding:10px">Proof of operational/tax-ready status</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3</td><td style="border:1px solid #e5e7eb;padding:10px">FIC registration certificate</td><td style="border:1px solid #e5e7eb;padding:10px">Core supporting document for D-8 visa application</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">4</td><td style="border:1px solid #e5e7eb;padding:10px">Foreign currency purchase certificate / shareholder register</td><td style="border:1px solid #e5e7eb;padding:10px">Proof of KRW 100M+ capital and 10% equity</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5</td><td style="border:1px solid #e5e7eb;padding:10px">Business plan</td><td style="border:1px solid #e5e7eb;padding:10px">Demonstrates the substance and continuity of the business</td></tr>
+<tr><td>1</td><td>Corporate registration certificate</td><td>Proof the entity exists</td></tr>
+<tr><td>2</td><td>Business registration certificate</td><td>Proof of operational/tax-ready status</td></tr>
+<tr><td>3</td><td>FIC registration certificate</td><td>Core supporting document for D-8 visa application</td></tr>
+<tr><td>4</td><td>Foreign currency purchase certificate / shareholder register</td><td>Proof of KRW 100M+ capital and 10% equity</td></tr>
+<tr><td>5</td><td>Business plan</td><td>Demonstrates the substance and continuity of the business</td></tr>
 </tbody>
 </table>
 
@@ -213,38 +195,38 @@ After business registration, you open the **corporate operating account** and tr
 
 Registration license tax is **0.4% of capital** (tripled — 1.2% — within the Seoul Metropolitan Overconcentration Control Region), and local education tax is 20% of the registration license tax. Since most foreign-owned entities place their headquarters within the Seoul overconcentration zone, it's safer to plan around the heavier rate.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">Capital</th><th style="border:1px solid #e5e7eb;padding:10px">Registration License Tax (3× heavy rate)</th><th style="border:1px solid #e5e7eb;padding:10px">Local Education Tax</th><th style="border:1px solid #e5e7eb;padding:10px">Public Bonds, Filing Fees, etc.</th><th style="border:1px solid #e5e7eb;padding:10px">Tax + Fee Total</th></tr>
+<table>
+<thead>
+<tr><th>Capital</th><th>Registration License Tax (3× heavy rate)</th><th>Local Education Tax</th><th>Public Bonds, Filing Fees, etc.</th><th>Tax + Fee Total</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">KRW 100M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 1.2M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 240K</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 100K–200K</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 1.54M–1.64M</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">KRW 300M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 3.6M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 720K</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 150K–250K</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 4.47M–4.57M</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">KRW 500M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 6.0M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 1.2M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 200K–300K</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 7.40M–7.50M</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">KRW 1B</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 12.0M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 2.4M</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 300K–500K</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 14.70M–14.90M</td></tr>
+<tr><td>KRW 100M</td><td>~KRW 1.2M</td><td>~KRW 240K</td><td>~KRW 100K–200K</td><td>~KRW 1.54M–1.64M</td></tr>
+<tr><td>KRW 300M</td><td>~KRW 3.6M</td><td>~KRW 720K</td><td>~KRW 150K–250K</td><td>~KRW 4.47M–4.57M</td></tr>
+<tr><td>KRW 500M</td><td>~KRW 6.0M</td><td>~KRW 1.2M</td><td>~KRW 200K–300K</td><td>~KRW 7.40M–7.50M</td></tr>
+<tr><td>KRW 1B</td><td>~KRW 12.0M</td><td>~KRW 2.4M</td><td>~KRW 300K–500K</td><td>~KRW 14.70M–14.90M</td></tr>
 </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Heads-up:</strong> The figures above use the heavy rate (1.2%) for the Seoul Metropolitan Overconcentration Control Region. If headquarters sits in a non-overconcentration area, the rate drops to 0.4% — about a third — and the specifics change with each amendment to the Local Tax Act, so <strong>confirmation with the local government's tax department is required</strong>.
+<div>
+  <strong>⚠️ Heads-up:</strong> The figures above use the heavy rate (1.2%) for the Seoul Metropolitan Overconcentration Control Region. If headquarters sits in a non-overconcentration area, the rate drops to 0.4% — about a third — and the specifics change with each amendment to the Local Tax Act, so <strong>confirmation with the local government's tax department is required</strong>.
 </div>
 
 ### Out-of-Pocket and Agent Fees
 
 Beyond government taxes, the actual cash outlays are translation, notarization, apostille, and agent fees.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">Item</th><th style="border:1px solid #e5e7eb;padding:10px">Going Rate</th><th style="border:1px solid #e5e7eb;padding:10px">Notes</th></tr>
+<table>
+<thead>
+<tr><th>Item</th><th>Going Rate</th><th>Notes</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Articles notarization</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 100K–300K</td><td style="border:1px solid #e5e7eb;padding:10px">May be skipped under KRW 1B capital</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Translation notarization (per doc)</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 50K–150K</td><td style="border:1px solid #e5e7eb;padding:10px">Scales with document count</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Home-country notary + apostille</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 100K–300K (varies by country)</td><td style="border:1px solid #e5e7eb;padding:10px">Local notary + foreign ministry</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Corporate seal / signature stamps</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 30K–100K</td><td style="border:1px solid #e5e7eb;padding:10px">Varies by stamp shop and material</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Registration agent fee</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 500K–1.5M</td><td style="border:1px solid #e5e7eb;padding:10px">Differs by judicial scrivener / agent firm</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">Foreign investment filing fee</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 300K–800K</td><td style="border:1px solid #e5e7eb;padding:10px">If retained as a standalone engagement</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">D-8 visa package</td><td style="border:1px solid #e5e7eb;padding:10px">~KRW 1M–3M</td><td style="border:1px solid #e5e7eb;padding:10px">Includes business plan drafting</td></tr>
+<tr><td>Articles notarization</td><td>~KRW 100K–300K</td><td>May be skipped under KRW 1B capital</td></tr>
+<tr><td>Translation notarization (per doc)</td><td>~KRW 50K–150K</td><td>Scales with document count</td></tr>
+<tr><td>Home-country notary + apostille</td><td>~KRW 100K–300K (varies by country)</td><td>Local notary + foreign ministry</td></tr>
+<tr><td>Corporate seal / signature stamps</td><td>~KRW 30K–100K</td><td>Varies by stamp shop and material</td></tr>
+<tr><td>Registration agent fee</td><td>~KRW 500K–1.5M</td><td>Differs by judicial scrivener / agent firm</td></tr>
+<tr><td>Foreign investment filing fee</td><td>~KRW 300K–800K</td><td>If retained as a standalone engagement</td></tr>
+<tr><td>D-8 visa package</td><td>~KRW 1M–3M</td><td>Includes business plan drafting</td></tr>
 </tbody>
 </table>
 
@@ -278,8 +260,8 @@ It's increasingly common for the tax office to do an on-site check during busine
 
 There are cases where someone files for a D-8 without holding the FIC certificate. Immigration almost always issues a correction request or rejects outright. Sticking to **registration → business registration → FIC filing → D-8** is the faster path overall.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Heads-up:</strong> Putting up a Korean co-representative temporarily and having them resign right after incorporation can be <strong>recharacterized as a structure under sole foreign substantive control</strong>. That can become an issue at the bank's UBO review and at immigration's D-8 review, so it's safer to set the board composition to match the real operating structure from the outset.
+<div>
+  <strong>⚠️ Heads-up:</strong> Putting up a Korean co-representative temporarily and having them resign right after incorporation can be <strong>recharacterized as a structure under sole foreign substantive control</strong>. That can become an issue at the bank's UBO review and at immigration's D-8 review, so it's safer to set the board composition to match the real operating structure from the outset.
 </div>
 
 ## FAQ (5 Questions)
@@ -308,8 +290,8 @@ The entity itself can stay alive. That said, **at D-8 renewal, an extended perio
 
 VISION Administrative Office handles foreign-owned stock company setup, foreign investment notification, FIC registration, and D-8 / F-2 visa connection **as a single integrated workflow**. Because we've seen many cases get stuck on the visa stage after incorporation, we frame the documents from the articles' purpose-clause design forward with the visa review already in mind.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practitioner's tip:</strong> Mapping out the <strong>visa plan (solo D-8 / accompanied by spouse / long-term F-2 conversion)</strong> together before locking in the foreign investment filing and capital wire route lets you finalize capital size and business purposes in a single pass.
+<div>
+  <strong>💡 Practitioner's tip:</strong> Mapping out the <strong>visa plan (solo D-8 / accompanied by spouse / long-term F-2 conversion)</strong> together before locking in the foreign investment filing and capital wire route lets you finalize capital size and business purposes in a single pass.
 </div>
 
 **VISION Administrative Office**

@@ -16,22 +16,6 @@ image: "/slides/building.jpg"
 slug: "d8-visa-guide"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">はじめに</a></li>
-    <li><a href="#d8-overview">D-8ビザの概要</a></li>
-    <li><a href="#company-setup">法人設立の手続き</a></li>
-    <li><a href="#requirements">ビザ申請の要件</a></li>
-    <li><a href="#foreigner-registration">外国人登録</a></li>
-    <li><a href="#step-by-step">申請の全体フロー</a></li>
-    <li><a href="#renewal">ビザの更新</a></li>
-    <li><a href="#benefits">D-8ビザのメリット</a></li>
-    <li><a href="#considerations">注意すべきポイント</a></li>
-    <li><a href="#tips">申請のコツ</a></li>
-    <li><a href="#faq">よくある質問</a></li>
-  </ul>
-</nav>
 
 ## はじめに
 
@@ -39,7 +23,7 @@ D-8投資ビザは、韓国で事業を設立・運営したい外国人にと�
 
 本ガイドでは、韓国法人の設立から外国人登録まで、すべてのステップを詳しく解説します。
 
-<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韓国の近代的なビジネス街" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韓国の近代的なビジネス街" />
 
 ## D-8ビザの概要
 
@@ -66,7 +50,7 @@ D-8ビザを申請する前に、まず韓国法人を登記する必要があ�
 5. **国税庁で事業者登録証を取得**
 6. **会計・税務システムを構築** -- 韓国の法規に準拠
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 資本金は韓国の銀行を通じて海外から送金する必要があります。外貨送金証明書はD-8ビザ申請の必須書類ですので、必ず保管してください。</div>
+<div>⚠️ <strong>注意：</strong> 資本金は韓国の銀行を通じて海外から送金する必要があります。外貨送金証明書はD-8ビザ申請の必須書類ですので、必ず保管してください。</div>
 
 ## ビザ申請の要件
 
@@ -76,7 +60,7 @@ D-8ビザの取得には、以下の条件を満たす必要があります：
 - **事業計画書** -- 事業内容、予想売上、採用計画を詳述
 - **韓国国内の事業所住所**（バーチャルオフィスは認められない場合があります）
 - **株主および役員の情報** -- パスポートのコピーと経歴書類を含む
-- **外国人投資届出** -- KOTRAまたは指定外国為替銀行を通じて完了
+- **外国人投資届出** -- [KOTRA](https://www.kotra.or.kr)または指定外国為替銀行を通じて完了
 
 ## 外国人登録
 
@@ -100,7 +84,7 @@ D-8ビザ申請の完全なタイムラインは以下のとおりです：
 5. **審査・承認の待機**（通常3～6週間）
 6. **韓国への入国**（海外申請の場合）および外国人登録の完了
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>ヒント：</strong> すでに別のビザ（C-3やD-2など）で韓国に滞在中の場合、出国せずにD-8への在留資格変更が可能な場合があります。出入国管理事務所にご確認ください。</div>
+<div>💡 <strong>ヒント：</strong> すでに別のビザ（C-3やD-2など）で韓国に滞在中の場合、出国せずにD-8への在留資格変更が可能な場合があります。出入国管理事務所にご確認ください。</div>
 
 ## ビザの更新
 
@@ -140,7 +124,7 @@ D-8ビザを目指す際は、以下の点にご注意ください：
 - **記録を丁寧に保管すること** -- 更新時の財務透明性がビザ維持の鍵です
 - **変更は速やかに届け出ること** -- 住所変更、事業内容の変更、役員の変更は出入国管理局への届出が必要です
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 実質的な事業活動を維持しない場合、ビザが取り消される可能性があります。D-8ビザは受動的な投資手段ではなく、積極的な経営参加が求められます。</div>
+<div>⚠️ <strong>注意：</strong> 実質的な事業活動を維持しない場合、ビザが取り消される可能性があります。D-8ビザは受動的な投資手段ではなく、積極的な経営参加が求められます。</div>
 
 ## 申請のコツ
 
@@ -149,7 +133,7 @@ D-8ビザを目指す際は、以下の点にご注意ください：
 - **チェックリストを作成する** -- すべての必要書類を一覧にし、提出前に一つずつ確認
 - **早めに着手する** -- 法人登記だけでも2～4週間かかります
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>ヒント：</strong> KOTRA（大韓貿易投資振興公社）は外国人投資家に無料のアドバイザリーサービスを提供しています。資金を投入する前に、ぜひ専門家のサポートを活用してください。</div>
+<div>💡 <strong>ヒント：</strong> [KOTRA](https://www.kotra.or.kr)（大韓貿易投資振興公社）は外国人投資家に無料のアドバイザリーサービスを提供しています。資金を投入する前に、ぜひ専門家のサポートを活用してください。</div>
 
 ## よくある質問
 
@@ -187,7 +171,7 @@ D-8ビザを目指す際は、以下の点にご注意ください：
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">無料相談</h3><p style="color:#bfdbfe; margin:0 0 16px;">専門行政士がご相談いたします。Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a></div>
+<div>### 無料相談<p>専門行政士がご相談いたします。Tel. 02-363-2251</p>[相談を申し込む](/contact)</div>
 
 <script type="application/ld+json">
 {

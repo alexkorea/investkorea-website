@@ -27,7 +27,7 @@ export function PageBreadcrumb({
         items={allItems.map((i) => ({ name: i.label, path: i.path }))}
         locale={locale}
       />
-      <nav aria-label="breadcrumb" className="max-w-7xl mx-auto px-6 pt-24 pb-2">
+      <nav aria-label="breadcrumb" className="sr-only">
         <ol className="flex flex-wrap items-center gap-1.5 text-sm text-gray-500">
           {allItems.map((item, idx) => (
             <li key={item.path} className="inline-flex items-center gap-1.5">

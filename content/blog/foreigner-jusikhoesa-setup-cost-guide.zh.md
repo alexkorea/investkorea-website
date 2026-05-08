@@ -15,26 +15,12 @@ excerptJa: "外国人の韓国株式会社設立で実際に詰まる工程と�
 image: "/slides/building.jpg"
 slug: "foreigner-jusikhoesa-setup-cost-guide"
 ---
-# 外国人股份有限公司设立流程与费用全解析（2026实务指南）
+## 外国人股份有限公司设立流程与费用全解析（2026实务指南）
 
 外国人想在韩国设立股份有限公司（주식회사，株式會社）时，真正卡壳的环节并不是登记本身，而是**外国人投资申报与资本金汇款的证明阶段**。虽然网上能查到不少资料，但如果银行无法及时开出证明资本金到账的**外汇买入证明书**，登记手续就一步都推进不了。所以设立日程不能按"从登记算起几天"来安排，而要按"汇款到账之日起几天"来规划。
 
 以资本金1亿韩元为基准，总费用约为**政府登记许可税、公债、登记手续费合计120万～170万韩元**，再加上50万～150万韩元的法务士或行政士代办费。资本金规模一旦扩大，登记许可税按资本金的0.4%计算，因此5亿韩元以上的资本金，税金就占了费用的大头。下面的表格和正文将一次性梳理**各阶段费用、实际耗时以及容易出问题的环节**。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份有限公司 vs 有限公司，先看关键差异</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立整体流程一览</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 准备阶段：外国人投资申报与资本金汇款</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 法人登记阶段:材料与实际卡壳点</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 设立后的后续程序:营业执照与外资企业登记</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 实际所需费用汇总</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 常见错误与预防措施</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见问题FAQ 5则</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 咨询指南</a></li>
-  </ul>
-</nav>
 
 ## 外国人股份有限公司 vs 有限公司,先看关键差异
 
@@ -46,17 +32,17 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 表面看起来简单,但在税务、股权转让、外资申报上存在差异。下表汇总了核心要点。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">项目</th><th style="border:1px solid #e5e7eb;padding:10px">股份有限公司</th><th style="border:1px solid #e5e7eb;padding:10px">有限公司</th></tr>
+<table>
+<thead>
+<tr><th>项目</th><th>股份有限公司</th><th>有限公司</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">股权单位</td><td style="border:1px solid #e5e7eb;padding:10px">股票(以1股为单位,转让方便)</td><td style="border:1px solid #e5e7eb;padding:10px">出资份额(转让程序较复杂)</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">董事会、监事</td><td style="border:1px solid #e5e7eb;padding:10px">资本金10亿以下可仅设1名董事</td><td style="border:1px solid #e5e7eb;padding:10px">可仅由董事组成,无需监事</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外部审计对象判定</td><td style="border:1px solid #e5e7eb;padding:10px">按资产、销售额标准符合时纳入</td><td style="border:1px solid #e5e7eb;padding:10px">适用标准相同</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">美国会计/IRS合并</td><td style="border:1px solid #e5e7eb;padding:10px">作为C-corp处理更简洁</td><td style="border:1px solid #e5e7eb;padding:10px">需考虑Check-the-box</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">引入投资人</td><td style="border:1px solid #e5e7eb;padding:10px">通过发行股票增资方便</td><td style="border:1px solid #e5e7eb;padding:10px">需社员大会同意</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">实务使用频率</td><td style="border:1px solid #e5e7eb;padding:10px">最为普遍</td><td style="border:1px solid #e5e7eb;padding:10px">小规模分支型偏好</td></tr>
+<tr><td>股权单位</td><td>股票(以1股为单位,转让方便)</td><td>出资份额(转让程序较复杂)</td></tr>
+<tr><td>董事会、监事</td><td>资本金10亿以下可仅设1名董事</td><td>可仅由董事组成,无需监事</td></tr>
+<tr><td>外部审计对象判定</td><td>按资产、销售额标准符合时纳入</td><td>适用标准相同</td></tr>
+<tr><td>美国会计/IRS合并</td><td>作为C-corp处理更简洁</td><td>需考虑Check-the-box</td></tr>
+<tr><td>引入投资人</td><td>通过发行股票增资方便</td><td>需社员大会同意</td></tr>
+<tr><td>实务使用频率</td><td>最为普遍</td><td>小规模分支型偏好</td></tr>
 </tbody>
 </table>
 
@@ -74,17 +60,17 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 下表汇总了平均所需时长。由于汇款很少能当日到账,实际时间往往会拉长。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">阶段</th><th style="border:1px solid #e5e7eb;padding:10px">负责机构</th><th style="border:1px solid #e5e7eb;padding:10px">实际耗时</th><th style="border:1px solid #e5e7eb;padding:10px">关键产出</th></tr>
+<table>
+<thead>
+<tr><th>阶段</th><th>负责机构</th><th>实际耗时</th><th>关键产出</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1. 外国人投资申报</td><td style="border:1px solid #e5e7eb;padding:10px">KOTRA / 外汇银行</td><td style="border:1px solid #e5e7eb;padding:10px">1~2天</td><td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报证</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">2. 资本金汇款</td><td style="border:1px solid #e5e7eb;padding:10px">海外汇出银行 → 韩国银行</td><td style="border:1px solid #e5e7eb;padding:10px">1~5天</td><td style="border:1px solid #e5e7eb;padding:10px">外汇买入证明书</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3. 余额证明开具</td><td style="border:1px solid #e5e7eb;padding:10px">资本金临时账户银行</td><td style="border:1px solid #e5e7eb;padding:10px">当日~1天</td><td style="border:1px solid #e5e7eb;padding:10px">余额证明书</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">4. 法人设立登记</td><td style="border:1px solid #e5e7eb;padding:10px">登记所(法院)</td><td style="border:1px solid #e5e7eb;padding:10px">3~5个工作日</td><td style="border:1px solid #e5e7eb;padding:10px">法人登记簿誊本</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5. 营业执照办理</td><td style="border:1px solid #e5e7eb;padding:10px">税务署</td><td style="border:1px solid #e5e7eb;padding:10px">2~3个工作日</td><td style="border:1px solid #e5e7eb;padding:10px">营业执照</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">6. 外资企业登记</td><td style="border:1px solid #e5e7eb;padding:10px">KOTRA / 银行</td><td style="border:1px solid #e5e7eb;padding:10px">1~2天</td><td style="border:1px solid #e5e7eb;padding:10px">外资企业登记证</td></tr>
+<tr><td>1. 外国人投资申报</td><td>[KOTRA](https://www.kotra.or.kr) / 外汇银行</td><td>1~2天</td><td>外国人投资申报证</td></tr>
+<tr><td>2. 资本金汇款</td><td>海外汇出银行 → 韩国银行</td><td>1~5天</td><td>外汇买入证明书</td></tr>
+<tr><td>3. 余额证明开具</td><td>资本金临时账户银行</td><td>当日~1天</td><td>余额证明书</td></tr>
+<tr><td>4. 法人设立登记</td><td>登记所(法院)</td><td>3~5个工作日</td><td>法人登记簿誊本</td></tr>
+<tr><td>5. 营业执照办理</td><td>税务署</td><td>2~3个工作日</td><td>营业执照</td></tr>
+<tr><td>6. 外资企业登记</td><td>[KOTRA](https://www.kotra.or.kr) / 银行</td><td>1~2天</td><td>外资企业登记证</td></tr>
 </tbody>
 </table>
 
@@ -92,8 +78,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 在材料全部备齐的前提下,**按工作日计算约2~3周**比较贴近实际。若还要加上翻译公证和海外材料的海牙认证,则会延长至**4~6周**。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 在海外开具的营业证明、护照公证、在职证明等,必须附上<strong>海牙认证(或领事认证)</strong>,登记所才会受理。缺少海牙认证的话,材料会被全部退回。
+<div>
+  <strong>⚠️ 注意:</strong> 在海外开具的营业证明、护照公证、在职证明等,必须附上<strong>海牙认证(或领事认证)</strong>,登记所才会受理。缺少海牙认证的话,材料会被全部退回。
 </div>
 
 ## 准备阶段:外国人投资申报与资本金汇款
@@ -110,8 +96,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 实际上最常出问题的地方是**汇款用途(purpose code)的填写**。海外银行汇款时如果只写"投资"两个字,收款银行有可能将其归类为"个人间汇款"。这样一来,外汇买入证明书上就会缺少"外国人直接投资资本金"的字样,登记和FIC登记时材料就会被退回反复补办。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> 从海外汇款时,请务必在汇款备注(remittance information)中用英文明确写上<strong>"Foreign Direct Investment / 외국인직접투자 자본금"</strong>字样。少了这一行,为了重开外汇买入证明书,就得反复跑银行柜台。
+<div>
+  <strong>💡 实务提示:</strong> 从海外汇款时,请务必在汇款备注(remittance information)中用英文明确写上<strong>"Foreign Direct Investment / 외국인직접투자 자본금"</strong>字样。少了这一行,为了重开外汇买入证明书,就得反复跑银行柜台。
 </div>
 
 ### 开立资本金临时账户(代收账户)
@@ -124,19 +110,19 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 向登记所提交的基本材料与韩国人法人差异不大,但如果**发起人、代表理事、股东为外国人**,就会额外产生海外材料的翻译与公证成本。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">类别</th><th style="border:1px solid #e5e7eb;padding:10px">材料</th><th style="border:1px solid #e5e7eb;padding:10px">出具方</th><th style="border:1px solid #e5e7eb;padding:10px">有效期</th></tr>
+<table>
+<thead>
+<tr><th>类别</th><th>材料</th><th>出具方</th><th>有效期</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">通用</td><td style="border:1px solid #e5e7eb;padding:10px">章程</td><td style="border:1px solid #e5e7eb;padding:10px">自行起草 + 公证</td><td style="border:1px solid #e5e7eb;padding:10px">资本金10亿以下可免公证</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">通用</td><td style="border:1px solid #e5e7eb;padding:10px">发起人议事录、董事会议事录</td><td style="border:1px solid #e5e7eb;padding:10px">自行起草</td><td style="border:1px solid #e5e7eb;padding:10px">-</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">通用</td><td style="border:1px solid #e5e7eb;padding:10px">股份认购书、资本金余额证明书</td><td style="border:1px solid #e5e7eb;padding:10px">资本金缴纳银行</td><td style="border:1px solid #e5e7eb;padding:10px">一般为7天以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人股东(个人)</td><td style="border:1px solid #e5e7eb;padding:10px">护照复印件公证、住址证明</td><td style="border:1px solid #e5e7eb;padding:10px">母国公证机构 + 海牙认证</td><td style="border:1px solid #e5e7eb;padding:10px">3~6个月以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人股东(法人)</td><td style="border:1px solid #e5e7eb;padding:10px">母国法人登记簿誊本、董事会决议书</td><td style="border:1px solid #e5e7eb;padding:10px">母国登记所 + 海牙认证</td><td style="border:1px solid #e5e7eb;padding:10px">3个月以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人代表理事</td><td style="border:1px solid #e5e7eb;padding:10px">护照公证、签名样式公证</td><td style="border:1px solid #e5e7eb;padding:10px">母国公证机构 + 海牙认证</td><td style="border:1px solid #e5e7eb;padding:10px">3~6个月以内</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外国人代表理事</td><td style="border:1px solid #e5e7eb;padding:10px">就任承诺书 + 印章(签名)申报书</td><td style="border:1px solid #e5e7eb;padding:10px">自行起草</td><td style="border:1px solid #e5e7eb;padding:10px">-</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">办公场所</td><td style="border:1px solid #e5e7eb;padding:10px">租赁合同</td><td style="border:1px solid #e5e7eb;padding:10px">出租方</td><td style="border:1px solid #e5e7eb;padding:10px">办理营业执照时需要</td></tr>
+<tr><td>通用</td><td>章程</td><td>自行起草 + 公证</td><td>资本金10亿以下可免公证</td></tr>
+<tr><td>通用</td><td>发起人议事录、董事会议事录</td><td>自行起草</td><td>-</td></tr>
+<tr><td>通用</td><td>股份认购书、资本金余额证明书</td><td>资本金缴纳银行</td><td>一般为7天以内</td></tr>
+<tr><td>外国人股东(个人)</td><td>护照复印件公证、住址证明</td><td>母国公证机构 + 海牙认证</td><td>3~6个月以内</td></tr>
+<tr><td>外国人股东(法人)</td><td>母国法人登记簿誊本、董事会决议书</td><td>母国登记所 + 海牙认证</td><td>3个月以内</td></tr>
+<tr><td>外国人代表理事</td><td>护照公证、签名样式公证</td><td>母国公证机构 + 海牙认证</td><td>3~6个月以内</td></tr>
+<tr><td>外国人代表理事</td><td>就任承诺书 + 印章(签名)申报书</td><td>自行起草</td><td>-</td></tr>
+<tr><td>办公场所</td><td>租赁合同</td><td>出租方</td><td>办理营业执照时需要</td></tr>
 </tbody>
 </table>
 
@@ -148,34 +134,30 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 在章程中写经营范围时,必须**措辞谨慎,避免触碰外资限制行业**。广播、电信、电力、出版、畜牧、渔业等部分行业存在外资持股上限,若轻易写入,就可能导致外资申报被直接退回。而一般的流通、IT、咨询、贸易等行业,大多没有限制。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 如果在经营范围中写入<strong>"广播、电信、新闻提供业"</strong>并以100%外资形式申报,就会被认定为外资限制行业而遭退回。明明不是主业却"以防万一"写进去的情形最容易出问题。具体行业能否准入,需要向产业通商资源部及所辖机构确认。
+<div>
+  <strong>⚠️ 注意:</strong> 如果在经营范围中写入<strong>"广播、电信、新闻提供业"</strong>并以100%外资形式申报,就会被认定为外资限制行业而遭退回。明明不是主业却"以防万一"写进去的情形最容易出问题。具体行业能否准入,需要向产业通商资源部及所辖机构确认。
 </div>
 
 ### 登记申请时的实际检查要点
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 登记前核对清单</strong>
-  <ul style="margin-top:12px">
-    <li>已收到外国人投资申报证原件</li>
-    <li>资本金汇款完成 + 外汇买入证明书已开具</li>
-    <li>资本金临时账户余额证明开具完成(登记申请前7天以内)</li>
-    <li>外国人股东/代表理事的护照公证海牙认证原件</li>
-    <li>外国人代表理事的签名样公证海牙认证原件</li>
-    <li>韩文翻译件(含公证翻译士盖章)</li>
-    <li>章程经营范围外资限制行业核查</li>
-    <li>本店地址租赁合同(确认可实际使用)</li>
-    <li>登记许可税、地方教育税缴税收据</li>
-    <li>登记申请书、委托书</li>
-  </ul>
+<div>
+  <strong>✅ 登记前核对清单</strong>
+
+    已收到外国人投资申报证原件
+    资本金汇款完成 + 外汇买入证明书已开具
+    资本金临时账户余额证明开具完成(登记申请前7天以内)
+    外国人股东/代表理事的护照公证海牙认证原件
+    外国人代表理事的签名样公证海牙认证原件
+    韩文翻译件(含公证翻译士盖章)
+    章程经营范围外资限制行业核查
+    本店地址租赁合同(确认可实际使用)
+    登记许可税、地方教育税缴税收据
+    登记申请书、委托书
+
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Stunning night view of Seoul's illuminated skyscrapers and bustling cityscape from above." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Stunning night view of Seoul's illuminated skyscrapers and bustling cityscape from above.](https://images.pexels.com/photos/3142002/pexels-photo-3142002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 设立后的后续程序:营业执照与外资企业登记
@@ -190,16 +172,16 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 ### 对接D-8签证的流程顺序
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">顺序</th><th style="border:1px solid #e5e7eb;padding:10px">需要备齐的材料</th><th style="border:1px solid #e5e7eb;padding:10px">用途</th></tr>
+<table>
+<thead>
+<tr><th>顺序</th><th>需要备齐的材料</th><th>用途</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1</td><td style="border:1px solid #e5e7eb;padding:10px">法人登记簿誊本</td><td style="border:1px solid #e5e7eb;padding:10px">法人存在证明</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">2</td><td style="border:1px solid #e5e7eb;padding:10px">营业执照</td><td style="border:1px solid #e5e7eb;padding:10px">证明税务上具备经营条件</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3</td><td style="border:1px solid #e5e7eb;padding:10px">外资企业登记证</td><td style="border:1px solid #e5e7eb;padding:10px">申请D-8签证的核心凭证</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">4</td><td style="border:1px solid #e5e7eb;padding:10px">外汇买入证明书、股东名册</td><td style="border:1px solid #e5e7eb;padding:10px">证明1亿以上资本金与10%股权</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5</td><td style="border:1px solid #e5e7eb;padding:10px">事业计划书</td><td style="border:1px solid #e5e7eb;padding:10px">说明业务的真实性与持续性</td></tr>
+<tr><td>1</td><td>法人登记簿誊本</td><td>法人存在证明</td></tr>
+<tr><td>2</td><td>营业执照</td><td>证明税务上具备经营条件</td></tr>
+<tr><td>3</td><td>外资企业登记证</td><td>申请D-8签证的核心凭证</td></tr>
+<tr><td>4</td><td>外汇买入证明书、股东名册</td><td>证明1亿以上资本金与10%股权</td></tr>
+<tr><td>5</td><td>事业计划书</td><td>说明业务的真实性与持续性</td></tr>
 </tbody>
 </table>
 
@@ -213,38 +195,38 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 登记许可税按**资本金的0.4%**计算(首都圈过密抑制区域要加重3倍,即1.2%),地方教育税则是登记许可税的20%。由于外资法人把总部设在首都圈过密抑制区域的情况最多,按加重税率来预估更稳妥。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">资本金</th><th style="border:1px solid #e5e7eb;padding:10px">登记许可税(过密3倍)</th><th style="border:1px solid #e5e7eb;padding:10px">地方教育税</th><th style="border:1px solid #e5e7eb;padding:10px">公债、登记费等</th><th style="border:1px solid #e5e7eb;padding:10px">税费合计</th></tr>
+<table>
+<thead>
+<tr><th>资本金</th><th>登记许可税(过密3倍)</th><th>地方教育税</th><th>公债、登记费等</th><th>税费合计</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">1亿韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约120万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约24万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约10~20万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约154~164万韩元</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">3亿韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约360万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约72万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约15~25万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约447~457万韩元</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">5亿韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约600万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约120万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约20~30万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约740~750万韩元</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">10亿韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约1,200万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约240万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约30~50万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">约1,470~1,490万韩元</td></tr>
+<tr><td>1亿韩元</td><td>约120万韩元</td><td>约24万韩元</td><td>约10~20万韩元</td><td>约154~164万韩元</td></tr>
+<tr><td>3亿韩元</td><td>约360万韩元</td><td>约72万韩元</td><td>约15~25万韩元</td><td>约447~457万韩元</td></tr>
+<tr><td>5亿韩元</td><td>约600万韩元</td><td>约120万韩元</td><td>约20~30万韩元</td><td>约740~750万韩元</td></tr>
+<tr><td>10亿韩元</td><td>约1,200万韩元</td><td>约240万韩元</td><td>约30~50万韩元</td><td>约1,470~1,490万韩元</td></tr>
 </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 上述税额以首都圈过密抑制区域加重税率(1.2%)为基准。若总部位于地方(非过密地区),税率为0.4%,约为三分之一;具体税率与扣除会随地方税法修订而变化,<strong>需向辖区地方自治团体税务部门确认</strong>。
+<div>
+  <strong>⚠️ 注意:</strong> 上述税额以首都圈过密抑制区域加重税率(1.2%)为基准。若总部位于地方(非过密地区),税率为0.4%,约为三分之一;具体税率与扣除会随地方税法修订而变化,<strong>需向辖区地方自治团体税务部门确认</strong>。
 </div>
 
 ### 实际支出与代办费
 
 除政府税费之外,实际支出主要来自翻译、公证、海牙认证与代办费。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-<thead style="background:#f0f7ff">
-<tr><th style="border:1px solid #e5e7eb;padding:10px">项目</th><th style="border:1px solid #e5e7eb;padding:10px">实务行情</th><th style="border:1px solid #e5e7eb;padding:10px">备注</th></tr>
+<table>
+<thead>
+<tr><th>项目</th><th>实务行情</th><th>备注</th></tr>
 </thead>
 <tbody>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">章程公证</td><td style="border:1px solid #e5e7eb;padding:10px">约10~30万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">资本金10亿以下可免办</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">翻译公证(每份)</td><td style="border:1px solid #e5e7eb;padding:10px">约5~15万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">随文件数量增加</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">母国公证、海牙认证</td><td style="border:1px solid #e5e7eb;padding:10px">各国约10~30万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">母国公证处 + 外交部</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">法人印鉴、印章</td><td style="border:1px solid #e5e7eb;padding:10px">约3~10万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">印章店/材质不同</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">登记代办费</td><td style="border:1px solid #e5e7eb;padding:10px">约50~150万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">因法务士/行政士事务所而异</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">外资申报代办费</td><td style="border:1px solid #e5e7eb;padding:10px">约30~80万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">单独委托时</td></tr>
-<tr><td style="border:1px solid #e5e7eb;padding:10px">D-8签证套餐</td><td style="border:1px solid #e5e7eb;padding:10px">约100~300万韩元</td><td style="border:1px solid #e5e7eb;padding:10px">含事业计划书设计</td></tr>
+<tr><td>章程公证</td><td>约10~30万韩元</td><td>资本金10亿以下可免办</td></tr>
+<tr><td>翻译公证(每份)</td><td>约5~15万韩元</td><td>随文件数量增加</td></tr>
+<tr><td>母国公证、海牙认证</td><td>各国约10~30万韩元</td><td>母国公证处 + 外交部</td></tr>
+<tr><td>法人印鉴、印章</td><td>约3~10万韩元</td><td>印章店/材质不同</td></tr>
+<tr><td>登记代办费</td><td>约50~150万韩元</td><td>因法务士/行政士事务所而异</td></tr>
+<tr><td>外资申报代办费</td><td>约30~80万韩元</td><td>单独委托时</td></tr>
+<tr><td>D-8签证套餐</td><td>约100~300万韩元</td><td>含事业计划书设计</td></tr>
 </tbody>
 </table>
 
@@ -278,8 +260,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 有些案例在没有外资企业登记证的情况下就提交D-8申请。出入境管理局多数会要求补正或直接驳回。严格按照**登记 → 营业执照 → FIC登记 → D-8**顺序推进,反而更省时间。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 先把韩国人临时挂为共同代表,等公司设立完就立刻让其辞任的操作,可能会被<strong>重新认定为外国人单独实质控制的结构</strong>。这在银行UBO审核和出入境D-8审查中都可能出问题,所以董事会结构应从一开始就按实际运营结构来搭建,才更稳妥。
+<div>
+  <strong>⚠️ 注意:</strong> 先把韩国人临时挂为共同代表,等公司设立完就立刻让其辞任的操作,可能会被<strong>重新认定为外国人单独实质控制的结构</strong>。这在银行UBO审核和出入境D-8审查中都可能出问题,所以董事会结构应从一开始就按实际运营结构来搭建,才更稳妥。
 </div>
 
 ## 常见问题FAQ 5则
@@ -308,8 +290,8 @@ slug: "foreigner-jusikhoesa-setup-cost-guide"
 
 Vision行政士事务所可提供外国人股份有限公司设立、外国人投资申报、外资企业登记以及D-8、F-2签证对接**一条龙服务**。由于我们接触过大量"设立后卡在签证"的案例,因此从章程经营范围的设计阶段开始,就会把签证审查纳入考虑,帮您把文件打磨到位。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> 在敲定外资申报与资本金汇款路径之前,先把<strong>签证方案(D-8单人/携偶同行/长期转F-2)</strong> 一并设计好,就能一次性确定资本金规模和经营范围。
+<div>
+  <strong>💡 实务提示:</strong> 在敲定外资申报与资本金汇款路径之前,先把<strong>签证方案(D-8单人/携偶同行/长期转F-2)</strong> 一并设计好,就能一次性确定资本金规模和经营范围。
 </div>
 
 **Vision行政士事务所 (VISION Administrative Office)**

@@ -15,29 +15,14 @@ excerptJa: "外国人が韓国で株式会社を設立する際に詰まるの�
 image: "/slides/building.jpg"
 slug: "foreigner-jusikhoesa-procedure-cost-summary"
 ---
-# 外国人股份有限公司设立流程与费用全解析(2026实务指南)
+## 外国人股份有限公司设立流程与费用全解析(2026实务指南)
 
 外国人在韩国设立股份有限公司(株式會社)时,最容易卡住的环节是**注册资本汇款时机与外国人投资申报(FDI)顺序**。一旦顺序出错,外汇银行就无法开具汇款证明,若在此情况下强行推进登记,即使法人注册成功,也无法获得外商投资企业资格,在D-8签证环节会直接受阻。
 
 实务中要顺利完成设立,必须按**①外国人投资申报 → ②注册资本汇款(投资资金名义) → ③设立登记 → ④营业执照申请 → ⑤外商投资企业登记**这五个步骤依序进行。注册资本最低为1亿韩元(与D-8签证挂钩时),加上公证、登记许可税、登记手续费及行政士代办费,整体实际支出通常在150万~350万韩元之间。下面按步骤详细说明实际审查标准和隐藏费用。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份有限公司(株式会社)是什么</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 设立前必须确认的3件事</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 设立流程5个步骤详解</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 注册资本标准与汇款实务</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 所需材料汇总</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 设立费用明细</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 设立后必须办理的行政手续</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误与审查中容易受阻的环节</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询方式</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">1. 外国人股份有限公司(株式会社)是什么
+## 1. 外国人股份有限公司(株式会社)是什么
 
 ### 先从股份有限公司与有限公司的区别说起
 
@@ -45,57 +30,57 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 关键点在于:股份有限公司的股份发行、转让、增资结构清晰,**便于后续吸引投资和股权转让**;而有限公司的内部治理结构较为封闭,不利于对外融资。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">股份有限公司</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">有限公司</th>
+      <th>区分</th>
+      <th>股份有限公司</th>
+      <th>有限公司</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">出资单位</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">股份(每股100韩元以上)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出资份额(每份100韩元以上)</td>
+      <td>出资单位</td>
+      <td>股份(每股100韩元以上)</td>
+      <td>出资份额(每份100韩元以上)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">董事人数</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1人以上(注册资本10亿以下)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1人以上</td>
+      <td>董事人数</td>
+      <td>1人以上(注册资本10亿以下)</td>
+      <td>1人以上</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外部审计</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">达到一定规模须强制</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2018年起部分对象纳入</td>
+      <td>外部审计</td>
+      <td>达到一定规模须强制</td>
+      <td>2018年起部分对象纳入</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">股权转让</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">原则上自由</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">须经股东会批准</td>
+      <td>股权转让</td>
+      <td>原则上自由</td>
+      <td>须经股东会批准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8挂钩</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最标准形式</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可行,但审查时需额外说明</td>
+      <td>D-8挂钩</td>
+      <td>最标准形式</td>
+      <td>可行,但审查时需额外说明</td>
     </tr>
   </tbody>
 </table>
 
 ### 外商投资企业 = 股份有限公司 + FDI登记
 
-设立了股份有限公司,并不会自动成为"外商投资企业"。外国人必须取得**1亿韩元以上**、有表决权股份**10%以上**后,持外国人投资申报书、汇款证明、公司登记簿誊本,到**KOTRA或外汇银行**领取外商投资企业登记证,才正式取得外商投资企业身份。
+设立了股份有限公司,并不会自动成为"外商投资企业"。外国人必须取得**1亿韩元以上**、有表决权股份**10%以上**后,持外国人投资申报书、汇款证明、公司登记簿誊本,到**[KOTRA](https://www.kotra.or.kr)或外汇银行**领取外商投资企业登记证,才正式取得外商投资企业身份。
 
 只有拥有这一身份,才能衔接**D-8签证、外商投资企业税收减免、土地取得特例**等后续程序。
 
-<h2 id="section-2">2. 设立前必须确认的3件事
+## 2. 设立前必须确认的3件事
 
 ### 第一,行业是否受限
 
 根据韩国《外国人投资促进法》,部分行业对**外商持股比例有限制**。广播、通信、航空运输、核电等行业设有上限,涉及国家安全的部分行业则完全禁止。餐饮、贸易、IT开发、咨询等一般行业大多允许100%出资。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 标准产业分类表中行业代码选错,FDI申报会被退回。特别是笼统地归为"批发零售业",会根据实际经营品类与许可行业发生冲突。行业代码请以韩国统计厅KSIC代码为准,有疑问应提前向外汇银行窗口确认。
+<div>
+  <strong>⚠️ 注意:</strong> 标准产业分类表中行业代码选错,FDI申报会被退回。特别是笼统地归为"批发零售业",会根据实际经营品类与许可行业发生冲突。行业代码请以韩国统计厅KSIC代码为准,有疑问应提前向外汇银行窗口确认。
 </div>
 
 ### 第二,梳理投资者身份
@@ -106,60 +91,60 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 代表董事不必是韩国居住者,外国人可单独作为代表登记。但**法人地址(本店)**必须是有实际租赁合同的场所,居住用officetel可能因建筑用途被驳回。实务中常在此环节卡住。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> 若承租压力较大,可先以共享办公(非常驻办公室)起步,但营业执照和D-8签证审查会考察"实际经营可能性",地址处至少需要有招牌、邮件签收、经营空间等可核实要素。仅仅租借地址,在D-8环节经常被卡。
+<div>
+  <strong>💡 实务提示:</strong> 若承租压力较大,可先以共享办公(非常驻办公室)起步,但营业执照和D-8签证审查会考察"实际经营可能性",地址处至少需要有招牌、邮件签收、经营空间等可核实要素。仅仅租借地址,在D-8环节经常被卡。
 </div>
 
-<h2 id="section-3">3. 设立流程5个步骤详解
+## 3. 设立流程5个步骤详解
 
 ### 整体流程
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">程序</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">办理机构</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所需时间</th>
+      <th>步骤</th>
+      <th>程序</th>
+      <th>办理机构</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA或外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日~1日</td>
+      <td>1</td>
+      <td>外国人投资申报</td>
+      <td>[KOTRA](https://www.kotra.or.kr)或外汇银行</td>
+      <td>当日~1日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">注册资本汇款(投资资金)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3日</td>
+      <td>2</td>
+      <td>注册资本汇款(投资资金)</td>
+      <td>外汇银行</td>
+      <td>1~3日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人设立登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">所辖登记所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~5日</td>
+      <td>3</td>
+      <td>法人设立登记</td>
+      <td>所辖登记所</td>
+      <td>3~5日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">所辖税务署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3日</td>
+      <td>4</td>
+      <td>营业执照申请</td>
+      <td>所辖税务署</td>
+      <td>2~3日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外商投资企业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA或外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日~2日</td>
+      <td>5</td>
+      <td>外商投资企业登记</td>
+      <td>[KOTRA](https://www.kotra.or.kr)或外汇银行</td>
+      <td>当日~2日</td>
     </tr>
   </tbody>
 </table>
 
 ### 第1步 — 外国人投资申报
 
-到外汇银行或KOTRA(大韩贸易投资振兴公社)窗口提交**外国人投资申报书**。申报书包含投资者个人信息、被投资法人名称(暂定)、投资金额、行业、投资方式(新股认购)。有了这份材料,下一步才能以"投资资金"名义进行汇款。
+到外汇银行或[KOTRA](https://www.kotra.or.kr)(大韩贸易投资振兴公社)窗口提交**外国人投资申报书**。申报书包含投资者个人信息、被投资法人名称(暂定)、投资金额、行业、投资方式(新股认购)。有了这份材料,下一步才能以"投资资金"名义进行汇款。
 
 ### 第2步 — 注册资本汇款
 
@@ -175,9 +160,9 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 ### 第5步 — 外商投资企业登记
 
-拿到营业执照后,回到最初申报的外汇银行(或KOTRA),领取**外商投资企业登记证**。这份证明是D-8签证、税收减免、外汇汇出(股利汇出境外)等后续优惠的依据。
+拿到营业执照后,回到最初申报的外汇银行(或[KOTRA](https://www.kotra.or.kr)),领取**外商投资企业登记证**。这份证明是D-8签证、税收减免、外汇汇出(股利汇出境外)等后续优惠的依据。
 
-<h2 id="section-4">4. 注册资本标准与汇款实务
+## 4. 注册资本标准与汇款实务
 
 ### 为什么是1亿韩元
 
@@ -190,34 +175,34 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 ### 注册资本区间策略
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">注册资本</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">可行性</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实务用途</th>
+      <th>注册资本</th>
+      <th>可行性</th>
+      <th>实务用途</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">100韩元~9,999万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">仅可设立法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外商投资企业 ❌ / D-8 ❌</td>
+      <td>100韩元~9,999万韩元</td>
+      <td>仅可设立法人</td>
+      <td>外商投资企业 ❌ / D-8 ❌</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可登记外商投资企业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">满足D-8签证申请门槛</td>
+      <td>1亿韩元以上</td>
+      <td>可登记外商投资企业</td>
+      <td>满足D-8签证申请门槛</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">同上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">有利于D-8多名人员聘用及F-2/F-5衔接</td>
+      <td>3亿韩元以上</td>
+      <td>同上</td>
+      <td>有利于D-8多名人员聘用及F-2/F-5衔接</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">10亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">同上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">须重新审视是否属于外部审计对象</td>
+      <td>10亿韩元以上</td>
+      <td>同上</td>
+      <td>须重新审视是否属于外部审计对象</td>
     </tr>
   </tbody>
 </table>
@@ -226,36 +211,36 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 实际中最常遇阻的是**汇款用途代码**。从海外银行向韩国汇款时,若用途代码不是"Investment"类,而是标为"Salary"或"Gift",韩国外汇银行就无法认定为外国人投资资金。届时必须向海外银行申请更正,将多耗一周以上。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 注册资本必须从投资者本人名义的海外账户汇出。若经由家人或熟人账户周转,资金来源将变得不清晰,审查时会被要求"资金流向说明",说明若不充分会立即被退回。
+<div>
+  <strong>⚠️ 注意:</strong> 注册资本必须从投资者本人名义的海外账户汇出。若经由家人或熟人账户周转,资金来源将变得不清晰,审查时会被要求"资金流向说明",说明若不充分会立即被退回。
 </div>
 
-<h2 id="section-5">5. 所需材料汇总
+## 5. 所需材料汇总
 
 ### 投资者(外国个人)
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 个人投资者必备材料</strong>
-  <ul style="margin-top:12px">
-    <li>护照复印件(有效期6个月以上)</li>
-    <li>本国住址证明或居住确认书(英文·Apostille)</li>
-    <li>签名认证书(韩国领事馆或当地公证)</li>
-    <li>投资资金汇款收据原件</li>
-    <li>外国人投资申报书</li>
-  </ul>
+<div>
+  <strong>✅ 个人投资者必备材料</strong>
+
+    护照复印件(有效期6个月以上)
+    本国住址证明或居住确认书(英文·Apostille)
+    签名认证书(韩国领事馆或当地公证)
+    投资资金汇款收据原件
+    外国人投资申报书
+
 </div>
 
 ### 投资者为海外法人时
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 法人投资者必备材料</strong>
-  <ul style="margin-top:12px">
-    <li>总部法人登记证明(Apostille或韩国领事馆领事认证)</li>
-    <li>董事会投资决议书</li>
-    <li>代表人护照复印件及签名认证</li>
-    <li>投资资金汇款收据原件</li>
-    <li>外国人投资申报书(法人名义)</li>
-  </ul>
+<div>
+  <strong>✅ 法人投资者必备材料</strong>
+
+    总部法人登记证明(Apostille或韩国领事馆领事认证)
+    董事会投资决议书
+    代表人护照复印件及签名认证
+    投资资金汇款收据原件
+    外国人投资申报书(法人名义)
+
 </div>
 
 ### 韩国法人设立登记用
@@ -268,55 +253,51 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 - 本店租赁合同复印件
 - 注册资本缴纳证明(汇款证)
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> Apostille必须在海外当地办理,韩国无法办理。建议出国前先在本国公证处或外交部办妥更快。实务中,入境韩国后又不得不飞回本国办Apostille的情况并不少见。
+<div>
+  <strong>💡 实务提示:</strong> Apostille必须在海外当地办理,韩国无法办理。建议出国前先在本国公证处或外交部办妥更快。实务中,入境韩国后又不得不飞回本国办Apostille的情况并不少见。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/31735911/pexels-photo-31735911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Urban scene of Seoul with people walking and modern architecture at dusk." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Urban scene of Seoul with people walking and modern architecture at dusk.](https://images.pexels.com/photos/31735911/pexels-photo-31735911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. 设立费用明细
+## 6. 设立费用明细
 
 ### 法定费用
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">金额基准</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">备注</th>
+      <th>项目</th>
+      <th>金额基准</th>
+      <th>备注</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记许可税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">注册资本的0.4%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">首都圈过密抑制区域3倍重税(1.2%)</td>
+      <td>登记许可税</td>
+      <td>注册资本的0.4%</td>
+      <td>首都圈过密抑制区域3倍重税(1.2%)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">地方教育税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记许可税的20%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">自动征收</td>
+      <td>地方教育税</td>
+      <td>登记许可税的20%</td>
+      <td>自动征收</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">章程公证费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约15~30万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按注册资本区间差异</td>
+      <td>章程公证费</td>
+      <td>约15~30万韩元</td>
+      <td>按注册资本区间差异</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记手续费·印花</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3~5万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">-</td>
+      <td>登记手续费·印花</td>
+      <td>约3~5万韩元</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人印章制作</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3~8万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">代表人印章一并制作</td>
+      <td>法人印章制作</td>
+      <td>约3~8万韩元</td>
+      <td>代表人印章一并制作</td>
     </tr>
   </tbody>
 </table>
@@ -335,11 +316,11 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 登记许可税按注册资本定率(0.4% / 首尔重税1.2%)征收。注册资本5亿韩元,仅首尔登记许可税就是600万韩元,10亿韩元则为1,200万韩元。若注册资本设得超出必要,**登记许可税负担**会急速上升。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 登记许可税重税的适用标准取决于法人本店是否位于首都圈过密抑制区域。首尔、仁川大部分地区,以及京畿道部分地区(城南、水原、富川、安养等)属于此范围。同为京畿道,华城、平泽、抱川属于非过密抑制区域,不适用重税。本店地址选在哪里,税负可能相差三倍。
+<div>
+  <strong>⚠️ 注意:</strong> 登记许可税重税的适用标准取决于法人本店是否位于首都圈过密抑制区域。首尔、仁川大部分地区,以及京畿道部分地区(城南、水原、富川、安养等)属于此范围。同为京畿道,华城、平泽、抱川属于非过密抑制区域,不适用重税。本店地址选在哪里,税负可能相差三倍。
 </div>
 
-<h2 id="section-7">7. 设立后必须办理的行政手续
+## 7. 设立后必须办理的行政手续
 
 ### 开立法人账户
 
@@ -354,13 +335,13 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 - 增值税:每年2次(1月、7月)确定申报
 - 法人税:事业年度结束后3个月内
 - 扣缴税款:每月10日前
-- 外商投资企业年度报告:KOTRA或外汇银行
+- 外商投资企业年度报告:[KOTRA](https://www.kotra.or.kr)或外汇银行
 
 ### D-8签证转换
 
 作为法人代表董事的投资者本人要在韩国居留时,需申请**D-8企业投资签证**。备齐外商投资企业登记证、汇款证、营业场所租赁合同、经营计划书,到所辖出入境提交。
 
-<h2 id="section-8">8. 常见失误与审查中容易受阻的环节
+## 8. 常见失误与审查中容易受阻的环节
 
 ### 失误1 — 抢先汇款
 
@@ -382,11 +363,11 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 共享办公本身不是问题,问题在于**实际经营业绩佐证**薄弱时。D-8审查会综合考察营业场所的实体、往来客户、合同痕迹。仅有地址而无交易痕迹,在这一点上就会落后。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 实务中,卡壳更多出现在D-8签证衔接环节,而非法人设立本身。1亿韩元是否标注为"投资资金"、营业场所实体是否可核实、经营计划书是否具体——这三点若薄弱,就会出现法人设立成功但签证下不来的尴尬局面。
+<div>
+  <strong>⚠️ 注意:</strong> 实务中,卡壳更多出现在D-8签证衔接环节,而非法人设立本身。1亿韩元是否标注为"投资资金"、营业场所实体是否可核实、经营计划书是否具体——这三点若薄弱,就会出现法人设立成功但签证下不来的尴尬局面。
 </div>
 
-<h2 id="section-9">9. 常见问题(FAQ)
+## 9. 常见问题(FAQ)
 
 ### Q1. 未入境韩国的状态下能否设立法人?
 
@@ -408,16 +389,16 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 
 材料齐备的情况下,**纯官厅处理时间约为10个工作日**。现实中,加上Apostille、海外汇款延迟、租赁合同准备等,**3~4周**为标配。代表人签名认证或总部投资决议书从海外抵韩延迟,是最常见的延误原因。
 
-<h2 id="section-10">10. 咨询方式
+## 10. 咨询方式
 
 外国人股份有限公司设立,单看法人登记似乎是一道简单流程。但从**FDI申报时机 → 汇款用途代码 → 注册资本缴纳 → 登记 → 营业执照 → 外商投资企业登记 → D-8签证**这一整条链条中,只要有一环错位,后续所有步骤都会连带出问题。VISION行政士事务所为您一次性完成整体流程设计。
 
-<div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">VISION行政士事务所 (VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;line-height:1.9">
-    <li>📞 电话:<strong>02-363-2251</strong></li>
-    <li>✉️ 邮箱:<strong>5000meter@gmail.com</strong></li>
-    <li>📍 地址:(04614) 首尔特别市中区退溪路324号3层(成佑大厦)</li>
-  </ul>
-  <p style="margin-bottom:0;color:#374151">从法人设立 → FDI登记 → D-8签证 → F-2·F-5永住权衔接,一条龙设计与代办。请先来电说明情况,我们将根据注册资本规模、行业、居留计划,为您量身定制方案。</p>
+<div>
+### VISION行政士事务所 (VISION Administrative Office)
+
+    📞 电话:<strong>02-363-2251</strong>
+    ✉️ 邮箱:<strong>5000meter@gmail.com</strong>
+    📍 地址:(04614) 首尔特别市中区退溪路324号3层(成佑大厦)
+
+  <p>从法人设立 → FDI登记 → D-8签证 → F-2·F-5永住权衔接,一条龙设计与代办。请先来电说明情况,我们将根据注册资本规模、行业、居留计划,为您量身定制方案。</p>
 </div>

@@ -73,7 +73,7 @@ export function InlineCTAForm() {
         <button
           type="submit"
           disabled={status === "loading"}
-          className="mt-4 h-11 w-full rounded-lg bg-blue-600 text-sm font-semibold text-white transition-colors hover:bg-blue-700 disabled:opacity-60 sm:w-auto sm:px-10"
+          className="mt-4 h-11 w-full rounded-lg text-sm font-semibold text-white disabled:opacity-60 sm:w-auto sm:px-10" style={{background:'#A33344'}}
         >
           {status === "loading" ? "전송 중..." : "상담 신청"}
         </button>

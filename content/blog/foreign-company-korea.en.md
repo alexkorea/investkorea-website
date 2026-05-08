@@ -16,20 +16,6 @@ image: "/pages/company.jpg"
 slug: "foreign-company-korea"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#three-types">Three Types of Market Entry</a></li>
-    <li><a href="#subsidiary">Subsidiary (Local Corporation)</a></li>
-    <li><a href="#branch">Branch Office</a></li>
-    <li><a href="#liaison">Liaison Office</a></li>
-    <li><a href="#comparison">Comparative Analysis</a></li>
-    <li><a href="#legal">Legal and Regulatory Framework</a></li>
-    <li><a href="#choosing">How to Choose the Right Structure</a></li>
-    <li><a href="#faq">FAQ</a></li>
-  </ul>
-</nav>
 
 ## Introduction
 
@@ -37,7 +23,7 @@ South Korea is one of Asia's most dynamic economies, with world-class infrastruc
 
 Korea offers three main options: a **subsidiary** (local corporation), a **branch office**, and a **liaison office**. Each comes with distinct advantages, limitations, and regulatory requirements. This guide provides a comprehensive comparison to help you select the structure that best aligns with your business objectives.
 
-<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Modern Korean office building" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Modern Korean office building" />
 
 ## Three Types of Market Entry
 
@@ -120,7 +106,7 @@ A liaison office is the **lightest presence** a foreign company can maintain in 
 - **Limited scope** may frustrate business development efforts
 - **No visa eligibility** for foreign staff (separate arrangements needed)
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Note:</strong> If a liaison office is found to be engaging in revenue-generating activities, Korean tax authorities can reclassify it as a branch and impose back taxes with penalties.</div>
+<div>⚠️ <strong>Note:</strong> If a liaison office is found to be engaging in revenue-generating activities, Korean tax authorities can reclassify it as a branch and impose back taxes with penalties.</div>
 
 ## Comparative Analysis
 
@@ -151,7 +137,7 @@ Branches are governed by the **Foreign Investment Promotion Act** and must file 
 
 Liaison offices have the fewest regulatory requirements but must still register with the relevant authorities. The critical rule: **no commercial activity**. Any deviation triggers reclassification risk.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> Korea has Double Taxation Agreements (DTAs) with over 90 countries. Check whether your home country has a DTA with Korea, as it can significantly impact tax obligations for branches and subsidiaries.</div>
+<div>💡 <strong>Tip:</strong> Korea has Double Taxation Agreements (DTAs) with over 90 countries. Check whether your home country has a DTA with Korea, as it can significantly impact tax obligations for branches and subsidiaries.</div>
 
 ## How to Choose the Right Structure
 
@@ -201,7 +187,7 @@ Contact VISION Immigration Office for a free consultation. Our team specializes 
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
+<div>### Free Consultation<p>Our expert consultants will guide you. Tel. 02-363-2251</p>[Request Consultation](/contact)</div>
 
 <script type="application/ld+json">
 {

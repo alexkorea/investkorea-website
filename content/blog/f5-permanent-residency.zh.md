@@ -16,19 +16,6 @@ image: "/pages/f5.jpg"
 slug: "f5-permanent-residency"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">F-5永久居留权简介</a></li>
-    <li><a href="#strategy1">策略一：专家邀请制度</a></li>
-    <li><a href="#strategy2">策略二：F-2签证转换</a></li>
-    <li><a href="#strategy3">策略三：结婚移民</a></li>
-    <li><a href="#strategy4">策略四：教育与职业路径</a></li>
-    <li><a href="#strategy5">策略五：商业投资</a></li>
-    <li><a href="#comparison">策略对比</a></li>
-    <li><a href="#faq">常见问题</a></li>
-  </ul>
-</nav>
 
 ## F-5永久居留权简介
 
@@ -36,7 +23,7 @@ F-5签证赋予持有人在韩国**永久居住的权利**，无需定期续签�
 
 然而，获得F-5身份须满足严格条件。通往永居的路径并非只有一条，而是有多种不同策略，各自适用于不同的背景和情况。本指南将详细介绍获取F-5永久居留权的**五种最实用策略**。
 
-<img src="https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国生活场景" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韩国生活场景" />
 
 ## 策略一：专家邀请制度
 
@@ -53,7 +40,7 @@ F-5签证赋予持有人在韩国**永久居住的权利**，无需定期续签�
 
 由政府机构或认可机构出具邀请函，确认您的专业能力。凭此邀请函，您可以直接申请F-5身份，无需满足通常的居住年限要求。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 法务部每年发布紧缺职业清单。在选择此策略前，建议先确认您的领域是否在清单之中。</div>
+<div>💡 <strong>提示：</strong> 法务部每年发布紧缺职业清单。在选择此策略前，建议先确认您的领域是否在清单之中。</div>
 
 ## 策略二：F-2签证转换
 
@@ -90,7 +77,7 @@ F-5签证赋予持有人在韩国**永久居住的权利**，无需定期续签�
 - 达到基本韩语水平要求（完成KIIP课程或TOPIK 1级以上）
 - 家庭收入达到最低标准
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 出入境管理局会严格审查婚姻真实性。夫妻双方可能被分别约谈，以确认关系的真实性。</div>
+<div>⚠️ <strong>注意：</strong> 出入境管理局会严格审查婚姻真实性。夫妻双方可能被分别约谈，以确认关系的真实性。</div>
 
 ## 策略四：教育与职业路径
 
@@ -120,7 +107,7 @@ F-5签证赋予持有人在韩国**永久居住的权利**，无需定期续签�
 
 在部分指定区域，投资**5亿韩元以上**的房产也可能符合F-5申请条件。但该项目近年来限制条件大幅收紧，且因地区而异。
 
-<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="商务团队审阅文件" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="商务团队审阅文件" />
 
 ## 策略对比
 
@@ -168,7 +155,7 @@ F-5持有者须以韩国为主要居住地。离韩超过2年可能导致永居�
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">免费咨询</h3><p style="color:#bfdbfe; margin:0 0 16px;">专业行政士为您提供咨询服务。电话：02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a></div>
+<div>### 免费咨询<p>专业行政士为您提供咨询服务。电话：02-363-2251</p>[申请咨询](/contact)</div>
 
 <script type="application/ld+json">
 {

@@ -31,7 +31,7 @@ export default async function BlogPage() {
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-blue-900/80 to-blue-800/60" />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-black/30" />
           <div className="absolute inset-0 flex items-center">
             <div className="max-w-7xl mx-auto px-6 w-full">
               <div className="max-w-2xl">

@@ -15,27 +15,12 @@ excerptJa: "外国人が韓国で株式会社を設立する際に実際に詰�
 image: "/slides/building.jpg"
 slug: "foreigner-stock-corporation-setup-procedure-cost"
 ---
-# 外国人による韓国での株式会社設立手続きと費用の完全ガイド
+## 外国人による韓国での株式会社設立手続きと費用の完全ガイド
 
 外国人が韓国で株式会社を設立する手続きは、**外国人投資届出 → 投資資金の送金 → 法人印鑑および書類の準備 → 法院での登記 → 事業者登録 → 外国人投資企業の登録**という6つのステップで進みます。投資額が1億ウォン以上であれば、外国人投資促進法に基づく外国人投資企業（FDI）として登録でき、それ未満の場合は一般的な外国資本法人として扱われます。一見シンプルに見えますが、実際には送金段階と登記後の事業者登録段階でつまずくケースが最も多くなっています。
 
 費用は**資本金（最低1億ウォン推奨）＋ 登録免許税・地方教育税（資本金の0.48%、首都圏過密抑制圏域は3倍の重課）＋ 公証・登記手数料 ＋ 行政士代行費用**で構成されます。ソウルに本店を置く場合、資本金1億ウォン基準で登録税だけでも約144万ウォン、公証・法務費を含めると実際の支出は200～400万ウォン程度になります。資本金とは別に発生する実費であるため、あらかじめ分けて計上しておかないと資金計画に狂いが生じます。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人の株式会社設立、最初に決めるべき3つのこと</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 有限会社と株式会社、どちらを選ぶべきか</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 設立手続き6ステップの詳細解説</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 資本金の基準とFDI登録要件</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 必要書類と本国での公証実務</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 総費用の構造と項目別金額</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 設立後に必要な事後手続き</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくあるミスと却下事由</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問（FAQ）</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. ご相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## 1. 外国人の株式会社設立、最初に決めるべき3つのこと
 
@@ -57,8 +42,8 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 株式会社の持分は外国人100%でも問題ありません。ただし、**業種によっては外国人投資が制限される業種**があります。放送、新聞、一部の農業・水産業、原子力発電などには持分上限が設けられています。一般的な貿易・IT・製造・コンサルティング業であれば、100%外国人持分がそのまま認められます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 該当業種が「外国人投資許可業種」に含まれるかどうか、必ず産業通商資源部の外国人投資統計システム（INSC）またはKOTRAで事前に確認してください。許可されていない業種で届出を行うと、外国為替銀行で受理自体が拒否されます。
+<div>
+  <strong>⚠️ 注意：</strong> 該当業種が「外国人投資許可業種」に含まれるかどうか、必ず産業通商資源部の外国人投資統計システム（INSC）または[KOTRA](https://www.kotra.or.kr)で事前に確認してください。許可されていない業種で届出を行うと、外国為替銀行で受理自体が拒否されます。
 </div>
 
 ## 2. 有限会社と株式会社、どちらを選ぶべきか
@@ -67,49 +52,49 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 ### 両形態の実務上の違い
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">株式会社</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">有限会社</th>
+      <th>区分</th>
+      <th>株式会社</th>
+      <th>有限会社</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">出資単位</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">株式（譲渡・発行が自由）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出資口数（譲渡に制限あり）</td>
+      <td>出資単位</td>
+      <td>株式（譲渡・発行が自由）</td>
+      <td>出資口数（譲渡に制限あり）</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">取締役数</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金10億ウォン未満なら1名可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1名可</td>
+      <td>取締役数</td>
+      <td>資本金10億ウォン未満なら1名可</td>
+      <td>1名可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">監査役</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金10億ウォン未満なら免除可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">原則として不要</td>
+      <td>監査役</td>
+      <td>資本金10億ウォン未満なら免除可</td>
+      <td>原則として不要</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外部監査義務</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資産120億ウォン等の基準充足時に発生</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">同一基準を適用（2019年以降）</td>
+      <td>外部監査義務</td>
+      <td>資産120億ウォン等の基準充足時に発生</td>
+      <td>同一基準を適用（2019年以降）</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">公示義務</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">あり</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">比較的少ない</td>
+      <td>公示義務</td>
+      <td>あり</td>
+      <td>比較的少ない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資誘致の容易さ</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高い（株式発行が可能）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">低い</td>
+      <td>投資誘致の容易さ</td>
+      <td>高い（株式発行が可能）</td>
+      <td>低い</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">設立費用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">やや高い（定款の公証等）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">やや低い</td>
+      <td>設立費用</td>
+      <td>やや高い（定款の公証等）</td>
+      <td>やや低い</td>
     </tr>
   </tbody>
 </table>
@@ -124,51 +109,51 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 全体の流れは以下の表のとおりです。各ステップが順番に連動しているため、一つでも止まると後続の手続きがすべてストップします。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">ステップ</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">担当機関</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所要日数</th>
+      <th>ステップ</th>
+      <th>内容</th>
+      <th>担当機関</th>
+      <th>所要日数</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資届出</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行またはKOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1～2日</td>
+      <td>1</td>
+      <td>外国人投資届出</td>
+      <td>外国為替銀行または[KOTRA](https://www.kotra.or.kr)</td>
+      <td>1～2日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資資金の送金と両替</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3～7日</td>
+      <td>2</td>
+      <td>投資資金の送金と両替</td>
+      <td>外国為替銀行</td>
+      <td>3～7日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款作成・公証、株金払込証明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公証事務所・銀行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2～3日</td>
+      <td>3</td>
+      <td>定款作成・公証、株金払込証明</td>
+      <td>公証事務所・銀行</td>
+      <td>2～3日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人設立登記</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄登記所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3～5日</td>
+      <td>4</td>
+      <td>法人設立登記</td>
+      <td>管轄登記所</td>
+      <td>3～5日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄税務署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2～3日</td>
+      <td>5</td>
+      <td>事業者登録</td>
+      <td>管轄税務署</td>
+      <td>2～3日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行またはKOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1～2日</td>
+      <td>6</td>
+      <td>外国人投資企業登録</td>
+      <td>外国為替銀行または[KOTRA](https://www.kotra.or.kr)</td>
+      <td>1～2日</td>
     </tr>
   </tbody>
 </table>
@@ -201,8 +186,8 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 事業者登録証が交付されたら、再度外国為替銀行を訪れ、外国人投資企業の登録を完了させます。**外国人投資企業登録証明書**が発行されれば、D-8ビザの申請・租税減免の申請など、すべての後続手続きが可能になります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント：</strong> 全体のスケジュールは、書類が完璧であれば2～3週間、本国書類の再取得が必要な場合は4～6週間かかります。D-8ビザのスケジュールと連動する場合、本国書類の準備を先に始めることが全体の期間を最も短縮できるポイントです。
+<div>
+  <strong>💡 実務のヒント：</strong> 全体のスケジュールは、書類が完璧であれば2～3週間、本国書類の再取得が必要な場合は4～6週間かかります。D-8ビザのスケジュールと連動する場合、本国書類の準備を先に始めることが全体の期間を最も短縮できるポイントです。
 </div>
 
 ## 4. 資本金の基準とFDI登録要件
@@ -221,8 +206,8 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 資本金は**現金払込が原則**です。不動産・機械設備・知的財産権などの現物出資も可能ですが、鑑定評価・裁判所の調査人選任などの追加手続きが発生し、所要期間が2～3倍に膨らみます。初回設立時は現金で払い込み、後から増資を通じて現物出資するのが実務上最も効率的です。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 設立直後に資本金をすぐに引き出して親会社に還流させる行為は「見せ金（仮装払込）」と見なされ、刑事罰や法人設立取消の対象となります。実際に監査や税務調査ですぐに発覚する項目ですので、資金フローは事前に設計しておく必要があります。
+<div>
+  <strong>⚠️ 注意：</strong> 設立直後に資本金をすぐに引き出して親会社に還流させる行為は「見せ金（仮装払込）」と見なされ、刑事罰や法人設立取消の対象となります。実際に監査や税務調査ですぐに発覚する項目ですので、資金フローは事前に設計しておく必要があります。
 </div>
 
 ### 共同投資における1人1億ウォンルール
@@ -231,29 +216,29 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 ## 5. 必要書類と本国での公証実務
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国人投資家（個人）の提出書類チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>パスポートのコピー（全ページ）</li>
-    <li>本国の住所証明書（アポスティーユまたは領事認証付き）</li>
-    <li>署名公証書（本人署名の真正確認）</li>
-    <li>外国人投資届出書</li>
-    <li>送金証明（SWIFT、外貨買入証明書）</li>
-    <li>韓国語翻訳文（翻訳者認証付き）</li>
-  </ul>
+<div>
+  <strong>✅ 外国人投資家（個人）の提出書類チェックリスト</strong>
+
+    パスポートのコピー（全ページ）
+    本国の住所証明書（アポスティーユまたは領事認証付き）
+    署名公証書（本人署名の真正確認）
+    外国人投資届出書
+    送金証明（SWIFT、外貨買入証明書）
+    韓国語翻訳文（翻訳者認証付き）
+
 </div>
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国人投資家（法人）の提出書類チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>本国の法人登記簿謄本（アポスティーユ付き）</li>
-    <li>定款のコピー（アポスティーユ付き）</li>
-    <li>代表者の在職証明書</li>
-    <li>代表者のパスポートコピー</li>
-    <li>取締役会議事録（韓国子会社設立の決議）</li>
-    <li>委任状（代理人を選任する場合）</li>
-    <li>全書類の韓国語翻訳文</li>
-  </ul>
+<div>
+  <strong>✅ 外国人投資家（法人）の提出書類チェックリスト</strong>
+
+    本国の法人登記簿謄本（アポスティーユ付き）
+    定款のコピー（アポスティーユ付き）
+    代表者の在職証明書
+    代表者のパスポートコピー
+    取締役会議事録（韓国子会社設立の決議）
+    委任状（代理人を選任する場合）
+    全書類の韓国語翻訳文
+
 </div>
 
 ### アポスティーユと領事認証 ── 何が違うのか
@@ -265,110 +250,106 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 本国発行の書類は通常、**発行日から3か月以内**のものしか有効と認められません。早めに取得しておくと、設立手続きの時点で期限切れとなり再取得が必要になるケースがよくあります。書類準備のスケジュールは届出直前から逆算して組む必要があります。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Detailed view of a hand writing a signature on an official document with a ballpoint pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Detailed view of a hand writing a signature on an official document with a ballpoint pen.](https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 6. 総費用の構造と項目別金額
 
 資本金1億ウォン、ソウル本店、発起人1名を基準とした実際の支出をまとめると以下のとおりです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">項目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">金額（ウォン）</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">備考</th>
+      <th>項目</th>
+      <th>金額（ウォン）</th>
+      <th>備考</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登録免許税（資本金の0.4%）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">400,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">一般地域基準</td>
+      <td>登録免許税（資本金の0.4%）</td>
+      <td>400,000</td>
+      <td>一般地域基準</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">過密抑制圏域3倍重課</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1,200,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ソウル・仁川・水原など</td>
+      <td>過密抑制圏域3倍重課</td>
+      <td>1,200,000</td>
+      <td>ソウル・仁川・水原など</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">地方教育税（登録税の20%）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">80,000～240,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">地域により異なる</td>
+      <td>地方教育税（登録税の20%）</td>
+      <td>80,000～240,000</td>
+      <td>地域により異なる</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款認証手数料</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">100,000～300,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公証事務所により異なる</td>
+      <td>定款認証手数料</td>
+      <td>100,000～300,000</td>
+      <td>公証事務所により異なる</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登記申請手数料</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">30,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院インターネット登記所</td>
+      <td>登記申請手数料</td>
+      <td>30,000</td>
+      <td>大法院インターネット登記所</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人印鑑作成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">30,000～80,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人実印＋使用印鑑</td>
+      <td>法人印鑑作成</td>
+      <td>30,000～80,000</td>
+      <td>法人実印＋使用印鑑</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">翻訳・公証費用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">150,000～500,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">書類量・言語により異なる</td>
+      <td>翻訳・公証費用</td>
+      <td>150,000～500,000</td>
+      <td>書類量・言語により異なる</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">行政士／司法書士代行費用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1,500,000～3,000,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">範囲・難易度により異なる</td>
+      <td>行政士／司法書士代行費用</td>
+      <td>1,500,000～3,000,000</td>
+      <td>範囲・難易度により異なる</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px;background:#fef3c7"><strong>合計（ソウル）</strong></td>
-      <td style="border:1px solid #e5e7eb;padding:10px;background:#fef3c7"><strong>約300万～500万</strong></td>
-      <td style="border:1px solid #e5e7eb;padding:10px;background:#fef3c7">資本金を除く</td>
+      <td><strong>合計（ソウル）</strong></td>
+      <td><strong>約300万～500万</strong></td>
+      <td>資本金を除く</td>
     </tr>
   </tbody>
 </table>
 
 ### 資本金額に応じた登録税の例
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">資本金</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">一般地域の登録税</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">過密抑制圏域の登録税</th>
+      <th>資本金</th>
+      <th>一般地域の登録税</th>
+      <th>過密抑制圏域の登録税</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">480,000ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1,440,000ウォン</td>
+      <td>1億ウォン</td>
+      <td>480,000ウォン</td>
+      <td>1,440,000ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1,440,000ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">4,320,000ウォン</td>
+      <td>3億ウォン</td>
+      <td>1,440,000ウォン</td>
+      <td>4,320,000ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2,400,000ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">7,200,000ウォン</td>
+      <td>5億ウォン</td>
+      <td>2,400,000ウォン</td>
+      <td>7,200,000ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">10億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">4,800,000ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">14,400,000ウォン</td>
+      <td>10億ウォン</td>
+      <td>4,800,000ウォン</td>
+      <td>14,400,000ウォン</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 資本金を10億ウォンに引き上げると、外部監査の対象判定基準に近づき、監査役の選任義務も発生します。単に大きな金額に設定するのではなく、実際の事業規模やビザ要件に合わせて設定するのが適切です。詳細な基準については管轄機関への確認が必要です。
+<div>
+  <strong>⚠️ 注意：</strong> 資本金を10億ウォンに引き上げると、外部監査の対象判定基準に近づき、監査役の選任義務も発生します。単に大きな金額に設定するのではなく、実際の事業規模やビザ要件に合わせて設定するのが適切です。詳細な基準については管轄機関への確認が必要です。
 </div>
 
 ## 7. 設立後に必要な事後手続き
@@ -391,7 +372,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 ### 租税減免の申請（該当する場合）
 
-外国人投資促進法上、**先端技術業・サービス業**などの一部業種については法人税・所得税の減免が可能です。減免は自動適用ではなく、**別途申請**が必要であり、事業開始前に申請しなければなりません。実務では設立直後にKOTRAとの協議を開始します。
+外国人投資促進法上、**先端技術業・サービス業**などの一部業種については法人税・所得税の減免が可能です。減免は自動適用ではなく、**別途申請**が必要であり、事業開始前に申請しなければなりません。実務では設立直後に[KOTRA](https://www.kotra.or.kr)との協議を開始します。
 
 ## 8. よくあるミスと却下事由
 
@@ -421,8 +402,8 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 
 韓国標準産業分類（KSIC）コードに基づいて、外国人投資の許可可否や租税減免の可否が判断されます。事業者登録の段階で誤ったコードを選択すると、後から業種の追加・変更に手数料と時間がさらにかかります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント：</strong> 却下されたケースの70%以上は書類そのものの問題ではなく、「書類間の情報の不一致」が原因です。名前の綴り1文字、住所の番地1桁が書類ごとに異なるだけで即座に引っかかります。設立前にすべての書類のコピーを一度に広げて照合する作業が最も効果的です。
+<div>
+  <strong>💡 実務のヒント：</strong> 却下されたケースの70%以上は書類そのものの問題ではなく、「書類間の情報の不一致」が原因です。名前の綴り1文字、住所の番地1桁が書類ごとに異なるだけで即座に引っかかります。設立前にすべての書類のコピーを一度に広げて照合する作業が最も効果的です。
 </div>
 
 ## 9. よくある質問（FAQ）

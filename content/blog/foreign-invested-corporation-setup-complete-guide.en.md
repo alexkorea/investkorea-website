@@ -15,25 +15,12 @@ excerptJa: "外国人投資法人設立は外国為替銀行届出から登記�
 image: "/slides/building.jpg"
 slug: "foreign-invested-corporation-setup-complete-guide"
 ---
-# Complete Guide to Setting Up a Foreign-Invested Corporation in Korea
+## Complete Guide to Setting Up a Foreign-Invested Corporation in Korea
 
-Establishing a foreign-invested corporation in Korea follows five stages: ① Foreign Investment Notification (foreign exchange bank) → ② Investment Fund Remittance → ③ Corporate Registration (court) → ④ Business Registration (tax office) → ⑤ Foreign-Invested Company (FIC) Registration (KOTRA or foreign exchange bank). To qualify as a "foreign investment" under the Foreign Investment Promotion Act, a foreign investor must contribute at least KRW 100 million while acquiring 10% or more of voting shares. If either requirement is missing, the entity is classified merely as a general foreign-capital company and is excluded from D-8 visa eligibility and tax incentives.
+Establishing a foreign-invested corporation in Korea follows five stages: ① Foreign Investment Notification (foreign exchange bank) → ② Investment Fund Remittance → ③ Corporate Registration (court) → ④ Business Registration (tax office) → ⑤ Foreign-Invested Company (FIC) Registration ([KOTRA](https://www.kotra.or.kr) or foreign exchange bank). To qualify as a "foreign investment" under the Foreign Investment Promotion Act, a foreign investor must contribute at least KRW 100 million while acquiring 10% or more of voting shares. If either requirement is missing, the entity is classified merely as a general foreign-capital company and is excluded from D-8 visa eligibility and tax incentives.
 
 The order matters. If remittance arrives before notification, proving the source of funds becomes tangled; if remittance is delayed before registration, the capital payment certificate cannot be issued and registration stalls. In practice, the goal is to complete notification → remittance → registration → business registration → FIC registration within 3–5 weeks, and a slip at any single step pushes the entire visa schedule back.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is a Foreign-Invested Corporation — How It Differs from a General Foreign-Capital Company</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Five Decisions Before Incorporation — Industry, Capital, Equity Ratio, Entity Type, Location</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Step 1: Foreign Investment Notification — Where and With What</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Step 2: Remittance of Investment Funds and Capital Payment Certificate</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Step 3: Corporate Registration — Articles of Incorporation, Officers, Filing Documents</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Step 4: Business Registration and Step 5: Foreign-Invested Company (FIC) Registration</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Linking to the D-8 Visa — Aligning Incorporation with Visa Timing</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes and FAQ</a></li>
-  </ul>
-</nav>
 
 ---
 
@@ -47,44 +34,44 @@ The distinction is not a mere label — it determines substantive rights. Only a
 
 ### What You Lose Without FIC Status
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Foreign-Invested Company (FIC)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">General Foreign-Capital Company</th>
+      <th>Category</th>
+      <th>Foreign-Invested Company (FIC)</th>
+      <th>General Foreign-Capital Company</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Minimum Investment</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 100 million or more</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No restriction</td>
+      <td>Minimum Investment</td>
+      <td>KRW 100 million or more</td>
+      <td>No restriction</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Minimum Equity Ratio</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">10% or more</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No restriction</td>
+      <td>Minimum Equity Ratio</td>
+      <td>10% or more</td>
+      <td>No restriction</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 Visa Application</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Eligible</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not eligible</td>
+      <td>D-8 Visa Application</td>
+      <td>Eligible</td>
+      <td>Not eligible</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tax Reduction</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Available if new-growth-technology and other criteria are met</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not available</td>
+      <td>Tax Reduction</td>
+      <td>Available if new-growth-technology and other criteria are met</td>
+      <td>Not available</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FIC Registration Certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Issued</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not issued</td>
+      <td>FIC Registration Certificate</td>
+      <td>Issued</td>
+      <td>Not issued</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Governing Law</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign Investment Promotion Act</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign Exchange Transactions Act</td>
+      <td>Governing Law</td>
+      <td>Foreign Investment Promotion Act</td>
+      <td>Foreign Exchange Transactions Act</td>
     </tr>
   </tbody>
 </table>
@@ -95,39 +82,39 @@ In practice, it is common for applicants — unaware of this distinction — to 
 
 When a foreign headquarters enters Korea, there are three options: ① a foreign-invested corporation (local subsidiary), ② a Korean branch of the foreign company, or ③ a liaison office.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Local Subsidiary</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Korean Branch</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Liaison Office</th>
+      <th>Category</th>
+      <th>Local Subsidiary</th>
+      <th>Korean Branch</th>
+      <th>Liaison Office</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Legal Personality</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Independent entity</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Part of headquarters</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Part of headquarters</td>
+      <td>Legal Personality</td>
+      <td>Independent entity</td>
+      <td>Part of headquarters</td>
+      <td>Part of headquarters</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Profit-Making Activity</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Allowed</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Allowed</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not allowed</td>
+      <td>Profit-Making Activity</td>
+      <td>Allowed</td>
+      <td>Allowed</td>
+      <td>Not allowed</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 Visa</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Eligible</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-7 instead</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-7 instead</td>
+      <td>D-8 Visa</td>
+      <td>Eligible</td>
+      <td>D-7 instead</td>
+      <td>D-7 instead</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Governing Law</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign Investment Promotion Act</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign Exchange Transactions Act</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign Exchange Transactions Act</td>
+      <td>Governing Law</td>
+      <td>Foreign Investment Promotion Act</td>
+      <td>Foreign Exchange Transactions Act</td>
+      <td>Foreign Exchange Transactions Act</td>
     </tr>
   </tbody>
 </table>
@@ -144,8 +131,8 @@ The first item to check is the business sector. The Enforcement Decree of the Fo
 
 Partially restricted sectors carry a cap on foreign equity, so 100% foreign ownership is not permitted. You must first finalize the Korean Standard Industrial Classification (KSIC) code and then verify whether that code falls within a restricted category.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> The business activities listed in the articles of incorporation must match exactly across the business registration certificate, foreign investment notification, and FIC registration certificate. A single inconsistency will trigger rejection at the registration stage. Mixing IT and wholesale/retail businesses is a common case where the wrong KSIC selection ends up classified under a restricted sector.
+<div>
+  <strong>⚠️ Caution:</strong> The business activities listed in the articles of incorporation must match exactly across the business registration certificate, foreign investment notification, and FIC registration certificate. A single inconsistency will trigger rejection at the registration stage. Mixing IT and wholesale/retail businesses is a common case where the wrong KSIC selection ends up classified under a restricted sector.
 </div>
 
 ### 2-2. Capital — Is KRW 100 Million Really the Floor?
@@ -160,34 +147,34 @@ A 100% foreign-owned structure makes decision-making faster but provides limited
 
 ### 2-4. Entity Type — Stock Company vs. Limited Company
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Stock Company (Co., Ltd.)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Limited Company (Yuhan Hoesa)</th>
+      <th>Category</th>
+      <th>Stock Company (Co., Ltd.)</th>
+      <th>Limited Company (Yuhan Hoesa)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Incorporation Flexibility</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Standard</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High autonomy in articles</td>
+      <td>Incorporation Flexibility</td>
+      <td>Standard</td>
+      <td>High autonomy in articles</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">External Audit</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Mandatory above certain asset/revenue thresholds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same rules apply since 2018</td>
+      <td>External Audit</td>
+      <td>Mandatory above certain asset/revenue thresholds</td>
+      <td>Same rules apply since 2018</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Eligibility for Listing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Possible</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not possible</td>
+      <td>Eligibility for Listing</td>
+      <td>Possible</td>
+      <td>Not possible</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">External Recognition</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Moderate</td>
+      <td>External Recognition</td>
+      <td>High</td>
+      <td>Moderate</td>
     </tr>
   </tbody>
 </table>
@@ -204,19 +191,19 @@ Corporate registration can be filed using a virtual or shared office address. Ho
 
 ### 3-1. Filing Authority and Timing
 
-A foreign investment notification is filed with a foreign exchange bank (FX-handling branches of Korean commercial banks) or the KOTRA Invest KOREA Plaza. The notification **must be completed before the funds are remitted**. If money is wired before notification, it becomes locked in a foreign currency deposit account and cannot be recognized as paid-in capital.
+A foreign investment notification is filed with a foreign exchange bank (FX-handling branches of Korean commercial banks) or the [KOTRA Invest KOREA](https://www.investkorea.org) Plaza. The notification **must be completed before the funds are remitted**. If money is wired before notification, it becomes locked in a foreign currency deposit account and cannot be recognized as paid-in capital.
 
 ### 3-2. Documents to Submit
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Foreign Investment Notification Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Foreign investment notification form (bank format)</li>
-    <li>Investor's identification (passport copy)</li>
-    <li>If the investor is a corporation: certified extract of the parent company's corporate registry (apostille or consular authentication)</li>
-    <li>Power of attorney (notarized), if filed by a representative</li>
-    <li>Documentation explaining the source of investment funds (if required)</li>
-  </ul>
+<div>
+  <strong>✅ Foreign Investment Notification Checklist</strong>
+
+    Foreign investment notification form (bank format)
+    Investor's identification (passport copy)
+    If the investor is a corporation: certified extract of the parent company's corporate registry (apostille or consular authentication)
+    Power of attorney (notarized), if filed by a representative
+    Documentation explaining the source of investment funds (if required)
+
 </div>
 
 The parent company's registry must be issued in the home country and bear an apostille or authentication from the Korean consulate; if not in English, a Korean translation must be attached. Preparing these documents alone often takes 1–2 weeks in the home country.
@@ -225,8 +212,8 @@ The parent company's registry must be issued in the home country and bear an apo
 
 Once accepted, the **Foreign Investment Notification Certificate (acknowledgment of filing)** is issued immediately. Because this certificate is used at every subsequent step — remittance, registration, FIC registration — the original must be kept carefully.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> The investment amount, equity ratio, and business activity stated on the certificate must match all subsequent documents. If the remitted amount differs from the notified amount, the difference must be re-notified. To absorb FX fluctuations, applicants commonly notify a slightly larger amount (typically a 5–10% buffer).
+<div>
+  <strong>💡 Practical Tip:</strong> The investment amount, equity ratio, and business activity stated on the certificate must match all subsequent documents. If the remitted amount differs from the notified amount, the difference must be re-notified. To absorb FX fluctuations, applicants commonly notify a slightly larger amount (typically a 5–10% buffer).
 </div>
 
 ---
@@ -245,50 +232,46 @@ Once the remittance arrives, the foreign exchange bank issues a **Certificate of
 
 ### 4-3. Aligning the Remittance Schedule
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Day</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Required Action</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Time Required</th>
+      <th>Day</th>
+      <th>Required Action</th>
+      <th>Time Required</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-day</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">File foreign investment notification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same day</td>
+      <td>D-day</td>
+      <td>File foreign investment notification</td>
+      <td>Same day</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D+1 to D+5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Wire investment funds from overseas</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 banking days</td>
+      <td>D+1 to D+5</td>
+      <td>Wire investment funds from overseas</td>
+      <td>1–3 banking days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Day funds arrive</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Issuance of capital custody certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same day</td>
+      <td>Day funds arrive</td>
+      <td>Issuance of capital custody certificate</td>
+      <td>Same day</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">After certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">File for corporate registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–5 business days</td>
+      <td>After certificate</td>
+      <td>File for corporate registration</td>
+      <td>3–5 business days</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> After remittance, you cannot withdraw funds at will from the capital custody account. Using the capital before it has been transferred to the company's official account post-registration may constitute fictitious capital payment (a violation of the Commercial Act), which can later become grounds for revoking FIC registration.
+<div>
+  <strong>⚠️ Caution:</strong> After remittance, you cannot withdraw funds at will from the capital custody account. Using the capital before it has been transferred to the company's official account post-registration may constitute fictitious capital payment (a violation of the Commercial Act), which can later become grounds for revoking FIC registration.
 </div>
 
 ---
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Detailed view of a hand writing a signature on an official document with a ballpoint pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Detailed view of a hand writing a signature on an official document with a ballpoint pen.](https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-5"></span>5. Step 3: Corporate Registration — Articles of Incorporation, Officers, Filing Documents
@@ -307,19 +290,19 @@ When the Representative Director does not reside in Korea, it is common to appoi
 
 ### 5-3. Documents for Registration Filing
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Corporate Registration Document Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Application for corporate registration</li>
-    <li>Notarized articles of incorporation</li>
-    <li>Consent regarding share issuance</li>
-    <li>Founders' resolution (or minutes of the founders' general meeting)</li>
-    <li>Acceptance of office and seal certificates of directors and auditors (signature certificates for foreign nationals)</li>
-    <li>Certificate of custody for paid-in capital</li>
-    <li>Copy of the foreign investment notification certificate</li>
-    <li>Evidence of head office address (lease agreement, etc.)</li>
-    <li>Receipt of registration license tax payment</li>
-  </ul>
+<div>
+  <strong>✅ Corporate Registration Document Checklist</strong>
+
+    Application for corporate registration
+    Notarized articles of incorporation
+    Consent regarding share issuance
+    Founders' resolution (or minutes of the founders' general meeting)
+    Acceptance of office and seal certificates of directors and auditors (signature certificates for foreign nationals)
+    Certificate of custody for paid-in capital
+    Copy of the foreign investment notification certificate
+    Evidence of head office address (lease agreement, etc.)
+    Receipt of registration license tax payment
+
 </div>
 
 ### 5-4. What You Receive After Registration
@@ -334,56 +317,56 @@ Once registration is complete, the corporate registry extract and the corporate 
 
 Within **20 days** of completing corporate registration, you must file for business registration with the tax office having jurisdiction over the head office.
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Business Registration Documents</strong>
-  <ul style="margin-top:12px">
-    <li>Business registration application form</li>
-    <li>Corporate registry extract</li>
-    <li>Corporate seal certificate</li>
-    <li>Copy of articles of incorporation</li>
-    <li>Lease agreement</li>
-    <li>Copy of the foreign investment notification certificate</li>
-    <li>Representative's identification (passport for foreign nationals)</li>
-  </ul>
+<div>
+  <strong>✅ Business Registration Documents</strong>
+
+    Business registration application form
+    Corporate registry extract
+    Corporate seal certificate
+    Copy of articles of incorporation
+    Lease agreement
+    Copy of the foreign investment notification certificate
+    Representative's identification (passport for foreign nationals)
+
 </div>
 
 If a foreign representative does not yet hold an Alien Registration Card, a passport may be used instead. Once the Alien Registration Card is later issued, however, the representative information on the business registration certificate must be updated.
 
 ### 6-2. FIC Registration — The Final Button
 
-After business registration, the **Foreign-Invested Company Registration Certificate** is applied for. The registration is processed by the foreign exchange bank where the original investment notification was filed, or by KOTRA.
+After business registration, the **Foreign-Invested Company Registration Certificate** is applied for. The registration is processed by the foreign exchange bank where the original investment notification was filed, or by [KOTRA](https://www.kotra.or.kr).
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">FIC Registration Documents</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Source</th>
+      <th>FIC Registration Documents</th>
+      <th>Source</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FIC registration application form</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bank/KOTRA template</td>
+      <td>FIC registration application form</td>
+      <td>Bank/[KOTRA](https://www.kotra.or.kr) template</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporate registry extract</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Supreme Court Internet Registry Office</td>
+      <td>Corporate registry extract</td>
+      <td>Supreme Court Internet Registry Office</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business registration certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local tax office</td>
+      <td>Business registration certificate</td>
+      <td>Local tax office</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Shareholder register</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Prepared by the company</td>
+      <td>Shareholder register</td>
+      <td>Prepared by the company</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of custody for paid-in capital</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign exchange bank</td>
+      <td>Certificate of custody for paid-in capital</td>
+      <td>Foreign exchange bank</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign investment notification certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Issued at notification stage</td>
+      <td>Foreign investment notification certificate</td>
+      <td>Issued at notification stage</td>
     </tr>
   </tbody>
 </table>
@@ -392,39 +375,39 @@ Only after the FIC Registration Certificate is issued can you apply for a D-8 vi
 
 ### 6-3. Overall Timeline Summary
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Authority</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Cumulative Time</th>
+      <th>Step</th>
+      <th>Authority</th>
+      <th>Cumulative Time</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. Foreign investment notification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FX bank / KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 day</td>
+      <td>1. Foreign investment notification</td>
+      <td>FX bank / [KOTRA](https://www.kotra.or.kr)</td>
+      <td>1 day</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. Fund remittance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overseas → FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–5 days</td>
+      <td>2. Fund remittance</td>
+      <td>Overseas → FX bank</td>
+      <td>2–5 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. Notarization and registration filing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Notary office / court</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">7–10 days</td>
+      <td>3. Notarization and registration filing</td>
+      <td>Notary office / court</td>
+      <td>7–10 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. Business registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local tax office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12–15 days</td>
+      <td>4. Business registration</td>
+      <td>Local tax office</td>
+      <td>12–15 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. FIC registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FX bank / KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">15–20 days</td>
+      <td>5. FIC registration</td>
+      <td>FX bank / [KOTRA](https://www.kotra.or.kr)</td>
+      <td>15–20 days</td>
     </tr>
   </tbody>
 </table>
@@ -454,8 +437,8 @@ It is possible to apply for the visa directly at a consulate abroad, but obtaini
 
 In practice, the most common point of failure is the source and use of the capital. Once KRW 100 million is remitted, if the D-8 application cannot clearly explain "how, on what, and over what period this KRW 100 million will be used," a request for supplementation is issued immediately.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If the KRW 100 million in capital is not the investor's own funds but money borrowed from family or acquaintances, the source-of-funds explanation becomes the central issue. A history of holding the funds in the investor's own account for at least one year is the safest pattern; if the funds were assembled over a short period, supporting documents such as gift or loan agreements should be prepared together.
+<div>
+  <strong>⚠️ Caution:</strong> If the KRW 100 million in capital is not the investor's own funds but money borrowed from family or acquaintances, the source-of-funds explanation becomes the central issue. A history of holding the funds in the investor's own account for at least one year is the safest pattern; if the funds were assembled over a short period, supporting documents such as gift or loan agreements should be prepared together.
 </div>
 
 ---

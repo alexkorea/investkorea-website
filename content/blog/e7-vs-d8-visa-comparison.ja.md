@@ -7,26 +7,12 @@ image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#overview">概要</a></li>
-    <li><a href="#what-is-e7">E-7ビザとは？</a></li>
-    <li><a href="#what-is-d8">D-8ビザとは？</a></li>
-    <li><a href="#e7-pros-cons">E-7ビザのメリット・デメリット</a></li>
-    <li><a href="#d8-pros-cons">D-8ビザのメリット・デメリット</a></li>
-    <li><a href="#comparison">比較表</a></li>
-    <li><a href="#application-process">申請手続き</a></li>
-    <li><a href="#choosing">どちらのビザを選ぶべきか</a></li>
-    <li><a href="#faq">よくある質問</a></li>
-  </ul>
-</nav>
 
 ## 概要
 
 韓国でキャリアを築きたい、あるいはビジネスを立ち上げたいとお考えの外国人にとって、まず重要なのは**自分の目標に最適なビザを見極めること**です。**E-7専門職就労ビザ**と**D-8投資ビザ**は最も一般的な2つの選択肢ですが、その目的は大きく異なります。本ガイドでは、両者の核心的な違いを詳しく解説し、的確な判断のお手伝いをいたします。
 
-<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ソウルのビジネス街" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ソウルのビジネス街" />
 
 ## E-7ビザとは？
 
@@ -39,7 +25,7 @@ E-7ビザは、韓国企業に採用された**専門技術人材**を対象と�
 - **有効期間：** 通常1～3年で、在職中は更新可能
 - **資格要件：** 関連する学位、資格証、または実務経験が必要
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>ヒント：</strong> 職種が許可リストに含まれていても、出入国管理官は雇用企業がその職種で本当に外国人を必要としているかどうかを審査します。</div>
+<div>💡 <strong>ヒント：</strong> 職種が許可リストに含まれていても、出入国管理官は雇用企業がその職種で本当に外国人を必要としているかどうかを審査します。</div>
 
 ## D-8ビザとは？
 
@@ -52,7 +38,7 @@ D-8ビザは、韓国で事業を設立・運営する**外国人投資家・起
 - **有効期間：** 初回は通常1～2年で、延長可能
 - **事業計画書：** 事業の実現可能性と経済的効果を示す詳細な計画書が必要
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>ヒント：</strong> D-8ビザは投資規模や種類に応じてD-8-1からD-8-4に細分化されています。政府認定のスタートアップ支援プログラムの対象であれば、D-8-4として低い資本要件で申請できる場合があります。</div>
+<div>💡 <strong>ヒント：</strong> D-8ビザは投資規模や種類に応じてD-8-1からD-8-4に細分化されています。政府認定のスタートアップ支援プログラムの対象であれば、D-8-4として低い資本要件で申請できる場合があります。</div>
 
 ## E-7ビザのメリット・デメリット
 
@@ -99,7 +85,7 @@ D-8ビザは、韓国で事業を設立・運営する**外国人投資家・起
 | **更新の根拠** | 継続的な雇用 | 事業活動と財務状況 |
 | **永住権への道** | ポイント制（F-2経由） | 投資ベース（5年以上） |
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> ビザに関する規定は頻繁に変更されます。申請前に必ず韓国出入国管理局または認定行政士に最新の要件を確認してください。</div>
+<div>⚠️ <strong>注意：</strong> ビザに関する規定は頻繁に変更されます。申請前に必ず韓国出入国管理局または認定行政士に最新の要件を確認してください。</div>
 
 ## 申請手続き
 
@@ -127,7 +113,7 @@ E-7とD-8のどちらを選ぶかは、ご自身の専門性と長期的な目�
 
 まずE-7ビザで市場を学び、ビジネスチャンスを見つけた段階でD-8に切り替えるという段階的なアプローチを取る方も少なくありません。この方法はリスクを大幅に軽減できます。
 
-<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ビジネス戦略を話し合うチーム" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ビジネス戦略を話し合うチーム" />
 
 ## よくある質問
 
@@ -157,7 +143,7 @@ E-7の場合は在職証明と更新された雇用契約書を提出します�
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">無料相談</h3><p style="color:#bfdbfe; margin:0 0 16px;">専門行政士がご相談いたします。Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a></div>
+<div>### 無料相談<p>専門行政士がご相談いたします。Tel. 02-363-2251</p>[相談を申し込む](/contact)</div>
 
 <script type="application/ld+json">
 {

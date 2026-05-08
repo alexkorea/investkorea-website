@@ -16,19 +16,6 @@ image: "/pages/f5.jpg"
 slug: "f5-permanent-residency"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">Introduction to F-5 Permanent Residency</a></li>
-    <li><a href="#strategy1">Strategy 1: Expert Invitation Program</a></li>
-    <li><a href="#strategy2">Strategy 2: F-2 Visa Conversion</a></li>
-    <li><a href="#strategy3">Strategy 3: Marriage Immigration</a></li>
-    <li><a href="#strategy4">Strategy 4: Education and Career Path</a></li>
-    <li><a href="#strategy5">Strategy 5: Business Investment</a></li>
-    <li><a href="#comparison">Strategy Comparison</a></li>
-    <li><a href="#faq">FAQ</a></li>
-  </ul>
-</nav>
 
 ## Introduction to F-5 Permanent Residency
 
@@ -36,7 +23,7 @@ The F-5 visa grants the right to **reside permanently in South Korea** without t
 
 However, earning F-5 status requires meeting strict criteria. There is no single path; instead, several distinct strategies exist, each suited to different backgrounds and circumstances. This guide covers the **five most practical strategies** for obtaining F-5 permanent residency.
 
-<img src="https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Scenic view of life in Korea" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Scenic view of life in Korea" />
 
 ## Strategy 1: Expert Invitation Program
 
@@ -53,7 +40,7 @@ The Korean government actively recruits **high-skilled foreign professionals** t
 
 A government agency or recognized institution issues an invitation letter confirming your expertise. With this letter, you can apply for F-5 status directly, bypassing the usual residency duration requirements.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> The Ministry of Justice publishes an annual list of shortage occupations. Check whether your field is included before pursuing this strategy.</div>
+<div>💡 <strong>Tip:</strong> The Ministry of Justice publishes an annual list of shortage occupations. Check whether your field is included before pursuing this strategy.</div>
 
 ## Strategy 2: F-2 Visa Conversion
 
@@ -90,7 +77,7 @@ Foreign nationals married to a **Korean citizen** have an expedited path to F-5 
 - Meet basic Korean language proficiency requirements (KIIP completion or TOPIK Level 1+)
 - Have a minimum household income threshold
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Note:</strong> Immigration authorities carefully verify the authenticity of the marriage. Both spouses may be interviewed separately to ensure the relationship is genuine.</div>
+<div>⚠️ <strong>Note:</strong> Immigration authorities carefully verify the authenticity of the marriage. Both spouses may be interviewed separately to ensure the relationship is genuine.</div>
 
 ## Strategy 4: Education and Career Path
 
@@ -120,7 +107,7 @@ Entrepreneurs and investors can secure permanent residency through sustained **b
 
 In certain designated areas, real estate investment of **KRW 500 million or more** can also qualify for F-5 status. However, this program has been significantly restricted in recent years and varies by region.
 
-<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business team reviewing documents" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business team reviewing documents" />
 
 ## Strategy Comparison
 
@@ -168,7 +155,7 @@ F-5 holders must maintain their primary residence in Korea. Absences exceeding 2
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
+<div>### Free Consultation<p>Our expert consultants will guide you. Tel. 02-363-2251</p>[Request Consultation](/contact)</div>
 
 <script type="application/ld+json">
 {

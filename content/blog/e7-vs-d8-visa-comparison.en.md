@@ -7,26 +7,12 @@ image: "/slides/building.jpg"
 slug: "e7-vs-d8-visa-comparison"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#what-is-e7">What Is the E-7 Visa?</a></li>
-    <li><a href="#what-is-d8">What Is the D-8 Visa?</a></li>
-    <li><a href="#e7-pros-cons">E-7 Visa Pros and Cons</a></li>
-    <li><a href="#d8-pros-cons">D-8 Visa Pros and Cons</a></li>
-    <li><a href="#comparison">Side-by-Side Comparison</a></li>
-    <li><a href="#application-process">Application Process</a></li>
-    <li><a href="#choosing">How to Choose the Right Visa</a></li>
-    <li><a href="#faq">FAQ</a></li>
-  </ul>
-</nav>
 
 ## Overview
 
 Foreigners looking to build a career or launch a business in South Korea must first decide which visa best fits their goals. The **E-7 Professional Work Visa** and the **D-8 Investment Visa** are the two most common pathways, yet they serve very different purposes. This guide breaks down the key differences so you can make an informed decision.
 
-<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Seoul business district skyline" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Seoul business district skyline" />
 
 ## What Is the E-7 Professional Work Visa?
 
@@ -39,7 +25,7 @@ The E-7 visa is designed for **skilled professionals** who have been recruited b
 - **Validity:** Typically issued for 1 to 3 years, renewable as long as you remain employed.
 - **Qualifications:** Relevant degrees, certifications, or work experience are mandatory.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> Even if your occupation is on the approved list, immigration officers still assess whether the hiring company genuinely needs a foreign worker for the role.</div>
+<div>💡 <strong>Tip:</strong> Even if your occupation is on the approved list, immigration officers still assess whether the hiring company genuinely needs a foreign worker for the role.</div>
 
 ## What Is the D-8 Investment Visa?
 
@@ -52,7 +38,7 @@ The D-8 visa is for **foreign investors and entrepreneurs** who establish and op
 - **Validity:** Usually 1 to 2 years initially, with extensions available.
 - **Business plan:** A detailed plan showing viability and economic benefit is required.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Tip:</strong> The D-8 visa is subdivided into categories (D-8-1 through D-8-4) depending on investment size and type. Startups backed by government-recognized programs may qualify under D-8-4 with a lower capital threshold.</div>
+<div>💡 <strong>Tip:</strong> The D-8 visa is subdivided into categories (D-8-1 through D-8-4) depending on investment size and type. Startups backed by government-recognized programs may qualify under D-8-4 with a lower capital threshold.</div>
 
 ## E-7 Visa Pros and Cons
 
@@ -99,7 +85,7 @@ The D-8 visa is for **foreign investors and entrepreneurs** who establish and op
 | **Renewal basis** | Continued employment | Business activity and financial health |
 | **Path to F-5** | Points-based (F-2 route) | Investment-based (5+ years) |
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Note:</strong> Visa regulations change frequently. Always verify current requirements with the Korea Immigration Service or a licensed administrative agent before applying.</div>
+<div>⚠️ <strong>Note:</strong> Visa regulations change frequently. Always verify current requirements with the Korea Immigration Service or a licensed administrative agent before applying.</div>
 
 ## Application Process
 
@@ -127,7 +113,7 @@ Choosing between E-7 and D-8 depends on your professional background and long-te
 
 Some professionals start on an E-7 visa to learn the market, then switch to D-8 once they identify a business opportunity. This staged approach can reduce risk significantly.
 
-<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Team discussing business strategy" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Team discussing business strategy" />
 
 ## FAQ
 
@@ -157,7 +143,7 @@ Both can lead to F-5 permanent residency. The E-7 path typically goes through F-
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our expert consultants will guide you. Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>
+<div>### Free Consultation<p>Our expert consultants will guide you. Tel. 02-363-2251</p>[Request Consultation](/contact)</div>
 
 <script type="application/ld+json">
 {

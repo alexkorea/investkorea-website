@@ -86,7 +86,7 @@ export function D8ProcessContent({ t, locale = "ko" }: { t: D8PTranslations; loc
               <div className="bg-blue-600 rounded-xl p-6 text-white">
                 <h3 className="font-serif font-bold mb-2">{t.ctaTitle}</h3>
                 <p className="text-sm text-blue-100 mb-4">{t.ctaDesc}</p>
-                <Link href={getLocalePath(locale, "/contact")} className="inline-flex items-center justify-center w-full bg-white text-blue-700 font-semibold text-sm h-10 rounded-lg hover:bg-blue-50 transition-colors">{t.ctaButton}</Link>
+                <Link href={getLocalePath(locale, "/contact")} style={{background:'#A33344',color:'#fff',padding:'12px 28px',borderRadius:'8px',fontWeight:'700',fontSize:'15px',display:'flex',alignItems:'center',justifyContent:'center',textDecoration:'none'}}>{t.ctaButton}</Link>
               </div>
             </div>
           </div>

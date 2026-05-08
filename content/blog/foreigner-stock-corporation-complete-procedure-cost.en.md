@@ -15,35 +15,21 @@ excerptJa: "外国人が韓国で株式会社を設立する際の実務的手�
 image: "/slides/building.jpg"
 slug: "foreigner-stock-corporation-complete-procedure-cost"
 ---
-# Comprehensive Guide to Foreign-Owned Corporation Formation Procedures and Costs in Korea
+## Comprehensive Guide to Foreign-Owned Corporation Formation Procedures and Costs in Korea
 
 When foreigners set up a corporation in Korea, they often find the paperwork less daunting than the complexities of "explaining the source of funding" and completing the "foreign investment declaration." While the registration process itself can be wrapped up in about seven days, the journey stretches longer with steps like wiring the investment capital, providing supporting documentation, securing permits for foreign investment, and passing through various institutional reviews—all of which impact the time and expenses involved.
 
 The most common hurdles are tangled overseas wiring of investment funds, missed visa requirements for corporate representatives, and incomplete or insufficiently substantiated documentation. This article presents a streamlined overview of the process, costs, practical steps, and common sticking points for foreign-owned corporations in Korea, with tables and checklists for easy reference.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foreign-Owned Corporation Formation: Step-by-Step Comparison</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Differences Between Domestic and Foreign Formation Procedures</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Foreign Investment Declaration Process & Real-World Review</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Costs, Timeline, and Documentation Table</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Document Preparation Checklist</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Common Bottlenecks and Points of Caution</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Summary of Frequent Mistakes</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Consultation Guide</a></li>
-  </ul>
-</nav>
 
 ---
 
 ## Foreign-Owned Corporation Formation: Step-by-Step Comparison
 
-<h3>1. Step-by-Step Comparison: Domestic vs. Foreign-Owned Corporations
+### 1. Step-by-Step Comparison: Domestic vs. Foreign-Owned Corporations
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
       <th>Step</th>
       <th>Domestic Corporation</th>
@@ -74,7 +60,7 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
     <tr>
       <td>Key Institutions</td>
       <td>Court, tax office</td>
-      <td>Court, KOTRA, bank, tax office, foreign investment office</td>
+      <td>Court, [KOTRA](https://www.kotra.or.kr), bank, tax office, foreign investment office</td>
     </tr>
     <tr>
       <td>Processing Time</td>
@@ -86,11 +72,11 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 ---
 
-<h3>2. Overview of Formation Steps
+### 2. Overview of Formation Steps
 
 - Wire investment funds from overseas ↔ Foreign investment declaration (before or after transfer)
 - Corporate registration at the court
-- Foreign investment registration (KOTRA, bank)
+- Foreign investment registration ([KOTRA](https://www.kotra.or.kr), bank)
 - Business registration (tax office)
 - Application for representative's visa (e.g., D-8)
 
@@ -98,22 +84,22 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 ## Differences Between Domestic and Foreign Formation Procedures
 
-<h3>Four Key Differences for Foreign-Owned Corporation Formation
+### Four Key Differences for Foreign-Owned Corporation Formation
 
-1. <strong>Investment Fund Transfer:</strong> Only funds wired from overseas in the investor’s own name are recognized  
-2. <strong>Foreign Investment Declaration/Registration:</strong> This process doesn’t exist for domestic companies; if omitted, it results in legal disadvantages  
-3. <strong>Visa Requirements:</strong> Representative and directors must meet visa qualifications  
-4. <strong>Document Complexity:</strong> Supporting documents for investment source, career, and identity are much more detailed and stringent  
-   
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> The crucial step is wiring funds from your own overseas bank account directly to your Korean account. Family, proxy transfers, or cash brought from overseas may weaken recognition of your investment and complicate explanation at review.
+1. <strong>Investment Fund Transfer:</strong> Only funds wired from overseas in the investor’s own name are recognized
+2. <strong>Foreign Investment Declaration/Registration:</strong> This process doesn’t exist for domestic companies; if omitted, it results in legal disadvantages
+3. <strong>Visa Requirements:</strong> Representative and directors must meet visa qualifications
+4. <strong>Document Complexity:</strong> Supporting documents for investment source, career, and identity are much more detailed and stringent
+
+<div>
+  <strong>💡 Practical Tip:</strong> The crucial step is wiring funds from your own overseas bank account directly to your Korean account. Family, proxy transfers, or cash brought from overseas may weaken recognition of your investment and complicate explanation at review.
 </div>
 
-<h3>Conditions for Recognizing Investment Funds
+### Conditions for Recognizing Investment Funds
 
-- Submit overseas wire transfer details and supporting documents  
-- Wire must be under investor’s own name for clarity  
-- Consistency in amount, deposit date, and corporate formation date is key  
+- Submit overseas wire transfer details and supporting documents
+- Wire must be under investor’s own name for clarity
+- Consistency in amount, deposit date, and corporate formation date is key
 - Cash arrivals or proxy transfers are usually scrutinized more strictly
 
 ---
@@ -122,10 +108,10 @@ The most common hurdles are tangled overseas wiring of investment funds, missed 
 
 The most common stumbling block during foreign-owned corporation formation is the foreign investment declaration itself and gaining official recognition of the capital from the bank.
 
-<h3>Foreign Investment Declaration Process (Full Workflow)
+### Foreign Investment Declaration Process (Full Workflow)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
       <th>Step</th>
       <th>Description</th>
@@ -137,7 +123,7 @@ The most common stumbling block during foreign-owned corporation formation is th
     <tr>
       <td>1. Investment Declaration</td>
       <td>Declare before or after overseas fund transfer</td>
-      <td>KOTRA, Foreign Investment Support Center</td>
+      <td>[KOTRA](https://www.kotra.or.kr), Foreign Investment Support Center</td>
       <td>Declaration form, supporting documents for source of funds</td>
     </tr>
     <tr>
@@ -155,7 +141,7 @@ The most common stumbling block during foreign-owned corporation formation is th
     <tr>
       <td>4. Investment Registration</td>
       <td>Register as a foreign-invested company</td>
-      <td>Bank, KOTRA</td>
+      <td>Bank, [KOTRA](https://www.kotra.or.kr)</td>
       <td>Corporate registration, capital deposit verification</td>
     </tr>
     <tr>
@@ -173,11 +159,11 @@ The most common stumbling block during foreign-owned corporation formation is th
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Missing the foreign investment declaration can cause issues during business registration or visa review. Especially if the representative needs a D-8 visa, failure to have recognized investment will prevent visa issuance.
+<div>
+  <strong>⚠️ Caution:</strong> Missing the foreign investment declaration can cause issues during business registration or visa review. Especially if the representative needs a D-8 visa, failure to have recognized investment will prevent visa issuance.
 </div>
 
-<h3>Documents Checked During Real-World Review
+### Documents Checked During Real-World Review
 
 - Proof of investor’s nationality
 - Confirmation that funds were wired in investor’s own name
@@ -188,10 +174,10 @@ The most common stumbling block during foreign-owned corporation formation is th
 
 ## Costs, Timeline, and Documentation Table
 
-<h3>Costs, Timeline, and Key Requirements by Formation Step
+### Costs, Timeline, and Key Requirements by Formation Step
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
       <th>Item</th>
       <th>Required Cost (KRW)</th>
@@ -239,113 +225,109 @@ The most common stumbling block during foreign-owned corporation formation is th
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Agency fees for wiring and formation vary greatly depending on investment amount, corporation type, and complexity. Most failure cases stem from <strong>insufficient documentation for fund transfer</strong> or <strong>visa eligibility issues (career/qualification)</strong>.
+<div>
+  <strong>⚠️ Caution:</strong> Agency fees for wiring and formation vary greatly depending on investment amount, corporation type, and complexity. Most failure cases stem from <strong>insufficient documentation for fund transfer</strong> or <strong>visa eligibility issues (career/qualification)</strong>.
 </div>
 
 ---
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Detailed view of a hand writing a signature on an official document with a ballpoint pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Detailed view of a hand writing a signature on an official document with a ballpoint pen.](https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## Document Preparation Checklist
 
-<h3>Essential Documents for Corporation Formation
+### Essential Documents for Corporation Formation
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Investor’s passport (original and copy)</li>
-    <li>Foreign investment declaration form (KOTRA/agency-specific)</li>
-    <li>Wire transfer receipt, transaction details</li>
-    <li>Corporate formation documents (articles of incorporation, minutes of founding meeting, appointment of director, etc.)</li>
-    <li>Share subscription documents (shareholder list, subscription agreement)</li>
-    <li>Office lease contract</li>
-    <li>Copies of career and qualification certificates for representative/director (if applying for visa)</li>
-    <li>Foreign registration card (if already residing in Korea)</li>
-    <li>Business plan (for visa applications)</li>
-    <li>Various registration/declaration forms (court, tax office, immigration, etc.)</li>
-  </ul>
+<div>
+  <strong>✅ Checklist</strong>
+
+    Investor’s passport (original and copy)
+    Foreign investment declaration form ([KOTRA](https://www.kotra.or.kr)/agency-specific)
+    Wire transfer receipt, transaction details
+    Corporate formation documents (articles of incorporation, minutes of founding meeting, appointment of director, etc.)
+    Share subscription documents (shareholder list, subscription agreement)
+    Office lease contract
+    Copies of career and qualification certificates for representative/director (if applying for visa)
+    Foreign registration card (if already residing in Korea)
+    Business plan (for visa applications)
+    Various registration/declaration forms (court, tax office, immigration, etc.)
+
 </div>
 
-<h3>How to Organize Documents to Avoid Redundant Submissions
+### How to Organize Documents to Avoid Redundant Submissions
 
-- Make 2–3 copies for submissions to different authorities  
-- Originals requiring authentication must be <strong>notarized/apostilled</strong>  
+- Make 2–3 copies for submissions to different authorities
+- Originals requiring authentication must be <strong>notarized/apostilled</strong>
 - Missing certified translations (English to Korean) often leads to review issues
 
 ---
 
 ## Common Bottlenecks and Points of Caution
 
-<h3>Top 5 Common Sticking Points
+### Top 5 Common Sticking Points
 
-1. Weak explanation for the source of investment funds  
-2. Lack of evidence for shareholder structure, experience, or qualifications  
-3. Omission of document translation, notarization, or apostille  
-4. Problems with office address (banned business types, incomplete lease contract)  
+1. Weak explanation for the source of investment funds
+2. Lack of evidence for shareholder structure, experience, or qualifications
+3. Omission of document translation, notarization, or apostille
+4. Problems with office address (banned business types, incomplete lease contract)
 5. Insufficiently convincing business plan for visa review
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> For your business plan, focus on <strong>"actual feasibility"</strong> rather than length for successful review. Vague or overly generic descriptions may cause visa rejection.
+<div>
+  <strong>💡 Practical Tip:</strong> For your business plan, focus on <strong>"actual feasibility"</strong> rather than length for successful review. Vague or overly generic descriptions may cause visa rejection.
 </div>
 
-<h3>On-the-Ground Practical Tips
+### On-the-Ground Practical Tips
 
-- Prepare documents in strict order: originals, notarized copies, apostille  
-- Deposit amount must meet minimum investment requirement for business registration  
-- Deposit date, registration date, and declaration date must align to avoid review issues  
+- Prepare documents in strict order: originals, notarized copies, apostille
+- Deposit amount must meet minimum investment requirement for business registration
+- Deposit date, registration date, and declaration date must align to avoid review issues
 - Corporate address must be a proper office (residential property not accepted)
 
 ---
 
 ## Summary of Frequent Mistakes
 
-<h3>Common Pitfalls in Foreign-Invested Corporation Formation
+### Common Pitfalls in Foreign-Invested Corporation Formation
 
-1. Investment funds wired by proxies or family members, not in investor’s name  
-2. Investment declaration happens after formation, but capital was deposited beforehand  
-3. Omission of representative’s career/qualification certificates  
-4. Missing certified translation or authentication of original documents  
-5. Weak business plan for D-8 visa application by representative  
-6. Office lease contract doesn’t meet business registration standards  
-7. Unclear shareholder rights or share structure (confusion in shareholder list)  
-8. Investment funds deposited do not match capital requirement, resulting in declaration failure  
-9. Source of funds found to be illegal or unverified  
-10. Insufficient copies for submissions to all relevant institutions  
+1. Investment funds wired by proxies or family members, not in investor’s name
+2. Investment declaration happens after formation, but capital was deposited beforehand
+3. Omission of representative’s career/qualification certificates
+4. Missing certified translation or authentication of original documents
+5. Weak business plan for D-8 visa application by representative
+6. Office lease contract doesn’t meet business registration standards
+7. Unclear shareholder rights or share structure (confusion in shareholder list)
+8. Investment funds deposited do not match capital requirement, resulting in declaration failure
+9. Source of funds found to be illegal or unverified
+10. Insufficient copies for submissions to all relevant institutions
 
 ---
 
 ## FAQ
 
-<h3>Q1. What’s the minimum capital requirement for foreigners to set up a corporation in Korea?
-A. According to the Foreign Investment Promotion Act, generally an investment of at least KRW 100 million (about USD 80,000) is required to be recognized as a foreign-invested company and qualify for a D-8 visa. Requirements may vary by industry or region, so check with KOTRA or the relevant authority.
+### Q1. What’s the minimum capital requirement for foreigners to set up a corporation in Korea?
+A. According to the Foreign Investment Promotion Act, generally an investment of at least KRW 100 million (about USD 80,000) is required to be recognized as a foreign-invested company and qualify for a D-8 visa. Requirements may vary by industry or region, so check with [KOTRA](https://www.kotra.or.kr) or the relevant authority.
 
-<h3>Q2. Can funds brought in as cash from overseas be recognized as investment capital?
+### Q2. Can funds brought in as cash from overseas be recognized as investment capital?
 A. In principle, yes—if you can clearly document the wire transfer details, transaction receipts, and source of funds. In practice, wiring funds from your personal overseas bank account is regarded as most reliable.
 
-<h3>Q3. Is it okay to submit the foreign investment declaration after transferring the funds?
+### Q3. Is it okay to submit the foreign investment declaration after transferring the funds?
 A. You can declare before or after the fund transfer, but missing the declaration may result in rejection at corporate formation or business registration reviews. Aligning fund transfer and declaration is essential.
 
-<h3>Q4. Does the representative need to have relevant career experience or qualifications to apply for a D-8 visa?
+### Q4. Does the representative need to have relevant career experience or qualifications to apply for a D-8 visa?
 A. The D-8 review heavily weighs business plan credibility, representative’s experience, and qualifications. Lack of career or certification can lead to denial.
 
-<h3>Q5. Why do agency fees for formation services vary so much?
+### Q5. Why do agency fees for formation services vary so much?
 A. Fees depend on the investment amount, corporation type, document complexity, and visa application support. Cases with weak fund documentation or complex visa issues are more expensive.
 
 ---
 
 ## Consultation Guide
 
-<h3>Handling the formation, investment declaration, and visa review for a foreign-owned corporation in Korea is rarely straightforward. For practical guidance on navigating real-world obstacles and detailed help with procedures and documentation, reach out via the contact information below.
+### Handling the formation, investment declaration, and visa review for a foreign-owned corporation in Korea is rarely straightforward. For practical guidance on navigating real-world obstacles and detailed help with procedures and documentation, reach out via the contact information below.
 
-Contact:  
-- Phone: 02-363-2251  
-- Email: 5000meter@gmail.com  
-- Address: 3rd Floor, Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614  
+Contact:
+- Phone: 02-363-2251
+- Email: 5000meter@gmail.com
+- Address: 3rd Floor, Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
 - Office Name: Vision Administrative Office

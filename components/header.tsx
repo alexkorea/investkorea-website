@@ -2,6 +2,7 @@
 
 import * as React from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { Globe, Menu, X, ChevronDown } from "lucide-react"
 import { usePathname } from "next/navigation"
 import { type Locale, localeNames, getTranslations } from "@/lib/translations"
@@ -120,12 +121,10 @@ export function Header({ locale = "ko" }: { locale?: Locale }) {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href={getLocalePath(locale, "/")} className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-serif font-bold text-lg">V</span>
-            </div>
+            <Image src="/logo-vk.png" alt="VISION" width={44} height={44} className="rounded-lg" />
             <div className="flex flex-col leading-tight">
               <span className="font-serif text-lg font-semibold text-gray-900">VISION</span>
-              <span className="text-[10px] text-gray-500 -mt-1 hidden sm:block">행정사사무소</span>
+              <span className="text-[10px] text-gray-500 -mt-1 hidden sm:block">{{ ko: "행정사사무소", en: "Administrative Attorney Agent", zh: "行政士事务所", ja: "行政書士事務所" }[locale] || "행정사사무소"}</span>
             </div>
           </Link>
 

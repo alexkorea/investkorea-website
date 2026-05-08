@@ -15,27 +15,12 @@ excerptJa: "外国人が韓国で株式会社を設立する際に実務で詰�
 image: "/slides/building.jpg"
 slug: "foreigner-corporation-setup-full-procedure-costs"
 ---
-# 外国人股份公司设立流程与费用全解析
+## 外国人股份公司设立流程与费用全解析
 
 外国人在韩国设立股份公司(株式會社)表面看起来并不复杂,但在实务操作中,**外国人投资申报 → 注册资本汇款 → 登记 → 营业登记 → 外国人投资企业登记**这五个步骤一旦顺序搞乱,整体进度往往会被推迟两到三周。尤其是当投资金额在1亿韩元以上并计划衔接D-8签证时,从一开始就必须按"外国人投资"路径推进;若先以普通法人形式设立之后再转换,在实务中几乎都会遇到阻碍。
 
 除注册资本外,仅看设立实际开支,**登录许可税、地方教育税、公证费、登记手续费、行政士手续费**加在一起,通常在120万~250万韩元之间。注册资本方面,要被认定为外国人投资,最低需1亿韩元;若以D-8签证为目标,则需1亿韩元以上,并且必须从本人名下的海外账户汇款完成。如果无法清楚说明这一资金流向,审查就会在这一环节卡住。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人股份公司设立,先看核心要点</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外国人投资企业 vs 普通股份公司的差异</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 设立前的准备事项与所需材料</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 设立流程分步推进顺序</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 注册资本与设立费用的实际金额</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 法人设立后的必办后续手续</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 签证(D-8)衔接时的注意事项</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误</a></li>
-    <li><a href="#section-faq" style="color:#2563eb;text-decoration:none">9. 常见问题(FAQ)</a></li>
-    <li><a href="#section-cta" style="color:#2563eb;text-decoration:none">10. Vision 行政士事务所咨询指引</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1"></span>1. 外国人股份公司设立,先看核心要点
 
@@ -47,12 +32,12 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 ### 为什么必须从一开始就走"外国人投资"路径
 
-最常被忽略的环节是注册资本的汇款时机。外国人先以韩国人名义设立普通股份公司,再日后将股权转让给自己的做法,在《外国人投资促进法》上是不被认定为外国人投资的。必须从一开始就向KOTRA或外汇银行提交外国人投资申报书,并以该申报号为依据办理注册资本汇款。
+最常被忽略的环节是注册资本的汇款时机。外国人先以韩国人名义设立普通股份公司,再日后将股权转让给自己的做法,在《外国人投资促进法》上是不被认定为外国人投资的。必须从一开始就向[KOTRA](https://www.kotra.or.kr)或外汇银行提交外国人投资申报书,并以该申报号为依据办理注册资本汇款。
 
 如果这一顺序出错,D-8签证审查阶段就会被判定"这笔钱不属于外国人投资资金",最终结果就是公司留下了,签证却办不下来。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 先借用韩国熟人名义设立法人,再由外国人收购股权的方式,无法与D-8签证挂钩。必须从一开始就按"外国人投资法人"设计,签证和投资业绩才能同时纳入。
+<div>
+  <strong>⚠️ 注意:</strong> 先借用韩国熟人名义设立法人,再由外国人收购股权的方式,无法与D-8签证挂钩。必须从一开始就按"外国人投资法人"设计,签证和投资业绩才能同时纳入。
 </div>
 
 ## <span id="section-2"></span>2. 外国人投资企业 vs 普通股份公司的差异
@@ -63,44 +48,44 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 ### 一览对比
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">外国人投资企业(FDI)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">普通股份公司(外国人持股)</th>
+      <th>项目</th>
+      <th>外国人投资企业(FDI)</th>
+      <th>普通股份公司(外国人持股)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低注册资本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">每人1亿韩元以上(持股10%以上)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限制(实际100万韩元也可)</td>
+      <td>最低注册资本</td>
+      <td>每人1亿韩元以上(持股10%以上)</td>
+      <td>无限制(实际100万韩元也可)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">申报机关</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA或外汇银行(外国人投资申报)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无需单独申报</td>
+      <td>申报机关</td>
+      <td>[KOTRA](https://www.kotra.or.kr)或外汇银行(外国人投资申报)</td>
+      <td>无需单独申报</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8签证衔接</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可行(投资业绩被认可)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>D-8签证衔接</td>
+      <td>可行(投资业绩被认可)</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业登记证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">核发</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不核发</td>
+      <td>外国人投资企业登记证</td>
+      <td>核发</td>
+      <td>不核发</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">税收减免与补贴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">符合条件者(按行业/地区)适用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不适用</td>
+      <td>税收减免与补贴</td>
+      <td>符合条件者(按行业/地区)适用</td>
+      <td>不适用</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">注册资本汇款要求</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">从本人名下海外账户按投资申报号汇入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">相对自由</td>
+      <td>注册资本汇款要求</td>
+      <td>从本人名下海外账户按投资申报号汇入</td>
+      <td>相对自由</td>
     </tr>
   </tbody>
 </table>
@@ -115,55 +100,55 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 外国人本人需要准备的材料,大多要在本国办理后带到韩国,或附上海牙认证(Apostille)或领事认证。材料虽多,但审查中真正拉开差距的,是"签名公证是否办得到位"。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外国人个人投资者准备材料清单</strong>
-  <ul style="margin-top:12px">
-    <li>护照复印件(有效期剩余6个月以上)</li>
-    <li>本国住址证明(居住证明、驾照等)</li>
-    <li>签名公证书(本国公证或驻韩本国大使馆公证)</li>
-    <li>附有海牙认证或领事认证的上述材料</li>
-    <li>可说明投资资金来源的银行余额、工资、资产出售等证明</li>
-    <li>在韩居留期间的居留证(外国人登录)或临时住处信息</li>
-  </ul>
+<div>
+  <strong>✅ 外国人个人投资者准备材料清单</strong>
+
+    护照复印件(有效期剩余6个月以上)
+    本国住址证明(居住证明、驾照等)
+    签名公证书(本国公证或驻韩本国大使馆公证)
+    附有海牙认证或领事认证的上述材料
+    可说明投资资金来源的银行余额、工资、资产出售等证明
+    在韩居留期间的居留证(外国人登录)或临时住处信息
+
 </div>
 
 ### 投资方为法人总部的情况
 
 如果是海外总部在韩国设立子公司的形式,总部方需提供的材料会复杂得多。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">核查要点</th>
+      <th>项目</th>
+      <th>材料</th>
+      <th>核查要点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">总部登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人登记簿誊本(Certificate of Incorporation)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">必须办理海牙认证或领事认证</td>
+      <td>总部登记</td>
+      <td>法人登记簿誊本(Certificate of Incorporation)</td>
+      <td>必须办理海牙认证或领事认证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">代表权限</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">董事会决议(批准设立韩国法人)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">同时要求提供签字人权限证明文件</td>
+      <td>代表权限</td>
+      <td>董事会决议(批准设立韩国法人)</td>
+      <td>同时要求提供签字人权限证明文件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">委任</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">代理人授权书(POA)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公证+海牙认证</td>
+      <td>委任</td>
+      <td>代理人授权书(POA)</td>
+      <td>公证+海牙认证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">财务</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最近审计报告或财务报表</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">用以证明投资能力</td>
+      <td>财务</td>
+      <td>最近审计报告或财务报表</td>
+      <td>用以证明投资能力</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">签字</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">签字样本(Signature Card)公证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记所最常要求补正的环节</td>
+      <td>签字</td>
+      <td>签字样本(Signature Card)公证</td>
+      <td>登记所最常要求补正的环节</td>
     </tr>
   </tbody>
 </table>
@@ -172,71 +157,71 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 即使总部或投资人一方的材料全部齐全,前提仍是先在国内落实办公室地址。大多数人都卡在这一步。以住宅地址或共享办公地址也可以完成法人设立,但部分行业(金融、医疗、教育)必须具备可实际经营的空间,而D-8签证审查还会再次核查"该地址是否具备实际经营条件"。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> 若打算使用共享办公,请选择能出具"独立办公空间租赁合同"的场所。单纯会员制的共享办公在D-8签证审查中经常被认定为"无办公室实体"。
+<div>
+  <strong>💡 实务提示:</strong> 若打算使用共享办公,请选择能出具"独立办公空间租赁合同"的场所。单纯会员制的共享办公在D-8签证审查中经常被认定为"无办公室实体"。
 </div>
 
 ## <span id="section-4"></span>4. 设立流程分步推进顺序
 
 ### 先看整体流程
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">负责机关</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所需时间</th>
+      <th>步骤</th>
+      <th>内容</th>
+      <th>负责机关</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">检索商号并确定办公地址</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">互联网登记所 / 出租方</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3天</td>
+      <td>1</td>
+      <td>检索商号并确定办公地址</td>
+      <td>互联网登记所 / 出租方</td>
+      <td>1~3天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA或外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2天</td>
+      <td>2</td>
+      <td>外国人投资申报</td>
+      <td>[KOTRA](https://www.kotra.or.kr)或外汇银行</td>
+      <td>1~2天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资款(注册资本)境外汇入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">指定外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5天</td>
+      <td>3</td>
+      <td>投资款(注册资本)境外汇入</td>
+      <td>指定外汇银行</td>
+      <td>2~5天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">起草章程、公证、发起人会</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公证人事务所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2天</td>
+      <td>4</td>
+      <td>起草章程、公证、发起人会</td>
+      <td>公证人事务所</td>
+      <td>1~2天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人设立登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管辖登记所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~7天</td>
+      <td>5</td>
+      <td>法人设立登记</td>
+      <td>管辖登记所</td>
+      <td>3~7天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管辖税务署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5天</td>
+      <td>6</td>
+      <td>营业登记</td>
+      <td>管辖税务署</td>
+      <td>2~5天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA或外汇银行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3天</td>
+      <td>7</td>
+      <td>外国人投资企业登记</td>
+      <td>[KOTRA](https://www.kotra.or.kr)或外汇银行</td>
+      <td>1~3天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">8</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">开立法人账户、申报四大社会保险</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">银行 / 公团</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~7天</td>
+      <td>8</td>
+      <td>开立法人账户、申报四大社会保险</td>
+      <td>银行 / 公团</td>
+      <td>3~7天</td>
     </tr>
   </tbody>
 </table>
@@ -253,8 +238,8 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 汇款须从本人名下海外账户汇入发起人(设立后的代表董事)本人名下的韩国临时账户,或指定的外汇银行。汇款摘要(remittance purpose)须注明为"Foreign Direct Investment"。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 若从第三方账户汇款,或经由韩国熟人账户转账入账,将不被认定为外国人投资资金。资金来源与账户名义必须一致。
+<div>
+  <strong>⚠️ 注意:</strong> 若从第三方账户汇款,或经由韩国熟人账户转账入账,将不被认定为外国人投资资金。资金来源与账户名义必须一致。
 </div>
 
 ### 第4步:起草章程与公证
@@ -271,7 +256,7 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 ### 第7步:外国人投资企业登记
 
-营业登记完成后,在KOTRA或申报所在的外汇银行领取外国人投资企业登记证。拿到这张登记证,才能进入D-8签证申请阶段。
+营业登记完成后,在[KOTRA](https://www.kotra.or.kr)或申报所在的外汇银行领取外国人投资企业登记证。拿到这张登记证,才能进入D-8签证申请阶段。
 
 ### 第8步:法人账户与四大社会保险
 
@@ -285,49 +270,49 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 ### 费用明细(不含注册资本)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">大致金额</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">计算依据</th>
+      <th>项目</th>
+      <th>大致金额</th>
+      <th>计算依据</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登录许可税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">注册资本 × 0.4%(首都圈过密抑制区域按3倍重征)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《地方税法》</td>
+      <td>登录许可税</td>
+      <td>注册资本 × 0.4%(首都圈过密抑制区域按3倍重征)</td>
+      <td>《地方税法》</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">地方教育税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登录许可税的20%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">《地方税法》</td>
+      <td>地方教育税</td>
+      <td>登录许可税的20%</td>
+      <td>《地方税法》</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记申请手续费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记局规定</td>
+      <td>登记申请手续费</td>
+      <td>约3万韩元</td>
+      <td>登记局规定</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">章程公证费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约20万~30万韩元(注册资本不足10亿时可省略)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公证收费标准</td>
+      <td>章程公证费</td>
+      <td>约20万~30万韩元(注册资本不足10亿时可省略)</td>
+      <td>公证收费标准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">翻译与公证实支</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">10万~40万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">材料数量</td>
+      <td>翻译与公证实支</td>
+      <td>10万~40万韩元</td>
+      <td>材料数量</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">行政士/法务士服务费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">80万~180万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按事务所及服务范围</td>
+      <td>行政士/法务士服务费</td>
+      <td>80万~180万韩元</td>
+      <td>按事务所及服务范围</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">银行汇款手续费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3万~10万韩元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按金额及币种</td>
+      <td>银行汇款手续费</td>
+      <td>3万~10万韩元</td>
+      <td>按金额及币种</td>
     </tr>
   </tbody>
 </table>
@@ -343,16 +328,12 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 若把总部设在地方城市,就不适用登录许可税3倍重征,实支可减少60万~80万韩元。若注册资本提高到2亿韩元,登录许可税也翻倍,合计就会上升到400万韩元左右。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> "注册资本1亿韩元"并不意味着钱被花掉了。资金会进入法人账户,之后通过办公室租赁、人工费、库存采购等方式实际支出。关键是首次汇款时,这1亿韩元必须真实到账。
+<div>
+  <strong>⚠️ 注意:</strong> "注册资本1亿韩元"并不意味着钱被花掉了。资金会进入法人账户,之后通过办公室租赁、人工费、库存采购等方式实际支出。关键是首次汇款时,这1亿韩元必须真实到账。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7644154/pexels-photo-7644154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Corporate professionals engaged in a meeting in a well-lit modern office space with window blinds." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Corporate professionals engaged in a meeting in a well-lit modern office space with window blinds.](https://images.pexels.com/photos/7644154/pexels-photo-7644154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6"></span>6. 法人设立后的必办后续手续
@@ -375,44 +356,44 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 ### 各行业的许可备案
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">行业</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">附加许可或备案</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">主管机关</th>
+      <th>行业</th>
+      <th>附加许可或备案</th>
+      <th>主管机关</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">进出口、流通</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通关专用编号</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">关税厅</td>
+      <td>进出口、流通</td>
+      <td>通关专用编号</td>
+      <td>关税厅</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">通信销售、电子商务</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通信销售业备案</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">市、郡、区厅</td>
+      <td>通信销售、电子商务</td>
+      <td>通信销售业备案</td>
+      <td>市、郡、区厅</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">餐饮业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业备案、卫生培训</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">保健所、食药处</td>
+      <td>餐饮业</td>
+      <td>营业备案、卫生培训</td>
+      <td>保健所、食药处</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">劳务派遣</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">劳动者派遣事业许可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">雇佣劳动部</td>
+      <td>劳务派遣</td>
+      <td>劳动者派遣事业许可</td>
+      <td>雇佣劳动部</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">旅行业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">国内、国外、综合旅行业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">市/道厅 旅游处</td>
+      <td>旅行业</td>
+      <td>国内、国外、综合旅行业登记</td>
+      <td>市/道厅 旅游处</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">化妆品进口</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">化妆品责任销售业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">食药处</td>
+      <td>化妆品进口</td>
+      <td>化妆品责任销售业登记</td>
+      <td>食药处</td>
     </tr>
   </tbody>
 </table>
@@ -427,8 +408,8 @@ slug: "foreigner-corporation-setup-full-procedure-costs"
 
 首先要注意的是资金来源的说明。即便账户里有钱,如果资金流向解释薄弱,也会在这里出问题。实际审查中会逐项核查:"这1亿韩元从何而来、最近3~12个月如何积累、是否为本人名下"。商业计划书比起洋洋洒洒,更重要的是数字与行业描述能对得上。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> 打算一次性借款凑足1亿韩元汇入,等D-8一下发就立即归还的做法非常危险。出入境审查一旦判定为"临时性汇款",签证就会被拒;回收注册资本时还会牵扯到外汇申报问题。
+<div>
+  <strong>💡 实务提示:</strong> 打算一次性借款凑足1亿韩元汇入,等D-8一下发就立即归还的做法非常危险。出入境审查一旦判定为"临时性汇款",签证就会被拒;回收注册资本时还会牵扯到外汇申报问题。
 </div>
 
 ### 核查办公室实体
@@ -437,39 +418,39 @@ D-8审查不止看地址,还会核查是否真的具备经营条件。使用共�
 
 ### 详细资格对比
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">D-8(企业投资)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">D-9(贸易经营)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">D-10(求职)</th>
+      <th>项目</th>
+      <th>D-8(企业投资)</th>
+      <th>D-9(贸易经营)</th>
+      <th>D-10(求职)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">对象</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业高管</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">有进出口业绩的个人/法人经营者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">求职准备者</td>
+      <td>对象</td>
+      <td>外国人投资企业高管</td>
+      <td>有进出口业绩的个人/法人经营者</td>
+      <td>求职准备者</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">注册资本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3亿韩元以上业绩</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不适用</td>
+      <td>注册资本</td>
+      <td>1亿韩元以上</td>
+      <td>3亿韩元以上业绩</td>
+      <td>不适用</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">居留期限</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最长5年,可延长</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最长2年,可延长</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6个月,可延长1次</td>
+      <td>居留期限</td>
+      <td>最长5年,可延长</td>
+      <td>最长2年,可延长</td>
+      <td>6个月,可延长1次</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-2/F-5 衔接</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可行(积分制加分)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">受限</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>F-2/F-5 衔接</td>
+      <td>可行(积分制加分)</td>
+      <td>受限</td>
+      <td>不可</td>
     </tr>
   </tbody>
 </table>
@@ -500,8 +481,8 @@ D-8审查不止看地址,还会核查是否真的具备经营条件。使用共�
 
 外国人代表在没有韩国外国人登录证的情况下设立法人,理论上可行。但开立法人账户、申办互联网认证证书、Hometax电子税金计算书发行等环节,都需要外国人登录号才能进行。不少情况都是"设立完成了但运营停滞",正是卡在这里。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> "先把登记办下来之后再慢慢收拾"是现场最容易出事故的思路。应把设立 → 投资登记 → 签证 → 账户 → 四大保险视为一整套流程,统一排期推进。
+<div>
+  <strong>⚠️ 注意:</strong> "先把登记办下来之后再慢慢收拾"是现场最容易出事故的思路。应把设立 → 投资登记 → 签证 → 账户 → 四大保险视为一整套流程,统一排期推进。
 </div>
 
 ## <span id="section-faq"></span>9. 常见问题(FAQ)
@@ -532,14 +513,14 @@ D-8审查不止看地址,还会核查是否真的具备经营条件。使用共�
 
 Vision 行政士事务所将外国人法人设立、外国人投资申报、D-8签证统一在单一窗口处理。在设立阶段就按签证审查标准匹配注册资本、业务类型、办公室,能提前规避设立之后"签证下不来"的困境。
 
-<div style="background:#f0f7ff;border:1px solid #93c5fd;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Vision 行政士事务所(VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;margin:0">
-    <li style="padding:4px 0"><strong>电话:</strong> 02-363-2251</li>
-    <li style="padding:4px 0"><strong>邮箱:</strong> 5000meter@gmail.com</li>
-    <li style="padding:4px 0"><strong>地址:</strong>(04614)首尔特别市中区退溪路324号,3楼(城宇大厦)</li>
-    <li style="padding:4px 0"><strong>咨询领域:</strong> 外国人法人设立 · 外国人投资申报 · D-8签证 · F-2/F-5转换</li>
-  </ul>
+<div>
+### Vision 行政士事务所(VISION Administrative Office)
+
+    <strong>电话:</strong> 02-363-2251
+    <strong>邮箱:</strong> 5000meter@gmail.com
+    <strong>地址:</strong>(04614)首尔特别市中区退溪路324号,3楼(城宇大厦)
+    <strong>咨询领域:</strong> 外国人法人设立 · 外国人投资申报 · D-8签证 · F-2/F-5转换
+
 </div>
 
 首次咨询时,只需整理好**拟投资金额、目标行业、总部地址候选、是否有共同投资人、居留计划**,即可立即测算出实际费用与时间安排。

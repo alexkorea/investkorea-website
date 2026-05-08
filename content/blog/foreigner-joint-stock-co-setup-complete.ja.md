@@ -15,28 +15,12 @@ excerptJa: "外国人投資法人と一般設立の分かれ目から資本金�
 image: "/slides/building.jpg"
 slug: "foreigner-joint-stock-co-setup-complete"
 ---
-# 外国人株式会社設立の手続きと費用まとめ
+## 外国人株式会社設立の手続きと費用まとめ
 
 外国人が韓国で株式会社を設立する際、まず分岐点となるのは**「外国人投資法人(FDI)で進めるか、一般の外国人設立で進めるか」**です。投資金1億ウォン以上を海外から送金し、外国人投資促進法に基づいて届出を行えば外国人投資法人となり、それ未満の金額で進める場合は内国人の設立とほぼ同じ商法上の株式会社手続きを踏むことになります。平均処理期間は**4〜6週間**、設立費用の総額は登録免許税・公証料・司法書士(法務)代行料を合わせて**約300万ウォン〜600万ウォン**の範囲が最も一般的です。
 
 実務で詰まるのは手続きそのものよりも、**「資本金の出所・送金経路の証憑」**と**「本国発行書類のアポスティーユ・領事認証」**です。書類の数よりもこの2点の説明が弱いと、銀行送金の段階から話がこじれ、D-8ビザとの連携では入国審査の段階で即座に引っかかります。本稿では、設立形態の決定から送金・登記・税務・ビザに至るまで、お金と時間を無駄にしないよう順序を整理することに焦点を当てます。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人株式会社、どの形態で設立するか</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 設立前に先に決めておくべき6つのポイント</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 段階別の設立手続き(4〜6週間のロードマップ)</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 必要書類の完全ガイド</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 資本金の送金と外国為替届出の実務</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 設立費用まとめ(項目別の実際の金額)</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. D-8ビザとの連携順序</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 設立後に必ず行うべき後続手続き</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 現場で最も多い失敗パターン</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. よくある質問(FAQ)</a></li>
-    <li><a href="#section-11" style="color:#2563eb;text-decoration:none">11. ご相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1"></span>1. 外国人株式会社、どの形態で設立するか
 
@@ -46,44 +30,44 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 最初に確認すべきは、**「外投法人の要件を満たすかどうか」**です。外国人投資促進法上、外国人投資と認められるには、通常1億ウォン以上を海外から送金して株式の10%以上を取得する必要があります。この要件を満たせば外国人投資企業登録証が発行され、D-8ビザ・税制優遇・外国人投資地域への入居といった特典と結びつきます。逆に1億ウォン未満で進めると、外投法人ではなく「外国人が株主である一般法人」という扱いとなり、D-8ビザとの連携は根本的に遮断されます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">外国人投資法人(FDI)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">一般外国人設立</th>
+      <th>区分</th>
+      <th>外国人投資法人(FDI)</th>
+      <th>一般外国人設立</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低投資額</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン以上(海外送金)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">商法上の制限なし(実務上1,000万ウォン前後)</td>
+      <td>最低投資額</td>
+      <td>1億ウォン以上(海外送金)</td>
+      <td>商法上の制限なし(実務上1,000万ウォン前後)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">持分要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人持分10%以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">制限なし</td>
+      <td>持分要件</td>
+      <td>外国人持分10%以上</td>
+      <td>制限なし</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資届出</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">必須(銀行またはKOTRA)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">対象外</td>
+      <td>外国人投資届出</td>
+      <td>必須(銀行または[KOTRA](https://www.kotra.or.kr))</td>
+      <td>対象外</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8ビザとの連携</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不可</td>
+      <td>D-8ビザとの連携</td>
+      <td>可能</td>
+      <td>不可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">税制優遇</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">業種・地域要件を満たせば可能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">該当なし</td>
+      <td>税制優遇</td>
+      <td>業種・地域要件を満たせば可能</td>
+      <td>該当なし</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">発行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">非発行</td>
+      <td>外国人投資企業登録証</td>
+      <td>発行</td>
+      <td>非発行</td>
     </tr>
   </tbody>
 </table>
@@ -129,60 +113,60 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 株式会社は商法上、取締役1名以上(資本金10億ウォン未満の場合)、監査または監査委員会の構成が原則です。外国人の代表取締役は、**在留資格がなくても就任は可能ですが、実際の業務遂行には制限**があるため、ビザの日程と連動することになります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> 資本金・持分・業種・住所・ビザ、この5つのうち1つでも不明確なら、定款作成の段階に進んではいけません。定款は一度公証を受けると、変更のたびに変更登記・変更届出の費用が別途かかります。下書きの段階ですべて詰めておくのが、結果的に最も安く済ませる近道です。
+<div>
+  <strong>💡 実務のヒント:</strong> 資本金・持分・業種・住所・ビザ、この5つのうち1つでも不明確なら、定款作成の段階に進んではいけません。定款は一度公証を受けると、変更のたびに変更登記・変更届出の費用が別途かかります。下書きの段階ですべて詰めておくのが、結果的に最も安く済ませる近道です。
 </div>
 
 ## <span id="section-3"></span>3. 段階別の設立手続き(4〜6週間のロードマップ)
 
 手続きは大きく**「外国人投資届出 → 資本金送金 → 法人登記 → 事業者登録 → 外国人投資企業登録」**の5段階です。外投法人でない場合は、1段階目と5段階目が省かれます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">段階</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">主な業務</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">処理機関</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所要期間</th>
+      <th>段階</th>
+      <th>主な業務</th>
+      <th>処理機関</th>
+      <th>所要期間</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資届出</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行 / KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日〜2日</td>
+      <td>1</td>
+      <td>外国人投資届出</td>
+      <td>外国為替銀行 / [KOTRA](https://www.kotra.or.kr)</td>
+      <td>当日〜2日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金送金・証憑受領</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海外送金銀行 / 国内受取銀行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3〜7日</td>
+      <td>2</td>
+      <td>資本金送金・証憑受領</td>
+      <td>海外送金銀行 / 国内受取銀行</td>
+      <td>3〜7日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款作成・公証・登記申請</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公証事務所 / 所轄登記所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+      <td>3</td>
+      <td>定款作成・公証・登記申請</td>
+      <td>公証事務所 / 所轄登記所</td>
+      <td>1〜2週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">所轄税務署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3〜5日</td>
+      <td>4</td>
+      <td>事業者登録</td>
+      <td>所轄税務署</td>
+      <td>3〜5日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行 / KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜3日</td>
+      <td>5</td>
+      <td>外国人投資企業登録</td>
+      <td>外国為替銀行 / [KOTRA](https://www.kotra.or.kr)</td>
+      <td>1〜3日</td>
     </tr>
   </tbody>
 </table>
 
 ### 3-1. 外国人投資届出(第1段階)
 
-外国為替銀行の窓口またはKOTRAで届出を行います。必要書類は**投資家の身分証(パスポート)・投資届出書・投資金額・業種**などの情報でシンプルですが、投資家が外国法人の場合は、本国の法人登記簿謄本・代表者確認書類がアポスティーユ原本として添付されている必要があります。この届出が完了して初めて、第2段階の送金が外国人投資金として認められます。
+外国為替銀行の窓口または[KOTRA](https://www.kotra.or.kr)で届出を行います。必要書類は**投資家の身分証(パスポート)・投資届出書・投資金額・業種**などの情報でシンプルですが、投資家が外国法人の場合は、本国の法人登記簿謄本・代表者確認書類がアポスティーユ原本として添付されている必要があります。この届出が完了して初めて、第2段階の送金が外国人投資金として認められます。
 
 ### 3-2. 資本金送金(第2段階)
 
@@ -203,10 +187,10 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 ### 3-5. 外国人投資企業登録(第5段階)
 
-外投法人の最終段階です。法人設立登記簿・外貨買入証明書・外国人投資届出書の受理控えをまとめて外国為替銀行またはKOTRAに提出すれば、**外国人投資企業登録証**が発行されます。この登録証は、D-8ビザ、税制優遇、外国人投資地域への入居など、あらゆる場面で根拠書類として使われます。
+外投法人の最終段階です。法人設立登記簿・外貨買入証明書・外国人投資届出書の受理控えをまとめて外国為替銀行または[KOTRA](https://www.kotra.or.kr)に提出すれば、**外国人投資企業登録証**が発行されます。この登録証は、D-8ビザ、税制優遇、外国人投資地域への入居など、あらゆる場面で根拠書類として使われます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 資本金の送金が「外国人投資届出の受理」より前に届いてしまうと、一般の外貨送金として分類され、外投法人として認定されない恐れがあります。順序は必ず<strong>届出 → 送金</strong>です。急ぐあまり先に送ってしまうケースが、実務で最も多くこじれるポイントです。
+<div>
+  <strong>⚠️ 注意:</strong> 資本金の送金が「外国人投資届出の受理」より前に届いてしまうと、一般の外貨送金として分類され、外投法人として認定されない恐れがあります。順序は必ず<strong>届出 → 送金</strong>です。急ぐあまり先に送ってしまうケースが、実務で最も多くこじれるポイントです。
 </div>
 
 ## <span id="section-4"></span>4. 必要書類の完全ガイド
@@ -231,19 +215,19 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 ### 4-3. 国内で準備する書類
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 国内準備書類チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>賃貸借契約書(本店所在地 / コワーキングスペースの場合は利用契約書+住所使用同意書)</li>
-    <li>定款の下書き(韓国語、2部以上)</li>
-    <li>発起人総会議事録 / 取締役会議事録</li>
-    <li>株式引受証 / 株金払込証明書(または銀行の残高証明書)</li>
-    <li>代表取締役・取締役・監査の就任承諾書</li>
-    <li>印鑑の作成(法人印鑑+代表取締役使用印)</li>
-    <li>外貨買入証明書(外投法人の場合)</li>
-    <li>外国人投資届出書の受理控え(外投法人の場合)</li>
-    <li>事業者登録申請書</li>
-  </ul>
+<div>
+  <strong>✅ 国内準備書類チェックリスト</strong>
+
+    賃貸借契約書(本店所在地 / コワーキングスペースの場合は利用契約書+住所使用同意書)
+    定款の下書き(韓国語、2部以上)
+    発起人総会議事録 / 取締役会議事録
+    株式引受証 / 株金払込証明書(または銀行の残高証明書)
+    代表取締役・取締役・監査の就任承諾書
+    印鑑の作成(法人印鑑+代表取締役使用印)
+    外貨買入証明書(外投法人の場合)
+    外国人投資届出書の受理控え(外投法人の場合)
+    事業者登録申請書
+
 </div>
 
 ### 4-4. 翻訳・公証・アポスティーユ
@@ -264,29 +248,29 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 法人口座は設立登記が完了してから開設可能になります。それ以前は、以下の3つの方式のいずれかを使います。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">方式</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">メリット</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">注意点</th>
+      <th>方式</th>
+      <th>メリット</th>
+      <th>注意点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">代表取締役の個人口座</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">開設が早い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">個人資金との混入不可、用途を明確に</td>
+      <td>代表取締役の個人口座</td>
+      <td>開設が早い</td>
+      <td>個人資金との混入不可、用途を明確に</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資金暫定口座(銀行発行)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外投証憑として最もクリーン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">銀行支店ごとに開設可否が異なる</td>
+      <td>外国人投資金暫定口座(銀行発行)</td>
+      <td>外投証憑として最もクリーン</td>
+      <td>銀行支店ごとに開設可否が異なる</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">国内代理人名義の口座</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">国内手続きの委任時に便利</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外投認定拒否のリスク — ほぼ非推奨</td>
+      <td>国内代理人名義の口座</td>
+      <td>国内手続きの委任時に便利</td>
+      <td>外投認定拒否のリスク — ほぼ非推奨</td>
     </tr>
   </tbody>
 </table>
@@ -297,16 +281,12 @@ slug: "foreigner-joint-stock-co-setup-complete"
 - **送金銀行のSWIFT MT103メッセージの写し**:出所追跡の根拠
 - **資金の出所証憑**:本人口座の入出金履歴、給与証憑、売却証憑など — D-8審査で特に重視される
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 通帳にお金があっても、出所の説明が弱いとすぐ話がこじれます。実際の審査では「1億ウォンがどこから来て、どのように貯まったのか」を見られるため、少なくとも直近6ヶ月以前からの資金の流れを説明できる必要があります。親族からの借入なら、借用証書・利息支払履歴までセットで添付する必要があります。
+<div>
+  <strong>⚠️ 注意:</strong> 通帳にお金があっても、出所の説明が弱いとすぐ話がこじれます。実際の審査では「1億ウォンがどこから来て、どのように貯まったのか」を見られるため、少なくとも直近6ヶ月以前からの資金の流れを説明できる必要があります。親族からの借入なら、借用証書・利息支払履歴までセットで添付する必要があります。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Detailed view of a hand writing a signature on an official document with a ballpoint pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Detailed view of a hand writing a signature on an official document with a ballpoint pen.](https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6"></span>6. 設立費用まとめ(項目別の実際の金額)
@@ -315,39 +295,39 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 ### 6-1. 公的費用
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">項目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">基準</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">資本金1億ウォンの場合(例)</th>
+      <th>項目</th>
+      <th>基準</th>
+      <th>資本金1億ウォンの場合(例)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登録免許税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金の0.4%(過密抑制圏域は3倍の重課)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約40万ウォン / 首都圏重課の場合 約120万ウォン</td>
+      <td>登録免許税</td>
+      <td>資本金の0.4%(過密抑制圏域は3倍の重課)</td>
+      <td>約40万ウォン / 首都圏重課の場合 約120万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">地方教育税</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登録免許税の20%</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約8万ウォン / 重課時 約24万ウォン</td>
+      <td>地方教育税</td>
+      <td>登録免許税の20%</td>
+      <td>約8万ウォン / 重課時 約24万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">登記申請手数料</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">件あたり定額</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約3万ウォン</td>
+      <td>登記申請手数料</td>
+      <td>件あたり定額</td>
+      <td>約3万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款公証料</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金の区分別</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約30〜100万ウォン</td>
+      <td>定款公証料</td>
+      <td>資本金の区分別</td>
+      <td>約30〜100万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人印鑑の作成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">印鑑+使用印</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約5〜10万ウォン</td>
+      <td>法人印鑑の作成</td>
+      <td>印鑑+使用印</td>
+      <td>約5〜10万ウォン</td>
     </tr>
   </tbody>
 </table>
@@ -370,39 +350,39 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 ### 6-4. 総費用のシナリオ
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">シナリオ</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">資本金</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">本店</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">設立総費用の目安</th>
+      <th>シナリオ</th>
+      <th>資本金</th>
+      <th>本店</th>
+      <th>設立総費用の目安</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A. 外投 最小</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">首都圏外</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約250万ウォン〜400万ウォン</td>
+      <td>A. 外投 最小</td>
+      <td>1億ウォン</td>
+      <td>首都圏外</td>
+      <td>約250万ウォン〜400万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B. 外投+ソウル本店</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ソウル(重課)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約400万ウォン〜600万ウォン</td>
+      <td>B. 外投+ソウル本店</td>
+      <td>1億ウォン</td>
+      <td>ソウル(重課)</td>
+      <td>約400万ウォン〜600万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C. 外投 大規模</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">10億ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ソウル(重課)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約1,700万ウォン〜2,000万ウォン</td>
+      <td>C. 外投 大規模</td>
+      <td>10億ウォン</td>
+      <td>ソウル(重課)</td>
+      <td>約1,700万ウォン〜2,000万ウォン</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D. 一般外国人設立</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3,000万ウォン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">首都圏外</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">約150万ウォン〜250万ウォン</td>
+      <td>D. 一般外国人設立</td>
+      <td>3,000万ウォン</td>
+      <td>首都圏外</td>
+      <td>約150万ウォン〜250万ウォン</td>
     </tr>
   </tbody>
 </table>
@@ -425,8 +405,8 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 すでに韓国にD-10(求職)・C-3(短期訪問)などで入国している場合は、設立完了後に出入国・外国人庁で**在留資格変更許可**を申請します。C-3短期訪問からD-8への直接変更は原則として制限されますが、外国人投資企業登録が完了している場合は例外的に認められるケースがあります。まずは所轄の出入国で確認することが先決です。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> D-8審査では、資本金1億ウォンの「入金そのもの」以上に<strong>事業計画の一貫性</strong>が重視されます。賃貸借契約・取引先計画・売上計画・人員計画が資本金規模に見合って説明されていれば、通過率は上がります。事業計画書は、長さよりもまず説得力が問われます。
+<div>
+  <strong>💡 実務のヒント:</strong> D-8審査では、資本金1億ウォンの「入金そのもの」以上に<strong>事業計画の一貫性</strong>が重視されます。賃貸借契約・取引先計画・売上計画・人員計画が資本金規模に見合って説明されていれば、通過率は上がります。事業計画書は、長さよりもまず説得力が問われます。
 </div>
 
 ## <span id="section-8"></span>8. 設立後に必ず行うべき後続手続き
@@ -455,8 +435,8 @@ slug: "foreigner-joint-stock-co-setup-complete"
 
 業種によっては別途の許認可が必要です。通信販売業届出、食品営業届出、医療機器販売業届出などは、事業者登録とは別に所轄の区庁に提出する必要があります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 設立後3ヶ月以内に「事業者登録 → 4大保険加入 → 付加価値税の予定申告 → 税務調査に備えた証憑整理」が同時並行で押し寄せます。設立だけ済ませて記帳を後回しにすると、初の法人税申告で加算税がつきます。法人口座の取引開始の最初の月から、会計処理を始める必要があります。
+<div>
+  <strong>⚠️ 注意:</strong> 設立後3ヶ月以内に「事業者登録 → 4大保険加入 → 付加価値税の予定申告 → 税務調査に備えた証憑整理」が同時並行で押し寄せます。設立だけ済ませて記帳を後回しにすると、初の法人税申告で加算税がつきます。法人口座の取引開始の最初の月から、会計処理を始める必要があります。
 </div>
 
 ## <span id="section-9"></span>9. 現場で最も多い失敗パターン
@@ -497,12 +477,12 @@ A. 外国人投資企業登録証の発行後、本国大使館で査証申請 �
 
 外国人株式会社の設立は、書類の数が多くて難しいのではなく、**届出→送金→登記→外投登録→ビザ**の5つの軸が歯車のように噛み合っているため、1ヶ所でもずれると全体が遅延するのが実情です。ビジョン行政士事務所は、外国人投資・法人設立・ビザ連携をワンストップで処理し、本国書類のアポスティーユのコーディネートからD-8申請、さらには設立後3ヶ月の後続届出まで併せて管理いたします。
 
-<div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)
-  <p style="margin:8px 0"><strong>電話</strong> 02-363-2251</p>
-  <p style="margin:8px 0"><strong>Eメール</strong> 5000meter@gmail.com</p>
-  <p style="margin:8px 0"><strong>住所</strong> (04614) ソウル特別市中区退渓路324、3階(ソンウビル)</p>
-  <p style="margin:12px 0 0 0;color:#1e3a8a">外国人株式会社設立・外国人投資届出・D-8ビザ連携に関するご相談を承ります</p>
+<div>
+### ビジョン行政士事務所 (VISION Administrative Office)
+  <p><strong>電話</strong> 02-363-2251</p>
+  <p><strong>Eメール</strong> 5000meter@gmail.com</p>
+  <p><strong>住所</strong> (04614) ソウル特別市中区退渓路324、3階(ソンウビル)</p>
+  <p>外国人株式会社設立・外国人投資届出・D-8ビザ連携に関するご相談を承ります</p>
 </div>
 
 ---
@@ -512,4 +492,3 @@ A. 外国人投資企業登録証の発行後、本国大使館で査証申請 �
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://www.investkorea.co.kr/ja/contact)**
-

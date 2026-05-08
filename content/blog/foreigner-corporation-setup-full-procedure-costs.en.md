@@ -15,27 +15,12 @@ excerptJa: "外国人が韓国で株式会社を設立する際に実務で詰�
 image: "/slides/building.jpg"
 slug: "foreigner-corporation-setup-full-procedure-costs"
 ---
-# Foreign-Owned Corporation in Korea: Complete Guide to Setup Procedures and Costs
+## Foreign-Owned Corporation in Korea: Complete Guide to Setup Procedures and Costs
 
 Setting up a stock corporation (jusik hoesa, 株式會社) in Korea as a foreigner may look straightforward on paper, but in practice the five-step sequence of **foreign investment notification → capital remittance → corporate registration → business registration → foreign-invested company registration** can easily push your timeline back two to three weeks if any step is taken out of order. In particular, if you plan to inject KRW 100 million or more in capital and link it to a D-8 visa, you must structure the entity as a "foreign investment" from day one — trying to convert a regular domestic corporation into one later on is where most applicants get stuck.
 
 Setting capital aside, the actual out-of-pocket cost to establish the company — **registration license tax, local education tax, notary fees, registration filing fees, and administrative agent fees combined** — typically lands somewhere between KRW 1.2 million and KRW 2.5 million. To qualify as a foreign investment, the capital must be at least KRW 100 million; if you are also targeting a D-8 visa, that amount must be wired from an overseas account held in your own name. If you cannot account for that money trail clearly, your application will stall right at this stage.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Foreign-Owned Corporation Setup: The Essentials First</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Foreign-Invested Company vs. Regular Stock Corporation</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Pre-Setup Preparations and Required Documents</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Step-by-Step Setup Procedure</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Capital and Setup Costs: The Actual Numbers</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Mandatory Post-Incorporation Steps</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Key Points When Linking to a D-8 Visa</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes</a></li>
-    <li><a href="#section-faq" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-cta" style="color:#2563eb;text-decoration:none">10. Vision Administrative Office Consultation</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1"></span>1. Foreign-Owned Corporation Setup: The Essentials First
 
@@ -47,12 +32,12 @@ Many investors avoid the limited company because all members are listed on the r
 
 ### Why You Have to Start as a "Foreign Investment" From the Outset
 
-The single most overlooked detail is the timing of the capital remittance. If a foreigner first sets up a regular stock corporation under a Korean national's name and later takes over the shares, the transaction is not recognized as foreign investment under the Foreign Investment Promotion Act. You need to file the foreign investment notification with KOTRA or a foreign exchange bank from the very beginning, then wire the capital using that notification number as the basis.
+The single most overlooked detail is the timing of the capital remittance. If a foreigner first sets up a regular stock corporation under a Korean national's name and later takes over the shares, the transaction is not recognized as foreign investment under the Foreign Investment Promotion Act. You need to file the foreign investment notification with [KOTRA](https://www.kotra.or.kr) or a foreign exchange bank from the very beginning, then wire the capital using that notification number as the basis.
 
 Get this sequence wrong, and at the D-8 visa screening stage the authorities will rule that "this money is not foreign investment capital." You end up with a company on paper but no visa.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Setting up a company first under a Korean acquaintance's name and then having a foreigner buy in later does not connect to the D-8 visa. You must design the structure as a "foreign-invested corporation" from the start so that the visa and the foreign investment record line up together.
+<div>
+  <strong>⚠️ Caution:</strong> Setting up a company first under a Korean acquaintance's name and then having a foreigner buy in later does not connect to the D-8 visa. You must design the structure as a "foreign-invested corporation" from the start so that the visa and the foreign investment record line up together.
 </div>
 
 ## <span id="section-2"></span>2. Foreign-Invested Company vs. Regular Stock Corporation
@@ -63,44 +48,44 @@ Even when both entities call themselves "stock corporations," a **company regist
 
 ### Side-by-Side Comparison
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Foreign-Invested Company (FDI)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Regular Stock Corp. (Foreign Shareholding)</th>
+      <th>Category</th>
+      <th>Foreign-Invested Company (FDI)</th>
+      <th>Regular Stock Corp. (Foreign Shareholding)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Minimum capital</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 100M+ per investor (10%+ stake)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No minimum (can effectively be KRW 1M)</td>
+      <td>Minimum capital</td>
+      <td>KRW 100M+ per investor (10%+ stake)</td>
+      <td>No minimum (can effectively be KRW 1M)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Filing authority</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA or designated FX bank (FDI notification)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No separate filing</td>
+      <td>Filing authority</td>
+      <td>[KOTRA](https://www.kotra.or.kr) or designated FX bank (FDI notification)</td>
+      <td>No separate filing</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D-8 visa eligibility</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Yes (investment record recognized)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No</td>
+      <td>D-8 visa eligibility</td>
+      <td>Yes (investment record recognized)</td>
+      <td>No</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FDI registration certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Issued</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not issued</td>
+      <td>FDI registration certificate</td>
+      <td>Issued</td>
+      <td>Not issued</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tax breaks / subsidies</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Eligible (if industry/region requirements are met)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not eligible</td>
+      <td>Tax breaks / subsidies</td>
+      <td>Eligible (if industry/region requirements are met)</td>
+      <td>Not eligible</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Capital remittance rules</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">From an overseas account in the investor's own name, tied to the FDI notification number</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No restrictions</td>
+      <td>Capital remittance rules</td>
+      <td>From an overseas account in the investor's own name, tied to the FDI notification number</td>
+      <td>No restrictions</td>
     </tr>
   </tbody>
 </table>
@@ -115,55 +100,55 @@ The bottom line is this: **if you intend to personally run the business in Korea
 
 Most documents the foreign individual has to provide must be issued in the home country and brought to Korea, with either an Apostille or consular certification already attached. Even when there is a long checklist, the actual review tends to come down to one thing: "Was the signature notarization done correctly?"
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Document Checklist for an Individual Foreign Investor</strong>
-  <ul style="margin-top:12px">
-    <li>Copy of passport (with at least 6 months of validity remaining)</li>
-    <li>Proof of home-country address (residency certificate, driver's license, etc.)</li>
-    <li>Notarized signature (notarized at home or at the home country's embassy in Korea)</li>
-    <li>Apostille or consular certification attached to the above</li>
-    <li>Documentation explaining the source of investment funds (bank balance, salary, sale proceeds)</li>
-    <li>Alien Registration Card or temporary residential address while in Korea</li>
-  </ul>
+<div>
+  <strong>✅ Document Checklist for an Individual Foreign Investor</strong>
+
+    Copy of passport (with at least 6 months of validity remaining)
+    Proof of home-country address (residency certificate, driver's license, etc.)
+    Notarized signature (notarized at home or at the home country's embassy in Korea)
+    Apostille or consular certification attached to the above
+    Documentation explaining the source of investment funds (bank balance, salary, sale proceeds)
+    Alien Registration Card or temporary residential address while in Korea
+
 </div>
 
 ### When the Investor Is a Corporate Parent
 
 If an overseas parent company is establishing a Korean subsidiary, the parent-side paperwork is considerably more demanding.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Document</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Key Verification Point</th>
+      <th>Category</th>
+      <th>Document</th>
+      <th>Key Verification Point</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Parent registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of Incorporation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille or consular certification required</td>
+      <td>Parent registration</td>
+      <td>Certificate of Incorporation</td>
+      <td>Apostille or consular certification required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Authority to act</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Board resolution (approving Korean subsidiary)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Proof of signatory authority also required</td>
+      <td>Authority to act</td>
+      <td>Board resolution (approving Korean subsidiary)</td>
+      <td>Proof of signatory authority also required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Delegation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Power of Attorney (POA)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Notarization + Apostille</td>
+      <td>Delegation</td>
+      <td>Power of Attorney (POA)</td>
+      <td>Notarization + Apostille</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Financials</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Latest audit report or financial statements</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Demonstrates investment capacity</td>
+      <td>Financials</td>
+      <td>Latest audit report or financial statements</td>
+      <td>Demonstrates investment capacity</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Signatures</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Notarized Signature Card</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Most common item flagged by registry for correction</td>
+      <td>Signatures</td>
+      <td>Notarized Signature Card</td>
+      <td>Most common item flagged by registry for correction</td>
     </tr>
   </tbody>
 </table>
@@ -172,71 +157,71 @@ If an overseas parent company is establishing a Korean subsidiary, the parent-si
 
 Even with all the parent or investor documents in order, securing a Korean office address has to come first. This is usually where things stall. While it is technically possible to register a corporation at a residential address or co-working space, certain industries (finance, healthcare, education) require an actual business-capable space. And during the D-8 visa review, the question "Can business actually be conducted at this address?" gets asked again.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> If you plan to use a co-working space, choose one that issues a contract for "an independent, dedicated office unit." Pure membership-style co-working arrangements have been ruled in some D-8 visa reviews as lacking real office substance.
+<div>
+  <strong>💡 Practical Tip:</strong> If you plan to use a co-working space, choose one that issues a contract for "an independent, dedicated office unit." Pure membership-style co-working arrangements have been ruled in some D-8 visa reviews as lacking real office substance.
 </div>
 
 ## <span id="section-4"></span>4. Step-by-Step Setup Procedure
 
 ### The Full Sequence at a Glance
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Action</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Authority</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Duration</th>
+      <th>Step</th>
+      <th>Action</th>
+      <th>Authority</th>
+      <th>Duration</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Trade name search and office address confirmation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Internet Registry Office / landlord</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 days</td>
+      <td>1</td>
+      <td>Trade name search and office address confirmation</td>
+      <td>Internet Registry Office / landlord</td>
+      <td>1–3 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign investment notification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA or designated FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 days</td>
+      <td>2</td>
+      <td>Foreign investment notification</td>
+      <td>[KOTRA](https://www.kotra.or.kr) or designated FX bank</td>
+      <td>1–2 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overseas remittance of capital</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Designated FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–5 days</td>
+      <td>3</td>
+      <td>Overseas remittance of capital</td>
+      <td>Designated FX bank</td>
+      <td>2–5 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Drafting and notarization of articles of incorporation, promoters' meeting</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Notary office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 days</td>
+      <td>4</td>
+      <td>Drafting and notarization of articles of incorporation, promoters' meeting</td>
+      <td>Notary office</td>
+      <td>1–2 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporate registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">District registry office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–7 days</td>
+      <td>5</td>
+      <td>Corporate registration</td>
+      <td>District registry office</td>
+      <td>3–7 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">District tax office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–5 days</td>
+      <td>6</td>
+      <td>Business registration</td>
+      <td>District tax office</td>
+      <td>2–5 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign-invested company registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA or FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 days</td>
+      <td>7</td>
+      <td>Foreign-invested company registration</td>
+      <td>[KOTRA](https://www.kotra.or.kr) or FX bank</td>
+      <td>1–3 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">8</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporate bank account, four major insurance enrollments</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bank / public agencies</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–7 days</td>
+      <td>8</td>
+      <td>Corporate bank account, four major insurance enrollments</td>
+      <td>Bank / public agencies</td>
+      <td>3–7 days</td>
     </tr>
   </tbody>
 </table>
@@ -253,8 +238,8 @@ Before remitting any capital, you must file the "foreign investment notification
 
 The remittance is sent from an overseas account in your own name to a temporary Korean account in the promoter's (post-setup CEO's) own name, or directly to the designated foreign exchange bank. The remittance purpose must be specified as "Foreign Direct Investment."
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Sending funds from a third party's account or routing money through a Korean acquaintance's account disqualifies the funds from being recognized as foreign investment capital. The source of the funds and the name on the account must match.
+<div>
+  <strong>⚠️ Caution:</strong> Sending funds from a third party's account or routing money through a Korean acquaintance's account disqualifies the funds from being recognized as foreign investment capital. The source of the funds and the name on the account must match.
 </div>
 
 ### Step 4: Articles of Incorporation and Notarization
@@ -271,7 +256,7 @@ Once you have the corporate registry, you file for business registration at the 
 
 ### Step 7: Foreign-Invested Company Registration
 
-After business registration is complete, you obtain the foreign-invested company registration certificate from KOTRA or the foreign exchange bank where you originally filed. That certificate is your gateway to the D-8 visa application.
+After business registration is complete, you obtain the foreign-invested company registration certificate from [KOTRA](https://www.kotra.or.kr) or the foreign exchange bank where you originally filed. That certificate is your gateway to the D-8 visa application.
 
 ### Step 8: Corporate Account and Four Major Insurances
 
@@ -285,49 +270,49 @@ To be recognized as a foreign-invested company, the baseline requirement is **at
 
 ### Cost Breakdown (Excluding Capital)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Item</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Approx. Amount</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Basis</th>
+      <th>Item</th>
+      <th>Approx. Amount</th>
+      <th>Basis</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Registration license tax</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Capital × 0.4% (3× surcharge in Seoul Metropolitan over-concentration zones)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local Tax Act</td>
+      <td>Registration license tax</td>
+      <td>Capital × 0.4% (3× surcharge in Seoul Metropolitan over-concentration zones)</td>
+      <td>Local Tax Act</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local education tax</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">20% of registration license tax</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local Tax Act</td>
+      <td>Local education tax</td>
+      <td>20% of registration license tax</td>
+      <td>Local Tax Act</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Registration application fee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Approx. KRW 30,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Registry Office regulations</td>
+      <td>Registration application fee</td>
+      <td>Approx. KRW 30,000</td>
+      <td>Registry Office regulations</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Articles notarization fee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Approx. KRW 200,000–300,000 (waivable when capital is under KRW 1B)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Notary fee schedule</td>
+      <td>Articles notarization fee</td>
+      <td>Approx. KRW 200,000–300,000 (waivable when capital is under KRW 1B)</td>
+      <td>Notary fee schedule</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Translation and notarization expenses</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 100,000–400,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Document volume</td>
+      <td>Translation and notarization expenses</td>
+      <td>KRW 100,000–400,000</td>
+      <td>Document volume</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Administrative agent / judicial scrivener fee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 800,000–1,800,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Office and scope of work</td>
+      <td>Administrative agent / judicial scrivener fee</td>
+      <td>KRW 800,000–1,800,000</td>
+      <td>Office and scope of work</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bank wire fees</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 30,000–100,000</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Amount and currency</td>
+      <td>Bank wire fees</td>
+      <td>KRW 30,000–100,000</td>
+      <td>Amount and currency</td>
     </tr>
   </tbody>
 </table>
@@ -343,16 +328,12 @@ For a stock corporation capitalized at KRW 100 million in the Seoul Metropolitan
 
 If you locate the head office outside the metropolitan zone, the 3× surcharge on the registration license tax does not apply, which trims roughly KRW 600,000–800,000 off the total. With KRW 200 million in capital, the registration license tax doubles, pushing the total into the KRW 4 million range.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> "Capital of KRW 100 million" does not mean the money disappears. It goes into the corporate account and is then spent on real operating expenses such as office rent, payroll, and inventory. What matters is that, at the moment of remittance, the full KRW 100 million is genuinely deposited at the bank.
+<div>
+  <strong>⚠️ Caution:</strong> "Capital of KRW 100 million" does not mean the money disappears. It goes into the corporate account and is then spent on real operating expenses such as office rent, payroll, and inventory. What matters is that, at the moment of remittance, the full KRW 100 million is genuinely deposited at the bank.
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7644154/pexels-photo-7644154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Corporate professionals engaged in a meeting in a well-lit modern office space with window blinds." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Corporate professionals engaged in a meeting in a well-lit modern office space with window blinds.](https://images.pexels.com/photos/7644154/pexels-photo-7644154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6"></span>6. Mandatory Post-Incorporation Steps
@@ -375,44 +356,44 @@ Banks will only open a corporate account after reviewing the actual office, inte
 
 ### Industry-Specific Permits
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Industry</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Additional Permit</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Authority</th>
+      <th>Industry</th>
+      <th>Additional Permit</th>
+      <th>Authority</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Import/export, distribution</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Customs identification code</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Korea Customs Service</td>
+      <td>Import/export, distribution</td>
+      <td>Customs identification code</td>
+      <td>Korea Customs Service</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-commerce / mail-order sales</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Mail-order business registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">City/county/district office</td>
+      <td>E-commerce / mail-order sales</td>
+      <td>Mail-order business registration</td>
+      <td>City/county/district office</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Food service</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business permit, food safety training</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Public health center, MFDS</td>
+      <td>Food service</td>
+      <td>Business permit, food safety training</td>
+      <td>Public health center, MFDS</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Worker dispatch</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Worker dispatch business license</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Ministry of Employment and Labor</td>
+      <td>Worker dispatch</td>
+      <td>Worker dispatch business license</td>
+      <td>Ministry of Employment and Labor</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Travel agency</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Domestic, outbound, or general travel business registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">City/provincial tourism office</td>
+      <td>Travel agency</td>
+      <td>Domestic, outbound, or general travel business registration</td>
+      <td>City/provincial tourism office</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Cosmetics import</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Cosmetics responsible distributor registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">MFDS</td>
+      <td>Cosmetics import</td>
+      <td>Cosmetics responsible distributor registration</td>
+      <td>MFDS</td>
     </tr>
   </tbody>
 </table>
@@ -427,8 +408,8 @@ A foreign CEO who wants to actually work for their own corporation in Korea need
 
 The first thing to look at is the explanation of the source of funds. Even if the money is sitting in your account, a weak narrative around its origin can derail everything. Reviewers will ask: "Where did this KRW 100 million come from? How did it accumulate over the past 3–12 months? Is it really under your name?" When it comes to the business plan, alignment between your numbers and your stated industry matters more than length.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Plans to borrow the full KRW 100 million, wire it in, and then return it the moment the D-8 issues are dangerous. If immigration tags it as a "temporary remittance," your visa is denied — and pulling the capital back later runs you into foreign exchange reporting issues on top.
+<div>
+  <strong>💡 Practical Tip:</strong> Plans to borrow the full KRW 100 million, wire it in, and then return it the moment the D-8 issues are dangerous. If immigration tags it as a "temporary remittance," your visa is denied — and pulling the capital back later runs you into foreign exchange reporting issues on top.
 </div>
 
 ### Office Reality Check
@@ -437,39 +418,39 @@ The D-8 review evaluates not just the address itself but whether actual business
 
 ### Comparison of Specific Eligibility Requirements
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">D-8 (Corporate Investor)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">D-9 (Trade Management)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">D-10 (Job Seeker)</th>
+      <th>Category</th>
+      <th>D-8 (Corporate Investor)</th>
+      <th>D-9 (Trade Management)</th>
+      <th>D-10 (Job Seeker)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Eligible applicants</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Executives of foreign-invested companies</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Individual or corporate operators with import/export track record</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Job seekers</td>
+      <td>Eligible applicants</td>
+      <td>Executives of foreign-invested companies</td>
+      <td>Individual or corporate operators with import/export track record</td>
+      <td>Job seekers</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Capital threshold</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 100 million or more</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 300 million or more in performance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">N/A</td>
+      <td>Capital threshold</td>
+      <td>KRW 100 million or more</td>
+      <td>KRW 300 million or more in performance</td>
+      <td>N/A</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Stay duration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 5 years, renewable</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 2 years, renewable</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6 months, one renewal</td>
+      <td>Stay duration</td>
+      <td>Up to 5 years, renewable</td>
+      <td>Up to 2 years, renewable</td>
+      <td>6 months, one renewal</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-2 / F-5 transition</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Available (extra points under the points-based system)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Limited</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not available</td>
+      <td>F-2 / F-5 transition</td>
+      <td>Available (extra points under the points-based system)</td>
+      <td>Limited</td>
+      <td>Not available</td>
     </tr>
   </tbody>
 </table>
@@ -500,8 +481,8 @@ If you place the head office in an over-concentration zone such as Seoul, Suwon,
 
 A foreign CEO can technically establish a corporation without holding a Korean Alien Registration Card. However, opening the corporate bank account, obtaining a digital certificate for online use, and issuing electronic tax invoices through Hometax all require an alien registration number. This is why many companies end up incorporated but unable to actually operate.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> The "let's just finish the registration first and clean things up afterward" approach is the single most common source of trouble in real cases. Plan the timeline as a single package — incorporation → investment registration → visa → bank account → four major insurances.
+<div>
+  <strong>⚠️ Caution:</strong> The "let's just finish the registration first and clean things up afterward" approach is the single most common source of trouble in real cases. Plan the timeline as a single package — incorporation → investment registration → visa → bank account → four major insurances.
 </div>
 
 ## <span id="section-faq"></span>9. Frequently Asked Questions (FAQ)
@@ -532,14 +513,14 @@ Setting up a foreign-owned stock corporation in Korea is a single, continuous fl
 
 Vision Administrative Office handles foreign corporate setup, foreign investment notifications, and D-8 visas through a single point of contact. Because we design the capital structure, business scope, and office choice with the visa criteria already in mind from the setup stage, we can prevent the all-too-common situation where the company gets formed but the visa never comes through.
 
-<div style="background:#f0f7ff;border:1px solid #93c5fd;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Vision Administrative Office (VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;margin:0">
-    <li style="padding:4px 0"><strong>Phone:</strong> 02-363-2251</li>
-    <li style="padding:4px 0"><strong>Email:</strong> 5000meter@gmail.com</li>
-    <li style="padding:4px 0"><strong>Address:</strong> 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul (04614)</li>
-    <li style="padding:4px 0"><strong>Practice areas:</strong> Foreign corporate setup · Foreign investment notification · D-8 visa · F-2/F-5 transition</li>
-  </ul>
+<div>
+### Vision Administrative Office (VISION Administrative Office)
+
+    <strong>Phone:</strong> 02-363-2251
+    <strong>Email:</strong> 5000meter@gmail.com
+    <strong>Address:</strong> 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul (04614)
+    <strong>Practice areas:</strong> Foreign corporate setup · Foreign investment notification · D-8 visa · F-2/F-5 transition
+
 </div>
 
 For your first consultation, just bring the following: **the planned investment amount, your desired industry, candidate locations for the head office, whether you have any co-investors, and your residence plans**. With those in hand, we can give you concrete cost and timeline estimates on the spot.

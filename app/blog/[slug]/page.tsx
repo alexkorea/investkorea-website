@@ -122,7 +122,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 style={{ fontSize: '16px', lineHeight: '1.85' }}
                 className="prose prose-gray max-w-none
                   prose-headings:text-gray-900 prose-headings:font-bold
-                  prose-h2:text-xl prose-h2:mt-14 prose-h2:mb-5 prose-h2:border-b-2 prose-h2:border-blue-500 prose-h2:pb-3 prose-h2:text-blue-900
+                  prose-h2:text-xl prose-h2:mt-14 prose-h2:mb-5 prose-h2:border-b-2 prose-h2:border-[#235099] prose-h2:pb-3 prose-h2:text-blue-900
                   prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-h3:text-blue-800
                   prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-5
                   prose-li:text-gray-700 prose-li:leading-relaxed
@@ -190,14 +190,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 </div>
 
                 {/* CTA Card */}
-                <div className="bg-blue-600 rounded-2xl p-6 text-white">
+                <div className="bg-[#235099] rounded-2xl p-6 text-white">
                   <h3 className="font-serif font-semibold mb-2">전문 상담이 필요하신가요?</h3>
                   <p className="text-blue-100 text-sm mb-4">
                     VISION 행정사사무소의 전문 행정사가 맞춤 상담을 제공합니다.
                   </p>
                   <Link
                     href="/contact"
-                    className="inline-flex items-center justify-center w-full bg-white text-blue-600 font-medium text-sm h-10 rounded-lg hover:bg-blue-50 transition-colors"
+                    style={{background:'#A33344',color:'#fff',display:'inline-flex',alignItems:'center',justifyContent:'center',width:'100%',padding:'10px 0',borderRadius:'8px',fontWeight:'600',fontSize:'14px',textDecoration:'none'}}
                   >
                     무료 상담 신청
                   </Link>

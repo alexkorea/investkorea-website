@@ -287,16 +287,11 @@ export default async function VisaCountryPage({ params }: Props) {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
               href="/contact"
-              className="inline-flex items-center bg-white text-blue-600 font-semibold px-8 py-3 rounded-lg hover:bg-blue-50 transition-colors"
+              style={{ background: '#A33344', color: '#fff', padding: '18px 32px', borderRadius: '8px', fontWeight: 700 }}
+              className="inline-flex items-center"
             >
               상담 신청하기
             </Link>
-            <a
-              href="tel:02-363-2251"
-              className="inline-flex items-center bg-blue-500 text-white font-semibold px-8 py-3 rounded-lg hover:bg-blue-400 transition-colors"
-            >
-              전화 상담: 02-363-2251
-            </a>
             <a
               href="https://open.kakao.com/o/s6Z5Kvlg"
               className="inline-flex items-center bg-yellow-400 text-gray-900 font-semibold px-8 py-3 rounded-lg hover:bg-yellow-300 transition-colors"

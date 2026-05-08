@@ -15,29 +15,14 @@ excerptJa: "外国人が韓国で株式会社を設立する際に必要な手�
 image: "/slides/building.jpg"
 slug: "foreign-stock-company-setup"
 ---
-# 外国人在韩国设立股份公司的流程与费用全解析（2026年最新）
+## 外国人在韩国设立股份公司的流程与费用全解析（2026年最新）
 
 外国人要在韩国设立股份公司，需要依次完成<strong>外商投资申报 → 投资资金汇款 → 法人设立登记 → 税务登记 → 外商投资企业注册</strong>这五个步骤。乍看之下与韩国本国人设立法人的流程相似，但根据《外商投资促进法》，前端多了一道投资申报程序，还需要提供资金来源证明以及海外文件的公证和海牙认证。通常2至4周即可办完，但实际周期会因材料准备情况而有较大差异。
 
 费用方面，主要取决于注册资本规模。以<strong>注册资本1亿韩元为例，登记许可税、教育税、法院手续费、公证费等实际支出约为70万至90万韩元</strong>。如果再加上行政士和法务士的代办服务费，整体设立费用大约在200万至400万韩元之间。下面将逐步详细解析每个阶段的实务要点和费用明细。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 外国人设立股份公司——先看整体流程</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 外商投资申报——首先要做的事</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 投资资金汇款与注册资本缴纳</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 法人设立登记流程</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 税务登记与外商投资企业注册</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 设立费用——各项实际金额</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 注册资本定多少合适</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见的5个误区</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题解答（FAQ）</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 远景行政士事务所咨询指南</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">1. 外国人设立股份公司——先看整体流程
+## 1. 外国人设立股份公司——先看整体流程
 
 ### 与韩国本国人设立有何不同
 
@@ -45,45 +30,45 @@ slug: "foreign-stock-company-setup"
 
 ### 整体流程一览
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">步骤</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">办理事项</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">主管机构</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">所需时间</th>
+<tr>
+<th>步骤</th>
+<th>办理事项</th>
+<th>主管机构</th>
+<th>所需时间</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外商投资申报</td>
-<td style="border:1px solid #e5e7eb;padding:10px">KOTRA / 外汇银行</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1~2天</td>
+<td>1</td>
+<td>外商投资申报</td>
+<td>[KOTRA](https://www.kotra.or.kr) / 外汇银行</td>
+<td>1~2天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2</td>
-<td style="border:1px solid #e5e7eb;padding:10px">投资资金海外汇款及缴纳</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外汇银行</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2~5天</td>
+<td>2</td>
+<td>投资资金海外汇款及缴纳</td>
+<td>外汇银行</td>
+<td>2~5天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">3</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人设立登记（含章程公证）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法院登记所</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">3~7天</td>
+<td>3</td>
+<td>法人设立登记（含章程公证）</td>
+<td>法院登记所</td>
+<td>3~7天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">4</td>
-<td style="border:1px solid #e5e7eb;padding:10px">税务登记</td>
-<td style="border:1px solid #e5e7eb;padding:10px">管辖税务署</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2~5天</td>
+<td>4</td>
+<td>税务登记</td>
+<td>管辖税务署</td>
+<td>2~5天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">5</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外商投资企业注册</td>
-<td style="border:1px solid #e5e7eb;padding:10px">KOTRA / 产业通商资源部</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1~3天</td>
+<td>5</td>
+<td>外商投资企业注册</td>
+<td>[KOTRA](https://www.kotra.or.kr) / 产业通商资源部</td>
+<td>1~3天</td>
 </tr>
 </tbody>
 </table>
@@ -92,7 +77,7 @@ slug: "foreign-stock-company-setup"
 
 如果材料齐全，**两周内即可完成。** 实务中导致周期延长的最常见原因包括：海外文件的公证及海牙认证延迟、汇款时银行审核流程、以及经营范围代码不匹配。尤其是需要从本国获取文件的情况，光邮寄时间就可能多出1至2周。
 
-<h2 id="section-2">2. 外商投资申报——首先要做的事
+## 2. 外商投资申报——首先要做的事
 
 ### 为什么投资申报必须在前
 
@@ -100,33 +85,33 @@ slug: "foreign-stock-company-setup"
 
 ### 申报机构和方式
 
-- **KOTRA（大韩贸易投资振兴公社）**：可在线申报或到现场办理
+- **[KOTRA](https://www.kotra.or.kr)（大韩贸易投资振兴公社）**：可在线申报或到现场办理
 - **外汇银行**：可直接在开户银行进行申报
 
 在哪里申报结果都是一样的。实务中，在汇款银行同步完成申报，后续流程会更快捷。
 
 ### 投资申报所需材料
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 外商投资申报材料清单</strong>
-  <ul style="margin-top:12px">
-    <li>外商投资申报书（指定格式）</li>
-    <li>投资者身份证明复印件（护照）</li>
-    <li>投资者为法人时：法人登记簿誊本 + 法定代表人授权书（需完成公证及海牙认证）</li>
-    <li>委托代理申报时：授权委托书 + 代理人身份证明</li>
-    <li>投资资金来源证明（存款证明、在职证明等）</li>
-  </ul>
+<div>
+  <strong>✅ 外商投资申报材料清单</strong>
+
+    外商投资申报书（指定格式）
+    投资者身份证明复印件（护照）
+    投资者为法人时：法人登记簿誊本 + 法定代表人授权书（需完成公证及海牙认证）
+    委托代理申报时：授权委托书 + 代理人身份证明
+    投资资金来源证明（存款证明、在职证明等）
+
 </div>
 
 ### 最低投资金额
 
 根据《外商投资促进法》，**最低投资金额为1亿韩元**。不过这是注册为外商投资企业的门槛，低于1亿韩元也可以设立法人本身。关键在于您是否需要外商投资企业的优惠待遇（税收减免、D-8签证）。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 投资金额低于1亿韩元将无法注册为外商投资企业。如果目标是申请D-8签证，投资额必须达到1亿韩元以上。若不涉及签证需求，以较少的注册资本设立法人本身是可行的，因此应根据实际目的来确定注册资本规模。
+<div>
+  <strong>⚠️ 注意：</strong> 投资金额低于1亿韩元将无法注册为外商投资企业。如果目标是申请D-8签证，投资额必须达到1亿韩元以上。若不涉及签证需求，以较少的注册资本设立法人本身是可行的，因此应根据实际目的来确定注册资本规模。
 </div>
 
-<h2 id="section-3">3. 投资资金汇款与注册资本缴纳
+## 3. 投资资金汇款与注册资本缴纳
 
 ### 汇款流程
 
@@ -142,11 +127,11 @@ slug: "foreign-stock-company-setup"
 
 资金到账后，由银行开具**出资缴纳证明书**。这是法人设立登记中最关键的附件材料。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong> 在韩居留的外国人可以使用本人名下的韩国账户接收汇款，而海外居住者有时会通过法务士或行政士名下的监管账户来完成资金接收。各银行对外商投资资金的接收流程不尽相同，因此<strong>汇款前先与收款银行确认</strong>是实务中最稳妥的做法。
+<div>
+  <strong>💡 实务提示：</strong> 在韩居留的外国人可以使用本人名下的韩国账户接收汇款，而海外居住者有时会通过法务士或行政士名下的监管账户来完成资金接收。各银行对外商投资资金的接收流程不尽相同，因此<strong>汇款前先与收款银行确认</strong>是实务中最稳妥的做法。
 </div>
 
-<h2 id="section-4">4. 法人设立登记流程
+## 4. 法人设立登记流程
 
 ### 章程拟定
 
@@ -166,45 +151,45 @@ slug: "foreign-stock-company-setup"
 
 ### 登记申请所需文件
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">文件</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">备注</th>
+<tr>
+<th>文件</th>
+<th>备注</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">章程</td>
-<td style="border:1px solid #e5e7eb;padding:10px">原件1份（注册资本10亿以上需公证件）</td>
+<td>章程</td>
+<td>原件1份（注册资本10亿以上需公证件）</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">出资缴纳证明书</td>
-<td style="border:1px solid #e5e7eb;padding:10px">由银行开具</td>
+<td>出资缴纳证明书</td>
+<td>由银行开具</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">发起人大会会议记录</td>
-<td style="border:1px solid #e5e7eb;padding:10px">董事及监事选任、总部所在地确定等</td>
+<td>发起人大会会议记录</td>
+<td>董事及监事选任、总部所在地确定等</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">董事及监事就任承诺书</td>
-<td style="border:1px solid #e5e7eb;padding:10px">需附印鉴证明</td>
+<td>董事及监事就任承诺书</td>
+<td>需附印鉴证明</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">法定代表人印鉴申报书</td>
-<td style="border:1px solid #e5e7eb;padding:10px">加盖法人印章</td>
+<td>法定代表人印鉴申报书</td>
+<td>加盖法人印章</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">股份发行事项同意书</td>
-<td style="border:1px solid #e5e7eb;padding:10px">全体发起人签署</td>
+<td>股份发行事项同意书</td>
+<td>全体发起人签署</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">外商投资申报受理通知书</td>
-<td style="border:1px solid #e5e7eb;padding:10px">由KOTRA或外汇银行出具</td>
+<td>外商投资申报受理通知书</td>
+<td>由[KOTRA](https://www.kotra.or.kr)或外汇银行出具</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">法定代表人（外国人）护照复印件</td>
-<td style="border:1px solid #e5e7eb;padding:10px">本国文件需完成公证及海牙认证</td>
+<td>法定代表人（外国人）护照复印件</td>
+<td>本国文件需完成公证及海牙认证</td>
 </tr>
 </tbody>
 </table>
@@ -213,7 +198,7 @@ slug: "foreign-stock-company-setup"
 
 向管辖登记所提交申请后，通常在**3至5个工作日**内完成登记。如需补正材料，则会额外多出几天时间。
 
-<h2 id="section-5">5. 税务登记与外商投资企业注册
+## 5. 税务登记与外商投资企业注册
 
 ### 税务登记（税务署）
 
@@ -221,9 +206,9 @@ slug: "foreign-stock-company-setup"
 
 实务中容易被忽视的是**营业场所地址问题**。如果没有租赁合同而借用他人办公室地址，税务署可能会进行实地核查；虚拟办公室则因行业不同，是否被认可也各有差异。
 
-### 外商投资企业注册（KOTRA）
+### 外商投资企业注册（[KOTRA](https://www.kotra.or.kr)）
 
-完成税务登记后，向KOTRA申请**外商投资企业注册**。只有完成该注册，才能享受税收减免、D-8签证等外商投资相关优惠。
+完成税务登记后，向[KOTRA](https://www.kotra.or.kr)申请**外商投资企业注册**。只有完成该注册，才能享受税收减免、D-8签证等外商投资相关优惠。
 
 ### 注册后获得的文件
 
@@ -232,62 +217,58 @@ slug: "foreign-stock-company-setup"
 - 法人登记簿誊本
 - 法人印鉴证明书
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 外商投资企业注册必须在法人设立登记后<strong>60天内</strong>完成。超过此期限，投资申报的效力可能失效，届时将不得不从头开始重新办理。
+<div>
+  <strong>⚠️ 注意：</strong> 外商投资企业注册必须在法人设立登记后<strong>60天内</strong>完成。超过此期限，投资申报的效力可能失效，届时将不得不从头开始重新办理。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/33911167/pexels-photo-33911167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Captivating reflection of the sky in a modern glass building facade in Pyeongtaek City, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Captivating reflection of the sky in a modern glass building facade in Pyeongtaek City, South Korea.](https://images.pexels.com/photos/33911167/pexels-photo-33911167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. 设立费用——各项实际金额
+## 6. 设立费用——各项实际金额
 
 实际费用取决于注册资本规模和是否委托代办。以下是**注册资本1亿韩元**的股份公司设立的大致实际支出。
 
 ### 官方费用（缴纳给政府和法院的费用）
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:right">金额（韩元）</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">计算标准</th>
+<tr>
+<th>项目</th>
+<th>金额（韩元）</th>
+<th>计算标准</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">登记许可税</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约400,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">注册资本 × 0.4%（首都圈人口密集限制区域加征3倍）</td>
+<td>登记许可税</td>
+<td>约400,000</td>
+<td>注册资本 × 0.4%（首都圈人口密集限制区域加征3倍）</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">地方教育税</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约80,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">登记许可税 × 20%</td>
+<td>地方教育税</td>
+<td>约80,000</td>
+<td>登记许可税 × 20%</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">法院登记手续费</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约30,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">以电子登记为准</td>
+<td>法院登记手续费</td>
+<td>约30,000</td>
+<td>以电子登记为准</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">章程公证费</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">0 ~ 110,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">注册资本低于10亿的发起设立免除</td>
+<td>章程公证费</td>
+<td>0 ~ 110,000</td>
+<td>注册资本低于10亿的发起设立免除</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">印章刻制费</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约30,000~50,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人印章 + 使用印章</td>
+<td>印章刻制费</td>
+<td>约30,000~50,000</td>
+<td>法人印章 + 使用印章</td>
 </tr>
-<tr style="background:#f9fafb;font-weight:bold">
-<td style="border:1px solid #e5e7eb;padding:10px">官方费用小计</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约540,000~670,000</td>
-<td style="border:1px solid #e5e7eb;padding:10px">位于首都圈人口密集限制区域时登记许可税加征3倍</td>
+<tr>
+<td>官方费用小计</td>
+<td>约540,000~670,000</td>
+<td>位于首都圈人口密集限制区域时登记许可税加征3倍</td>
 </tr>
 </tbody>
 </table>
@@ -305,34 +286,34 @@ slug: "foreign-stock-company-setup"
 
 ### 总费用概览
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">类别</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:right">非限制区域</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:right">人口密集限制区域</th>
+<tr>
+<th>类别</th>
+<th>非限制区域</th>
+<th>人口密集限制区域</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">官方费用（税费及手续费）</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约54万~67万韩元</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约130万~150万韩元</td>
+<td>官方费用（税费及手续费）</td>
+<td>约54万~67万韩元</td>
+<td>约130万~150万韩元</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">代办服务费（行政士+法务士）</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约130万~300万韩元</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约130万~300万韩元</td>
+<td>代办服务费（行政士+法务士）</td>
+<td>约130万~300万韩元</td>
+<td>约130万~300万韩元</td>
 </tr>
-<tr style="background:#f9fafb;font-weight:bold">
-<td style="border:1px solid #e5e7eb;padding:10px">总费用（不含注册资本）</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约200万~370万韩元</td>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:right">约260万~450万韩元</td>
+<tr>
+<td>总费用（不含注册资本）</td>
+<td>约200万~370万韩元</td>
+<td>约260万~450万韩元</td>
 </tr>
 </tbody>
 </table>
 
-<h2 id="section-7">7. 注册资本定多少合适
+## 7. 注册资本定多少合适
 
 ### 法律上没有最低注册资本要求
 
@@ -355,7 +336,7 @@ slug: "foreign-stock-company-setup"
 
 注册资本定得过低，会在银行开户、投标参与、信用评估等方面处于不利地位。将初始注册资本设定在合理水平，反而有助于后续业务运营更加顺畅。
 
-<h2 id="section-8">8. 常见的5个误区
+## 8. 常见的5个误区
 
 ### 误区1：未完成投资申报就先汇款
 
@@ -377,11 +358,11 @@ slug: "foreign-stock-company-setup"
 
 法人设立登记后，须在**60天内**完成外商投资企业注册。因为忙碌而一拖再拖导致超期的话，投资申报将失效，D-8签证的申请资格也会随之丧失。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong> 在设立法人之前，请先确定好<strong>行业代码、营业场所地址、投资资金来源证明</strong>这三项。实际操作中，这三项未落实就急于推进，往往会导致流程反复中断。材料虽多，只要安排好顺序，就能高效完成。
+<div>
+  <strong>💡 实务提示：</strong> 在设立法人之前，请先确定好<strong>行业代码、营业场所地址、投资资金来源证明</strong>这三项。实际操作中，这三项未落实就急于推进，往往会导致流程反复中断。材料虽多，只要安排好顺序，就能高效完成。
 </div>
 
-<h2 id="section-9">9. 常见问题解答（FAQ）
+## 9. 常见问题解答（FAQ）
 
 ### 问题1：外国人可以独自设立股份公司吗？
 
@@ -411,16 +392,16 @@ slug: "foreign-stock-company-setup"
 
 即使没有营业收入，税务申报义务仍然存在，因此法人维护的最低成本应预估为**每月10万至20万韩元左右**。
 
-<h2 id="section-10">10. 远景行政士事务所咨询指南
+## 10. 远景行政士事务所咨询指南
 
 外国人设立股份公司，并非只要备齐材料就万事大吉。**投资申报时机、注册资本设定、行业代码选择、签证衔接**等环节必须环环相扣，后续流程才不会出差错。
 
 远景行政士事务所是专注于外商投资法人设立及D-8签证一体化办理的专业机构。从投资申报到外商投资企业注册、签证申请，全程一站式服务。
 
-<div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">远景行政士事务所（VISION Administrative Office）
+<div>
+### 远景行政士事务所（VISION Administrative Office）
   <p><strong>📞 电话：</strong> 02-363-2251</p>
   <p><strong>📧 邮箱：</strong> 5000meter@gmail.com</p>
   <p><strong>📍 地址：</strong> （04614）首尔特别市中区退溪路324号3楼（成宇大厦）</p>
-  <p style="margin-bottom:0">从投资申报、法人设立到签证办理，均可提供一站式咨询服务。欢迎来电或发送邮件咨询。</p>
+  <p>从投资申报、法人设立到签证办理，均可提供一站式咨询服务。欢迎来电或发送邮件咨询。</p>
 </div>

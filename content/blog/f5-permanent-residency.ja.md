@@ -16,19 +16,6 @@ image: "/pages/f5.jpg"
 slug: "f5-permanent-residency"
 ---
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#introduction">F-5永住権の概要</a></li>
-    <li><a href="#strategy1">戦略1：専門家招聘制度</a></li>
-    <li><a href="#strategy2">戦略2：F-2ビザからの切り替え</a></li>
-    <li><a href="#strategy3">戦略3：結婚移民</a></li>
-    <li><a href="#strategy4">戦略4：教育・キャリアによる取得</a></li>
-    <li><a href="#strategy5">戦略5：ビジネス投資</a></li>
-    <li><a href="#comparison">戦略比較表</a></li>
-    <li><a href="#faq">よくある質問</a></li>
-  </ul>
-</nav>
 
 ## F-5永住権の概要
 
@@ -36,7 +23,7 @@ F-5ビザは、定期的な更新手続きなしに**韓国に永久的に居住
 
 しかし、F-5の取得には厳格な基準を満たす必要があります。唯一の道というものはなく、それぞれ異なる経歴や状況に合った複数の戦略が存在します。本ガイドでは、F-5永住権取得のための**5つの実践的な戦略**を詳しく解説します。
 
-<img src="https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韓国の生活風景" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800" alt="韓国の生活風景" />
 
 ## 戦略1：専門家招聘制度
 
@@ -53,7 +40,7 @@ F-5ビザは、定期的な更新手続きなしに**韓国に永久的に居住
 
 政府機関や認定機関が、申請者の専門性を確認する招聘状を発行します。この招聘状があれば、通常の居住期間要件を免除してF-5を直接申請することが可能です。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>ヒント：</strong> 法務部は毎年、人材不足職種のリストを公表しています。この戦略を選ぶ前に、ご自身の分野がリストに含まれているか確認することをお勧めします。</div>
+<div>💡 <strong>ヒント：</strong> 法務部は毎年、人材不足職種のリストを公表しています。この戦略を選ぶ前に、ご自身の分野がリストに含まれているか確認することをお勧めします。</div>
 
 ## 戦略2：F-2ビザからの切り替え
 
@@ -90,7 +77,7 @@ F-5ビザは、定期的な更新手続きなしに**韓国に永久的に居住
 - 基本的な韓国語能力要件の充足（KIIP修了またはTOPIK 1級以上）
 - 世帯の最低所得基準を満たすこと
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 出入国管理局は婚姻の真実性を慎重に確認します。夫婦がそれぞれ別々に面接を受けることもあります。</div>
+<div>⚠️ <strong>注意：</strong> 出入国管理局は婚姻の真実性を慎重に確認します。夫婦がそれぞれ別々に面接を受けることもあります。</div>
 
 ## 戦略4：教育・キャリアによる取得
 
@@ -120,7 +107,7 @@ F-2の申請基準を満たし、規定期間を維持した後、F-5への移�
 
 特定の指定地域では、**5億ウォン以上**の不動産投資もF-5の申請対象となる場合があります。ただし、このプログラムは近年大幅に制限が強化されており、対象地域によって条件が異なります。
 
-<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="書類を確認するビジネスチーム" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800" alt="書類を確認するビジネスチーム" />
 
 ## 戦略比較表
 
@@ -168,7 +155,7 @@ F-5保持者は韓国を主たる居住地とする必要があります。2年�
 
 ---
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">無料相談</h3><p style="color:#bfdbfe; margin:0 0 16px;">専門行政士がご相談いたします。Tel. 02-363-2251</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a></div>
+<div>### 無料相談<p>専門行政士がご相談いたします。Tel. 02-363-2251</p>[相談を申し込む](/contact)</div>
 
 <script type="application/ld+json">
 {

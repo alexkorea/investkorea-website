@@ -14,10 +14,10 @@ export function CTA({ locale = "ko" }: { locale?: Locale }) {
           {t.cta.subtitle}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button className="bg-white text-primary hover:bg-blue-50 px-8 h-12 text-base rounded-lg font-semibold">
+          <Button style={{background:'#A33344',color:'#fff',padding:'0 32px'}} className="h-12 text-base rounded-lg font-semibold">
             {t.cta.bookConsultation}
           </Button>
-          <Button className="bg-white text-primary hover:bg-blue-50 px-8 h-12 text-base rounded-lg font-semibold">
+          <Button style={{background:'#A33344',color:'#fff',padding:'0 32px'}} className="h-12 text-base rounded-lg font-semibold">
             {t.cta.messengerInquiry}
           </Button>
         </div>

@@ -44,6 +44,12 @@ export const pageTranslations = {
       ctaTitle: "무료 상담 신청",
       ctaDesc: "외국인투자법인 설립에 관한 모든 궁금증을 전문 행정사가 상담해 드립니다.",
       ctaButton: "상담 신청하기",
+      faqTitle: "자주 묻는 질문",
+      faqs: [
+        { q: "외국인투자법인 설립에 최소 얼마가 필요한가요?", a: "외국인 투자 촉진법에 따라 최소 1억 원(약 USD 80,000) 이상의 투자가 필요합니다. 외국인 투자자는 의결권 있는 주식의 10% 이상을 보유해야 합니다." },
+        { q: "외국인투자법인과 지사의 차이점은 무엇인가요?", a: "외국인투자법인은 독립된 법인격을 가지며 세금 감면 혜택과 D-8 비자 신청 자격이 주어집니다. 반면 지사는 해외 본사의 일부로 운영되며 별도 자본금 요건이 없지만 투자 인센티브가 제한적입니다." },
+        { q: "법인 설립까지 얼마나 걸리나요?", a: "일반적으로 서류 준비부터 법인 등기까지 약 2~4주가 소요됩니다. 외국인투자 신고, 투자금 송금, 등기, 사업자등록 순으로 진행됩니다." },
+      ],
     },
     companyBranch: {
       badge: "회사설립",
@@ -218,6 +224,12 @@ export const pageTranslations = {
       ctaTitle: "D-8 비자 상담",
       ctaDesc: "D-8 비자 신청부터 연장까지, 전문 행정사가 모든 절차를 대행합니다.",
       ctaButton: "상담 신청하기",
+      faqTitle: "자주 묻는 질문",
+      faqs: [
+        { q: "D-8 비자의 유효기간은 얼마인가요?", a: "D-8 비자의 최초 체류기간은 일반적으로 1~2년이며, 사업 운영 상태에 따라 갱신이 가능합니다. 갱신 시 최대 3년까지 연장할 수 있습니다." },
+        { q: "D-8 비자로 가족 초청이 가능한가요?", a: "네, D-8 비자 소지자는 배우자와 미성년 자녀를 F-3(동반) 비자로 초청할 수 있습니다." },
+        { q: "D-8 비자 신청 시 사무실이 반드시 필요한가요?", a: "네, 실제 사업 운영이 가능한 국내 사무실 주소가 필요합니다. 공유오피스나 가상오피스는 인정되지 않을 수 있습니다." },
+      ],
     },
     visaD8Process: {
       badge: "비자 안내",
@@ -379,6 +391,12 @@ export const pageTranslations = {
       ctaTitle: "D-7 비자 대행",
       ctaDesc: "서류 준비부터 출입국 신청까지, 전문 행정사가 원스톱으로 처리합니다.",
       ctaButton: "상담 신청하기",
+      faqTitle: "자주 묻는 질문",
+      faqs: [
+        { q: "D-7 비자의 대상은 누구인가요?", a: "해외 본사에서 한국 지사, 자회사, 연락사무소 등으로 파견되는 필수전문인력(주재원)이 대상입니다. 1년 이상 해외 본사 근무 경력이 필요합니다." },
+        { q: "D-7 비자와 E-7 비자의 차이는 무엇인가요?", a: "D-7은 해외 본사에서 한국으로 파견되는 주재원 비자이고, E-7은 한국 기업이 직접 고용하는 외국인 전문인력 비자입니다." },
+        { q: "D-7 비자의 체류기간은 얼마인가요?", a: "최초 2년이 부여되며, 파견 기간에 따라 최대 5년까지 연장 가능합니다." },
+      ],
     },
     visaF5: {
       badge: "영주권 / 투자이민",
@@ -546,6 +564,12 @@ export const pageTranslations = {
       ctaTitle: "부동산이민 상담",
       ctaDesc: "투자 지역 선정부터 영주권 취득까지, 전문 행정사가 안내합니다.",
       ctaButton: "상담 신청하기",
+      faqTitle: "자주 묻는 질문",
+      faqs: [
+        { q: "어떤 지역의 부동산이 투자이민 대상인가요?", a: "제주도, 평창 알펜시아, 여수 경도, 인천 영종도, 부산 해운대 등 정부가 지정한 투자이민 특구의 부동산이 대상입니다." },
+        { q: "투자 금액 기준은 얼마인가요?", a: "5억 원 이상(제주도 기준)의 휴양 콘도미니엄 등 지정 부동산에 투자해야 합니다. 지역에 따라 금액 기준이 다를 수 있습니다." },
+        { q: "부동산 매각 시 영주권은 유지되나요?", a: "F-2 거주비자 단계에서 부동산을 매각하면 비자가 취소될 수 있습니다. F-5 영주권 취득 후에는 투자 유지 의무가 완화됩니다." },
+      ],
     },
     immigrationPublicInterest: {
       badge: "투자이민",
@@ -765,6 +789,12 @@ export const pageTranslations = {
       ctaTitle: "Free Consultation",
       ctaDesc: "Our professional administrative agents will answer all your questions about establishing an FDI company.",
       ctaButton: "Request Consultation",
+      faqTitle: "Frequently Asked Questions",
+      faqs: [
+        { q: "What is the minimum investment required to establish an FDI company?", a: "Under the Foreign Investment Promotion Act, a minimum investment of KRW 100 million (approx. USD 80,000) is required. The foreign investor must hold at least 10% of the voting shares." },
+        { q: "What is the difference between an FDI company and a branch office?", a: "An FDI company has an independent legal personality and is eligible for tax incentives and D-8 visa applications. A branch office operates as part of the overseas headquarters with no separate capital requirements but limited investment incentives." },
+        { q: "How long does it take to establish a corporation?", a: "Generally, it takes about 2 to 4 weeks from document preparation to corporate registration. The process follows the order of foreign investment report, fund transfer, registration, and business registration." },
+      ],
     },
     companyBranch: {
       badge: "Company Setup",
@@ -939,6 +969,12 @@ export const pageTranslations = {
       ctaTitle: "D-8 Visa Consultation",
       ctaDesc: "From D-8 visa application to renewal, our professional agents handle all procedures.",
       ctaButton: "Request Consultation",
+      faqTitle: "Frequently Asked Questions",
+      faqs: [
+        { q: "How long is the D-8 visa valid?", a: "The initial period of stay for a D-8 visa is generally 1 to 2 years. It can be renewed based on business operation status, with extensions of up to 3 years per renewal." },
+        { q: "Can I invite my family on a D-8 visa?", a: "Yes, D-8 visa holders can invite their spouse and minor children on an F-3 (Dependent) visa." },
+        { q: "Is a physical office required for the D-8 visa application?", a: "Yes, a domestic office address where actual business operations can take place is required. Shared offices or virtual offices may not be accepted." },
+      ],
     },
     visaD8Process: {
       badge: "Visa Guide",
@@ -1041,6 +1077,12 @@ export const pageTranslations = {
       ctaTitle: "D-7 Visa Consultation",
       ctaDesc: "Our professional agents guide and handle intra-company transfer visa applications.",
       ctaButton: "Request Consultation",
+      faqTitle: "Frequently Asked Questions",
+      faqs: [
+        { q: "Who is eligible for the D-7 visa?", a: "The D-7 visa is for essential professional personnel (intra-company transferees) dispatched from an overseas headquarters to a branch, subsidiary, or liaison office in Korea. At least 1 year of work experience at the overseas headquarters is required." },
+        { q: "What is the difference between a D-7 visa and an E-7 visa?", a: "The D-7 is an intra-company transfer visa for employees dispatched from overseas headquarters to Korea. The E-7 is a visa for foreign professionals directly employed by a Korean company." },
+        { q: "What is the period of stay for a D-7 visa?", a: "An initial period of up to 2 years is granted, with extensions of up to 5 years possible depending on the transfer period." },
+      ],
     },
     visaD7Details: {
       badge: "Visa Guide",
@@ -1267,6 +1309,12 @@ export const pageTranslations = {
       ctaTitle: "Real Estate Immigration Consultation",
       ctaDesc: "From investment region selection to PR acquisition, our professional agents guide you.",
       ctaButton: "Request Consultation",
+      faqTitle: "Frequently Asked Questions",
+      faqs: [
+        { q: "Which regions qualify for real estate investment immigration?", a: "Designated regions include Jeju Island, Pyeongchang Alpensia, Yeosu Gyeongdo, Incheon Yeongjongdo, and Busan Haeundae, among other government-designated investment immigration zones." },
+        { q: "What is the minimum investment amount?", a: "An investment of KRW 500 million or more (based on Jeju Island) in designated real estate such as resort condominiums is required. The minimum amount may vary by region." },
+        { q: "Is permanent residency maintained if the property is sold?", a: "If the property is sold during the F-2 residence visa stage, the visa may be revoked. After obtaining F-5 permanent residency, the investment maintenance obligation is relaxed." },
+      ],
     },
     immigrationPublicInterest: {
       badge: "Investment Immigration",
@@ -1486,6 +1534,12 @@ export const pageTranslations = {
       ctaTitle: "免费咨询",
       ctaDesc: "专业行政士为您解答有关外商投资法人设立的所有疑问。",
       ctaButton: "申请咨询",
+      faqTitle: "常见问题",
+      faqs: [
+        { q: "设立外商投资法人最低需要多少资金?", a: "根据《外国人投资促进法》，最低需要投资1亿韩元（约8万美元）以上。外国投资者必须持有有表决权股份的10%以上。" },
+        { q: "外商投资法人和分公司有什么区别?", a: "外商投资法人具有独立法人资格，可享受税收减免优惠和D-8签证申请资格。分公司作为海外总部的一部分运营，无需单独注册资本，但投资激励措施有限。" },
+        { q: "设立法人需要多长时间?", a: "通常从准备材料到法人登记需要约2~4周。按外国人投资申报、投资金汇款、登记、营业执照注册的顺序进行。" },
+      ],
     },
     companyBranch: {
       badge: "公司设立",
@@ -1659,6 +1713,12 @@ export const pageTranslations = {
       ],
       ctaTitle: "D-8签证咨询",
       ctaDesc: "从D-8签证申请到续签，专业行政士为您代办全部手续。",
+      faqTitle: "常见问题",
+      faqs: [
+        { q: "D-8签证的有效期是多久?", a: "D-8签证的首次居留期限通常为1~2年，根据经营状况可以续签。续签时最长可延长至3年。" },
+        { q: "持D-8签证可以邀请家属吗?", a: "可以，D-8签证持有者可以邀请配偶和未成年子女申请F-3（随行）签证。" },
+        { q: "申请D-8签证必须有实体办公室吗?", a: "是的，需要具备实际可运营业务的国内办公室地址。共享办公室或虚拟办公室可能不被认可。" },
+      ],
       ctaButton: "申请咨询",
     },
     visaD8Process: {
@@ -1762,6 +1822,12 @@ export const pageTranslations = {
       ctaTitle: "D-7签证咨询",
       ctaDesc: "驻在员派遣签证申请由专业行政士指导和代办。",
       ctaButton: "申请咨询",
+      faqTitle: "常见问题",
+      faqs: [
+        { q: "D-7签证的对象是谁?", a: "对象为从海外总部派遣至韩国分公司、子公司、联络事务所等的必要专业人才（驻在员）。需要具备1年以上海外总部工作经历。" },
+        { q: "D-7签证和E-7签证有什么区别?", a: "D-7是从海外总部派遣至韩国的驻在员签证，E-7是韩国企业直接雇用的外国专业人才签证。" },
+        { q: "D-7签证的居留期限是多久?", a: "首次授予最长2年，根据派遣期限可延长至最长5年。" },
+      ],
     },
     visaD7Details: {
       badge: "签证指南",
@@ -1988,6 +2054,12 @@ export const pageTranslations = {
       ctaTitle: "房地产移民咨询",
       ctaDesc: "从投资地区选定到永住权取得，专业行政士为您全程指导。",
       ctaButton: "申请咨询",
+      faqTitle: "常见问题",
+      faqs: [
+        { q: "哪些地区的房地产属于投资移民对象?", a: "包括济州岛、平昌Alpensia、丽水镜岛、仁川永宗岛、釜山海云台等政府指定的投资移民特区的房地产。" },
+        { q: "投资金额标准是多少?", a: "需投资5亿韩元以上（济州岛标准）的度假公寓等指定房地产。各地区金额标准可能不同。" },
+        { q: "出售房地产后永住权还能维持吗?", a: "在F-2居住签证阶段出售房地产，签证可能被取消。取得F-5永住权后，投资维持义务将有所放宽。" },
+      ],
     },
     immigrationPublicInterest: {
       badge: "投资移民",
@@ -2205,8 +2277,14 @@ export const pageTranslations = {
         { href: "/visa/d8", label: "D-8企業投資ビザ" },
       ],
       ctaTitle: "無料相談",
-      ctaDesc: "外国人投資法人設立に関するすべてのご質問に専門行政士がお答えいたします。",
+      ctaDesc: "外国人投資法人設立に関するすべてのご質問に専門行政書士がお答えいたします。",
       ctaButton: "相談を申し込む",
+      faqTitle: "よくある質問",
+      faqs: [
+        { q: "外国人投資法人の設立に最低いくら必要ですか？", a: "外国人投資促進法に基づき、最低1億ウォン（約80,000米ドル）以上の投資が必要です。外国人投資家は議決権のある株式の10%以上を保有する必要があります。" },
+        { q: "外国人投資法人と支社の違いは何ですか？", a: "外国人投資法人は独立した法人格を有し、税制優遇やD-8ビザ申請資格が与えられます。一方、支社は海外本社の一部として運営され、別途の資本金要件はありませんが、投資インセンティブは限定的です。" },
+        { q: "法人設立にはどのくらいかかりますか？", a: "一般的に書類準備から法人登記まで約2～4週間かかります。外国人投資届出、投資金送金、登記、事業者登録の順に進められます。" },
+      ],
     },
     companyBranch: {
       badge: "会社設立",
@@ -2283,7 +2361,7 @@ export const pageTranslations = {
         { href: "/company/fdi", label: "外国人投資法人設立 (FDI)" },
       ],
       ctaTitle: "専門家相談",
-      ctaDesc: "連絡事務所の設置から将来の法人転換まで、専門行政士がご案内いたします。",
+      ctaDesc: "連絡事務所の設置から将来の法人転換まで、専門行政書士がご案内いたします。",
       ctaButton: "相談を申し込む",
     },
     companyLiaisonProcess: {
@@ -2337,7 +2415,7 @@ export const pageTranslations = {
         { href: "/company/fdi", label: "外国人投資法人設立 (FDI)" },
       ],
       ctaTitle: "書類代行サービス",
-      ctaDesc: "複雑な書類準備から届出まで、専門行政士がワンストップで処理いたします。",
+      ctaDesc: "複雑な書類準備から届出まで、専門行政書士がワンストップで処理いたします。",
       ctaButton: "相談を申し込む",
     },
     visaD8: {
@@ -2379,8 +2457,14 @@ export const pageTranslations = {
         { href: "/visa/f5", label: "F-5永住権" },
       ],
       ctaTitle: "D-8ビザ相談",
-      ctaDesc: "D-8ビザの申請から延長まで、専門行政士がすべての手続きを代行いたします。",
+      ctaDesc: "D-8ビザの申請から延長まで、専門行政書士がすべての手続きを代行いたします。",
       ctaButton: "相談を申し込む",
+      faqTitle: "よくある質問",
+      faqs: [
+        { q: "D-8ビザの有効期間はどのくらいですか？", a: "D-8ビザの初回在留期間は一般的に1～2年で、事業運営状態に応じて更新可能です。更新時に最大3年まで延長できます。" },
+        { q: "D-8ビザで家族を招待できますか？", a: "はい、D-8ビザ所持者は配偶者と未成年の子女をF-3（帯同）ビザで招待できます。" },
+        { q: "D-8ビザ申請に事務所は必ず必要ですか？", a: "はい、実際に事業運営が可能な国内事務所の住所が必要です。シェアオフィスやバーチャルオフィスは認められない場合があります。" },
+      ],
     },
     visaD8Process: {
       badge: "ビザ案内",
@@ -2440,7 +2524,7 @@ export const pageTranslations = {
         { href: "/visa/f5", label: "F-5永住権" },
       ],
       ctaTitle: "書類代行サービス",
-      ctaDesc: "複雑なビザ書類の準備と出入国管理事務所への申請を専門行政士が代行いたします。",
+      ctaDesc: "複雑なビザ書類の準備と出入国管理事務所への申請を専門行政書士が代行いたします。",
       ctaButton: "相談を申し込む",
     },
     visaD7: {
@@ -2473,7 +2557,7 @@ export const pageTranslations = {
         { title: "延長", desc: "派遣期間に応じて延長可能（最大3年）" },
       ],
       comparisonTitle: "D-7 vs D-8 比較",
-      comparisonHtml: "<strong>D-7（駐在）：</strong>海外本社から韓国に<em>派遣</em>される社員に適しています。本社での勤務経歴が必要。<br /><strong>D-8（企業投資）：</strong>韓国に<em>直接投資</em>した外国人投資家に適しています。1億ウォン以上の投資が必要。<br /><br />事業構造と進出方式によって適切なビザが異なります。専門行政士への相談を通じて最適な方策をご確認ください。",
+      comparisonHtml: "<strong>D-7（駐在）：</strong>海外本社から韓国に<em>派遣</em>される社員に適しています。本社での勤務経歴が必要。<br /><strong>D-8（企業投資）：</strong>韓国に<em>直接投資</em>した外国人投資家に適しています。1億ウォン以上の投資が必要。<br /><br />事業構造と進出方式によって適切なビザが異なります。専門行政書士への相談を通じて最適な方策をご確認ください。",
       sidebarRelatedTitle: "関連サービス",
       sidebarRelated: [
         { href: "/visa/d7-details", label: "D-7ビザ対象/発給要件/提出書類" },
@@ -2481,8 +2565,14 @@ export const pageTranslations = {
         { href: "/visa/d8", label: "D-8企業投資ビザ" },
       ],
       ctaTitle: "D-7ビザ相談",
-      ctaDesc: "駐在員派遣ビザの申請を専門行政士がご案内し代行いたします。",
+      ctaDesc: "駐在員派遣ビザの申請を専門行政書士がご案内し代行いたします。",
       ctaButton: "相談を申し込む",
+      faqTitle: "よくある質問",
+      faqs: [
+        { q: "D-7ビザの対象者は誰ですか？", a: "海外本社から韓国の支社、子会社、連絡事務所等に派遣される必須専門人材（駐在員）が対象です。1年以上の海外本社勤務経歴が必要です。" },
+        { q: "D-7ビザとE-7ビザの違いは何ですか？", a: "D-7は海外本社から韓国に派遣される駐在員ビザで、E-7は韓国企業が直接雇用する外国人専門人材ビザです。" },
+        { q: "D-7ビザの在留期間はどのくらいですか？", a: "初回は最大2年が付与され、派遣期間に応じて最大5年まで延長可能です。" },
+      ],
     },
     visaD7Details: {
       badge: "ビザ案内",
@@ -2540,7 +2630,7 @@ export const pageTranslations = {
         { href: "/company/liaison", label: "連絡事務所設置" },
       ],
       ctaTitle: "D-7ビザ代行",
-      ctaDesc: "書類準備から出入国申請まで、専門行政士がワンストップで処理いたします。",
+      ctaDesc: "書類準備から出入国申請まで、専門行政書士がワンストップで処理いたします。",
       ctaButton: "相談を申し込む",
     },
     visaF5: {
@@ -2652,7 +2742,7 @@ export const pageTranslations = {
         { href: "/immigration/public-interest", label: "公益移民" },
       ],
       ctaTitle: "カスタム戦略相談",
-      ctaDesc: "個人の状況に合った最適な永住権戦略を専門行政士が設計いたします。",
+      ctaDesc: "個人の状況に合った最適な永住権戦略を専門行政書士が設計いたします。",
       ctaButton: "相談を申し込む",
       relatedServicesTitle: "関連サービス",
       relatedServices: [
@@ -2707,8 +2797,14 @@ export const pageTranslations = {
         { href: "/immigration/public-interest", label: "公益移民" },
       ],
       ctaTitle: "不動産移民相談",
-      ctaDesc: "投資地域の選定から永住権取得まで、専門行政士がご案内いたします。",
+      ctaDesc: "投資地域の選定から永住権取得まで、専門行政書士がご案内いたします。",
       ctaButton: "相談を申し込む",
+      faqTitle: "よくある質問",
+      faqs: [
+        { q: "どの地域の不動産が投資移民の対象ですか？", a: "済州島、平昌アルペンシア、麗水鏡島、仁川永宗島、釜山海雲台など、政府が指定した投資移民特区の不動産が対象です。" },
+        { q: "投資金額の基準はいくらですか？", a: "5億ウォン以上（済州島基準）のリゾートコンドミニアム等の指定不動産への投資が必要です。地域によって金額基準が異なる場合があります。" },
+        { q: "不動産を売却した場合、永住権は維持されますか？", a: "F-2居住ビザ段階で不動産を売却するとビザが取り消される可能性があります。F-5永住権取得後は投資維持義務が緩和されます。" },
+      ],
     },
     immigrationPublicInterest: {
       badge: "投資移民",
@@ -2758,16 +2854,16 @@ export const pageTranslations = {
       ctaButton: "相談を申し込む",
     },
     about: {
-      badge: "VISION行政士事務所",
+      badge: "VISION行政書士事務所",
       title: "会社紹介",
-      subtitle: "外国人投資の成功パートナー、VISION行政士事務所",
-      introTitle: "VISION行政士事務所",
-      introP1: "VISION行政士事務所は、外国人投資家と海外企業の韓国市場進出を専門的に支援する行政士事務所です。2018年から外国人投資法人設立、ビザ発給、永住権取得等、外国人関連の行政業務を専門に遂行してまいりました。",
-      introP2: "英語、中国語、日本語を使用できる専門行政士チームがお客様の言語で直接コミュニケーションし、初回相談から最終承認まですべての過程をワンストップで処理いたします。",
+      subtitle: "外国人投資の成功パートナー、VISION行政書士事務所",
+      introTitle: "VISION行政書士事務所",
+      introP1: "VISION行政書士事務所は、外国人投資家と海外企業の韓国市場進出を専門的に支援する行政書士事務所です。2018年から外国人投資法人設立、ビザ発給、永住権取得等、外国人関連の行政業務を専門に遂行してまいりました。",
+      introP2: "英語、中国語、日本語を使用できる専門行政書士チームがお客様の言語で直接コミュニケーションし、初回相談から最終承認まですべての過程をワンストップで処理いたします。",
       statsTitle: "核心能力",
       stats: [
         { value: "200+", label: "年間処理件数" },
-        { value: "6名", label: "専門行政士" },
+        { value: "6名", label: "専門行政書士" },
         { value: "3ヶ国語", label: "対応言語（英/中/日）" },
         { value: "8年+", label: "業界経験" },
       ],
@@ -2781,14 +2877,14 @@ export const pageTranslations = {
         { title: "在留延長・変更", desc: "各種在留資格の延長、変更、再入国許可等" },
       ],
       teamTitle: "専門家チーム",
-      teamAdminLabel: "専門行政士（6名）",
+      teamAdminLabel: "専門行政書士（6名）",
       teamAdmins: [
-        { name: "イ・ウォンジュン", role: "代表行政士", lang: "韓/英" },
-        { name: "チョン・ユソン", role: "行政士", lang: "韓/中" },
-        { name: "ハン・ギョンテク", role: "行政士", lang: "韓/日" },
-        { name: "キム・ジョンウン", role: "行政士", lang: "韓/英/中" },
-        { name: "イ・シジョン", role: "行政士", lang: "韓/英" },
-        { name: "チョン・ヒジョン", role: "行政士", lang: "韓/日" },
+        { name: "イ・ウォンジュン", role: "代表行政書士", lang: "韓/英" },
+        { name: "チョン・ユソン", role: "行政書士", lang: "韓/中" },
+        { name: "ハン・ギョンテク", role: "行政書士", lang: "韓/日" },
+        { name: "キム・ジョンウン", role: "行政書士", lang: "韓/英/中" },
+        { name: "イ・シジョン", role: "行政書士", lang: "韓/英" },
+        { name: "チョン・ヒジョン", role: "行政書士", lang: "韓/日" },
       ],
       teamOfficeLabel: "事務管理チーム（3名）",
       teamOffice: [
@@ -2813,13 +2909,13 @@ export const pageTranslations = {
         { href: "/visa/f5", label: "F-5永住権" },
       ],
       ctaTitle: "無料相談",
-      ctaDesc: "韓国ビジネス進出に関するすべてのご質問に専門行政士がお答えいたします。",
+      ctaDesc: "韓国ビジネス進出に関するすべてのご質問に専門行政書士がお答えいたします。",
       ctaButton: "相談を申し込む",
     },
     contact: {
       badge: "Contact",
       title: "お問い合わせ",
-      subtitle: "専門行政士に直接ご相談ください",
+      subtitle: "専門行政書士に直接ご相談ください",
       contactInfoTitle: "連絡先",
       phoneLabel: "電話",
       phone: "02-363-2251",
@@ -2872,7 +2968,7 @@ export const pageTranslations = {
       formMessage: "ご相談内容 *",
       formMessagePlaceholder: "ご相談されたい内容を自由にご記入ください。",
       formSubmit: "相談を申し込む",
-      formNote: "送信後1～2営業日以内に担当行政士からご連絡いたします。",
+      formNote: "送信後1～2営業日以内に担当行政書士からご連絡いたします。",
       ctaSectionTitle: "韓国ビジネスの旅を始める準備はできましたか？",
       ctaSectionDesc: "法人設立、事業ビザ申請、長期滞在計画など、何でも私たちのチームがすべてのステップをご案内いたします。",
       ctaSectionButton1: "サービスを見る",
