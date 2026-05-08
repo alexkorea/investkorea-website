@@ -3,6 +3,9 @@
 // ISR(revalidate) + /api/revalidate 로 캐시 갱신을 다룬다.
 
 import { getAnonClient } from './supabase'
+import { remark } from 'remark'
+import remarkGfm from 'remark-gfm'
+import html from 'remark-html'
 
 export interface BlogPost {
   slug: string
@@ -29,6 +32,15 @@ type Row = {
   post_date: string
 }
 
+function processContent(raw: string): string {
+  // Strip {#id} anchor syntax from headings
+  const stripped = raw.replace(/\s*\{#[^}]+\}/g, '')
+  const result = remark().use(remarkGfm).use(html, { sanitize: false }).processSync(stripped)
+  return result.toString()
+    .replace(/<table/g, '<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.5rem 0"><table')
+    .replace(/<\/table>/g, '</table></div>')
+}
+
 function toPost(row: Row): BlogPost {
   return {
     slug: row.slug,
@@ -37,7 +49,7 @@ function toPost(row: Row): BlogPost {
     category: row.category || '',
     excerpt: row.excerpt || '',
     image: row.image || FALLBACK_IMAGE,
-    content: row.content,
+    content: processContent(row.content),
     locale: row.locale,
   }
 }
