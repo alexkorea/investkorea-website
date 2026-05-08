@@ -33,12 +33,16 @@ type Row = {
 }
 
 function processContent(raw: string): string {
-  // Strip {#id} anchor syntax from headings
   const stripped = raw.replace(/\s*\{#[^}]+\}/g, '')
   const result = remark().use(remarkGfm).use(html, { sanitize: false }).processSync(stripped)
   return result.toString()
     .replace(/<table/g, '<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.5rem 0"><table')
     .replace(/<\/table>/g, '</table></div>')
+    // Replace forbidden blue colors with brand color
+    .replace(/#3b82f6/gi, '#235099')
+    .replace(/#1D4ED8/gi, '#235099')
+    .replace(/#1e40af/gi, '#235099')
+    .replace(/#2563eb/gi, '#235099')
 }
 
 function toPost(row: Row): BlogPost {
