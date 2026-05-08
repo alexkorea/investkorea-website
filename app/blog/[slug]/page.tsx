@@ -70,7 +70,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       }) }} />
 
       {/* Messenger QR */}
-      <Messenger locale="ko" />
+      <div className="pt-16">
+        <Messenger locale="ko" />
+      </div>
 
       {/* Hero Banner */}
       <section className="relative pt-16">
