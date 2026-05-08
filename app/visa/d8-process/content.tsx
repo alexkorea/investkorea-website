@@ -3,7 +3,14 @@ import Link from "next/link"
 import { type Locale } from "@/lib/translations"
 import { getLocalePath } from "@/lib/locale-utils"
 
-type D8PTranslations = typeof import("@/lib/page-translations").pageTranslations.ko.visaD8Process
+type D8PTranslations = typeof import("@/lib/page-translations").pageTranslations.ko.visaD8Process & {
+  requirementsDetailTitle?: string
+  requirementsDetail?: { title: string; desc: string }[]
+  renewalTitle?: string
+  renewal?: string[]
+  faqTitle?: string
+  faqs?: { q: string; a: string }[]
+}
 
 export function D8ProcessContent({ t, locale = "ko" }: { t: D8PTranslations; locale?: Locale }) {
   return (
@@ -73,6 +80,44 @@ export function D8ProcessContent({ t, locale = "ko" }: { t: D8PTranslations; loc
                   {t.notes.map((item, i) => (<li key={i}>{item}</li>))}
                 </ul>
               </div>
+              {t.requirementsDetailTitle && t.requirementsDetail && (
+                <div>
+                  <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">{t.requirementsDetailTitle}</h2>
+                  <div className="space-y-3">
+                    {t.requirementsDetail.map((item, i) => (
+                      <div key={i} className="bg-gray-50 rounded-lg p-4 border border-gray-200">
+                        <h3 className="font-semibold text-gray-900 mb-1">{item.title}</h3>
+                        <p className="text-sm text-gray-600">{item.desc}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+              {t.renewalTitle && t.renewal && (
+                <div>
+                  <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">{t.renewalTitle}</h2>
+                  <ul className="space-y-2">
+                    {t.renewal.map((item, i) => (
+                      <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
+                        <span className="text-blue-600 mt-0.5">▪</span> {item}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {t.faqTitle && t.faqs && (
+                <div>
+                  <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">{t.faqTitle}</h2>
+                  <div className="space-y-4">
+                    {t.faqs.map((faq, i) => (
+                      <div key={i} className="bg-white border border-gray-200 rounded-lg p-5">
+                        <h3 className="font-semibold text-gray-900 mb-2">Q. {faq.q}</h3>
+                        <p className="text-sm text-gray-600 leading-relaxed">A. {faq.a}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
             <div className="space-y-6">
               <div className="bg-gray-50 rounded-xl p-6 border border-gray-200">
