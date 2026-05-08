@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server"
 
 const NOTION_KEY = process.env.NOTION_CRM_KEY || ""
-const TELEGRAM_BOT_TOKEN = "8603761359:AAGiXjJUrhUhEnqCV5a9psTPaUYOcrZmbfE"
+const TELEGRAM_BOT_TOKEN = "8748564690:AAEGsXxcfqrHmGue8lkqUaa2E0Q8CDCY-Eo"
 const TELEGRAM_CHAT_ID = "5533847195"
 
 async function notionReq(endpoint: string, method: string, body?: any) {
