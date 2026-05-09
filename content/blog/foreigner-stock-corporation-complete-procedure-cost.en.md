@@ -328,6 +328,6 @@ A. Fees depend on the investment amount, corporation type, document complexity, 
 
 Contact:
 - Phone: 02-363-2251
-- Email: 5000meter@gmail.com
+- Email: info@investkorea.co.kr
 - Address: 3rd Floor, Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
 - Office Name: Vision Administrative Office

@@ -497,6 +497,6 @@ VISION行政士事务所作为外国人投资及签证专业机构,支持包括D
 
 <div>
 ### VISION 行政士事务所
-  <p><strong>电话:</strong> +82-2-363-2251　|　<strong>邮箱:</strong> 5000meter@gmail.com</p>
+  <p><strong>电话:</strong> +82-2-363-2251　|　<strong>邮箱:</strong> info@investkorea.co.kr</p>
   <p><strong>到访咨询:</strong> (04614) 首尔市中区退溪路324, 3层 (成友大厦)  东大门历史文化公园站4号出口10米 | 东大门历史文化公园站4号出口10米</p>
 </div>

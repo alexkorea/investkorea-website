@@ -377,7 +377,7 @@ VISION Administrative Office handles foreign sole-shareholder one-person incorpo
 **VISION Administrative Office**
 
 - Phone: 02-363-2251
-- Email: 5000meter@gmail.com
+- Email: info@investkorea.co.kr
 - Address: 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
 
 Share your capital level, business sector, and your personal Korea-residency plans in advance, and we'll map out the feasibility and detailed requirements for your one-person corporation against your specific case.

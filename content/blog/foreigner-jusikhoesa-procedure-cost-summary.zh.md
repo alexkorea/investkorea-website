@@ -397,7 +397,7 @@ slug: "foreigner-jusikhoesa-procedure-cost-summary"
 ### VISION行政士事务所 (VISION Administrative Office)
 
     📞 电话:<strong>02-363-2251</strong>
-    ✉️ 邮箱:<strong>5000meter@gmail.com</strong>
+    ✉️ 邮箱:<strong>info@investkorea.co.kr</strong>
     📍 地址:(04614) 首尔特别市中区退溪路324号3层(成佑大厦)
 
   <p>从法人设立 → FDI登记 → D-8签证 → F-2·F-5永住权衔接,一条龙设计与代办。请先来电说明情况,我们将根据注册资本规模、行业、居留计划,为您量身定制方案。</p>

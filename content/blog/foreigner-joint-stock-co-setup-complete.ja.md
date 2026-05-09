@@ -480,7 +480,7 @@ A. 外国人投資企業登録証の発行後、本国大使館で査証申請 �
 <div>
 ### ビジョン行政士事務所 (VISION Administrative Office)
   <p><strong>電話</strong> 02-363-2251</p>
-  <p><strong>Eメール</strong> 5000meter@gmail.com</p>
+  <p><strong>Eメール</strong> info@investkorea.co.kr</p>
   <p><strong>住所</strong> (04614) ソウル特別市中区退渓路324、3階(ソンウビル)</p>
   <p>外国人株式会社設立・外国人投資届出・D-8ビザ連携に関するご相談を承ります</p>
 </div>

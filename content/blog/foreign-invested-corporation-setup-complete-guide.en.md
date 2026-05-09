@@ -491,7 +491,7 @@ Setting up a foreign-invested corporation often forces applicants to start over 
 **VISION Administrative Office** specializes in foreign-invested corporation setup and the related D-8 visa work as its core practice.
 
 - Phone: **02-363-2251**
-- Email: **5000meter@gmail.com**
+- Email: **info@investkorea.co.kr**
 - Address: 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, Korea
 
 We will organize your incorporation timeline, capital structure, and visa application timing in a single coordinated plan.

@@ -480,7 +480,7 @@ Setting up a foreign-owned stock company is not hard because of document volume 
 <div>
 ### Vision Administrative Office (VISION Administrative Office)
   <p><strong>Phone</strong> 02-363-2251</p>
-  <p><strong>Email</strong> 5000meter@gmail.com</p>
+  <p><strong>Email</strong> info@investkorea.co.kr</p>
   <p><strong>Address</strong> (04614) 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul</p>
   <p>Consultations available for foreign-owned stock company setup, foreign investment notification, and D-8 visa linkage</p>
 </div>

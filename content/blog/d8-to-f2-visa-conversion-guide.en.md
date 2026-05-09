@@ -497,6 +497,6 @@ The first step toward a stable future in Korea—VISION Administrative Scrivener
 
 <div>
 ### VISION Administrative Office
-  <p><strong>Phone:</strong> +82-2-363-2251　|　<strong>Email:</strong> 5000meter@gmail.com</p>
+  <p><strong>Phone:</strong> +82-2-363-2251　|　<strong>Email:</strong> info@investkorea.co.kr</p>
   <p><strong>Office Visit:</strong> (04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul  Dongdaemun History & Culture Park Stn. Exit 4, 10m | Dongdaemun History & Culture Park Stn. Exit 4, 10m</p>
 </div>

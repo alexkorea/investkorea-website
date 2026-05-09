@@ -204,7 +204,7 @@ A: 申告証交付前の資金送金は認められない場合や投資促進�
 <div>
   <strong>VISION行政士事務所</strong><br>
   電話: 02-363-2251<br>
-  メール: 5000meter@gmail.com<br>
+  メール: info@investkorea.co.kr<br>
   住所: (04614) ソウル特別市中区退渓路324, 3階（城友ビル）
 </div>
 

@@ -435,7 +435,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 **VISION行政士事务所**
 
 - 电话：**02-363-2251**
-- 邮箱：**5000meter@gmail.com**
+- 邮箱：**info@investkorea.co.kr**
 - 地址：**（04614）首尔特别市中区退溪路324号3楼（诚友大厦）**
 
 如果投资资金尚未汇出，建议先联系我们。我们将协助您确认汇款电文措辞、本国文件准备顺序以及总部选址等事宜。

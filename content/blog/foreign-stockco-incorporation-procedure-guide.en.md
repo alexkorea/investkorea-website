@@ -496,7 +496,7 @@ Setting up a foreign-owned Korean corporation is not a simple registration job â
 **VISION Administrative Office**
 
 - Phone: **02-363-2251**
-- Email: **5000meter@gmail.com**
+- Email: **info@investkorea.co.kr**
 - Address: **3F Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul (04614)**
 
 Having the following ready before the consultation speeds things up.

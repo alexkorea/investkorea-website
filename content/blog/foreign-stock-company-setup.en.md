@@ -401,7 +401,7 @@ VISION Administrative Office specializes in foreign investment incorporations an
 <div>
 ### VISION Administrative Office
   <p><strong>📞 Phone:</strong> 02-363-2251</p>
-  <p><strong>📧 Email:</strong> 5000meter@gmail.com</p>
+  <p><strong>📧 Email:</strong> info@investkorea.co.kr</p>
   <p><strong>📍 Address:</strong> 3F, Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, South Korea</p>
   <p>Get comprehensive consultation on investment notification, incorporation, and visa processing. Reach out by phone or email.</p>
 </div>

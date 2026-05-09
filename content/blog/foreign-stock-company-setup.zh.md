@@ -401,7 +401,7 @@ slug: "foreign-stock-company-setup"
 <div>
 ### 远景行政士事务所（VISION Administrative Office）
   <p><strong>📞 电话：</strong> 02-363-2251</p>
-  <p><strong>📧 邮箱：</strong> 5000meter@gmail.com</p>
+  <p><strong>📧 邮箱：</strong> info@investkorea.co.kr</p>
   <p><strong>📍 地址：</strong> （04614）首尔特别市中区退溪路324号3楼（成宇大厦）</p>
   <p>从投资申报、法人设立到签证办理，均可提供一站式咨询服务。欢迎来电或发送邮件咨询。</p>
 </div>

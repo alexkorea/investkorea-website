@@ -435,7 +435,7 @@ slug: "foreigner-stock-corporation-setup-procedure-cost"
 **ビジョン行政士事務所（VISION Administrative Office）**
 
 - 電話：**02-363-2251**
-- メール：**5000meter@gmail.com**
+- メール：**info@investkorea.co.kr**
 - 住所：**（04614）ソウル特別市 中区 退渓路324、3階（ソンウビル）**
 
 投資資金の送金前にご連絡いただくのが、最も時間を節約できるポイントです。送金電文の文言、本国書類の準備順序、本店所在地の選定まで一緒にサポートいたします。

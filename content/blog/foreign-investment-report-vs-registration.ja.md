@@ -291,7 +291,7 @@ slug: "foreign-investment-report-vs-registration"
 
 
   <strong>電話:</strong> 02-363-2251
-  <strong>メール:</strong> 5000meter@gmail.com
+  <strong>メール:</strong> info@investkorea.co.kr
   <strong>住所:</strong> (04614) ソウル特別市中区退渓路324 3階（ソンウビル）
 
 

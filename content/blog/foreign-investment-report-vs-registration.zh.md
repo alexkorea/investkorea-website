@@ -296,7 +296,7 @@ slug: "foreign-investment-report-vs-registration"
     </tr>
     <tr>
       <td>邮箱</td>
-      <td>5000meter@gmail.com</td>
+      <td>info@investkorea.co.kr</td>
     </tr>
     <tr>
       <td>地址</td>

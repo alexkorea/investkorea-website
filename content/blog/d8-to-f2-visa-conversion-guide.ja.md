@@ -497,6 +497,6 @@ VISION行政書士事務所は外国人投資及びビザ専門機関として�
 
 <div>
 ### VISION 行政書士事務所
-  <p><strong>電話:</strong> +82-2-363-2251　|　<strong>メール:</strong> 5000meter@gmail.com</p>
+  <p><strong>電話:</strong> +82-2-363-2251　|　<strong>メール:</strong> info@investkorea.co.kr</p>
   <p><strong>来訪相談:</strong> (04614) ソウル市中区退渓路324, 三階 (ソンウビル)  東大門歴史文化公園駅4番出口10m | 東大門歴史文化公園駅4番出口10m</p>
 </div>

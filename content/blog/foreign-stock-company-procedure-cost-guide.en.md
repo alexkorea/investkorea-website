@@ -557,7 +557,7 @@ Setting up a foreign-owned stock corporation is not just a corporate registratio
 ### Vision Administrative Affairs Office
 
     📞 <strong>Phone</strong>: 02-363-2251
-    📧 <strong>Email</strong>: 5000meter@gmail.com
+    📧 <strong>Email</strong>: info@investkorea.co.kr
     📍 <strong>Address</strong>: (04614) 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul
 
   <p>We support each step — foreign-owned stock corporation setup, foreign investment notification, D-8 visa, and capital increase or shareholding change filings. Consultation is available starting from the home-country notarization and apostille stage.</p>

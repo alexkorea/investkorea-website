@@ -517,7 +517,7 @@ Vision Administrative Office handles foreign corporate setup, foreign investment
 ### Vision Administrative Office (VISION Administrative Office)
 
     <strong>Phone:</strong> 02-363-2251
-    <strong>Email:</strong> 5000meter@gmail.com
+    <strong>Email:</strong> info@investkorea.co.kr
     <strong>Address:</strong> 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul (04614)
     <strong>Practice areas:</strong> Foreign corporate setup · Foreign investment notification · D-8 visa · F-2/F-5 transition
 

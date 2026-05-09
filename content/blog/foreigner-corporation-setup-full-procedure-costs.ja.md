@@ -517,7 +517,7 @@ D-8審査では、単なる住所だけでなく、実際に事業が行える�
 ### ビジョン行政士事務所 (VISION Administrative Office)
 
     <strong>電話:</strong> 02-363-2251
-    <strong>メール:</strong> 5000meter@gmail.com
+    <strong>メール:</strong> info@investkorea.co.kr
     <strong>住所:</strong> (04614) ソウル特別市中区退渓路324、3階 (ソンウビル)
     <strong>相談分野:</strong> 外国人法人設立 · 外国人投資申告 · D-8ビザ · F-2/F-5への転換
 

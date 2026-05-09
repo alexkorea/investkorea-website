@@ -517,7 +517,7 @@ Vision 行政士事务所将外国人法人设立、外国人投资申报、D-8�
 ### Vision 行政士事务所(VISION Administrative Office)
 
     <strong>电话:</strong> 02-363-2251
-    <strong>邮箱:</strong> 5000meter@gmail.com
+    <strong>邮箱:</strong> info@investkorea.co.kr
     <strong>地址:</strong>(04614)首尔特别市中区退溪路324号,3楼(城宇大厦)
     <strong>咨询领域:</strong> 外国人法人设立 · 外国人投资申报 · D-8签证 · F-2/F-5转换
 

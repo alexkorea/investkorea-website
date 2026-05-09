@@ -496,7 +496,7 @@ slug: "foreign-stockco-incorporation-procedure-guide"
 **Vision 行政士事务所 (VISION Administrative Office)**
 
 - 电话：**02-363-2251**
-- 邮箱：**5000meter@gmail.com**
+- 邮箱：**info@investkorea.co.kr**
 - 地址：**(04614) 首尔特别市中区退溪路 324，3 层（星宇大厦）**
 
 咨询前如能提前准备下列信息，可获得更高效的指导。

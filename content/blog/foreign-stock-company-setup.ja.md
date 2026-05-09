@@ -401,7 +401,7 @@ slug: "foreign-stock-company-setup"
 <div>
 ### ビジョン行政士事務所（VISION Administrative Office）
   <p><strong>📞 電話：</strong> 02-363-2251</p>
-  <p><strong>📧 メール：</strong> 5000meter@gmail.com</p>
+  <p><strong>📧 メール：</strong> info@investkorea.co.kr</p>
   <p><strong>📍 住所：</strong> （04614）ソウル特別市中区退渓路324、3階（ソンウビル）</p>
   <p>投資届出・法人設立・ビザまでまとめてご相談いただけます。お電話またはメールでお気軽にお問い合わせください。</p>
 </div>

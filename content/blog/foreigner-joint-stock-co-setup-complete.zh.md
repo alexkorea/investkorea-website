@@ -480,7 +480,7 @@ A. 外国人投资企业登记证签发后，在本国使馆申请签证 → 获
 <div>
 ### Vision 行政师事务所（VISION Administrative Office）
   <p><strong>电话</strong> 02-363-2251</p>
-  <p><strong>邮箱</strong> 5000meter@gmail.com</p>
+  <p><strong>邮箱</strong> info@investkorea.co.kr</p>
   <p><strong>地址</strong> （04614）首尔特别市中区退溪路 324 号 3 层（圣宇大厦）</p>
   <p>可提供外国人股份公司设立、外国人投资申报、D-8 签证衔接相关咨询</p>
 </div>

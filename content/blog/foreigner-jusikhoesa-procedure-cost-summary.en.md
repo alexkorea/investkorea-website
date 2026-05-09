@@ -397,7 +397,7 @@ Looking at incorporation registration in isolation, setting up a foreign-owned s
 ### VISION Administrative Office
 
     📞 Phone: <strong>02-363-2251</strong>
-    ✉️ Email: <strong>5000meter@gmail.com</strong>
+    ✉️ Email: <strong>info@investkorea.co.kr</strong>
     📍 Address: 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
 
   <p>From incorporation → FDI registration → D-8 visa → F-2/F-5 permanent residency, we design and handle the entire flow as a single pipeline. Call us first to describe your situation, and we'll tailor a plan to your capital level, industry, and residency goals.</p>

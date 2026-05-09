@@ -491,7 +491,7 @@ Incorporating a foreign-owned stock company doesn't involve a huge volume of pap
   <p>Specializing in foreign-owned company formation, foreign investment notifications, and D-8 / E-7 / F-2 visa matters</p>
 
     <strong>Phone</strong>: 02-363-2251
-    <strong>Email</strong>: 5000meter@gmail.com
+    <strong>Email</strong>: info@investkorea.co.kr
     <strong>Address</strong>: Seongwoo Building, 3F, 324 Toegye-ro, Jung-gu, Seoul 04614
 
   <p>The cleanest schedule comes from consulting before the capital is ever wired. Even if the remittance has already gone through, we can design a path forward through the FDI notification, business registration, and visa link without having to unwind what's already done.</p>

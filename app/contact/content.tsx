@@ -267,7 +267,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                 </div>
                 <div className="flex items-center justify-center gap-2">
                   <span className="text-sm text-gray-500">{s_(locale, "labelEmail")}</span>
-                  <span className="font-medium text-gray-900">5000meter@gmail.com</span>
+                  <span className="font-medium text-gray-900">info@investkorea.co.kr</span>
                 </div>
               </div>
             </div>

@@ -204,7 +204,7 @@ A: 未取得申报凭证前汇款，可能无法享受相关政策优惠，甚�
 <div>
   <strong>VISION行政事务所</strong><br>
   电话: 02-363-2251<br>
-  邮箱: 5000meter@gmail.com<br>
+  邮箱: info@investkorea.co.kr<br>
   地址: (04614) 首尔特别市中区退溪路324，3楼（Sungwoo大厦）
 </div>
 

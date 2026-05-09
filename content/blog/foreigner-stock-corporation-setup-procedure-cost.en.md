@@ -435,7 +435,7 @@ Incorporating a company as a foreign national in Korea involves the intersection
 **VISION Administrative Office**
 
 - Phone: **02-363-2251**
-- Email: **5000meter@gmail.com**
+- Email: **info@investkorea.co.kr**
 - Address: **(04614) 3F Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul, South Korea**
 
 If you haven't wired your investment funds yet, reaching out early saves the most time. We'll help you get the remittance wording right, plan the sequence for home-country document preparation, and choose the optimal headquarters location — all before a single dollar moves.
