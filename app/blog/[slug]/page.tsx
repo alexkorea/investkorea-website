@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const BASE_URL = "https://investkorea.co.kr"
   return {
     title: `${post.title} - VISION 행정사사무소`,
-    description: post.excerpt,
+    description: post.excerpt && post.excerpt.length >= 80 ? post.excerpt : `${post.excerpt} ${post.title}에 관한 최신 법령 정보와 행정사 실무 가이드를 확인하세요. 비전행정사사무소 전문 행정사가 직접 작성합니다.`.slice(0, 160),
     alternates: {
       canonical: `${BASE_URL}/blog/${slug}`,
       languages: {

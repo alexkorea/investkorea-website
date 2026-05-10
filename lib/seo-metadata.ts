@@ -96,10 +96,10 @@ const seoData: Record<PageKey, Record<Locale, { title: string; description: stri
     ja: { title: "会社紹介 - VISION行政書士事務所", description: "VISION行政書士事務所はソウルに所在する専門コンサルティング事務所です。15年以上の豊富な経験を持つベテラン行政書士が外国人投資法人設立やD-8・D-7ビザ申請、F-5永住権取得などを総合的に支援。多言語対応のワンストップサービスを提供します。" },
   },
   blog: {
-    ko: { title: "블로그 - VISION 행정사사무소", description: "외국인 투자법인 설립, D-8·D-7 비자, F-5 영주권, 부동산 투자이민에 관한 최신 법령 변경 사항과 실무 가이드를 제공하는 전문 블로그입니다. 전문 행정사가 직접 작성하는 신뢰할 수 있는 유용한 정보를 확인하세요." },
-    en: { title: "Blog - VISION Administrative Office", description: "Latest regulatory updates and practical guides on foreign investment, D-8/D-7 visas, F-5 residency, and real estate immigration in Korea. Expert insights." },
-    zh: { title: "博客 - VISION行政士事务所", description: "提供有关外国人投资法人设立、D-8和D-7签证、F-5永住权、房地产投资移民的最新法规变更动态和实务操作指南。所有文章均由拥有15年以上从业经验的资深专业行政士亲自撰写，内容可靠且权威，助您及时掌握韩国投资移民领域的最新政策变化和重要实用信息。" },
-    ja: { title: "ブログ - VISION行政書士事務所", description: "外国人投資法人設立、D-8やD-7ビザ、F-5永住権、不動産投資移民に関する最新の法令改正の情報と実務ガイドをお届けする専門ブログです。15年以上の豊富な実務経験を持つ専門の行政書士が直接執筆した信頼性の高い有益な情報をぜひご確認ください。" },
+    ko: { title: "외국인 투자·이민 전문 블로그 — VISION 행정사사무소", description: "외국인 투자법인 설립, D-8·D-7 비자, F-5 영주권, 부동산 투자이민에 관한 최신 법령 변경 사항과 실무 가이드를 제공하는 전문 블로그입니다. 전문 행정사가 직접 작성하는 신뢰할 수 있는 유용한 정보를 확인하세요." },
+    en: { title: "Foreign Investment & Immigration Expert Blog — VISION Korea", description: "Latest regulatory updates and practical guides on foreign investment, company formation, D-8/D-7 visas, F-5 permanent residency, and real estate immigration in Korea. Written by licensed administrative attorneys with 15+ years of experience." },
+    zh: { title: "外国人投资·移民专业博客 — VISION行政士事务所", description: "提供有关外国人投资法人设立、D-8和D-7签证、F-5永住权、房地产投资移民的最新法规变更动态和实务操作指南。所有文章均由拥有15年以上从业经验的资深专业行政士亲自撰写，内容可靠且权威，助您及时掌握韩国投资移民领域的最新政策变化和重要实用信息。" },
+    ja: { title: "外国人投資・移民専門ブログ — VISION行政書士事務所", description: "外国人投資法人設立、D-8やD-7ビザ、F-5永住権、不動産投資移民に関する最新の法令改正の情報と実務ガイドをお届けする専門ブログです。15年以上の豊富な実務経験を持つ専門の行政書士が直接執筆した信頼性の高い有益な情報をぜひご確認ください。" },
   },
   contact: {
     ko: { title: "문의하기 - VISION 행정사사무소", description: "외국인 투자법인 설립, D-8·D-7 비자, F-5 영주권, 부동산 투자이민에 관한 무료 상담을 신청하세요. 한국어·영어·중국어·일본어로 대응 가능한 전문 행정사 팀이 접수 후 24시간 이내에 친절하게 답변해 드립니다." },
