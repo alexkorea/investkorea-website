@@ -3,7 +3,7 @@ title: "외국인 법인설립 대행 서비스: 절차·비용·소요기간 �
 date: "2026-05-08"
 category: "법인설립"
 excerpt: "한국에서 외국인 법인설립 절차·비용·소요기간을 비전행정사사무소가 정리합니다. 외국인투자촉진법 기반 외국인투자법인 설립부터 D-8 비자 신청까지."
-image: "/slides/documents.jpg"
+image: "/slides/building.jpg"
 slug: "foreign-company-incorporation-korea-2026"
 ---
 
