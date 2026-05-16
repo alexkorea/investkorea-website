@@ -36,6 +36,8 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: "Google-Extended",
         allow: "/",
       },
+      { userAgent: "Claude-SearchBot", allow: "/" },
+      { userAgent: "Bingbot", allow: "/" },
     ],
     sitemap: "https://investkorea.co.kr/sitemap.xml",
     host: "https://www.investkorea.co.kr",
