@@ -109,6 +109,31 @@ export function AboutContent({ t, locale = "ko" }: { t: AboutTranslations; local
           </div>
         </div>
       </section>
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-4xl mx-auto px-6">
+          <h2 className="text-2xl font-serif font-bold text-gray-900 text-center mb-2">자주 묻는 질문</h2>
+          <p className="text-center text-gray-500 text-sm mb-10">VISION 행정사사무소에 대해 자주 묻는 질문들</p>
+          <div className="space-y-3">
+            {[
+              { q: "VISION 행정사사무소는 어떤 업무를 담당하나요?", a: "외국인 투자법인 설립(FDI 신고·법인설립·사업자등록), D-8 기업투자비자, D-7 주재원비자, E-7 특정활동비자, F-5 영주권(투자 영주권 포함), F-2-7 점수제 거주 비자, 체류 연장·변경 등 외국인 체류와 투자 관련 모든 행정 업무를 대행합니다." },
+              { q: "법무법인인가요?", a: "아닙니다. 행정사법에 따라 인가된 행정사사무소입니다. 인허가 서류 준비 및 관계 행정기관 제출을 대행합니다. 소송·재판·형사 변호 등 변호사 업무는 취급하지 않습니다." },
+              { q: "상담은 무료인가요?", a: "네, 초기 상담은 무료입니다. 한국어, 영어, 중국어, 일본어로 상담이 가능합니다. 전화(02-363-2251) 또는 KakaoTalk·WeChat·LINE·WhatsApp으로 문의하실 수 있습니다." },
+              { q: "D-8 비자와 법인설립을 함께 진행할 수 있나요?", a: "네. FDI 신고, 법인설립 등기, 사업자등록, D-8 비자 신청을 원스톱으로 처리합니다. 투자 금액 1억 원 이상 법인 설립 시 D-8 비자 신청이 가능합니다." },
+              { q: "어떤 언어로 상담이 가능한가요?", a: "한국어, 영어, 중국어(보통화), 일본어 4개 언어로 상담이 가능합니다. 다국어 전문 행정사 팀이 직접 소통합니다." },
+              { q: "사무소 위치는 어디인가요?", a: "서울특별시 중구 퇴계로 324, 3층 성우빌딩입니다. 동대문역사문화공원역 4번 출구에서 도보 1분 거리입니다. 영업시간: 월~금 09:30~18:30." },
+              { q: "F-5 투자 영주권 취득이 가능한가요?", a: "네. F-5-5(부동산 투자), F-5-21(공익사업 일반 투자자), F-5-23(공익사업 은퇴이민) 등 투자 기반 F-5 영주권 경로가 있습니다. 각 경로별 요건 검토 및 신청을 지원합니다." },
+            ].map(({ q, a }, i) => (
+              <details key={i} className="rounded-xl border border-gray-200 bg-white p-5">
+                <summary className="font-semibold text-gray-900 cursor-pointer list-none flex justify-between items-center text-sm">
+                  {q}
+                  <span className="text-blue-600 ml-4 flex-shrink-0">+</span>
+                </summary>
+                <p className="mt-3 text-gray-600 leading-relaxed text-sm">{a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   )
 }
