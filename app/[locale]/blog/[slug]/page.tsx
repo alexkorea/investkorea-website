@@ -151,7 +151,7 @@ export default async function LocaleBlogPostPage({ params }: { params: Promise<{
                   prose-img:rounded-lg prose-img:shadow-md prose-img:my-6 prose-img:max-h-[300px] prose-img:object-cover prose-img:w-full"
                 dangerouslySetInnerHTML={{ __html: contentHtml }}
               />
-              <InlineCTAForm />
+              <InlineCTAForm locale={locale} />
             </article>
 
             {/* Sidebar */}
