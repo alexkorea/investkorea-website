@@ -23,8 +23,8 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://investkorea.co.kr'),
-  title: 'VISION 행정사사무소 - 외국인 투자·비자 전문 컨설팅',
-  description: '외국인 투자법인 설립, D-8·D-7 비자, F-5 영주권 등 종합 컨설팅 서비스를 제공하는 VISION 행정사사무소',
+  title: 'VISION 행정사사무소 | Korea Company Registration & Foreign Investment Consulting',
+  description: 'Korea company registration, foreign investment (FDI), D-8 investor visa, D-7 visa, F-5 permanent residency — VISION Administrative Office, Seoul.',
   keywords: [
     '행정사', '외국인투자', 'FDI', '법인설립', 'D-8 비자', 'D-7 비자',
     'F-5 영주권', '투자이민', '부동산이민', 'Korea investment',
