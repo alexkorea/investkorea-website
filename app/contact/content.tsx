@@ -1,8 +1,6 @@
 "use client"
 
 import React, { useState } from "react"
-
-import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
 import { type Locale } from "@/lib/translations"
@@ -232,14 +230,10 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
     if (!selectedService) return
     setStatus("sending")
     const form = e.currentTarget
-    const snsType = (form.elements.namedItem("snsType") as HTMLSelectElement).value
-    const snsId = (form.elements.namedItem("snsId") as HTMLInputElement).value
     const data = {
       name: (form.elements.namedItem("name") as HTMLInputElement).value,
       email: (form.elements.namedItem("email") as HTMLInputElement).value,
       contact: (form.elements.namedItem("contact") as HTMLInputElement).value,
-      snsType: snsType || undefined,
-      snsId: snsId || undefined,
       nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
       services: [selectedService || "기타"],
     }
@@ -396,29 +390,6 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
                   className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
                   placeholder={t_(locale, "phonePlaceholder")}
                 />
-              </div>
-
-              {/* SNS ID */}
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">SNS ID</label>
-                <div className="flex gap-2">
-                  <select
-                    name="snsType"
-                    className="border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none bg-white"
-                  >
-                    <option value="">{t_(locale, "sns")}</option>
-                    <option value="kakaotalk">KakaoTalk</option>
-                    <option value="wechat">WeChat</option>
-                    <option value="line">LINE</option>
-                    <option value="whatsapp">WhatsApp</option>
-                  </select>
-                  <input
-                    name="snsId"
-                    type="text"
-                    className="flex-1 border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
-                    placeholder={t_(locale, "snsId")}
-                  />
-                </div>
               </div>
 
               {/* Nationality */}
