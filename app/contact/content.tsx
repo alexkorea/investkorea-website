@@ -1,5 +1,7 @@
 "use client"
 
+import React, { useState } from "react"
+
 import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
@@ -8,27 +10,90 @@ import { getLocalePath } from "@/lib/locale-utils"
 
 type ContactTranslations = typeof import("@/lib/page-translations").pageTranslations.ko.contact
 
-const serviceLabels: Record<string, Record<string, string[]>> = {
-  ko: { labels: ["법인설립", "연락사무소 설치", "D-8 투자비자", "D-7 주재원비자", "D-9-2 설비파견", "F-5 영주권", "기타"] },
-  en: { labels: ["Company Setup", "Liaison Office", "Investment Visa", "Transfer Visa", "Equipment Dispatch", "Permanent Residency", "Other"] },
-  zh: { labels: ["公司设立", "联络事务所", "D-8投资签证", "D-7驻在签证", "D-9-2设备派遣", "F-5永住权", "其他"] },
-  ja: { labels: ["法人設立", "連絡事務所", "D-8投資ビザ", "D-7駐在ビザ", "D-9-2設備派遣", "F-5永住権", "その他"] },
-}
-
-const serviceBase = [
-  { value: "법인설립", icon: "🏢" },
-  { value: "연락사무소설치", icon: "🏛️" },
-  { value: "D-8 투자비자", icon: "📋" },
-  { value: "D-7 주재원비자", icon: "🔄" },
-  { value: "D-9-2 설비파견", icon: "⚙️" },
-  { value: "F-5 영주권", icon: "🏠" },
-  { value: "기타", icon: "💬" },
+const SERVICE_GROUPS = [
+  {
+    group: "비자취득",
+    options: [
+      "D-7-1 주재 (외국기업 한국지점)",
+      "D-7-2 국내본사 해외지사 인력 전입",
+      "D-8 기업투자",
+      "D-9-2 설비파견",
+      "E-7 특정활동",
+      "F-2 거주비자 (F-2-7 제외)",
+      "F-5 영주권",
+    ],
+  },
+  {
+    group: "연장",
+    options: [
+      "D-7-1 주재 연장",
+      "D-7-2 주재 연장",
+      "D-8 기업투자 연장",
+      "D-9-2 설비파견 연장",
+      "E-7 특정활동 연장",
+      "F-2 거주비자 연장",
+      "F-5 영주권 갱신",
+    ],
+  },
+  {
+    group: "법인업무",
+    options: [
+      "외국인직접투자(FDI) 법인",
+      "외국법인 한국연락사무소",
+      "외국법인 한국지점설치",
+      "외국법인 폐업",
+    ],
+  },
+  {
+    group: "행정",
+    options: ["기타"],
+  },
 ]
 
-function getServices(locale: string) {
-  const labels = serviceLabels[locale]?.labels || serviceLabels.ko.labels
-  const subs = locale === "ko" ? serviceLabels.en.labels : serviceLabels.en.labels
-  return serviceBase.map((s, i) => ({ ...s, label: labels[i], sub: subs[i] }))
+function ServiceDropdown({ value, onChange }: { value: string; onChange: (v: string) => void }) {
+  const [open, setOpen] = React.useState(false)
+  const ref = React.useRef<HTMLDivElement>(null)
+  React.useEffect(() => {
+    function handleClick(e: MouseEvent) {
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false)
+    }
+    document.addEventListener("mousedown", handleClick)
+    return () => document.removeEventListener("mousedown", handleClick)
+  }, [])
+  return (
+    <div ref={ref} className="relative">
+      <button
+        type="button"
+        onClick={() => setOpen(!open)}
+        className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm text-left flex justify-between items-center bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
+      >
+        <span className={value ? "text-gray-900" : "text-gray-400"}>
+          {value || "선택하지 않으셔도 됩니다"}
+        </span>
+        <svg className={`w-4 h-4 text-gray-400 transition-transform flex-shrink-0 ${open ? "rotate-180" : ""}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      {open && (
+        <div className="absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-72 overflow-y-auto">
+          <div onClick={() => { onChange(""); setOpen(false) }} className="px-4 py-2.5 text-sm text-gray-400 hover:bg-gray-50 cursor-pointer">
+            선택하지 않으셔도 됩니다
+          </div>
+          {SERVICE_GROUPS.map((group) => (
+            <div key={group.group}>
+              <div className="px-4 py-1.5 text-xs font-bold text-blue-600 bg-blue-50 border-t border-gray-100">{group.group}</div>
+              {group.options.map((opt) => (
+                <div key={opt} onClick={() => { onChange(opt); setOpen(false) }}
+                  className={`px-4 py-2 text-sm cursor-pointer pl-6 hover:bg-gray-50 ${value === opt ? "bg-blue-50 text-blue-700 font-medium" : "text-gray-700"}`}>
+                  {opt}
+                </div>
+              ))}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )
 }
 
 const priorityCountriesData = [
@@ -155,22 +220,16 @@ function StepIndicator() {
 export { StepIndicator }
 
 export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; locale?: Locale }) {
-  const [selectedServices, setSelectedServices] = useState<string[]>([])
+  const [selectedService, setSelectedService] = useState("")
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
   const [submittedName, setSubmittedName] = useState("")
   const [inquiryId, setInquiryId] = useState("")
 
-  const services = getServices(locale)
 
-  function toggleService(value: string) {
-    setSelectedServices((prev) =>
-      prev.includes(value) ? prev.filter((s) => s !== value) : [...prev, value]
-    )
-  }
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
-    if (selectedServices.length === 0) return
+    if (!selectedService) return
     setStatus("sending")
     const form = e.currentTarget
     const snsType = (form.elements.namedItem("snsType") as HTMLSelectElement).value
@@ -182,7 +241,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
       snsType: snsType || undefined,
       snsId: snsId || undefined,
       nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
-      services: selectedServices,
+      services: [selectedService || "기타"],
     }
     try {
       const res = await fetch("/api/contact-step1", {
@@ -231,13 +290,13 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
               </div>
               <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">{s_(locale, "heading")}</h2>
               <p className="text-gray-600 mb-4">
-                {selectedServices.map(s => s).join(', ')} — {s_(locale, "applied")}
+                {selectedService || "기타"} — {s_(locale, "applied")}
                 <br />
                 {s_(locale, "detail")}
               </p>
 
               <Link
-                href={`/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}`}
+                href={`/contact/step2?service=${encodeURIComponent(selectedService || "기타")}&inquiryId=${inquiryId}`}
                 className="inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white px-8 h-12 rounded-lg font-semibold transition-colors text-lg mb-6"
               >
                 {s_(locale, "detailBtn")}
@@ -383,34 +442,8 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
               {/* Service Selection - Checkboxes */}
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-3">{t_(locale, "services")} <span className="text-red-500">*</span> <span className="text-gray-400 font-normal text-xs">{t_(locale, "servicesMulti")}</span></label>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                  {services.map((svc) => (
-                    <button
-                      key={svc.value}
-                      type="button"
-                      onClick={() => toggleService(svc.value)}
-                      className={`relative flex items-center gap-3 p-4 rounded-xl border-2 text-left transition-all ${
-                        selectedServices.includes(svc.value)
-                          ? "border-blue-600 bg-blue-50 shadow-sm"
-                          : "border-gray-200 hover:border-gray-300 hover:bg-gray-50"
-                      }`}
-                    >
-                      <span className="text-2xl">{svc.icon}</span>
-                      <div>
-                        <div className="font-semibold text-gray-900 text-sm">{svc.label}</div>
-                        <div className="text-xs text-gray-500">{svc.sub}</div>
-                      </div>
-                      {selectedServices.includes(svc.value) && (
-                        <div className="absolute top-2 right-2 w-5 h-5 bg-blue-600 rounded-full flex items-center justify-center">
-                          <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
-                            <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
-                          </svg>
-                        </div>
-                      )}
-                    </button>
-                  ))}
-                </div>
-                {selectedServices.length === 0 && status === "error" && (
+                <ServiceDropdown value={selectedService} onChange={setSelectedService} />
+                {!selectedService && status === "error" && (
                   <p className="text-red-500 text-xs mt-2">{t_(locale, "selectServices")}</p>
                 )}
               </div>
@@ -418,7 +451,7 @@ export function ContactContent({ t, locale = "ko" }: { t: ContactTranslations; l
               {/* Submit */}
               <button
                 type="submit"
-                disabled={status === "sending" || selectedServices.length === 0}
+                disabled={status === "sending"}
                 className="w-full bg-blue-600 hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed text-white font-semibold py-3 rounded-lg transition-colors text-base"
               >
                 {status === "sending" ? t_(locale, "submitting") : t_(locale, "submit")}
