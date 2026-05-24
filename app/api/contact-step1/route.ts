@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server"
+import { NextResponse, after } from "next/server"
 import { saveToCRM } from "@/lib/notion-crm"
 
 
@@ -147,82 +147,72 @@ export async function POST(request: Request) {
     }
 
     const serviceRaw = Array.isArray(services) ? services.join(", ") : services
+    const svcList = Array.isArray(services) ? services.join(", ") : services
+    const svcArray = Array.isArray(services) ? services : [services]
+    const inquiryId = `inv-${Date.now()}`
 
-    // Build message with SNS info
     const messageParts: string[] = []
     if (snsType && snsId) messageParts.push(`SNS: ${snsType} - ${snsId}`)
     if (nationality) messageParts.push(`국적: ${nationality}`)
     const message = messageParts.length > 0 ? messageParts.join(" | ") : undefined
 
-    // Save to Notion CRM
-    const crmResult = await saveToCRM({
-      brand: "investkorea",
-      formType: "consultation_step1",
-      siteUrl: "https://www.investkorea.co.kr/contact",
-      name,
-      email,
-      phone: contact || undefined,
-      nationality: nationality || undefined,
-      serviceRaw,
-      message,
-      rawPayload: { name, email, contact, snsType, snsId, nationality, services },
-    })
-
-    const inquiryId = crmResult.inboxId || `inv-${Date.now()}`
-
-    // Send email via Resend API
-    const emailPromise = fetch("https://api.resend.com/emails", {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${RESEND_API_KEY}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        from: "비전행정사사무소 <noreply@ko-visas.com>",
-        to: [email],
-        subject: "[비전행정사사무소] 비전행정사사무소에 상담요청해 주셔서 감사합니다.",
-        html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId),
-      }),
-    }).catch((err) => console.error("Resend email error:", err))
-
-    // Send Telegram notification
-    const svcList = Array.isArray(services) ? services.join(", ") : services
-    let telegramText = `[InvestKorea] 새 상담 신청\n\n`
-    telegramText += `이름: ${name}\n`
-    telegramText += `이메일: ${email}\n`
-    if (contact) telegramText += `연락처: ${contact}\n`
-    if (snsType && snsId) telegramText += `SNS: ${snsType} - ${snsId}\n`
-    if (nationality) telegramText += `국적: ${nationality}\n`
-    telegramText += `희망 업무: ${svcList}\n`
-
-    const telegramPromise = fetch(
-      `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          chat_id: TELEGRAM_CHAT_ID,
-          text: telegramText,
-        }),
+    after(async () => {
+      try {
+        await saveToCRM({
+          brand: "investkorea",
+          formType: "consultation_step1",
+          siteUrl: "https://www.investkorea.co.kr/contact",
+          name, email,
+          phone: contact || undefined,
+          nationality: nationality || undefined,
+          serviceRaw, message,
+          rawPayload: { name, email, contact, snsType, snsId, nationality, services },
+        })
+      } catch (err) {
+        console.error("CRM error:", err)
       }
-    ).catch((err) => console.error("Telegram error:", err))
 
-    
-    // 보스 알림 이메일 (msg 11772 — 6개 사이트 통일)
-    const adminEmailHtml = `<h2 style="color:#1e3a5f">[InvestKorea] 새 상담 신청</h2><table cellpadding="6" style="border-collapse:collapse;border:1px solid #ddd;font-family:Apple SD Gothic Neo,sans-serif"><tr><td><b>이름</b></td><td>${name}</td></tr><tr><td><b>이메일</b></td><td>${email}</td></tr>${contact ? `<tr><td><b>연락처</b></td><td>${contact}</td></tr>` : ''}${snsType && snsId ? `<tr><td><b>SNS</b></td><td>${snsType} - ${snsId}</td></tr>` : ''}${nationality ? `<tr><td><b>국적</b></td><td>${nationality}</td></tr>` : ''}<tr><td><b>희망 업무</b></td><td>${svcList}</td></tr><tr><td><b>접수 ID</b></td><td>${inquiryId}</td></tr></table><p style="color:#666;font-size:13px;margin-top:18px">자동 발송 — Notion CRM 자동 등록 완료</p>`;
-    const adminEmailPromise = fetch("https://api.resend.com/emails", {
-      method: "POST",
-      headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
-      body: JSON.stringify({
-        from: "비전행정사사무소 <noreply@ko-visas.com>",
-        to: ["5000meter@gmail.com"],
-        reply_to: email,
-        subject: `[InvestKorea] 새 상담 신청 - ${name}`,
-        html: adminEmailHtml,
-      }),
-    }).catch((err) => console.error("Admin email error:", err))
+      let telegramText = `[InvestKorea] 새 상담 신청\n\n`
+      telegramText += `이름: ${name}\n`
+      telegramText += `이메일: ${email}\n`
+      if (contact) telegramText += `연락처: ${contact}\n`
+      if (snsType && snsId) telegramText += `SNS: ${snsType} - ${snsId}\n`
+      if (nationality) telegramText += `국적: ${nationality}\n`
+      telegramText += `희망 업무: ${svcList}\n`
 
-    await Promise.all([emailPromise, telegramPromise, adminEmailPromise])
+      const adminEmailHtml = `<h2 style="color:#1e3a5f">[InvestKorea] 새 상담 신청</h2><table cellpadding="6" style="border-collapse:collapse;border:1px solid #ddd;font-family:Apple SD Gothic Neo,sans-serif"><tr><td><b>이름</b></td><td>${name}</td></tr><tr><td><b>이메일</b></td><td>${email}</td></tr>${contact ? `<tr><td><b>연락처</b></td><td>${contact}</td></tr>` : ''}${snsType && snsId ? `<tr><td><b>SNS</b></td><td>${snsType} - ${snsId}</td></tr>` : ''}${nationality ? `<tr><td><b>국적</b></td><td>${nationality}</td></tr>` : ''}<tr><td><b>희망 업무</b></td><td>${svcList}</td></tr><tr><td><b>접수 ID</b></td><td>${inquiryId}</td></tr></table><p style="color:#666;font-size:13px;margin-top:18px">자동 발송 — Notion CRM 자동 등록 완료</p>`
+
+      await Promise.all([
+        fetch("https://api.resend.com/emails", {
+          method: "POST",
+          headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
+          body: JSON.stringify({
+            from: "비전행정사사무소 <noreply@ko-visas.com>",
+            to: [email],
+            subject: "[비전행정사사무소] 비전행정사사무소에 상담요청해 주셔서 감사합니다.",
+            html: buildEmailHtml(name, svcArray, inquiryId),
+          }),
+        }).catch((err) => console.error("Resend email error:", err)),
+
+        fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text: telegramText }),
+        }).catch((err) => console.error("Telegram error:", err)),
+
+        fetch("https://api.resend.com/emails", {
+          method: "POST",
+          headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
+          body: JSON.stringify({
+            from: "비전행정사사무소 <noreply@ko-visas.com>",
+            to: ["5000meter@gmail.com"],
+            reply_to: email,
+            subject: `[InvestKorea] 새 상담 신청 - ${name}`,
+            html: adminEmailHtml,
+          }),
+        }).catch((err) => console.error("Admin email error:", err)),
+      ])
+    })
 
     return NextResponse.json({ ok: true, inquiryId })
   } catch (error) {
