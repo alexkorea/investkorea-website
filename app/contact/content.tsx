@@ -66,7 +66,7 @@ function ServiceDropdown({ value, onChange }: { value: string; onChange: (v: str
         className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm text-left flex justify-between items-center bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
       >
         <span className={value ? "text-gray-900" : "text-gray-400"}>
-          {value || "선택하지 않으셔도 됩니다"}
+          {value || "희망업무선택부탁드립니다."}
         </span>
         <svg className={`w-4 h-4 text-gray-400 transition-transform flex-shrink-0 ${open ? "rotate-180" : ""}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
@@ -75,7 +75,7 @@ function ServiceDropdown({ value, onChange }: { value: string; onChange: (v: str
       {open && (
         <div className="absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-72 overflow-y-auto">
           <div onClick={() => { onChange(""); setOpen(false) }} className="px-4 py-2.5 text-sm text-gray-400 hover:bg-gray-50 cursor-pointer">
-            선택하지 않으셔도 됩니다
+            희망업무선택부탁드립니다.
           </div>
           {SERVICE_GROUPS.map((group) => (
             <div key={group.group}>
