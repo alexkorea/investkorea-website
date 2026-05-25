@@ -36,7 +36,7 @@ const JSON_LD = {
 };
 export const metadata: Metadata = {
   metadataBase: new URL('https://investkorea.co.kr'),
-  title: 'Korea Company Registration Foreign Investor | D-8 visa · FDI · 외국인 법인 설립 | VISION 행정사사무소ing',
+  title: 'Korea Company Registration Foreign Investor | D-8 visa · FDI · 외국인 법인 설립 | VISION 행정사사무소',
   description: 'Korea company registration, foreign investment (FDI), D-8 investor visa, D-7 visa, F-5 permanent residency — VISION Administrative Office, Seoul.',
   keywords: [
     '행정사', '외국인투자', 'FDI', '법인설립', 'D-8 비자', 'D-7 비자',
