@@ -21,6 +21,19 @@ const playfair = Playfair_Display({
   variable: '--font-playfair',
 });
 
+
+const JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "VISION 행정사사무소",
+  "alternateName": "Vision Administrative Office",
+  "url": "https://investkorea.co.kr",
+  "description": "외국인 투자법인 설립, D-8 기업투자비자, D-7 주재원비자, F-5 영주권 전문 행정사사무소.",
+  "telephone": "+82-2-363-2251",
+  "address": { "@type": "PostalAddress", "streetAddress": "퇴계로 324, 3층", "addressLocality": "중구", "addressRegion": "서울특별시", "postalCode": "04614", "addressCountry": "KR" },
+  "openingHours": "Mo-Fr 09:30-17:30",
+  "priceRange": "$"
+};
 export const metadata: Metadata = {
   metadataBase: new URL('https://investkorea.co.kr'),
   title: 'Korea Company Registration Foreign Investor | D-8 visa · FDI · 외국인 법인 설립 | VISION 행정사사무소ing',
@@ -91,6 +104,7 @@ export default async function RootLayout({
     <html lang={lang}>
       <head>
         <meta name="robots" content="index, follow" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(JSON_LD) }} />
         <link rel="stylesheet" as="style" crossOrigin="anonymous" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
       </head>
       <body className={`${playfair.variable} antialiased`} style={{ fontFamily: '"Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif' }}>
