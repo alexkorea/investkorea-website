@@ -43,6 +43,7 @@ export const metadata: Metadata = {
     'F-5 영주권', '투자이민', '부동산이민', 'Korea investment',
     'Korea visa', 'company establishment Korea', 'permanent residency Korea',
     'VISION Administrative Office', '비자컨설팅', '출입국',
+    'Korea subsidiary registration process', '파견비자', '연락사무소설치', 'Liaison office', 'Dispatch visa', '외국인투자기업 설립 요건',
   ],
   openGraph: {
     type: 'website',
