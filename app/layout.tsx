@@ -35,6 +35,7 @@ const JSON_LD = {
   "priceRange": "$"
 };
 export const metadata: Metadata = {
+  verification: { other: { 'naver-site-verification': '9a5eb15146180fc0b148aabb1aea642311964f8e', 'msvalidate.01': '9040F35010B56E1A9C560DD7708280D7' } },
   metadataBase: new URL('https://investkorea.co.kr'),
   title: 'Korea Company Registration Foreign Investor | D-8 visa · FDI · 외국인 법인 설립 | VISION 행정사사무소',
   description: 'Korea company registration, foreign investment (FDI), D-8 investor visa, D-7 visa, F-5 permanent residency — VISION Administrative Office, Seoul.',
