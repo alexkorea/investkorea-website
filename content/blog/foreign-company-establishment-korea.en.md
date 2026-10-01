@@ -20,4 +20,4 @@ Foreign investors establishing a Korean corporation need at minimum **KRW 100 mi
 
 The business plan quality is the single most important factor in D-8 visa approval.
 
-Contact: investkorea.co.kr / +82-2-363-2251
+Contact: investkorea.co.kr / +82-2-309-3107
