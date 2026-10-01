@@ -21,4 +21,4 @@ Bring: business registration certificate + corporate registry + foreign investme
 
 Always call ahead — document requirements vary by branch.
 
-Contact: investkorea.co.kr / +82-2-363-2251
+Contact: investkorea.co.kr / +82-2-309-3107
