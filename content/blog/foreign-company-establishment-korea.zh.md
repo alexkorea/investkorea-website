@@ -18,4 +18,4 @@
 5. 在KOTRA登记为外国投资企业
 6. 申请D-8签证
 
-咨询：investkorea.co.kr / 02-363-2251
+咨询：investkorea.co.kr / 02-309-3107
